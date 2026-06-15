@@ -26,6 +26,15 @@ const MANUAL_SUPPLEMENTS = [
     reason: "手工补充的 PvE 副本机制、配队思路和开荒建议",
   },
   {
+    file: "tencent-yise-tier-list.md",
+    id: "local-tencent-yise-tier-list",
+    title: "国服角色节奏榜",
+    kind: "guide",
+    subtype: "tier_list",
+    parts: ["03_攻略参考", "02_阵容配队与强度评测"],
+    reason: "手工补充的国服角色节奏榜、PVE/PVP 强度评分、推荐矩阵和配装参考",
+  },
+  {
     file: "terminology.md",
     id: "local-terminology",
     title: "术语表",

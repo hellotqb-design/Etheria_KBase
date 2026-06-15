@@ -9,6 +9,15 @@
     "updatedAt": "2025-08-28T02:40:03.000Z"
   },
   {
+    "id": "local-tencent-yise-tier-list",
+    "title": "国服角色节奏榜",
+    "kind": "guide",
+    "markdown": "03_攻略参考/02_阵容配队与强度评测/local-tencent-yise-tier-list_国服角色节奏榜.md",
+    "metadata": "03_攻略参考/02_阵容配队与强度评测/local-tencent-yise-tier-list_国服角色节奏榜.json",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-15T07:19:19.811Z"
+  },
+  {
     "id": 620742,
     "title": "配队推荐",
     "kind": "guide",
