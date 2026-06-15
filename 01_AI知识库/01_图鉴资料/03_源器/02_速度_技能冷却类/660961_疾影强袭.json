@@ -5,6 +5,16 @@
   "entryName": "疾影强袭",
   "group": "速度/技能冷却类",
   "effect": "6：速度值+15%，攻击力+20%",
+  "setPointRule": "矩阵效果中的数字表示源器套装生效所需点数，例如 4/8/12 分别表示装备源器累计达到对应点数时解锁该档效果。",
+  "setPoints": [
+    6
+  ],
+  "setPointEffects": [
+    {
+      "points": 6,
+      "description": "速度值+15%，攻击力+20%"
+    }
+  ],
   "obtain": "熔断禁区-多琪\n难度关卡：炼狱",
   "description": "未有异格者装备",
   "attributes": {

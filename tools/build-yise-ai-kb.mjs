@@ -122,6 +122,15 @@ function mdTable(object) {
   return ["| 字段 | 内容 |", "| --- | --- |", rows].join("\n");
 }
 
+function stripMarkdown(value) {
+  return cleanText(
+    String(value || "")
+      .replace(/\*\*/g, "")
+      .replace(/#+\s*/g, "")
+      .replace(/\[[^\]]*]\([^)]+\)/g, "")
+  );
+}
+
 function section(title, body) {
   const text = Array.isArray(body) ? body.filter(Boolean).join("\n\n") : cleanText(body);
   return text ? `## ${title}\n\n${text}` : "";
@@ -269,13 +278,18 @@ function roleSkillsMarkdown(entity) {
 function normalizeYuanqi(item) {
   const profile = item.profile || {};
   const attrs = profile.attributesObject || {};
+  const effect = extractMatrixEffectText(item, attrs);
+  const setPointEffects = parseSetPointEffects(effect);
   return compactObject({
     id: item.id,
     kind: "yuanqi",
     name: item.title,
     entryName: item.entryName,
     group: item.groupName,
-    effect: attr(attrs, "矩阵效果") || cleanText(item.fullText),
+    effect,
+    setPointRule: "矩阵效果中的数字表示源器套装生效所需点数，例如 4/8/12 分别表示装备源器累计达到对应点数时解锁该档效果。",
+    setPoints: setPointEffects.map((item) => item.points),
+    setPointEffects,
     obtain: attr(attrs, "获取途径"),
     description: cleanText(profile.description),
     attributes: attrs,
@@ -284,7 +298,47 @@ function normalizeYuanqi(item) {
   });
 }
 
+function extractMatrixEffectText(item, attrs) {
+  const structuredEffect = attr(attrs, "矩阵效果");
+  if (structuredEffect) return cleanText(structuredEffect);
+
+  const fullText = cleanText(item.fullText);
+  const tableMatch = fullText.match(/\|\s*(?:\*\*)?矩阵效果(?:\*\*)?\s*\|\s*([\s\S]*?)(?=\n\|\s*获取途径\s*\||\n\|\s*[^|]+\s*\|\s*[^|]+\s*\||$)/);
+  if (tableMatch) return cleanText(tableMatch[1].replace(/\|\s*$/g, ""));
+
+  const labeledMatch = fullText.match(/矩阵效果\s*[:：]?\s*([\s\S]*?)(?=\n\s*获取途径\s*[:：]?|$)/);
+  if (labeledMatch) return cleanText(labeledMatch[1]);
+
+  return fullText;
+}
+
+function parseSetPointEffects(effectText) {
+  const text = stripMarkdown(effectText)
+    .replace(/\|/g, "\n")
+    .replace(/；\s*(?=\d{1,2}\s*[：:])/g, "\n")
+    .replace(/;\s*(?=\d{1,2}\s*[：:])/g, "\n");
+  const pattern = /(^|[\n。；;])\s*(\d{1,2})\s*[：:]\s*/g;
+  const matches = [...text.matchAll(pattern)];
+  if (!matches.length) return [];
+
+  return matches
+    .map((match, index) => {
+      const start = match.index + match[0].length;
+      const end = index + 1 < matches.length ? matches[index + 1].index : text.length;
+      const description = cleanText(text.slice(start, end).replace(/^\s*[。；;]\s*/, "").replace(/\s*\|\s*$/g, ""));
+      return {
+        points: Number(match[2]),
+        description,
+      };
+    })
+    .filter((item) => item.points > 0 && item.description);
+}
+
 function yuanqiMarkdown(entity) {
+  const pointRows = asArray(entity.setPointEffects)
+    .map((item) => `| ${item.points} | ${item.description.replace(/\n/g, "<br>")} |`)
+    .join("\n");
+  const pointTable = pointRows ? ["| 所需点数 | 套装效果 |", "| --- | --- |", pointRows].join("\n") : "";
   return [
     `# ${entity.name}`,
     "",
@@ -293,6 +347,8 @@ function yuanqiMarkdown(entity) {
       `- 分组：${entity.group || ""}`,
       `- 来源页面：${entity.source?.url || ""}`,
     ].join("\n")),
+    section("套装点数规则", entity.setPointRule),
+    section("套装点数效果", pointTable),
     section("效果", entity.effect),
     section("获取途径", entity.obtain),
     section("说明", entity.description),
@@ -559,7 +615,7 @@ function ontology() {
     entityTypes: {
       character: "官方角色图鉴实体，包含基础档案、属性、技能、推荐、档案关系。",
       character_skill: "角色技能知识单元，挂靠角色，适合单独检索技能效果。",
-      yuanqi: "官方矩阵/源器图鉴实体，包含套装效果、获取途径和分组。",
+      yuanqi: "官方矩阵/源器图鉴实体，包含套装效果、套装所需点数、获取途径和分组。",
       zhike: "官方智壳图鉴实体，包含属性、技能、可出现矩阵。",
       system_rule: "游戏系统规则、机制说明，优先承载养成、PVP、副本、战斗机制。",
       guide: "攻略和经验内容，可作为规则之外的参考。",
@@ -731,6 +787,7 @@ async function main() {
       "- `01_图鉴资料/01_角色`: 官方角色图鉴，按 SSR/SR/R 分组。",
       "- `01_图鉴资料/02_角色技能`: 每个角色的技能单独成文，便于技能问答检索。",
       "- `01_图鉴资料/03_源器`: 官方矩阵/源器图鉴，按功能分组。",
+      "  - 源器实体里的 `setPoints` 是套装生效点数，`setPointEffects` 是每个点数档位对应的矩阵效果。",
       "- `01_图鉴资料/04_智壳`: 官方智壳图鉴，按稀有度分组。",
       "- `02_游戏系统规则`: 养成、PVP、副本、战斗机制等规则知识。当前从已有页面抽取，后续可按模板补充游戏内规则。",
       "- `03_攻略参考`: 攻略、推荐、评测等经验内容。",
