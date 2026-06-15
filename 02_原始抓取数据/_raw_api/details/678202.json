@@ -1,0 +1,220 @@
+{
+  "id": 678202,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 842268,
+  "type": 4,
+  "title": "开荒前7天攻略一图流",
+  "tag": "2",
+  "created_at": 1758761301,
+  "updated_at": 1758761451,
+  "updated_uid": 842268,
+  "comment_at": 1758761301,
+  "last_at": 1758761451,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "每天体力尽力买满，如果需要强娶夜离或者逆翎记得留2w左右的钻石哦。",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842268/2025/8/25/188275.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842268/2025/8/25/724956.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842268/2025/8/25/692169.png",
+  "model_ids": "",
+  "like_count": 3,
+  "unlike_count": 0,
+  "view_count": 2211,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "江苏省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 448923,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1758766799,
+  "server_id": 0,
+  "image_num": 6,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 678202,
+  "content": "",
+  "content_json": "[{\"type\":\"image-album\",\"data\":[\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842268/2025/8/25/188275.png\"],\"limit\":[false],\"children\":[{\"text\":\"\"}]},{\"type\":\"image-album\",\"data\":[\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842268/2025/8/25/724956.png\"],\"limit\":[false],\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"image-album\",\"data\":[\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842268/2025/8/25/692169.png\"],\"limit\":[false],\"children\":[{\"text\":\"\"}]},{\"type\":\"image-album\",\"data\":[\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842268/2025/8/25/804070.png\"],\"limit\":[false],\"children\":[{\"text\":\"\"}]},{\"type\":\"image-album\",\"data\":[\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842268/2025/8/25/899394.png\"],\"limit\":[false],\"children\":[{\"text\":\"\"}]},{\"type\":\"image-album\",\"data\":[\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842268/2025/8/25/261730.png\"],\"limit\":[false],\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"text\":\"每天体力尽力买满，如果需要强娶夜离或者逆翎记得留2w左右的钻石哦。\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842268/2025/8/25/188275.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842268/2025/8/25/724956.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842268/2025/8/25/692169.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 842268,
+    "username": "爱赖床的书生",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_10.png",
+    "description": "抖音同名，B站三幻书生\n三幻1粉丝群1031632283\n三幻2粉丝群1035518368\n伊瑟-752522357\n其他游戏粉丝群暂无，有需要后面会开哦",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 22732054,
+    "content_num": 8,
+    "read_num": 30594,
+    "like_num": 10
+  },
+  "update_user": {
+    "uid": 842268,
+    "username": "爱赖床的书生",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_10.png",
+    "description": "抖音同名，B站三幻书生\n三幻1粉丝群1031632283\n三幻2粉丝群1035518368\n伊瑟-752522357\n其他游戏粉丝群暂无，有需要后面会开哦",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 842268,
+      "username": "爱赖床的书生",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_10.png",
+      "last_ip_area": "江苏省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 7,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

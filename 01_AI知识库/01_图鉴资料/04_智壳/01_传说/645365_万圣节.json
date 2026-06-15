@@ -1,0 +1,174 @@
+{
+  "id": 645365,
+  "kind": "zhike",
+  "name": "万圣节",
+  "entryName": "万圣节",
+  "rarityGroup": "传说",
+  "starRarity": "★★★★",
+  "role": "辅助型",
+  "stats": {
+    "生命": "3810",
+    "攻击": "318",
+    "防御": "287",
+    "速度": "40"
+  },
+  "skills": [
+    {
+      "skillId": "645365-skill-1",
+      "order": 1,
+      "section": "技能",
+      "name": "万圣节（已觉醒）",
+      "description": "冷却时间：3回合\n减冷却\n本体行动后，有80%概率减少随机1个处于冷却的技能1回合冷却。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "金刚"
+      ],
+      "other": [
+        "涌泉 4/8/12",
+        "生命值+10%/+25%/+45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾驰"
+      ],
+      "other": [
+        "疾驰 4/8/12",
+        "速度值+8%/+20%/+35%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "戍卫"
+      ],
+      "other": [
+        "戍卫 4/8",
+        "生命值+10%/+10%；每波战斗开始时，获得1回合免疫效果"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "治愈"
+      ],
+      "other": [
+        "治愈 4/8",
+        "生命值+10%/+10%；治疗效果提升20%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "时光驾驭"
+      ],
+      "other": [
+        "时光驾驭 6/12",
+        "效果命中+18%/+18%；\n回合开始时，有35%的概率使异格者所有技能冷却减少1回合"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "浴血之躯"
+      ],
+      "other": [
+        "浴血之躯 6/12",
+        "效果抵抗+18%/+18%；\n回合内受到累计大于20%最大生命值的伤害时，使超出的伤害额外降低55%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "灵子黑疫"
+      ],
+      "other": [
+        "灵子黑疫 6",
+        "生命值+25%，效果命中+20%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "进化荫庇"
+      ],
+      "other": [
+        "进化荫庇 6",
+        "治疗效果+12%，效果抵抗+20%"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★★",
+    "定位": "辅助型",
+    "生命": "3810",
+    "攻击": "318",
+    "防御": "287",
+    "速度": "40"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/664163/2025/8/17/249969.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/115316.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/306212.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/824266.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/972828.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/347216.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2782/h_2951/50364/842288/2026/1/11/708858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2784/h_3251/50364/842288/2026/1/11/832973.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2896/h_3297/50364/842288/2026/1/11/955923.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3103/h_3029/50364/842288/2026/1/11/936965.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_343/h_364/50364/43758/2024/9/25/982532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_418/h_386/50364/43758/2024/9/25/539847.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_441/h_380/50364/43758/2024/9/25/18867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/295654.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/296696.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/14/538480.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/14/592895.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/14/714967.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/14/783219.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/14/802267.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/471858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/533928.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/877809.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/43758/2024/9/25/444616.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/868491.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/14/716656.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/14/716656.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/14/783219.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/295654.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/517350.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/532694.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/730155.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/788014.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/833837.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/978071.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 645365,
+    "title": "万圣节",
+    "url": "https://www.gamekee.com/yise/645365.html",
+    "updatedAt": "2025-05-12T12:33:30.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/645365_万圣节.md",
+      "metadata": "03_图鉴词条/645365_万圣节.json",
+      "rawApi": "_raw_api/details/645365.json"
+    }
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "id": 620229,
+  "kind": "character_skill_bundle",
+  "name": "克拉肯",
+  "entryName": "克拉肯",
+  "rarity": "SR",
+  "element": "异",
+  "faction": "海德拉银行",
+  "title": "万能经理",
+  "gender": "男",
+  "profession": "未公开",
+  "identityCode": "E02-092543",
+  "chipStatus": "正常",
+  "assessment": "异格者克拉肯，身份编码E02-092543，Re-A芯片状态正常，未见异常波动。\n海德拉银行的销售总监，他的头像常年挂在海德拉银行销售榜的第一位，可见业务能力之强悍。\n因此与他交谈时要时刻控制自已的手和眼睛，不要随随便更沉浸在他的笑容中就签了许多产品合约！\n双臂都有蓝色的图形，据他说是代表着「收获」他对自已的工作还真是爱的深沉阿",
+  "stats": {
+    "生命": "13141+5535",
+    "攻击": "814+306",
+    "防御": "539+204",
+    "速度": "119+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+32%",
+    "效果抵抗": "0%+12%"
+  },
+  "skills": [
+    {
+      "skillId": "620229-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "优质资产 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/350a9b28-9c8d-42a6-b403-55eee4080f58.png",
+      "description": "冷却时间：0\n克拉肯朝敌方挥舞巨型触手；对敌方单体造成240%伤害，有40%概率附加2回合【防御下降】。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【防御下降】概率增加至40%\n等级4：\n潜能提升：速度值+4\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：速度值+8\n技能提升：【防御下降】持续时间增加至2回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620229-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "个性服务 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/19327235-d74b-4440-9bd5-44c27c9230c8.png",
+      "description": "冷却时间：3\n克拉肯召唤出数条触手缠打目标;对敌方单体造成260%伤害并有70%概率附加1回合【深度冻结】。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至240%\n等级3\n潜能提升：防御力+70\n技能提升：【深度冻结】概率增加至70%\n等级4：\n潜能提升：效果命中+8%\n技能提升：伤害系数增加至260%\n等级5：\n潜能提升：效果命中+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620229-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "金融海啸 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/db26b467-db69-4a36-bde5-034b2a5bde94.png",
+      "description": "冷却时间：4\n克拉肯将能量压缩集中于他的公文包后抛向敌方，公文包落地后化为北海巨怪的部分实体猛击目标；对敌方全体造成240%伤害，有65%概率击退30%行动进度并有50%概率附加1回合【冰冻】，若击退后目标进度条被清空，则冰冻概率上升至100%。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至240%\n等级3\n潜能提升：生命值+1000\n技能提升：击退行动进度效果增加至30%\n等级4：\n潜能提升：生命值+5%\n技能提升：【冰冻】概率增加至50%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n控制\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 515|\n| 源器配置 | 右三主属性3命中加成 |\n└─────────┴────────────┘\n【对局表现】\npve有着不错的冰冻效果，多琪本中可用，pvp由于初始速度太低，比较难以发挥",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8奋进+6讯光天击"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万魔法典"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8奋进+6讯光天击",
+        "推荐智壳": "万魔法典",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/797675.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【业绩就是真理】\n「接下来，我将公布海德拉银行年度销售冠军——大家能猜到是谁吗？」\n主持人话音未落，台下便爆发了一阵阵的笑声，其中还夹杂着「克拉肯」的名字。\n「没错，有请我们的总监，同时也是我们的销售年度冠军——克拉肯。」\n在周围人的道贺和恭维下，克拉肯依然是那张笑容，从容不迫的走上了领奖台。\n领奖台上光芒万丈，海德拉的掌权者、上层领导、貌美的主持人都站在那，对他散发着友好的气息，而一步之遥的台下却是一片昏暗，克拉肯还能看到那一双双羡慕的、崇拜的、嫉妒的眼睛。\n狂热、兴奋、澎湃、满足、野心……每一年的此刻，克拉肯的心绪都会到达顶峰，这是他一年工作的证明，也是他克拉肯的——生存之道。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【敏锐就是优势】\n「沙沙沙」\n桌子上摆满了文件和资料，触手们正对其进行分类和放置，而克拉肯本人则接过触手给的海德拉银行最新的产品进行分析，并记录其中关键的点。\n「嗯……最近源晶的估值回落，投资的性价比变高，我记得前几年有过几个关于源晶的产品……在哪儿呢……」\n触手们从身后的墙面大书柜中翻找出了海德拉银行前几年出台的关于源晶的投资产品项目，克拉肯仔细翻阅后，郑重的将它们收进了自己的公文包，这些就是他接下去一段时间内超过别人业绩的法宝了。\n看了看时间，接过触手递来的咖啡抿了一口后，克拉肯继续在智械上浏览各种前瞻消息，有八卦的、有新闻的、有政策的等等。\n庞大的消息数据后面隐藏着一般人无法发现的趋势、真相，而克拉肯所做的，就只是抓住自己想要的，「仅此而已」。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【客户就是一切】\n「埃尔先生您好，感谢您抽空过来听我给您讲解近期的产品，我已经订好位置，您可以边享受美味的下午茶边了解，里面请。」克拉肯扬起标准的微笑，亲切的指引着面前这位刚从飞车上下来穿戴贵气的男人。\n男人撇了一眼克拉肯，只是高傲的抬了抬下巴……\n生活中总是充斥着各种意外，比如那辆绑架埃尔先生的车，转眼就消失在眼前。\n克拉肯头疼的摸了摸下巴，拿出今天的客户名单。然而，因为埃尔先生这位大客户，昨天他就推掉了所有其他客户的邀约……简单在心里换算了下，克拉肯活动了一下肩膀，一切都是业务!\n「咔哒咔哒咔哒」\n不久之后，伴随着一阵牙酸的机械声，关押着埃尔先生的门随之打开。\n一个小时之前还光鲜亮丽的人此刻只剩下狼狈，看到门打开，满脑子都是被撕票画面的埃尔先生惊惧的往角落缩去。\n提着公文包，脸上还沾着血液的克拉肯一脸微笑的来到自己的大客户面前，一边帮忙解开束缚一边友好的说道：「哦，我亲爱的埃尔先生，您放心，外面那些对你不怀好意的人已经都趴在了地上，不久后他们将会在监狱里忏悔对您的罪过。」\n埃尔先生感激的看向面前的男人，却看到触手拿着数份文件挡住了他的视线。\n「根据我的预测，几个月后源晶市场将迎来一波高峰，您若是想入局，当前就是好机会，这些源晶相关的产品将带给您几十倍的利润。」\n「奥，对了，像您这样尊贵的人随时都会遭受到其他人的嫉妒和疯狂，或许……您还需要一份人身保险？」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/0c293dba-c241-4c02-9aa3-7d442ab6d36e.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/0c293dba-c241-4c02-9aa3-7d442ab6d36e.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/a2893dc2-5220-4152-9fc2-d44bcdf5670c.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/a2893dc2-5220-4152-9fc2-d44bcdf5670c.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/0c293dba-c241-4c02-9aa3-7d442ab6d36e.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/0c293dba-c241-4c02-9aa3-7d442ab6d36e.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/a2893dc2-5220-4152-9fc2-d44bcdf5670c.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/875fe91a-546a-4bb0-aad0-37ddd90a6b93.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/a2893dc2-5220-4152-9fc2-d44bcdf5670c.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/875fe91a-546a-4bb0-aad0-37ddd90a6b93.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/350a9b28-9c8d-42a6-b403-55eee4080f58.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/19327235-d74b-4440-9bd5-44c27c9230c8.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/db26b467-db69-4a36-bde5-034b2a5bde94.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/797675.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2025/7/16/258951.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620229,
+    "title": "克拉肯",
+    "url": "https://www.gamekee.com/yise/620229.html",
+    "updatedAt": "2025-08-18T07:43:27.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620229_克拉肯.md",
+      "metadata": "03_图鉴词条/620229_克拉肯.json",
+      "rawApi": "_raw_api/details/620229.json"
+    }
+  }
+}

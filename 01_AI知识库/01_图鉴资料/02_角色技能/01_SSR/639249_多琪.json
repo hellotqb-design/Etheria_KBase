@@ -1,0 +1,368 @@
+{
+  "id": 639249,
+  "kind": "character_skill_bundle",
+  "name": "多琪",
+  "entryName": "多琪",
+  "rarity": "SSR",
+  "element": "恒定",
+  "faction": "Doki娱乐",
+  "title": "真理迷因",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "S01-072907",
+  "chipStatus": "正常",
+  "assessment": "异格者多琪，身份编码S01-072907，Re-A芯片状态正常，未见异常波动。\n蜃海会馆现任管理者。\n据高机密的调查报告显示，多琪的躯体来自海集团所制造的人工智能生命体「DOKI」，心智人格则来自R.C.S.的某位高层。\n由于自身作为数据生命结合异格者的特殊存在，她对待异格者时总会流露出高高在上的优越感，认为它们是劣等的生命。\n出人意料的是，她对人类的创造力极为感兴趣，认定其为宇宙中无法超越的存在，但美中不足的是，人类拥有的情感既会成为创造力的源泉，也会成为创造力的阻碍。\n与那位高层一样，多琪行事乖张任性，我行我素，又自视甚高，目中无物，一旦做出决定便不容他人置疑，更论修改，这是她最大的弱点，或许可以加以利用。",
+  "stats": {
+    "生命": "13342+5585",
+    "攻击": "923+317",
+    "防御": "812+231",
+    "速度": "120+15",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%",
+    "效果抵抗": "0%+32%"
+  },
+  "skills": [
+    {
+      "skillId": "639249-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "伪代码",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_82/h_85/50364/103682/2024/9/24/384630.png",
+      "description": "冷却时间：0\n对敌人单体造成260%伤害，并为自身附加1层【备份】。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至240%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【备份】概率增加至100%\n等级4：\n潜能提升：速度值+5\n技能提升：伤害系数增加至260%\n等级5：\n潜能提升：速度值+10\n技能提升：【备份】的净化数量增加为3个",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "639249-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "全面覆写",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_93/h_85/50364/103682/2024/9/24/398505.png",
+      "description": "冷却时间：5\n多琪连续5次减少1名友方异格者技能冷却1回合，每次均会选择当前技能冷却总和最长的其他友方单位，并为其附加1层【数据流】。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：【数据流】的叠加层数上限增加至10层\n等级3\n潜能提升：防御力+70\n技能提升：【数据流】的提升伤害和速度效果增加至2.5%和2.5点\n等级4：\n潜能提升：效果抵抗+8%\n技能提升：【数据流】的叠加层数上限增加至12层\n等级5：\n潜能提升：效果抵抗+12%\n技能提升：减少技能冷却次数增加至5次",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "639249-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "时序跃升",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_90/h_84/50364/103682/2024/9/24/290963.png",
+      "description": "冷却时间：4\n连续8次提升1名友方异格者12%行动进度，每次均会选择当前行动进度最低的其他友方单位，并为其附加1层【数据流】，同时为自身附加5层【备份】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：提升行动进度效果增加至12%\n等级3\n潜能提升：生命值+1000\n技能提升：附加【备份】层数增加至5层\n等级4：\n潜能提升：生命值+5%\n技能提升：提升行动进度次数增加至8次\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n拉条，减冷却，净化\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 514|\n| 源器配置 | 右三主属性生命/防御加成 |\n└─────────┴────────────┘\n【对局表现】\npve中拉条和减冷却都有着不错的发挥，但是比较吃完美晶格，pvp中技能的净化效果也对控制队有着不错的反制效果",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8戍卫+8极影强袭"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万魔法典"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8戍卫+8极影强袭",
+        "推荐智壳": "万魔法典"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/298511.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "受到治疗效果提升"
+      ],
+      "other": [
+        "受到的治疗效果+10%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【就像雨消失在水中。】\n以下是一段曾就职于菲尔特家族研究机构的科研人员与协会人事负责人的对话：「聊聊你主要研究的课题？例如………．『DOKI』？」\n「『DOKl』相关的绝大多数资料都是绝密状态，像我这样的初级研究者很难完全接触到，不过我曾负责过一段时间的代码维护工作，可以从这个角度说说看。」\n「请说。」\n「『DOKl』一直以admin的身份协助蜃海会馆的日常运营。在我看来，迄今为止还没有什么比她更为完美的人工\n智能生命体，但有一件事很让我费解···\n「请放心，这场面试是保密的。但说无妨。」\n「其实这也不算是什么秘密，只是我曾发现她的人格模式似乎有过一次颠覆性更新，前后差异之大，甚至可以说是和从前『判若两人』。」\n「很有趣的发现。话说回来，根据你的履历·····你应该离职有一段时间了？」\n「嗯，其实就在我发现她人格模式颠覆性更新后不久。当然了，我感觉这两件事并无特别关联。」\n「我们也这样认为。感谢您参与此次面试，之后我们会再次与您联络的。」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【灵魂是躯壳的过客。】\n以下是一段来自协会科研机构的，可供超链者查阅的机密记录：\n我们有理由相信，多琪乖张的举止之下，还残余着旧版本「DOK」的痕迹。\n尽管目前尚未有直接证据表明这一点，但有人在与多琪交锋的不止一个瞬间里窥探到过往的余韵。\n请注意，这里指代的便是原初人工智能生命体「DOK」，不是传言中蜃海背后的那位高层，也不是如今所见到的多琪。\n我们认为，这一切绝非来自那位高层恶趣味的模仿，更不是多琪一时兴起的表演，而是自意识深处逆流而上的，来自「DOK」的真情流露。\n由此或许可以合理推测，人工智能生命体的确存在产生情感的可能性，并在人格被篡改后依然能得以保留。在某种意义上，这会成为人工智能情感假说的可靠论据。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【我深爱的痛苦会去向何处？】\n以下内容来自于一份被修复的记忆影像：\n备注1：由于影像损毁严重，其中一人的身形十分模糊，只能推测出对方为一名性格倨傲的年轻女性。\n备注2：蜃海地区疑似遭受过重大入侵，也许出现了不可忽视的伤亡，扭转这一局面的关键来自「DOK」的主观行为。\n备注3：人工智能生命体「DOK」存在极为强烈的「情感」反应。\n画面中的「DOK」被强力的磁场束缚着行动，动弹不得。\n「我已经答应了你的条件，该是你履行承诺的时候了。」\n「如你所见。」\n年轻女性抬手覆住了「DOK」的双眼，接触部位隐约能看见强烈的数据流波动。\n与此同时，一段蜃海会馆内部人员逃亡的混乱影像被投射在两人眼前。",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/103682/2024/9/25/688729.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/103682/2024/9/25/688729.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_771/h_765/50364/103682/2024/9/24/607356.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_771/h_765/50364/103682/2024/9/24/607356.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1736/h_1736/215/103682/2025/10/20/668579.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/103682/2024/9/25/688729.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/103682/2024/9/25/688729.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_771/h_765/50364/103682/2024/9/24/607356.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_215/h_306/50364/103682/2024/9/24/623512.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_215/h_306/50364/103682/2024/9/24/623512.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/298511.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/520497.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/332405.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/517799.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/884920.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_771/h_765/50364/103682/2024/9/24/607356.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_82/h_85/50364/103682/2024/9/24/384630.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_90/h_84/50364/103682/2024/9/24/290963.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_93/h_85/50364/103682/2024/9/24/398505.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 639249,
+    "title": "多琪",
+    "url": "https://www.gamekee.com/yise/639249.html",
+    "updatedAt": "2025-08-18T08:49:52.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639249_多琪.md",
+      "metadata": "03_图鉴词条/639249_多琪.json",
+      "rawApi": "_raw_api/details/639249.json"
+    }
+  }
+}

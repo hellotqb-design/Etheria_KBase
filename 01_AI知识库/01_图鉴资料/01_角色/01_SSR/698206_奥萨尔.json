@@ -1,0 +1,347 @@
+{
+  "id": 698206,
+  "kind": "character",
+  "name": "奥萨尔",
+  "entryName": "奥萨尔",
+  "rarity": "SSR",
+  "element": "虚",
+  "faction": "伊里森监狱",
+  "title": "狂刃",
+  "gender": "女",
+  "profession": "伊里森监狱一等武官",
+  "identityCode": "/",
+  "chipStatus": "正常",
+  "assessment": "异格者奥萨尔，Re-A芯片状态正常，未见异常波动。\n伊里森监狱的一等武官，狱警们眼中豪爽、可靠的大姐头，囚犯们畏惧不已的怪力女。\n她豪迈、爽朗，说话做事干脆利落，从不拖泥带水，在大多数人还在犹豫不决的时候，她总会站出来做决定，并承担责任，快刀斩乱麻一般地解决问题。\n十分正直、无私，嫉恶如仇，坚信正义和公理，对罪犯没有丝毫同情，致力于让每个犯罪者都得到应有的惩罚。\n平日里粗中有细，勇敢而不鲁莽，在日常琐事上不拘小节，甚至有些丢三落四，但在正事上，她就会一扫平时的懒散模样，认真起来时，就会变得极为机敏、细心、可靠。拥有一往无前的勇气，也有审时度势的智慧。\n为人豁达酒脱，不计较人际交往的得失，也十分真性情，很珍惜他人的情谊，认为与人交往就该以真心换真心。",
+  "stats": {
+    "生命": "11798+3430",
+    "攻击": "919+455",
+    "防御": "680+218",
+    "速度": "125+15",
+    "暴击率": "10%+20%",
+    "暴击伤害": "150%+12%",
+    "效果命中": "0%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "698206-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "逐猎",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_91/h_91/50364/842288/2026/2/18/899305.png",
+      "description": "冷却时间：\n我会让你死得其所，不会痛苦!奥萨尔对敌方单体造成2段120%伤害，首次攻击有40%概率偷取目标1个增益效果，最后一击对非首领目标附加1层【胁迫】并为自身附加1层【威势】不熄之火:战斗开始时获得2层【不熄】，每次主动释放技能获得1层【不熄】。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至110%\n等级3\n潜能提升：攻击力+100\n技能提升：吸取生命比例增加至10%\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至120%\n等级5：\n潜能提升：攻击力+10%\n技能提升：净化减益效果数量增加至净化全部减益效果",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "698206-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "熔狱",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_88/50364/842288/2026/2/18/508525.png",
+      "description": "冷却时间：3\n这是燃血之狱，亦是死猎的终焉!奥萨尔对敌方全体造成360%伤害，有100%概率驱散目标1个增益效果，每层【威势】提高该技能15%伤害。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：防御力+70\n技能提升：额外为主目标多附加1层【溃口】\n等级4：\n潜能提升：暴击率+4%\n技能提升：附加【溃口】和【易伤】概率增加至100%\n等级5：\n潜能提升：防御力+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "698206-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "绝对威胁",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_90/50364/842288/2026/2/18/954998.jpg",
+      "description": "冷却时间：3\n罪业必将涤除!奥萨尔对敌方单体造成2段240%伤害，最后一击对非首领目标附加3层【胁迫】，并为自身附加3层【威势】，每层【威势】提高此技能15%伤害。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至240%\n等级3\n潜能提升：生命值+1000\n技能提升：【胁迫】和【威势】改变的属性比例增加至5%\n等级4：\n潜能提升：速度值+5\n技能提升：每层【威势】提升的伤害结果增加至15%\n等级5：\n潜能提升：速度值+10\n技能提升：附加【胁迫】和【威势】层数增加至3层",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "奥萨尔是一名输出型异格者，专属效果能够提升自身能力并压制敌方，持续倾泻高额的火力。",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12 浴血之躯+8疾驰+6讯光"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "胡狼"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12 浴血之躯+8疾驰+6讯光",
+        "推荐智壳": "胡狼"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2026/2/18/370559.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击伤害提升"
+      ],
+      "other": [
+        "暴击伤害+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2026/2/18/704204.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2026/2/18/704204.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/2/18/17400.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/2/18/17400.jpg"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/2/18/17400.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/2/18/17400.jpg?x-image-process=image/format",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/2/18/17400.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2026/2/18/370559.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2026/2/18/704204.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2026/2/18/704204.jpg?x-image-process=image/format",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2026/2/18/704204.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2026/2/18/704204.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/2/18/17400.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp,//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/224111.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/641808.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/740087.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/845196.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2026/1/11/283649.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2026/1/11/340072.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/224111.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/224111.jpg?x-image-process=image/format",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/224111.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2026/1/11/250590.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_88/50364/842288/2026/2/18/508525.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_90/50364/842288/2026/2/18/954998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_91/h_91/50364/842288/2026/2/18/899305.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 698206,
+    "title": "奥萨尔",
+    "url": "https://www.gamekee.com/yise/698206.html",
+    "updatedAt": "2026-03-18T12:27:49.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/698206_奥萨尔.md",
+      "metadata": "03_图鉴词条/698206_奥萨尔.json",
+      "rawApi": "_raw_api/details/698206.json"
+    }
+  }
+}

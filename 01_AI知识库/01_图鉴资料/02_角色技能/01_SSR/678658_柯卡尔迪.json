@@ -1,0 +1,341 @@
+{
+  "id": 678658,
+  "kind": "character_skill_bundle",
+  "name": "柯卡尔迪",
+  "entryName": "柯卡尔迪",
+  "rarity": "SSR",
+  "element": "理",
+  "faction": "海德拉银行",
+  "title": "千面烬相",
+  "gender": "男",
+  "profession": "经理人",
+  "identityCode": "/",
+  "chipStatus": "正常",
+  "assessment": "异格者柯卡尔迪，Re-A芯片状态正常，未见异常波动。\n海德拉银行十大经理人之首，是银行中的实权人物。\n优雅、神秘，在社交场上的表现灵活多变，可以根据不同的场合自如地切换面孔，从沉稳内敛到幽默风趣，他都游刃有余。\n即便衣冠楚楚，却总能让人联想到垫伏狩猎的野兽。\n早在海德拉银行前任行长法恩利先生决定改革银行管理制度、设立十大经理人时，柯卡尔迪就受到法恩利行长的亲自引荐，成为了第一位经理人。\n之后历经数年，十大经理人的人选与排位不断变更，唯有身为首席的柯卡尔迪不变。\n法恩利行长失踪后，柯卡尔迪被认为是继任银行行长的最佳人选，但出乎意料的是，柯卡尔迪放弃了这样的机会。\n在柯卡尔迪的扶持之下，法恩利行长的女儿利维娅女士接任了银行行长的职务。\n如今，他正带着新任行长利维娅女士，试图将四分五裂的银行重新带回正轨……但没有人知道他的最终目的是什么。",
+  "stats": {
+    "生命": "9779+3228",
+    "攻击": "1023+418",
+    "防御": "747+225",
+    "速度": "118+15",
+    "暴击率": "10%+20%",
+    "暴击伤害": "150%+12%",
+    "效果命中": "0%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "678658-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "流鸣火",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_90/h_83/50364/842288/2025/9/1/244698.png",
+      "description": "冷却时间：\n人情债，可不好还。柯卡尔迪撩动火焰对敌方单体造成240%伤害，并为自身附加1层【劫火】",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：【劫火】的看加层数上限增加至16层\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：攻击力+10%\n技能提升：【劫火】的提升伤害效果增加至1.5%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "678658-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "涅生之火",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_92/h_81/50364/842288/2025/9/1/586097.png",
+      "description": "冷却时间：\n愚者永不自知，答案揭晓，死期已至。当任意友方存活时，柯卡尔迪无法被敌方技能选为主目标(处于控制状态下该效果不生效)。当柯卡尔迪存在【劫火】效果并暴击时，会对目标额外附加1段基于目标最大生命的真实间接伤害(智壳不会触每行动2次后，柯卡尔迪对敌方全发)。体造成300%伤害，提升友方全体20%行动进度并附加2回合【暴击率上升】，而后为自身附加2层【劫火】。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至280%\n等级3\n潜能提升：防御力+70\n技能提升：驱散效果增强为驱散全部增益效果\n等级4：\n潜能提升：效果命中+8%\n技能提升：驱散增益效果和附加【闭锁】概率增加至70%\n等级5：\n潜能提升：效果命中+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "678658-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "罪理宣判",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_98/h_83/50364/842288/2025/9/1/716667.png",
+      "description": "冷却时间：4\n出钱，或是出血，这是规则。柯卡尔迪掀起燎原烈焰，为自身附加2回合【暴击率上升】，而后对敌方全体造成360%伤害，提升自身35%行动进度并附加3层【劫火】",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至300%\n等级3\n潜能提升：生命值+1000\n技能提升：附加【防御下降】概率增加至70%\n等级4：\n潜能提升：生命值+5%\n技能提升：附加【冰冻】概率增加至50%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12攻势+8狂怒+6疾影强袭"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "伯爵"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12攻势+8狂怒+6疾影强袭",
+        "推荐智壳": "伯爵"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/9/1/210733.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击伤害提升"
+      ],
+      "other": [
+        "暴击伤害+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/9/1/898337.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/9/1/898337.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/59700.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/59700.jpg"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/9/1/898337.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/9/1/898337.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/59700.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/301766.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/641808.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/740087.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/845196.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/9/1/55695.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/9/1/948045.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/9/1/210733.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/301766.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/59700.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2025/9/1/881179.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_90/h_83/50364/842288/2025/9/1/244698.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_92/h_81/50364/842288/2025/9/1/586097.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_98/h_83/50364/842288/2025/9/1/716667.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 678658,
+    "title": "柯卡尔迪",
+    "url": "https://www.gamekee.com/yise/678658.html",
+    "updatedAt": "2025-10-02T11:53:12.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/678658_柯卡尔迪.md",
+      "metadata": "03_图鉴词条/678658_柯卡尔迪.json",
+      "rawApi": "_raw_api/details/678658.json"
+    }
+  }
+}

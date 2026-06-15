@@ -1,0 +1,36 @@
+{
+  "id": 620806,
+  "kind": "yuanqi",
+  "name": "乘势追击",
+  "entryName": "乘势追击",
+  "group": "攻击类",
+  "effect": "### 套装\n\n**\n乘势追击**\n\n**装备简介**\n\n未有异格者装备\n\n| 项目 | 内容 |\n| --- | --- |\n| **矩阵效果** | 6：暴击率+12%；\n\n12：暴击率+12%；\n\n攻击时，目标有一种减益或控制效果，伤害额外提升6%，最多提升36% |\n| 获取途径 | 熔断禁区-奥洛拉\n\n难度关卡：地狱2~4，炼狱 |",
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_175/50364/43758/2024/3/24/404093.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/102034.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/172603.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/342216.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/427282.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/854743.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/936926.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620806,
+    "title": "乘势追击",
+    "url": "https://www.gamekee.com/yise/620806.html",
+    "updatedAt": "2025-05-12T13:27:47.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620806_乘势追击.md",
+      "metadata": "03_图鉴词条/620806_乘势追击.json",
+      "rawApi": "_raw_api/details/620806.json"
+    }
+  }
+}

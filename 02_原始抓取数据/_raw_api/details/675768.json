@@ -1,0 +1,335 @@
+{
+  "id": 675768,
+  "game_id": 50364,
+  "entry_id": 193742,
+  "uid": 878729,
+  "type": 4,
+  "title": "莉露摩卡PVE养成攻略",
+  "tag": "",
+  "created_at": 1756627169,
+  "updated_at": 1756640088,
+  "updated_uid": 878729,
+  "comment_at": 1756627169,
+  "last_at": 1756628227,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "「穿的越粉，揍人越狠！」哈喽各位超链者我是lala，本期就让我们一起来分析怪力甜心莉露摩卡的PVE养成攻略一图流：一、角色概论先说结论，糖糖作为伪群攻异格者，在属性克制时无论对单还是对群输出能力都很可观，但由于机制限制几乎只在能够一个终结技秒掉所有怪的副本就业，目前主要就业在多琪本二、技能详情糖糖在",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/7/31/434297.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/7/31/791063.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/7/31/36290.png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 5912,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 448923,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1756630354,
+  "server_id": 0,
+  "image_num": 4,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 675768,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"「穿的越粉，揍人越狠！」\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"哈喽各位超链者我是lala，本期就让我们一起来分析怪力甜心莉露摩卡的PVE养成攻略\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一图流：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ZVWZBxpv12NgcBz5\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/7/31/434297.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3000px\",\"height\":\"8482px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"一、角色概论\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"先说结论，糖糖作为伪群攻异格者，在属性克制时无论对单还是对群输出能力都很可观，但由于机制限制几乎只在能够一个终结技秒掉所有怪的副本就业，目前主要就业在多琪本\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"二、技能详情\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"糖糖在多琪本主要依靠终结技第一段眩晕目标，使目标失去减伤;然后击杀目标，对敌方全体造成等量溅射伤害来清掉一波怪物;由于普攻的被动效果【甜心】每次击杀目标都会减1回合所有技能冷却，就可以做到循环，以此来击杀第二波怪物。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"普攻—轻拿轻放\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"糖糖的普攻是对单体目标造成伤害，小概率附加速度下降。被动效果为造成击杀时减少一回合自身所有技能冷却，被动效果一级就可以获得，不推荐加点此技能\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"deEKgb1D7b00UZpc\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/7/31/791063.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"小技能—甜点时间\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"对敌方全体造成伤害，根据目标损失生命值增伤。攻击后回复自身已损生命值，缓解生存压力\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"iUqB2D2q60NULK4e\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/7/31/36290.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技—糖糖出击\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技是糖糖的主要输出技能，对敌方单体造成三段伤害，满级时第一段使目标眩晕，三段打完后对敌方全体造成总计伤害33%的溅射伤害，如果前面三段造成击杀则造成总计伤害量100%的溅射伤害，推荐加点到5级\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"r91SuDp0Il07IwwL\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/7/31/578606.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐加点：终结技5级，生存压力大可点小技能3级，其他不推荐升级\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"三、矩阵推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"由于糖糖主要输出的终结技是三段伤害，携带收割时容易最后一段伤害没有减防，因此推荐一号位携带狂怒稳定增伤；糖糖终结技第一段会让目标眩晕，主要就业的配队中往往还会携带一名群体控制异格者与一名破防异格者，2号位携带乘势追击可以完美吃到增伤效果；3号位携带爆裂利刃，增加输出\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"毕业矩阵\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一号位：狂怒\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"二号位：乘势追击\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"三号位：爆裂利刃\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"四、智壳推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"糖糖的主要就业是在多琪本，群怪环境下追击智壳的收益较低，推荐携带伯爵这种直接增加攻击力白值的智壳\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"前期：\",\"bold\":true},{\"text\":\"玉藻童子\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"中期：\",\"bold\":true},{\"text\":\"歧路\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"后期：\",\"bold\":true},{\"text\":\"伯爵\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动推荐\",\"bold\":true},{\"text\":\"：超频、勘破/无双、虚之刃\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"五、源器推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"为了最大化终结技的溅射收益，优先暴击率≥70%，暴击率足够时可以将主词条的暴击率换为暴击伤害，其他词条根据自身调整\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"主词条：暴击率*1、暴击伤害*1、攻击力*1\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"副词条：暴击率＞暴击伤害＞攻击力百分比＞速度＞攻击力\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"六、角色配队\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"莉露摩卡目前就业只在多琪本，虽然终结技一段有眩晕但无法做到群体覆盖，lala推荐大家使用时携带酣梦一宵/渺渺补足控制；终结技的溅射伤害不会暴击，建议大家在队伍中携带一名破防类的异格者，防止伤害浪费；不在多琪本使用时可以搭配其他主C，莉露摩卡作为收尾使用\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/7/31/434297.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/7/31/791063.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/7/31/36290.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 685541,
+      "name": "蚀心暗狩·罗魍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/842596.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 685537,
+      "name": "恶灵摇滚·桑提克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/321523.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683085,
+      "name": "静默挽歌·奈薇忒 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1662/h_940/50364/842288/2025/10/17/607708.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683357,
+      "name": "明光猎手·光狩谛听 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1664/h_940/50364/842288/2025/10/17/109281.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 677619,
+      "name": "幽翎爵女·逆翎",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/28/759667.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675001,
+      "name": "永夜明火·夜离",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/807765.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678704,
+      "name": "巡洄漫音·水生绫",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/459884.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675637,
+      "name": "破却宣言·莉拉姆",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1084/50364/664163/2025/7/30/359430.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678705,
+      "name": "千面烬相·柯卡尔迪",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/565969.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675301,
+      "name": "忘忧梦火·芙蕾雅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/7/27/230962.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675952,
+      "name": "异格者BUFF介绍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/429039.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675604,
+      "name": "二重典贷·宁芙涅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/812041.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675602,
+      "name": "笼潮·贝兹比",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/658875.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675284,
+      "name": "哨影猎手·谛听",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/26/153688.png",
+      "jump_url": ""
+    },
+    {
+      "id": 676057,
+      "name": "永恒沉眠·缬草",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/4/48051.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675689,
+      "name": "幻影骇客·克洛斯",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/30/107101.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675883,
+      "name": "末日铁花·荼蘼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/410192.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675994,
+      "name": "厄影修罗·罗喉",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/3/735401.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 676257,
+      "name": "幻琴之音·幻音千明",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/8/62083.jpg",
+      "jump_url": ""
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "id": 620302,
+  "kind": "character",
+  "name": "风见一宵",
+  "entryName": "风见一宵",
+  "rarity": "SR",
+  "element": "理",
+  "faction": "十三区高校",
+  "title": "肃纪之手",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "E01-123032",
+  "chipStatus": "正常",
+  "assessment": "异格者风见一宵，身份编码E01-123032，Re-A芯片状态稳定，未见异常波动。\n风见一宵是十三高校的风纪委员，也是极少数能完整背通校规的学生。她以极高的标准要求看自己，对校规的遵守认真到近乎严苛，不管以何种方法评判，风见一宵都能担负得起「好学生」的名号。\n不过，这也让不少人对她很有意见，比如那些我行我素根本不把校规放在眼里的学生们。",
+  "stats": {
+    "生命": "11735+5184",
+    "攻击": "711+296",
+    "防御": "678+218",
+    "速度": "120+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+38%",
+    "效果抵抗": "0%+12%"
+  },
+  "skills": [
+    {
+      "skillId": "620302-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "一连目 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/30d4fe57-0628-446b-96bd-2d2b5383e79e.png",
+      "description": "冷却时间：0\n风见展开审判之眼;对敌方单体造成2段120%伤害，每次有25%概率附加2回合【速度下降】。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【速度下降】概率增加至25%\n等级4：\n潜能提升：速度值+4\n技能提升：伤害系数增加至120%\n等级5：\n潜能提升：速度值+8\n技能提升：【速度下降】持续时间增加至2回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620302-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "罪眸 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/a3bc87ac-f0f5-4969-8e7b-442e9f1f207c.png",
+      "description": "冷却时间：3\n风见通过审判之眼揭露目标的罪行；对敌方单体造成240%伤害，有75%概率驱散目标2个增益效果，并有50%概率增加目标1回合所有异格者技能冷却。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：驱散增益效果概率增加至75%\n等级3\n潜能提升：防御力+70\n技能提升：驱散增益效果数量增加至2个\n等级4：\n潜能提升：效果命中+8%\n技能提升：增加技能冷却概率增加至50%\n等级5：\n潜能提升：效果命中+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620302-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "未来视 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/1daf469c-816d-4398-a64a-f4717be3c5ac.png",
+      "description": "冷却时间：4\n风见为全体队友施加狂热咒令；减少1回合所有技能冷却，并附加3回合【速度上升】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：效果命中+3%\n等级3\n潜能提升：生命值+1000\n技能提升：【速度上升】持续时间增加至3回合\n等级4：\n潜能提升：生命值+5%\n技能提升：效果命中+3%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n减冷却\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 111|\n| 源器配置 | 右三主属性2生命，1效果命中 |\n└─────────┴────────────┘\n【对局表现】\n大招减冷却有着不错的效果，配合万魔法典可以多次减冷却。为输出提供更多使用技能的机会",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12浴血+8疾驰+6讯光天击"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万魔法典"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12浴血+8疾驰+6讯光天击",
+        "推荐智壳": "万魔法典",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/436943.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【相遇在困境】\n「小朋友，你又迷路了吗？」\n风见一宵抬起头，又看见那个看见上了年纪的老人，正担忧地看着她。前一天，她就遇见过这个老人，不过那时她想起爸爸妈妈曾经告诉过她，不要和陌生人说话，于是立刻跳起来跑开了。\n风见一宵警惕地盯着他，就像昨天那样，随时准备着逃跑。这个时候，她的肚子却不合时宜地咕咕叫了起来——她已经在公园里流浪了一天，几乎没吃过任何东西。老人见状，从口袋里拿出一个商店里买的、包装完好的圆面包，递了过去。\n风见一宵的视线在圆面包和老人的脸之间来回游移，最后还是迅速接过面包，撕开包装吃了起来。\n「果然是迷路了啊，一会儿还是先把她带到警局，看看能不能找到她的家人吧……」\n「唔，没用的，我找过警察了，他们根本不管。」她一边咬着圆面包，一边含糊不清地打断了老人的自言自语。\n「他们说，我的爸爸妈妈被源病毒感染，已经不在了。而我的年龄又超过了福利院的规定，他们也没法管。」\n「原来是这样……」\n老人摸着胡子，沉默了一会儿，才对她说：「如果你愿意，我可以收养你、资助你上学。」\n说着，老人向风见一宵伸出手。\n「我是奥波尔。不知道你听没听说过光谱号，我是那辆列车的车长。」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【万事开头难】\n「我的名字是风见一宵。」\n她拿着笔，在黑板上写下自己的名字，随后转过身来，扫视着教室里的每个同学。有人在看窗外，有人在打瞌睡，有人在稀稀拉拉地鼓掌欢迎她，有人在……喂狗？等等，校规里允许养宠物吗？\n她的视线忍不住在那只突兀出现在教室里的杜宾犬身上停留了一会儿，下意识地记住了那个牵着狗、一脸满不在乎的家伙，最终还是决定无假装无事发生。\n「不能犯错，更不能给奥波尔叔叔丢脸。」\n风见一宵深知，奥波尔为了维护E-01区异格者与人类之间的和平，正在承受巨大的压力，而她不想再给奥波尔增加任何麻烦。风见一宵在心中默念了一遍自己的信条，随后笔直地向着座位走去。虽然摆出一副无懈可击的扑克脸，但事实上，她的内心早就慌了。\n「我刚才没写错字吧？没有被别人发现我在盯着那只狗看吧？帽子没有戴歪吧？」\n纷纷杂杂的思绪涌上心头，扰乱了她的内心，她摇了摇头，再一次在心中给自己鼓励。\n「不要慌，风见一宵，你得稳住。只要一切按照校规来，你就会成为一名合格的学生！」\n对啊，校规！想到这里，风见一宵眼前一亮，心里像是找到了目标。\n「你花了一个星期的时间把它背下来，不就是为了能成为遵守校规的好学生吗？加油啊，风见一宵！」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【坚持最珍贵】\n午休时间，风见一宵一个人走到教学楼下的一棵树边上，靠着树边坐下。她长长地叹了一口气，一股挫败感涌上心头。\n她已经入学一整个月了，每天都小心翼翼地生活和学习着，而那本厚厚的校规，也早就印在了她的记忆里，她敢保证，自己从没触犯过任何一条。\n但是，明明她一直都是一个合格的学生，为什么却一个朋友都没交到呢？不仅如此，甚至有几个每天都在违反校规家伙，像是故意要与她对着干一样，总是对她恶作剧。就比如那个牵着狗的家伙—一炀，还有那个脾气比头发还硬的克洛斯!\n想到这里，风见一宵不禁感到心烦意乱，她不由得开始对自己的想法感到怀疑。\n「难道我都做错了吗，遵守校规会被人讨厌吗？」\n「为什么要这么想？遵守校规的，才是好学生。」\n打断了她胡思乱想的，是一个明亮的声音。风见一宵认识那个人，她之前在网上搜索十三区高校的信息时就见过的，学校里原质能力排名第一的天才，月夜见。\n「我知道你，你叫风见一宵，对吧？入学一个月了，也没违反过一条校规，真厉害！」\n「哪里哪里……我只是，按照要求做而已。」\n风见一宵连忙摆摆手，心里却由衷地为有人能看见自己的努力感到高兴。\n「别谦虚，那可不是什么容易的事。毕竟校规有那么厚，就算是我和也不能保证记得住每一条。」\n「对了。」月夜见像是想起了什么，补充道，「如果你有兴趣，可以成为风纪委员。我想，你一定能做得相当好。」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/0461330c-9ff8-4976-9611-c56aac24a4e6.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/0461330c-9ff8-4976-9611-c56aac24a4e6.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/13ab0c9a-4282-4c21-b6fe-d045eac38c17.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/13ab0c9a-4282-4c21-b6fe-d045eac38c17.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/0461330c-9ff8-4976-9611-c56aac24a4e6.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/0461330c-9ff8-4976-9611-c56aac24a4e6.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/13ab0c9a-4282-4c21-b6fe-d045eac38c17.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/fe4e1be2-06d1-47b7-bfa1-5eb1495668ee.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/13ab0c9a-4282-4c21-b6fe-d045eac38c17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/fe4e1be2-06d1-47b7-bfa1-5eb1495668ee.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/30d4fe57-0628-446b-96bd-2d2b5383e79e.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/a3bc87ac-f0f5-4969-8e7b-442e9f1f207c.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/1daf469c-816d-4398-a64a-f4717be3c5ac.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/436943.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2025/7/15/198199.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620302,
+    "title": "风见一宵",
+    "url": "https://www.gamekee.com/yise/620302.html",
+    "updatedAt": "2025-08-25T04:59:47.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620302_风见一宵.md",
+      "metadata": "03_图鉴词条/620302_风见一宵.json",
+      "rawApi": "_raw_api/details/620302.json"
+    }
+  }
+}

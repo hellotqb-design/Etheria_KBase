@@ -1,0 +1,110 @@
+{
+  "id": 639296,
+  "kind": "zhike",
+  "name": "山海经",
+  "entryName": "山海经",
+  "rarityGroup": "卓越",
+  "starRarity": "★★★★",
+  "role": "生存型",
+  "description": "「香炉煮茶，品茗论道」，它往往会悠闲地晃动着尾巴，静静享受着伊瑟的好时光。",
+  "stats": {
+    "生命": "2501",
+    "攻击": "156",
+    "防御": "321",
+    "速度": "30"
+  },
+  "skills": [
+    {
+      "skillId": "639296-skill-1",
+      "order": 1,
+      "section": "宠物技能",
+      "name": "山海经（已觉醒）",
+      "description": "冷却时间：0回合\n拉条\n敌人单位每累计行动3次，增加本体25%行动进度，每个回合仅可触发1次。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "金刚"
+      ],
+      "other": [
+        "金刚 4/8/12",
+        "防御力+10%/+25%/45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾驰"
+      ],
+      "other": [
+        "疾驰 4/8/12",
+        "速度值+8%/+20%/+35%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "荆棘"
+      ],
+      "other": [
+        "荆棘 4/8",
+        "防御力+10%/+10%；异格者受到攻击后，有25%的概率用普通攻击\n反击对方"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "奋进"
+      ],
+      "other": [
+        "奋进 4/8",
+        "防御力+10%/+10%；受到攻击后，增加10%的行动进度"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★★",
+    "定位": "生存型",
+    "生命": "2501",
+    "攻击": "156",
+    "防御": "321",
+    "速度": "30"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/578297.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/763543.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/829603.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_333/h_380/50364/43758/2024/9/25/538234.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_333/h_380/50364/43758/2024/9/25/538234.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/763543.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/969163.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_341/h_316/50364/43758/2024/9/25/584378.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_359/h_374/50364/43758/2024/3/24/493364.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_370/h_355/50364/43758/2024/9/25/624355.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_410/h_397/50364/43758/2024/3/24/691769.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_430/h_380/50364/43758/2024/9/25/746771.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_458/h_469/50364/43758/2024/3/24/238739.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/969163.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 639296,
+    "title": "山海经",
+    "url": "https://www.gamekee.com/yise/639296.html",
+    "updatedAt": "2025-05-12T12:36:07.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639296_山海经.md",
+      "metadata": "03_图鉴词条/639296_山海经.json",
+      "rawApi": "_raw_api/details/639296.json"
+    }
+  }
+}

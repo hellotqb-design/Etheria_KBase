@@ -1,0 +1,220 @@
+{
+  "id": 680989,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 878729,
+  "type": 4,
+  "title": "瑞玛丽养成攻略",
+  "tag": "",
+  "created_at": 1761256208,
+  "updated_at": 1761548975,
+  "updated_uid": 0,
+  "comment_at": 1761256208,
+  "last_at": 1761256208,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "天使姐姐，就当是为了我，给对面降下神罚吧！！！哈喽大家我是lala，今天我们一起来看看伊瑟全新SSR异格者瑞玛丽一图流：一、角色概论先说总结，瑞玛丽具有一定的多次行动能力，同时普攻能够斩杀低血量的敌人，还能够使目标无法复活，在PVP环境中会有不错的表现，PVE方面较为适合高难环境二、技能详情普攻—圣",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/9/24/746591.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/9/24/880688.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/9/24/282846.png",
+  "model_ids": "",
+  "like_count": 6,
+  "unlike_count": 0,
+  "view_count": 5466,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 621726,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1761269122,
+  "server_id": 0,
+  "image_num": 5,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 680989,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"BeotpwiTaojBhesj\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/9/24/746591.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"5000px\",\"height\":\"2822px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"天使姐姐，就当是为了我，给对面降下神罚吧！！！ \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"哈喽大家我是lala，今天我们一起来看看伊瑟全新SSR异格者瑞玛丽 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一图流： \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"2N5YzkyINv7Ygvog\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/9/24/880688.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3000px\",\"height\":\"8482px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"一、角色概论\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"先说总结，瑞玛丽具有一定的多次行动能力，同时普攻能够斩杀低血量的敌人，还能够使目标无法复活，在PVP环境中会有不错的表现，PVE方面较为适合高难环境 \"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"二、技能详情 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"普攻—圣光\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"9hBgpoS9KdJzXEsD\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/9/24/282846.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"瑞玛丽的普攻会对敌方单体造成伤害，并有概率附加眩晕，而后为自身附加一定层数刑罚，刑罚达到最大层数后瑞玛丽会立即释放终结技，然后清除神罚的所有层数 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"若攻击后目标的血量低于一定百分比，则直接斩杀目标，且目标无法避免死亡、无法被复活 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动—断罪 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"IVlMWX3vpdajRBDw\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/9/24/781950.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"瑞玛丽的被动效果会在场上任意单位受到伤害后按一定比例转换为自身的刑罚层数。当任意单位被击败时，瑞玛丽会立即获得最大层数的刑罚 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技—安息之刻\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"i4wXv6oZ0aMlcDDG\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/9/24/14317.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"瑞玛丽的终结技会对敌方全体造成伤害并附加易伤，暴击时会偷取目标行动进度 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐加点：普攻5级→被动4级→终结技5级→补满\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"三、矩阵推荐 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"矩阵方面，一号位携带荆棘来多次触发普攻的效果；二号位PVP推荐携带浴血之躯，防止被速杀队针对，PVE也可以携带其他生存相关矩阵或乘势追击；三号位可以携带灵子黑疫补足生命值；也可以携带巨型屏障增加效果抵抗防止被控制；速杀阵容也可以携带暴烈利刃 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"毕业矩阵： \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一号位：荆棘 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"二号位：浴血之躯/其他生存相关矩阵/乘势追击 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"三号位：巨形屏障/灵子黑疫/暴烈利刃 \",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"四、智壳推荐\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"智壳方面首推琥珀，增加反打能力；其次可以选择灯塔/匠来提升自保能力；box中没有好用的驱散位时也可以选择天角兽来驱散负面效果 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"瑞玛丽作为PVP异格者更多还是按照个人练度进行调整，没有最优选择 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"前期：星 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"中期：钻石之心 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"后期：琥珀/灯塔/匠/天角兽 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动推荐：涌流、勘破、无畏/恒定之刃 \",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"五、源器推荐 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"词条方面，主词条推荐携带暴击率*1、暴击伤害*1、生命值百分比*1；副词条优先速度，其次是暴击率然后是生命值百分比、暴击伤害，最后效果抵抗、效果命中按需求选择 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"主词条：生命值百分比*1，暴击率*1，暴击伤害*1 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"副词条：速度＞暴击率＞生命值百分比/暴击伤害＞效果抵抗/效果命中/生命 \",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"六、角色配队 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"PVE就业方面，瑞玛丽主要还是在高难副本，依靠自身需要高血量支撑输出来长线作战。也可以在常规副本搭配其他主c收尾 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"PVP配队方面，瑞玛丽可以搭配罗睺、提亚马特等生存较高的输出在常规肉队就业，也可以作为肉队对策卡使用，利用斩杀效果防止肉队循环套娃。还可以在速攻队搭配谛听、莉拉姆秒杀来叠加刑罚，多次使用终结技 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"想玩花活的话也可以另辟蹊径携带几个buff多的队友，例如宁芙涅、森灵善雅抢速给瑞玛丽上buff，再卡好血量等着被敌人秒掉让瑞玛丽快速放出终结技清场 \"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"七、抽取建议 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"瑞玛丽整体还是偏向PVP多一些，更推荐已经开始打PVP的玩家抽取，当然也可以在PVE没有适配高难度的输出时抽取 \"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"感谢大家看到最后，有问题可随时在评论区提出，lala看到后会第一时间回应，点赞收藏评论加速更新，祝大家单发抽出瑞玛丽，我们下期攻略再见 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"拜拜～ \"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/9/24/746591.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/9/24/880688.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/9/24/282846.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

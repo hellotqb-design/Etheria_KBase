@@ -1,0 +1,349 @@
+{
+  "id": 620273,
+  "kind": "character_skill_bundle",
+  "name": "多乐丝",
+  "entryName": "多乐丝",
+  "rarity": "SR",
+  "element": "恒定",
+  "faction": "协会",
+  "title": "猪猫座",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "E15-021922",
+  "chipStatus": "正常",
+  "assessment": "异格者多乐丝，身份编码E03-021922，Re-A芯片状态稳定，偶见异常波动。\n出身于孤儿院的、天真无邪的异格者少女，怀抱装着各种神奇道具的魔盒，每天和伙伴一起在艾尔特利斯的每个角落探险，这就是多乐丝。\n虽然还相当年轻，但多乐丝是一个相当可靠的伙伴。每当陷入危机的时，她总能想到办法。",
+  "stats": {
+    "生命": "12001+5250",
+    "攻击": "1033+483",
+    "防御": "609+211",
+    "速度": "112+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%",
+    "效果抵抗": "0%+12%"
+  },
+  "skills": [
+    {
+      "skillId": "620273-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "惊奇手杖 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/42b5c260-73bd-4e1e-9c05-a90106adc1de.png",
+      "description": "冷却时间：0\n多乐丝挥动钥匙手杖；对敌方单体造成280%伤害，并治疗生命百分比最低的队友，治疗量为伤害量的150%。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至260%\n等级3\n潜能提升：攻击力+100\n技能提升：治疗效果增加至伤害量的110%\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至280%\n等级5：\n潜能提升：攻击力+10%\n技能提升：治疗效果增加至伤害量的150%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620273-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "万能百宝盒 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/534cbe06-1eb8-4574-b619-aa61369756bd.png",
+      "description": "冷却时间：3\n多乐丝扔出百宝盒祈愿；治疗并净化单体队友，治疗量为自身攻击的320%，净化所有减益效果,并附加2回合【百宝盒的治愈】。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：治疗效果增加至300%\n等级3\n潜能提升：防御力+70\n技能提升：【百宝盒的治愈】持续时间增加至2回合\n等级4：\n潜能提升：速度值+4\n技能提升：治疗效果增加至320%\n等级5：\n潜能提升：速度值+8\n技能提升：净化效果增强为净化全部减益效果",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620273-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "百宝盒的治愈 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/b733fd87-b110-4b26-9f47-5d51ec4670d3.png",
+      "description": "冷却时间：3\n多乐丝解除百宝盒的力量限制使其巨大化发挥出全部的力量；治疗全体队友，治疗量为自身攻击的250%，并附加3回合【百宝盒的治愈】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：治疗效果增加至250%\n等级3\n潜能提升：生命值+1000\n技能提升： 【百宝盒的治愈】回复效果增加至100%\n等级4：\n潜能提升：生命值+5%\n技能提升：【百宝盒的治愈】持续时间增加至3回合\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n治疗，净化\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 555|\n| 源器配置 | 右三主属性3攻击加成 |\n└─────────┴────────────┘\n【对局表现】\n唯一的攻击加成奶，2技能还能净化减益，溢出的治疗量也会变成护盾",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "6疾驰+6攻势+8治愈+6进化荫庇"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "超新星"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "6疾驰+6攻势+8治愈+6进化荫庇",
+        "推荐智壳": "超新星",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/656691.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "治疗效果提升"
+      ],
+      "other": [
+        "施加的治疗效果+10%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【水泥盒子探险记】\n多乐丝抱着盒子，赤着双脚站在冰冷的地面上。她抬起头，玻璃墙另一面的、被防护服和防毒面具掩护得严严实实的几个大人，歪着脑袋猜测他们在那个像水泥盒子一样的房间里做什么。\n「难道说，他们是坐在盒子里进行探险的？」\n很快，一阵刺耳的警报声和随之而来的耀眼白光就笼罩了她。光芒消散后，那几个大人又走到多乐丝身边，把她送去另外的房间，要她去用尽各种办法攻击几台奇奇怪怪的仪器。\n多乐丝不明白那些房间和机器到底有什么用，但她把这当成一场新奇的探险——在水泥盒子组成的世界里，与邪恶的机器怪兽对抗!\n但那些大人似乎并不关心多乐丝的探险，他们只是对着机器吐出的报告文件，不停地摇头。随着一句「这个小孩一点原质能力都没有，留着也是浪费资源」的评价，多乐丝被送回了孤儿院。\n「多乐丝才不是什么能力都没有呢！对吧，魔盒？」\n只有她自己知道，在那天白光闪过之后，她的盒子发生了奇妙的变化—一它能装下比它自己大得多的东西！\n「这一定是探险的奖励。」\n多乐丝这么想着，唯一让她有点遗憾的是，她还没来得及探索那个水泥盒子世界的每个角落。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【生日快乐，多乐丝。】\n「生日快乐，多乐丝。」\n孤儿院的老师将一块被玻璃纸包着的水果糖放在多乐丝的手心里，语调懒散又敷衍。面对这个曾经被领养过一次，但又因为被发现「没有任何原质能力」而被退养的孩子，她已经分不出更多的耐心了。\n「没有人愿意收养不具备原质能力的异格者孩子」，这几乎是每个孤儿院的共识，尤其还是被退养过一次的孩子。\n对于这样的没办法给孤儿院带来领养金的孩子，大多数孤儿院能做的，也只是用最低限度的资源把他们养到需要离开孤儿院的年纪，再放他们进入社会自生自灭。更何况，没有原质能力通常意味着这个孩子并不会闹出什么大事，也就不需要花太多心思时刻紧盯。\n但这些并不是多乐丝关心的事情，她一边吃着水果糖，边将糖纸叠成星星放进盒子里收好，还差几张糖纸，她叠出的星星就够放满一个玻璃罐了。只不过，回到孤儿院的日子让她感到有些无聊，她偶尔也会怀念在孤儿院外探险的时光。\n这时候，她听见院墙外面传来呼唤声，一个「熊孩子」正在努力地对她挥着手。\n「喂——看这边！对，就是你！超级英雄小熊座遇到了困难，需要勇敢者出手相助！」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【你是说，探险？】\n「英雄能量补充完毕，是时候开始下一场探险了！」\n「你是说，探险？」\n听到这两个字，多乐丝立即来了兴趣。她上一秒还在思考饿肚子饿到走不动的家伙究竟算不算英雄，下一秒就把这个的问题忘得一干二净。她已经厌倦了孤儿院循规蹈矩的生活和一成不变的环境，她无比期待异常崭新的探险。\n「你会到处探险？」\n「当然了！我可是超级英雄小熊座，我的目标是一一消灭伊瑟的所有邪恶！」\n「我能加入吗？我一直想当探险家！」\n多乐丝毫不犹豫地问，如果有必要的话，她愿意把自己魔盒中收藏的所有宝贝拿出来，交换这个机会。\n「哼哼，当然没问题！从现在开始，超级英雄小熊座遇到了伟大的探险家多乐丝，一场崭新的探险即将开始！」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/f059ed3d-ad53-4041-9d92-99da7d56d27b.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/f059ed3d-ad53-4041-9d92-99da7d56d27b.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/ae2f2fb2-87bc-4845-9a4d-57762e654c7c.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/ae2f2fb2-87bc-4845-9a4d-57762e654c7c.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/f059ed3d-ad53-4041-9d92-99da7d56d27b.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/f059ed3d-ad53-4041-9d92-99da7d56d27b.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/ae2f2fb2-87bc-4845-9a4d-57762e654c7c.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/9c1bde82-1429-4bc2-b95d-9c571aeab0ba.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/ae2f2fb2-87bc-4845-9a4d-57762e654c7c.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/9c1bde82-1429-4bc2-b95d-9c571aeab0ba.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/42b5c260-73bd-4e1e-9c05-a90106adc1de.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/534cbe06-1eb8-4574-b619-aa61369756bd.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/b733fd87-b110-4b26-9f47-5d51ec4670d3.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/656691.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/520497.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/60010.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620273,
+    "title": "多乐丝",
+    "url": "https://www.gamekee.com/yise/620273.html",
+    "updatedAt": "2025-08-25T04:59:07.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620273_多乐丝.md",
+      "metadata": "03_图鉴词条/620273_多乐丝.json",
+      "rawApi": "_raw_api/details/620273.json"
+    }
+  }
+}

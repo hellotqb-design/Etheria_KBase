@@ -1,0 +1,46 @@
+{
+  "id": 675968,
+  "kind": "system_rule",
+  "title": "炼【异格命途】任务一览",
+  "domainPath": [
+    "02_游戏系统规则",
+    "01_养成规则"
+  ],
+  "classifyReason": "高置信养成或任务说明资料",
+  "originalCategory": "05_副本玩法",
+  "text": "炼【异格命途】任务一览\n\n导航炼【异格命途】任务一览【委托记事】任务一览【智壳调谐】任务一览【源器改研】任务一览【竞技试炼】任务一览任务里给的金方块都是用来给炼升技能的，不要给其他人用，否则任务会卡住。任务提前做不算。不容易达成的条件：一阶段：炼升级2次技能，炼升至45级，上阵炼战胜重构兵祸噩梦一及以上10次，上阵炼战胜重构\n\n导航\n\n**炼【异格命途】任务一览**\n\n**【委托记事】任务一览**\n\n**【智壳调谐】任务一览**\n\n**【源器改研】任务一览**\n\n**【竞技试炼】任务一览**\n\n**任务里给的金方块都是用来给炼升技能的，不要给其他人用，否则任务会卡住。**\n\n**任务提前做不算。**\n\n不容易达成的条件：\n\n一阶段：炼升级2次技能，炼升至45级，上阵炼战胜重构兵祸噩梦一及以上10次，上阵炼战胜重构兵祸噩梦二1次。\n\n二阶段：2个卓越智壳升至满级\n\n异格命途1\n\n异格命途2\n\n3\n\n**全部完成！**",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1133/h_637/50364/253894/2025/8/14/450358.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1297/h_728/50364/253894/2025/8/2/489888.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1381/h_777/50364/253894/2025/8/14/463706.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1488/h_836/50364/253894/2025/8/14/797956.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1600/h_900/50364/253894/2025/8/3/186018.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1600/h_900/50364/253894/2025/8/3/5900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/253894/2025/8/25/327653.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2800/h_1260/50364/253894/2025/8/13/258702.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2800/h_1260/50364/253894/2025/8/18/595351.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2800/h_1260/50364/253894/2025/8/3/754131.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2800/h_1260/50364/253894/2025/8/3/754131.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/253894/2025/8/25/327653.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1297/h_728/50364/253894/2025/8/2/489888.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2800/h_1260/50364/253894/2025/8/8/18193.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2800/h_1260/50364/253894/2025/8/8/25915.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2800/h_1260/50364/253894/2025/8/8/697490.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2800/h_1260/50364/253894/2025/8/8/888414.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/215/253894/2024/7/28/311743.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 675968,
+    "title": "炼【异格命途】任务一览",
+    "url": "https://www.gamekee.com/yise/675968.html",
+    "updatedAt": "2025-09-25T07:24:32.000Z",
+    "sourceFiles": {
+      "markdown": "05_副本玩法/675968_炼【异格命途】任务一览.md",
+      "metadata": "05_副本玩法/675968_炼【异格命途】任务一览.json",
+      "rawApi": "_raw_api/details/675968.json"
+    }
+  }
+}

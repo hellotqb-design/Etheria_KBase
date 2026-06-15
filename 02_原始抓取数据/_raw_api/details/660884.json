@@ -1,0 +1,366 @@
+{
+  "id": 660884,
+  "game_id": 50364,
+  "entry_id": 185726,
+  "uid": 355468,
+  "type": 4,
+  "title": "琥珀",
+  "tag": "2",
+  "created_at": 1747034879,
+  "updated_at": 1756098361,
+  "updated_uid": 842288,
+  "comment_at": 1747034879,
+  "last_at": 1756098361,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/25/104487.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/406170.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/693113.png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 4939,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "陕西省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 9,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 660884,
+  "content": "",
+  "content_json": "[{\"key\":\"igiTYubvePd03EJV\",\"type\":\"illustrated-book\",\"data\":[{\"key\":\"NZHeY5iuHJVjMEOK\",\"type\":\"character-profile\",\"data\":{\"isShowImageList\":true,\"isShowName\":true,\"isShowAttrList\":true,\"isShowDesc\":true,\"title\":\"基础信息\",\"name\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"琥珀\"}]}]},\"descTitle\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"介绍\"}]}]},\"desc\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]},\"attrList\":[{\"key\":\"0.c67da730cf4c4\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"稀有度\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"★★★★\"}]}]}},{\"key\":\"0.d76bc5fa59919\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"定位\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"攻击型\"}]}]}},{\"key\":\"0.57d6ffd875c5b\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"生命\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"3129\"}]}]}},{\"key\":\"0.7d91e7d91d705\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"攻击\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"193\"}]}]}},{\"key\":\"0.018000aea7b\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"防御\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"478\"}]}]}},{\"key\":\"0.14631ff9bcbbe\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"速度\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"40\"}]}]}}],\"imageSize\":{\"width\":208,\"height\":168},\"imagesList\":[],\"imageList\":[\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/25/104487.png\"]}}],\"children\":[{\"text\":\"\"}]},{\"key\":\"JvP6lnaJUn4k8EqN\",\"type\":\"illustrated-book\",\"data\":[{\"key\":\"uuBXGFR2kW0bSzlZ\",\"type\":\"skill-info\",\"data\":{\"title\":\"技能\",\"isShowTabs\":false,\"tabs\":[],\"skillList\":[{\"key\":\"0.1d534bc164718\",\"isShowIcon\":false,\"isShowName\":true,\"isShowDesc\":true,\"isShowMore\":false,\"filterTabKey\":null,\"icon\":\"\",\"name\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"琥珀（已觉醒）\"}]}]},\"label\":\"\",\"desc\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"冷却时间：\",\"bold\":true,\"fontSize\":\"12px\"},{\"text\":\"\",\"bold\":true,\"fontSize\":\"12px\",\"color\":\"#ff0000\"},{\"text\":\"6\",\"bold\":true,\"fontSize\":\"12px\",\"color\":\"#ff0000\"},{\"text\":\"\",\"bold\":true,\"fontSize\":\"12px\",\"color\":\"#ff0000\"},{\"text\":\"回合\",\"bold\":true,\"fontSize\":\"12px\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"fontSize\":\"12px\",\"text\":\"免死 单疗 加防\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"当本体异格者即将阵亡时，使其当前行动进度减半，移除被附加的所有效果，回复\"},{\"text\":\"60%\",\"color\":\"#ff0000\"},{\"text\":\"最大生命值，并使其进入\"},{\"text\":\"1\",\"color\":\"#ff0000\"},{\"text\":\"回合【\"},{\"type\":\"button\",\"id\":\"button-a7f0f680242b3\",\"key\":\"RICH_TEXT_POPOVER\",\"data\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"持续期间提升200%防御力，无法被条以及附加增益和减益效果。异格者轮到行动时解除【冰封】并恢复自身50%最大生命值。\"}]}]},\"children\":[{\"text\":\"冰封\"}]},{\"text\":\"】状态。此技能无法被减少冷却。\"}]}]},\"moreInfo\":\"\",\"moreBtn\":\"查看升级效果\",\"iconSize\":{\"width\":\"60px\",\"height\":\"60px\"}}]}}],\"children\":[{\"text\":\"\"}]},{\"key\":\"njRwY92Pvx7WLME8\",\"type\":\"illustrated-book\",\"data\":[{\"key\":\"Bp7iDFTY61OoUQap\",\"type\":\"upgrade-info\",\"data\":{\"title\":\"可出现矩阵\",\"isShowTabs\":false,\"tabs\":[],\"upgradeList\":[{\"key\":\"0.ddba6f9b4c4de\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/406170.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"auto\",\"verticalAlign\":\"middle\",\"height\":\"22px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"金刚\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"金刚 4/8/12\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"防御力\"},{\"text\":\"+10%\",\"color\":\"#ff0000\"},{\"text\":\"/\"},{\"text\":\"+25%\",\"color\":\"#ff0000\"},{\"text\":\"/\"},{\"text\":\"+45%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]}]}]},{\"key\":\"0.1329e61572cd3\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/693113.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"auto\",\"verticalAlign\":\"middle\",\"height\":\"22px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"疾驰\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"疾驰 4/8\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"速度值\"},{\"text\":\"+8%\",\"color\":\"#ff0000\"},{\"text\":\"/\"},{\"text\":\"+20%\",\"color\":\"#ff0000\"},{\"text\":\"/\"},{\"text\":\"+35%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]}]}]},{\"key\":\"0.beba26c9d7a7f\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/271014.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"auto\",\"verticalAlign\":\"middle\",\"height\":\"22px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"奋进\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"奋进 4/8\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"防御力\"},{\"text\":\"+10%\",\"color\":\"#ff0000\"},{\"text\":\"/\"},{\"text\":\"+10%\",\"color\":\"#ff0000\"},{\"text\":\"；受到攻击后，增加\"},{\"text\":\"10%\",\"color\":\"#ff0000\"},{\"text\":\"的行动进度\"}]}]}]},{\"key\":\"0.7ce9038370c4c\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/642572.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"auto\",\"verticalAlign\":\"middle\",\"height\":\"22px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"荆棘\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"荆棘 4/8\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"防御力\"},{\"text\":\"+10%\",\"color\":\"#ff0000\"},{\"text\":\"/\"},{\"text\":\"+10%\",\"color\":\"#ff0000\"},{\"text\":\"；异格者受到攻击后，有\"},{\"text\":\"25%\",\"color\":\"#ff0000\"},{\"text\":\"概率用普通攻击反击对方\"}]}]}]},{\"key\":\"0.569937bbe99f2\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/880028.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"auto\",\"verticalAlign\":\"middle\",\"height\":\"22px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"时光驾驭\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"时光驾驭 6/12\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"效果命中\",\"color\":\"rgb(0, 0, 0)\"},{\"text\":\"+18%\",\"color\":\"#ff0000\"},{\"text\":\"/\",\"color\":\"rgb(0, 0, 0)\"},{\"text\":\"+18%\",\"color\":\"#ff0000\"},{\"text\":\"；\",\"color\":\"rgb(0, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"text\":\"回合开始时，有\"},{\"text\":\"35%\",\"color\":\"#ff0000\"},{\"text\":\"的概率使异格者所有技能冷却减少\",\"color\":\"rgb(0, 0, 0)\"},{\"text\":\"1\",\"color\":\"#ff0000\"},{\"text\":\"回合\",\"color\":\"rgb(0, 0, 0)\"}]}]}]},{\"key\":\"0.6e608ff649b13\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/958956.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"auto\",\"verticalAlign\":\"middle\",\"height\":\"22px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"浴血之躯\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"浴血之躯 6/12\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"效果抵抗\",\"color\":\"rgb(0, 0, 0)\"},{\"text\":\"+18%\",\"color\":\"#ff0000\"},{\"text\":\"/\",\"color\":\"rgb(0, 0, 0)\"},{\"text\":\"+18%\",\"color\":\"#ff0000\"},{\"text\":\"；\",\"color\":\"rgb(0, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"text\":\"回合内受到累计大于\"},{\"color\":\"#ff0000\",\"text\":\"20%\"},{\"color\":\"rgb(0, 0, 0)\",\"text\":\"最大生命值的伤害时，使超出的伤害额外降低\"},{\"color\":\"#ff0000\",\"text\":\"55%\"},{\"color\":\"rgb(0, 0, 0)\",\"text\":\"\"}]}]}]},{\"key\":\"0.d3a1ab8e6fe39\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/104301.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"auto\",\"verticalAlign\":\"middle\",\"height\":\"22px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"巨壁屏障\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"巨壁屏障 6\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"text\":\"防御力\"},{\"color\":\"#ff0000\",\"text\":\"+25%\"},{\"color\":\"rgb(0, 0, 0)\",\"text\":\"，效果抵抗\"},{\"color\":\"#ff0000\",\"text\":\"+20%\"},{\"color\":\"rgb(0, 0, 0)\",\"text\":\"\"}]}]}]},{\"key\":\"0.fb450efe6d6b6\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/7/19/804868.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"auto\",\"verticalAlign\":\"middle\",\"height\":\"22px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"迅光天击\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"迅光天击 6\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"速度值\"},{\"text\":\"+12%\",\"color\":\"#ff0000\"},{\"text\":\"，效果命中\"},{\"text\":\"+20%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]}]}]}]}}],\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/25/104487.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/406170.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/693113.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 355468,
+    "username": "卷卷qwqqqq",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/ceDZzkfdB7pkgbB5I83XiciaSSWvtRsicgh9yicZy4NRLiceWS1mWatuF4zHPva65olDc8AnDibw5RJtGAcPx5LoqHTA/132",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 2,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 33354612,
+    "content_num": 19,
+    "read_num": 128059,
+    "like_num": 17
+  },
+  "update_user": {
+    "uid": 842288,
+    "username": "白免亦是白兔",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "description": "b站白免亦是白兔，视频攻略每晚直播，粉丝群976548550",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 355468,
+      "username": "卷卷qwqqqq",
+      "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/ceDZzkfdB7pkgbB5I83XiciaSSWvtRsicgh9yicZy4NRLiceWS1mWatuF4zHPva65olDc8AnDibw5RJtGAcPx5LoqHTA/132",
+      "last_ip_area": "陕西省",
+      "last_login_device_num": 1
+    },
+    {
+      "uid": 842288,
+      "username": "白免亦是白兔",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+      "last_ip_area": "广西",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 693383,
+      "name": "冠军巨鳄",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2896/h_3297/50364/842288/2026/1/11/955923.png",
+      "jump_url": ""
+    },
+    {
+      "id": 693384,
+      "name": "月魄灵兔",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2784/h_3251/50364/842288/2026/1/11/832973.png",
+      "jump_url": ""
+    },
+    {
+      "id": 693386,
+      "name": "厄鸦",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3103/h_3029/50364/842288/2026/1/11/936965.png",
+      "jump_url": ""
+    },
+    {
+      "id": 693387,
+      "name": "天才球手",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2782/h_2951/50364/842288/2026/1/11/708858.png",
+      "jump_url": ""
+    },
+    {
+      "id": 677047,
+      "name": "宝剑七",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/115316.png",
+      "jump_url": ""
+    },
+    {
+      "id": 677072,
+      "name": "噬身之蛇",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/824266.png",
+      "jump_url": ""
+    },
+    {
+      "id": 677063,
+      "name": "寅虎",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/972828.png",
+      "jump_url": ""
+    },
+    {
+      "id": 677070,
+      "name": "死神脚步",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/306212.png",
+      "jump_url": ""
+    },
+    {
+      "id": 660881,
+      "name": "胡狼卫士",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/664163/2025/8/17/249969.png",
+      "jump_url": ""
+    },
+    {
+      "id": 660883,
+      "name": "启示录",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/471858.png",
+      "jump_url": ""
+    },
+    {
+      "id": 660885,
+      "name": "最强音",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/533928.png",
+      "jump_url": ""
+    },
+    {
+      "id": 645481,
+      "name": "伯爵",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/833837.png",
+      "jump_url": ""
+    },
+    {
+      "id": 645482,
+      "name": "灯塔",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/517350.png",
+      "jump_url": ""
+    },
+    {
+      "id": 645483,
+      "name": "墨月",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/978071.png",
+      "jump_url": ""
+    },
+    {
+      "id": 639285,
+      "name": "超新星",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/43758/2024/9/25/444616.png",
+      "jump_url": ""
+    },
+    {
+      "id": 639298,
+      "name": "缄默法则",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/730155.png",
+      "jump_url": ""
+    },
+    {
+      "id": 639300,
+      "name": "金狮子",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/788014.png",
+      "jump_url": ""
+    },
+    {
+      "id": 639311,
+      "name": "天角兽",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/532694.png",
+      "jump_url": ""
+    },
+    {
+      "id": 619854,
+      "name": "万魔法典",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_343/h_364/50364/43758/2024/9/25/982532.png",
+      "jump_url": ""
+    },
+    {
+      "id": 639292,
+      "name": "白獠武者",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_418/h_386/50364/43758/2024/9/25/539847.png",
+      "jump_url": ""
+    },
+    {
+      "id": 639293,
+      "name": "千兆字节",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_441/h_380/50364/43758/2024/9/25/18867.png",
+      "jump_url": ""
+    },
+    {
+      "id": 645368,
+      "name": "匠",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/868491.png",
+      "jump_url": ""
+    },
+    {
+      "id": 645365,
+      "name": "万圣节",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/304300.png",
+      "jump_url": ""
+    }
+  ]
+}

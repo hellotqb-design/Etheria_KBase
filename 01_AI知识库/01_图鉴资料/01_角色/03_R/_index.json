@@ -1,0 +1,65 @@
+[
+  {
+    "id": 620218,
+    "title": "41号",
+    "kind": "character",
+    "markdown": "01_图鉴资料/01_角色/03_R/620218_41号.md",
+    "metadata": "01_图鉴资料/01_角色/03_R/620218_41号.json",
+    "sourceUrl": "https://www.gamekee.com/yise/620218.html",
+    "updatedAt": "2025-08-18T07:38:55.000Z"
+  },
+  {
+    "id": 620301,
+    "title": "阿灰",
+    "kind": "character",
+    "markdown": "01_图鉴资料/01_角色/03_R/620301_阿灰.md",
+    "metadata": "01_图鉴资料/01_角色/03_R/620301_阿灰.json",
+    "sourceUrl": "https://www.gamekee.com/yise/620301.html",
+    "updatedAt": "2025-08-18T07:36:23.000Z"
+  },
+  {
+    "id": 620278,
+    "title": "安德鲁_坚盾",
+    "kind": "character",
+    "markdown": "01_图鉴资料/01_角色/03_R/620278_安德鲁_坚盾.md",
+    "metadata": "01_图鉴资料/01_角色/03_R/620278_安德鲁_坚盾.json",
+    "sourceUrl": "https://www.gamekee.com/yise/620278.html",
+    "updatedAt": "2025-08-18T07:38:36.000Z"
+  },
+  {
+    "id": 639297,
+    "title": "安德鲁_突击",
+    "kind": "character",
+    "markdown": "01_图鉴资料/01_角色/03_R/639297_安德鲁_突击.md",
+    "metadata": "01_图鉴资料/01_角色/03_R/639297_安德鲁_突击.json",
+    "sourceUrl": "https://www.gamekee.com/yise/639297.html",
+    "updatedAt": "2025-08-18T07:38:15.000Z"
+  },
+  {
+    "id": 639299,
+    "title": "恶命",
+    "kind": "character",
+    "markdown": "01_图鉴资料/01_角色/03_R/639299_恶命.md",
+    "metadata": "01_图鉴资料/01_角色/03_R/639299_恶命.json",
+    "sourceUrl": "https://www.gamekee.com/yise/639299.html",
+    "updatedAt": "2025-08-18T07:36:46.000Z"
+  },
+  {
+    "id": 620246,
+    "title": "卡奇",
+    "kind": "character",
+    "markdown": "01_图鉴资料/01_角色/03_R/620246_卡奇.md",
+    "metadata": "01_图鉴资料/01_角色/03_R/620246_卡奇.json",
+    "sourceUrl": "https://www.gamekee.com/yise/620246.html",
+    "updatedAt": "2025-08-25T05:05:15.000Z"
+  },
+  {
+    "id": 620292,
+    "title": "西比尔",
+    "kind": "character",
+    "markdown": "01_图鉴资料/01_角色/03_R/620292_西比尔.md",
+    "metadata": "01_图鉴资料/01_角色/03_R/620292_西比尔.json",
+    "sourceUrl": "https://www.gamekee.com/yise/620292.html",
+    "updatedAt": "2025-08-18T07:39:24.000Z"
+  }
+]

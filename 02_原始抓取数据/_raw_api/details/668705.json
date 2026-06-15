@@ -1,0 +1,257 @@
+{
+  "id": 668705,
+  "game_id": 50364,
+  "entry_id": 189898,
+  "uid": 267618,
+  "type": 4,
+  "title": "奥洛拉副本攻略-7.23更新速刷",
+  "tag": "2",
+  "created_at": 1751445514,
+  "updated_at": 1753255359,
+  "updated_uid": 267618,
+  "comment_at": 1751445514,
+  "last_at": 1753255359,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "此攻略写于2025年7月2日前瞻：普通奥洛拉没啥好说的单C，上一堆奶和辅助，慢慢磨就行主c（夜离、谛听、荼蘼、老K、狐狸）辅助（莉莉、芙蕾雅、月夜见、蛇哥、暗锤等）、奶妈（缬草、绫罗、米亚等），打不过就在低端本沉淀+强化装备理论上都是能过的，此篇攻略着重讲炼狱奥洛拉如何打。炼狱奥洛拉的难点，怪物ao",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2024/h_1172/50364/267618/2025/6/2/923404.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1996/h_170/50364/267618/2025/6/2/561909.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2012/h_178/50364/267618/2025/6/2/131278.png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 8155,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "韩国",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 8,
+  "video_list": "[{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/3/479260.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/3/108070.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/23/427832.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/23/781713.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0}]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 668705,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"right\",\"indent\":\"\",\"children\":[{\"text\":\"此攻略写于2025年7月2日\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"18px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"18px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"前瞻：\"},{\"text\":\"﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿普通奥洛拉没啥好说的 单C，上一堆奶和辅助，慢慢磨就行\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"主c（夜离、谛听、荼蘼、老K、狐狸）辅助（莉莉、芙蕾雅、月夜见、蛇哥、暗锤等）、奶妈（缬草、绫罗、米亚 等），打不过就在低端本沉淀+强化装备理论上都是能过的，此篇攻略着重讲炼狱奥洛拉如何打。﻿﻿\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿炼狱奥洛拉的难点，怪物aoe伤害非常高，并且aoe带驱散，主怪会给我们上“诅咒之盾buff”，降低90%输出，此buff需要足够治疗（英雄总血量的50%）才能解除，所以这个本需要奶量很高的奶妈，且多上点buff是能降低过副本难度的，其中绫罗是必备的，带免疫还有大量治疗，配合超新星+8治愈，75%血以下的单位，一个大招就可以解除buff\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"tips：超新星的持续治愈触发治疗 也会触发绫罗被动\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\" \"},{\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"绫罗是神\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"PZpmuvBBCOoa2F6i\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2024/h_1172/50364/267618/2025/6/2/923404.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2024px\",\"height\":\"1172px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"磨队打法\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"18px\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"单C 搭配莉莉+驱散角+2-3个奶妈，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"奶妈辅助最优组合是绫罗+缬草+蛇哥，其次绫罗+米亚+缬草\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"阵容：\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"有米亚有莉莉，搭配任意C\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"PaAGwktebjT5xlnf\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1996/h_170/50364/267618/2025/6/2/561909.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1996px\",\"height\":\"170px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"HvsyjIctmIUJACgN\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2012/h_178/50364/267618/2025/6/2/131278.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2012px\",\"height\":\"178px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"7ORyN5hE9JAhnpLO\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1994/h_188/50364/267618/2025/6/2/315519.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1994px\",\"height\":\"188px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"﻿﻿﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"o0oVAxA6MlVmL2sr\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1994/h_158/50364/267618/2025/6/2/820577.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1994px\",\"height\":\"158px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"无米亚，搭配任意C\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"fHAbandP3GX9GjqZ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2016/h_178/50364/267618/2025/6/2/961999.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2016px\",\"height\":\"178px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"无莉莉，搭配任意C\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"VfE8yOQJxDnslJDp\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2020/h_154/50364/267618/2025/6/2/882473.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2020px\",\"height\":\"154px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"主C选择：\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"均带启示录，保持80%以上暴击率的情况下，攻击越高越好，爆伤随意，均锁定主怪\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/668709.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"夜离\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 奥洛拉打的最快的C  自带破甲 无限追击 单体牛逼 \"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620266.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"狐狸\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 被动叠满大招无CD 自带破甲 克制C 相对肉一些\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620279.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"老K\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 大招自带破甲 无视被动，带无敌，不容易死\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/660868.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"荼蘼\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 自带追击 锁定主怪 克制C 相对肉一些\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620296.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"谛听\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 单体输出高 相对容易暴毙\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"莉莉：\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"速度越快越好 越肉越好 核心，大招减少CD包含智壳\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"没有莉莉可以带月夜见啥也没有就在上个奶\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"﻿辅助：﻿\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"140%命中以上，200速以上，速度越快越好，低配带匠，高配可以带万圣节等减CD的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639288.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"蛇哥\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 反击还能驱散，降低队友被暴击伤害，同时可以给对面上 减攻减速度 dbuff，让团队更肉\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639294.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"暗锤\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 优势 可以提供大量buff 配合狐狸食用最佳，可以最快的叠狐狸buff\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/660869.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"月夜见\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"-没有莉莉的选择，加攻加速度，2技能减全体队友cd\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"奶妈：\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/660874.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"米亚\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 111可用115更好，2技能带驱散，三技能带减CD 还能奶 太强了，3.5W血以上越肉越好，不死人就行\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639291.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"缬草\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 3技能点满，3.5W血以上越肉越好，不死人就行\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639265.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"绫罗\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\" - 1技能最好点满，200速以上，速度越快越好，越肉越好，不死人就行\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"其他奶妈也能用，但是相对可能不如上面3个\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"﻿﻿﻿﻿\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"附上AUTO通关小视频\",\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"underline\":true},{\"text\":\"﻿\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/3/108070.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/3/479260.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"速刷打法\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"18px\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"速刷是绫罗单奶，加驱散、破甲、增伤及1-2个输出位，在奥洛拉开出第二个免伤前秒杀的打法\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"阵容：\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"eZLTJbdMLP1iS8AU\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2378/h_1078/50364/267618/2025/6/23/533345.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2378px\",\"height\":\"1078px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"单奶：\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639265.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"绫罗\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\" - 技能最低511，带超新星，套装带治愈，这样能保证一个大招，解除75%血以下单位db，速度要比拉条和C位快即可\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"﻿驱散：﻿\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"200%命中以上，速刷驱散位，要作为队伍的一速，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639288.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"蛇哥\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 除了能驱散，二技能还能降低队友被暴击伤害，同时可以给对面上 减攻减速度 dbuff，这个减速很关键，能给队伍更多时间击杀boss，降低boss第二次免伤盾开启时间， 技能加点555 蛇哥也是必练sr \"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"海因-海因除了驱散，还有禁强，增伤   111能用 想稳定就点高\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"破甲手、增伤\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"：\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/660869.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"月夜见\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"-加攻加速度，2技能减全体队友cd，技能建议起码113 ，带万魔可以拉2次主C 可以让C快速打出 大招-平A-大招 \"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639286.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"戴娜\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 完美的增伤角色，破甲，易伤，真伤加成 技能111就行，有条件555\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"主C选择：\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"除了谛听均带启示录，保持80%以上暴击率的情况下，攻击越高越好，爆伤随意，均锁定主怪 以下可选1-2名，单c 荼蘼最快其次谛听\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"夜离可以在双C队伍做破甲手兼输出，但是破甲很不稳\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/660868.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"荼蘼\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 自带追击 锁定主怪 克制C\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620296.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"谛听\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 单体输出爆炸\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/668709.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"夜离\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 自带破甲 无限追击\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"﻿﻿﻿﻿\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"AUTO视频（这套基本稳定1分04秒左右 翻车点在蛇哥演我）\",\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"underline\":true}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/23/781713.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/23/427832.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"0px\",\"children\":[{\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"underline\":true,\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"0px\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2024/h_1172/50364/267618/2025/6/2/923404.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1996/h_170/50364/267618/2025/6/2/561909.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2012/h_178/50364/267618/2025/6/2/131278.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 267618,
+    "username": "权",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 2,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 21123758,
+    "content_num": 17,
+    "read_num": 119075,
+    "like_num": 39
+  },
+  "update_user": {
+    "uid": 267618,
+    "username": "权",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 267618,
+      "username": "权",
+      "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+      "last_ip_area": "韩国",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 675221,
+      "name": "重构兵祸全面解析",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/26/249073.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675321,
+      "name": "多琪全面解析",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/436122.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675314,
+      "name": "奥洛拉全面解析",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/476926.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 668684,
+      "name": "炼狱兵祸攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1500/h_746/50364/267618/2025/6/2/760729.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 668697,
+      "name": "炼狱多琪攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1506/h_748/50364/267618/2025/6/2/418791.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 672683,
+      "name": "智壳源器低配攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/154257/2025/7/2/112273.jpg",
+      "jump_url": ""
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "id": 678191,
+  "game_id": 50364,
+  "entry_id": 142922,
+  "uid": 267618,
+  "type": 4,
+  "title": "冠军预言家科普",
+  "tag": "2",
+  "created_at": 1758727747,
+  "updated_at": 1758816064,
+  "updated_uid": 0,
+  "comment_at": 1758727747,
+  "last_at": 1758727747,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/25/228259.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/25/723735.png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 3905,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "韩国",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 631786,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1758730488,
+  "server_id": 0,
+  "image_num": 2,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 678191,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"bOJQS9IdyaPVjX24\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/25/228259.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2160px\",\"height\":\"3840px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"Wfj2mIiVW7sHq3Sn\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/25/723735.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2160px\",\"height\":\"3840px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/25/228259.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/25/723735.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 267618,
+    "username": "权",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 2,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 21123758,
+    "content_num": 17,
+    "read_num": 119075,
+    "like_num": 39
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 267618,
+      "username": "权",
+      "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+      "last_ip_area": "韩国",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 678192,
+      "name": "幻音剧场",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/8/26/332377.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678196,
+      "name": "源网",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/267618/2025/8/26/167948.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678193,
+      "name": "虚烬探索",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1052/h_589/50364/267618/2025/8/26/667523.png",
+      "jump_url": ""
+    },
+    {
+      "id": 678197,
+      "name": "智壳总动员",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/8/26/406233.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678194,
+      "name": "无限列车",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/8/26/569524.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678195,
+      "name": "心渊梦境",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2656/h_1444/50364/267618/2025/8/26/876110.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678384,
+      "name": "幻方奇缘",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/8/27/649367.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 679365,
+      "name": "骇影迷踪",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/9/11/754213.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 679569,
+      "name": "暗笼激斗",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/9/14/667551.jpg",
+      "jump_url": ""
+    }
+  ]
+}

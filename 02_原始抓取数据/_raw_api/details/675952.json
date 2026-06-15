@@ -1,0 +1,335 @@
+{
+  "id": 675952,
+  "game_id": 50364,
+  "entry_id": 193858,
+  "uid": 878729,
+  "type": 4,
+  "title": "自机角色全buff相关",
+  "tag": "",
+  "created_at": 1756780800,
+  "updated_at": 1756782674,
+  "updated_uid": 0,
+  "comment_at": 1756780800,
+  "last_at": 1756780800,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "哈喽大家这里是lala，最近看到很多超链者对伊瑟中的buff有些疑惑，本期攻略lala就带着大家一起从图标区别说到各图标中的效果分类，点赞收藏，我们发车！图标区别无框：按照文字描述判断能否被驱散绿框：无论文字是否有说明，该效果都无法被驱散蓝色图标：增益效果/buff红色图标：减益效果/debuff黄",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_494/h_253/50364/878729/2025/8/2/545120.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_503/h_724/50364/878729/2025/8/2/90131.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_419/50364/878729/2025/8/2/783180.jpg",
+  "model_ids": "",
+  "like_count": 2,
+  "unlike_count": 0,
+  "view_count": 6867,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 448924,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1756783502,
+  "server_id": 0,
+  "image_num": 61,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 675952,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"哈喽大家这里是lala，最近看到很多超链者对伊瑟中的buff有些疑惑，本期攻略lala就带着大家一起从图标区别说到各图标中的效果分类，点赞收藏，我们发车！\"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"图标区别\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"无框：按照文字描述判断能否被驱散\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"绿框：无论文字是否有说明，该效果都无法被驱散\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"蓝色图标：增益效果/buff\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"红色图标：减益效果/debuff\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"黄色图标：特殊小机制\"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"图标效果分类\",\"bold\":true}]},{\"type\":\"header2\",\"children\":[{\"bold\":true,\"text\":\"◆黄色图标\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"水月真：反制→\",\"bold\":true},{\"text\":\"反击率提升100%，反击时对目标附加一回合禁止治疗\"},{\"type\":\"image\",\"key\":\"JZ5vyK3e7gzwRDNG\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_494/h_253/50364/878729/2025/8/2/545120.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"494px\",\"height\":\"253px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"缬草：朦胧梦境→\"},{\"text\":\"朦胧梦境持续时间内，缬草无法行动，只会受到伤害，队友回合开始时为其附加缬草最大生命值护盾与一种未拥有的基础增益效果；任意友方阵亡时，结束朦胧梦境，并恢复其20%最大生命。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"YjVShpZGJmg3GKxV\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_503/h_724/50364/878729/2025/8/2/90131.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"503px\",\"height\":\"724px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"拂秋：月迷津→\"},{\"text\":\"友方 回合结束时/受到伤害后触发，增加结附目标12%行动进度并治疗8%最大生命，每名异格者每回合只触发一次，拂秋自身触发时不增加行动进度\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"As2SL1zqeQ1pZEjS\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_419/50364/878729/2025/8/2/783180.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"500px\",\"height\":\"419px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"郝妍：瞥视→\"},{\"text\":\"每层提升40%攻击\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"CHV4McUghKKvT5x0\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_514/h_189/50364/878729/2025/8/2/226506.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"514px\",\"height\":\"189px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"夏妲：心火→\"},{\"text\":\"每层提升18%攻击和10%暴击伤害，最多三层\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"NswEtG4EfRbU1FIi\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_489/h_236/50364/878729/2025/8/2/135085.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"489px\",\"height\":\"236px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"梨梨：双生戏法→\"},{\"text\":\"梨梨行动后增加结附目标30%行动进度，友方同时只能有一个目标附加，梨梨死亡时移除\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"p69LaMVJiga97I7O\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_323/50364/878729/2025/8/2/593490.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"500px\",\"height\":\"323px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"莉拉姆：生命封印→\"},{\"text\":\"封印等量最大生命\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"9qfWtaNx7A5BLzYP\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_511/h_194/50364/878729/2025/8/2/916411.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"511px\",\"height\":\"194px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"柯洛罗：厄运丧钟→\"},{\"text\":\"结附目标受到10次伤害后，移除该效果，敌方柯洛罗对结附目标使用终结技，每方只有一名角色会被附加\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"syzzB9N7Sw8K64oc\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_493/h_349/50364/878729/2025/8/2/908663.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"493px\",\"height\":\"349px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"bold\":true,\"text\":\"◆蓝色图标\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"基础增益效果：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"基础增益效果以【朦胧梦境】提供为准\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"bocvoFQ1h7SFgEBX\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_491/h_237/50364/878729/2025/8/2/74769.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"491px\",\"height\":\"237px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"攻击上升→\",\"bold\":true},{\"text\":\"攻击力提升40%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"4KCn4l46umKg1bME\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_492/h_143/50364/878729/2025/8/2/141743.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"492px\",\"height\":\"143px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"防御上升→\"},{\"text\":\"防御提升60%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"i2FFaHyUiYlc8rg8\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_504/h_155/50364/878729/2025/8/2/313461.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"504px\",\"height\":\"155px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"暴击率上升→\"},{\"text\":\"暴击率提升30%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ZPUtBTLVte14wXou\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_492/h_147/50364/878729/2025/8/2/263995.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"492px\",\"height\":\"147px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"速度上升→\"},{\"text\":\"速度提升30%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"BGzBHGVzTEMXgN4P\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_505/h_151/50364/878729/2025/8/2/117868.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"505px\",\"height\":\"151px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"除了这四个外还有三个比较基础的增益效果\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"暴击伤害上升→\",\"bold\":true},{\"text\":\"暴击伤害提升50%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"cd65FBC7jFJVtJBF\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_497/h_149/50364/878729/2025/8/2/549065.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"497px\",\"height\":\"149px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"命中上升→\"},{\"text\":\"效果命中提升40%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"H6s39jUtex2rIPMr\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_509/h_157/50364/878729/2025/8/2/202303.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"509px\",\"height\":\"157px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"抵抗上升→\"},{\"text\":\"效果提升40%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"p9cyxhmlZeggQx2I\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_499/h_155/50364/878729/2025/8/2/127788.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"499px\",\"height\":\"155px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"bold\":true,\"text\":\"生存相关：\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"text\":\"治疗类\",\"bold\":true}]}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"持续恢复→\"},{\"text\":\"回合开始时恢复15%最大生命值\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"5Pdk2dwDaETZRIya\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_438/h_175/50364/878729/2025/8/2/88784.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"438px\",\"height\":\"175px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"百宝盒的治愈→\"},{\"text\":\"回合开始时恢复多乐丝攻击100%的生命，溢出将转化为护盾\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"h4hNEYlyZ1ii7Emw\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_507/h_280/50364/878729/2025/8/2/940423.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"507px\",\"height\":\"280px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"鲸祈→\"},{\"text\":\"回合开始时治疗5%最大生命，数值可叠加，最多5层\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"oLT2mWBcRCS8rkEI\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_495/h_200/50364/878729/2025/8/2/143787.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"495px\",\"height\":\"200px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"生命汲取→\"},{\"text\":\"恢复造成伤害20%的生命\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"hz7heD7ST82a6mGz\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_491/h_198/50364/878729/2025/8/2/45583.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"491px\",\"height\":\"198px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"bold\":true,\"text\":\"免死/复活类\"}]}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"灵魂守护→\"},{\"text\":\"生命不会小于1，持续回合数无法延长\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"c2WovpyYrGmzt8Kp\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_484/h_183/50364/878729/2025/8/2/870676.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"484px\",\"height\":\"183px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"黄泉之花→\"},{\"text\":\"每层额外免伤5%；行动后消耗一层复活阵亡队友，恢复其40%最大生命并拉条35%；最多叠加5层，可以被驱散，不可被偷取\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"XQoKLCfibrk267wQ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_495/h_398/50364/878729/2025/8/2/626822.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"495px\",\"height\":\"398px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"bold\":true,\"text\":\"最大生命值提升类\"}]}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"万灵的庇护→\"},{\"text\":\"最大生命提升20%，最多叠加两层，不可被驱散\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"YP8kev5dnuVh9gsy\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_498/h_192/50364/878729/2025/8/2/310776.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"498px\",\"height\":\"192px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"bold\":true,\"text\":\"护盾类\"}]}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"护盾→\"},{\"text\":\"吸收等量伤害\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"c9KkcnjPAlnROWU2\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_489/h_152/50364/878729/2025/8/2/917459.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"489px\",\"height\":\"152px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"备注：\"},{\"text\":\"提亚马特小技能提供的护盾不可被驱散\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"帷幕→\"},{\"text\":\"吸收等量伤害，不会被附加减益\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"moQcLDA10ci2pJfo\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_497/h_194/50364/878729/2025/8/2/272241.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"497px\",\"height\":\"194px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"雨幕→\"},{\"text\":\"吸收伤害量的50%，并反弹吸收量85%的伤害\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"3CTbOZ35bPMXW6C6\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_503/h_196/50364/878729/2025/8/2/684406.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"503px\",\"height\":\"196px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"霜花→\"},{\"text\":\"吸收等量伤害，持续期间攻击力上升40%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"Bb0PSX0ot8PUIqhD\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_489/h_189/50364/878729/2025/8/2/109330.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"489px\",\"height\":\"189px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"bold\":true,\"text\":\"免伤类\"}]}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"无敌→\"},{\"text\":\"免疫所有伤害\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"WldfbYatxZAuKFeH\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_150/50364/878729/2025/8/2/432024.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"500px\",\"height\":\"150px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"纸人守护→\"},{\"text\":\"受到攻击时，消耗一层使伤害额外降低35%，最多叠加五层\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ngfAXj8yBELW4H7M\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_493/h_237/50364/878729/2025/8/2/723984.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"493px\",\"height\":\"237px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"bold\":true,\"text\":\"行动条相关：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"提琴颂→\",\"bold\":true},{\"text\":\"免疫行动条击退/偷取效果，回合结束时增加其他队友5%行动进度\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"出现：幻音千明\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"riCaB8ld0f6uVmTS\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_491/h_234/50364/878729/2025/8/2/599573.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"491px\",\"height\":\"234px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"免疫相关：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"免疫→\",\"bold\":true},{\"text\":\"不会被附加任何减益，免疫增加冷却与行动条击退\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"GRf77nHWIc65D2Un\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_519/h_206/50364/878729/2025/8/2/151237.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"519px\",\"height\":\"206px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"梦寐→\"},{\"text\":\"被附加减益时，消耗一层避免，最多叠加三层\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"tqNTBQ3bxG1z79wA\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_505/h_193/50364/878729/2025/8/2/655305.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"505px\",\"height\":\"193px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"备份→\"},{\"text\":\"有减益效果的友方行动前，消耗一层净化三个减益效果，并附加一层数据流；最多叠加6层，不可被驱散\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"oju37CEWtr0rMRS1\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_488/h_317/50364/878729/2025/8/2/822399.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"488px\",\"height\":\"317px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"bold\":true,\"text\":\"增伤相关：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"数据流→\",\"bold\":true},{\"text\":\"每层提升2.5%伤害及2.5点速度，最高叠加12层，不可被驱散\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"vezTVF9C1IbV5iOl\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_499/h_228/50364/878729/2025/8/2/264122.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"499px\",\"height\":\"228px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"bold\":true,\"text\":\"技能联动相关：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"蝰蛇：蛇鳞→\",\"bold\":true},{\"text\":\"战斗开始获得两层，使用普攻时获得一层；叠加4层时，下次反击改为使用终结技\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"9f7fkBFUppJ4chyj\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_496/h_233/50364/878729/2025/8/2/604040.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"496px\",\"height\":\"233px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"提亚马特：终焉形态→\"},{\"text\":\"拥有时改变形态，期间每次行动对敌方全体造成自身生命上限15%的伤害并额外造成自身生命上限13%的真实伤害，回复总计伤害量20%的生命。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"每回合结束时失去2层浴血，后续每回合失去层数翻倍，归零时退出该形态；此效果不可被驱散\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"YPXModicZk1BmwH4\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_509/h_445/50364/878729/2025/8/2/141940.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"509px\",\"height\":\"445px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"罗喉：忿火→\"},{\"text\":\"每层提升自身5%的防御，最多叠加12层，不可被驱散。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"其他友方攻击后，罗睺有50%概率消耗一层忿火进行协战。触发时达到4层，将该队友的一个减益效果转移至目标；触发时达到6层，可额外消耗一层再转移一个减益效果；触发时达到8层，自身每比敌方高4%防御，伤害结果+1%，最多+40%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"3t2HOf5POqCh9Dy9\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_501/h_663/50364/878729/2025/8/2/446841.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"501px\",\"height\":\"663px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"安德鲁：怒震→\"},{\"text\":\"每层使终结技额外提升16%最终伤害，最多叠加10层；触发后移除此效果；不可被驱散\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"YHjzFZQ905IN3xBs\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_494/h_286/50364/878729/2025/8/2/510540.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"494px\",\"height\":\"286px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"bold\":true,\"text\":\"◆红色图标\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"基础减益效果：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"这里我们以基础增益相反效果来定义\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"攻击下降→\",\"bold\":true},{\"text\":\"攻击下降40%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"SEYWNmJlphqKl9Me\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_519/h_156/50364/878729/2025/8/2/698126.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"519px\",\"height\":\"156px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"防御下降→\"},{\"text\":\"防御下降60%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"180fygoHQtLrcDht\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_511/h_151/50364/878729/2025/8/2/467515.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"511px\",\"height\":\"151px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"速度下降→\"},{\"text\":\"速度降低30%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"cOB7yC9Uqt4bWxyE\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_517/h_166/50364/878729/2025/8/2/519812.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"517px\",\"height\":\"166px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"暴击率下降→\"},{\"text\":\"暴击率下降30%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"mag60bAWRx4TBN7m\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_525/h_164/50364/878729/2025/8/2/15003.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"525px\",\"height\":\"164px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"除了这几个外还有一个基础相关增益\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"抵抗下降→\",\"bold\":true},{\"text\":\"效果抵抗降低40%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"S37NCzC3qBKYfqVS\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_501/h_152/50364/878729/2025/8/2/450222.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"501px\",\"height\":\"152px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"bold\":true,\"text\":\"控制相关：\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"text\":\"硬控类\",\"bold\":true}]}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"眩晕→\"},{\"text\":\"无法行动\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"tVCeZCt2Ih169mkx\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_510/h_165/50364/878729/2025/8/2/203855.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"510px\",\"height\":\"165px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"冰冻→\"},{\"text\":\"无法行动，无法被拉条\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"mXFVp7n6fd0QFgUW\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_502/h_196/50364/878729/2025/8/2/509936.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"502px\",\"height\":\"196px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"深度冻结→\"},{\"text\":\"无法行动，无法被拉条；回合开始时生命值低于50%，则延长一回合，该效果仅触发一次\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"F691ScX9a4PYlaof\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_494/h_320/50364/878729/2025/8/2/255950.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"494px\",\"height\":\"320px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"睡眠→\"},{\"text\":\"无法行动，受伤时解除；若受伤解除，则此次伤害提高25%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"T9JVEMijhvqUtLhy\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_494/h_236/50364/878729/2025/8/2/841912.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"494px\",\"height\":\"236px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"bold\":true,\"text\":\"软控类\"}]}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"嘲讽→\"},{\"text\":\"对嘲讽目标释放普攻，无法进行其他额外行动\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"loMBaw8uDqohrQuG\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_490/h_188/50364/878729/2025/8/2/762077.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"490px\",\"height\":\"188px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"沉默→\"},{\"text\":\"只能释放普攻\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"fCO3lyJJYevd6Ist\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_490/h_153/50364/878729/2025/8/2/640497.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"490px\",\"height\":\"153px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"bold\":true,\"text\":\"限制类\"}]}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"禁止治疗→\"},{\"text\":\"无法被治疗\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"HkhGM5782EMg8h0o\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_508/h_160/50364/878729/2025/8/2/959834.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"508px\",\"height\":\"160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"闭锁→\"},{\"text\":\"不会被附加任何增益\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"UIvYzqljIJJlqy9p\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_156/50364/878729/2025/8/2/22127.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"500px\",\"height\":\"156px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"遗忘→\"},{\"text\":\"所有被动效果失效\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ZKHgfryyHn2nK1YR\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_494/h_150/50364/878729/2025/8/2/752886.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"494px\",\"height\":\"150px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"bold\":true,\"text\":\"增伤相关：\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"text\":\"通用类\",\"bold\":true}]}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"易伤→\"},{\"text\":\"受到伤害提升30%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"3WggBfSoyIpeCxIP\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_519/h_157/50364/878729/2025/8/2/888897.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"519px\",\"height\":\"157px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"梦魇→\"},{\"text\":\"受到伤害提升15%；攻击者恢复伤害量15%的生命\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"OTM42ckbkIpAIVX4\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_499/h_237/50364/878729/2025/8/2/650224.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"499px\",\"height\":\"237px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"残蚀→\"},{\"text\":\"受到暴击伤害时，消耗1层，额外附加攻击方60%攻击的真实伤害，并拉条攻击方6%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"pwwMvVVL3ytTjx7p\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_504/h_363/50364/878729/2025/8/2/815456.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"504px\",\"height\":\"363px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"bold\":true,\"text\":\"普攻类\"}]}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"刃心花→\"},{\"text\":\"受到的普攻伤害额外增加15%；作为主目标被暴击时，敌方荼蘼会使用普攻追击\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"gywWjjrWWCN4P4UM\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_505/h_285/50364/878729/2025/8/2/649607.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"505px\",\"height\":\"285px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"bold\":true,\"text\":\"暴击类\"}]}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"遗言→\"},{\"text\":\"被暴击率+7%，受到的暴击伤害提升7%，最多叠加4层\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"5EmCAozTzYeq3FXs\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_509/h_238/50364/878729/2025/8/2/638442.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"509px\",\"height\":\"238px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"bold\":true,\"text\":\"增减伤一体相关：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯：骇入进度/骇入→\",\"bold\":true},{\"text\":\"每层提升5%受到的伤害，额外降低10%造成伤害，最多叠加三层；叠加三层时，转化为两回合骇入\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"拥有骇入时无法被附加骇入进度，提升25%受到伤害，额外降低40%造成伤害，不可被驱散\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"wEFTNLLr2zoDaX1a\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_493/h_628/50364/878729/2025/8/2/468648.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"493px\",\"height\":\"628px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"柯洛罗：锁链束缚→\"},{\"text\":\"受到柯洛罗造成的伤害提升30%；对柯洛罗造成的伤害额外降低30%的\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"zy8WgMQOjVocLJMq\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_495/h_236/50364/878729/2025/8/2/258620.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"495px\",\"height\":\"236px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"bold\":true,\"text\":\"持续伤害相关：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"持续伤害→\",\"bold\":true},{\"text\":\"回回合开始时受到最大生命值百分比的真实伤害\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"cAhYGkjjgUqeEq7J\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_509/h_198/50364/878729/2025/8/2/425368.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"509px\",\"height\":\"198px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"流血→\"},{\"text\":\"回合开始时受到附加者攻击100%的间接伤害\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"q7oFPnxSWKNzGs40\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_501/h_200/50364/878729/2025/8/2/195271.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"501px\",\"height\":\"200px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_494/h_253/50364/878729/2025/8/2/545120.jpg",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_503/h_724/50364/878729/2025/8/2/90131.jpg",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_419/50364/878729/2025/8/2/783180.jpg"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 2,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 685541,
+      "name": "蚀心暗狩·罗魍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/842596.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 685537,
+      "name": "恶灵摇滚·桑提克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/321523.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683085,
+      "name": "静默挽歌·奈薇忒 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1662/h_940/50364/842288/2025/10/17/607708.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683357,
+      "name": "明光猎手·光狩谛听 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1664/h_940/50364/842288/2025/10/17/109281.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 677619,
+      "name": "幽翎爵女·逆翎",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/28/759667.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675001,
+      "name": "永夜明火·夜离",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/807765.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678704,
+      "name": "巡洄漫音·水生绫",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/459884.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675637,
+      "name": "破却宣言·莉拉姆",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1084/50364/664163/2025/7/30/359430.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678705,
+      "name": "千面烬相·柯卡尔迪",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/565969.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675301,
+      "name": "忘忧梦火·芙蕾雅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/7/27/230962.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675604,
+      "name": "二重典贷·宁芙涅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/812041.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675602,
+      "name": "笼潮·贝兹比",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/658875.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675284,
+      "name": "哨影猎手·谛听",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/26/153688.png",
+      "jump_url": ""
+    },
+    {
+      "id": 676057,
+      "name": "永恒沉眠·缬草",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/4/48051.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675689,
+      "name": "幻影骇客·克洛斯",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/30/107101.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675768,
+      "name": "爆裂甜心·莉露摩卡",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/7/31/425722.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675883,
+      "name": "末日铁花·荼蘼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/410192.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675994,
+      "name": "厄影修罗·罗喉",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/3/735401.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 676257,
+      "name": "幻琴之音·幻音千明",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/8/62083.jpg",
+      "jump_url": ""
+    }
+  ]
+}

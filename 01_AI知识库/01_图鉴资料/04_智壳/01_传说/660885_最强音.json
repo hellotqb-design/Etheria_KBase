@@ -1,0 +1,173 @@
+{
+  "id": 660885,
+  "kind": "zhike",
+  "name": "最强音",
+  "entryName": "最强音",
+  "rarityGroup": "传说",
+  "starRarity": "★★★★",
+  "role": "治疗型",
+  "stats": {
+    "生命": "6188",
+    "攻击": "296",
+    "防御": "162",
+    "速度": "40"
+  },
+  "skills": [
+    {
+      "skillId": "660885-skill-1",
+      "order": 1,
+      "section": "技能",
+      "name": "最强音（已觉醒）",
+      "description": "冷却时间：2回合\n群疗\n每次本体异格者治疗时，储存本体异格者35%治疗量以及70%过量治疗量。本体行动前，若存在血量百分比低于60%的友方单位，则释放储存的全部治疗量平均治疗满足条件的所有友方单位。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "涌泉"
+      ],
+      "other": [
+        "涌泉 4/8/12",
+        "生命值+10%/+25%/+45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾驰"
+      ],
+      "other": [
+        "疾驰4/8",
+        "速度值+8%/+20%/+35%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "治愈"
+      ],
+      "other": [
+        "治愈 4/8",
+        "生命值+10%/+10%;治疗效果提升25%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "奋进"
+      ],
+      "other": [
+        "奋进 4/8",
+        "防御力+10%/+10%；受到攻击后，增加10%的行动进度"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "时光驾驭"
+      ],
+      "other": [
+        "时光驾驭 6/12",
+        "效果命中+18%/+18%；\n回合开始时，有35%的概率使异格者所有技能冷却减少1回合"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "浴血之躯"
+      ],
+      "other": [
+        "浴血之躯 6/12",
+        "效果抵抗+18%/+18%；\n回合内受到累计大于20%最大生命值的伤害时，使超出的伤害额外降低55%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "巨壁屏障"
+      ],
+      "other": [
+        "巨壁屏障 6",
+        "防御力+25%，效果抵抗+20%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "进化荫庇"
+      ],
+      "other": [
+        "进化荫庇 6",
+        "治疗效果+12%，效果抵抗+20%"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★★",
+    "定位": "治疗型",
+    "生命": "6188",
+    "攻击": "296",
+    "防御": "162",
+    "速度": "40"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/664163/2025/8/17/249969.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/115316.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/306212.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/824266.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/972828.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/317923.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/383078.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/45112.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/486048.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/840853.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/910856.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/914120.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/968633.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2782/h_2951/50364/842288/2026/1/11/708858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2784/h_3251/50364/842288/2026/1/11/832973.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2896/h_3297/50364/842288/2026/1/11/955923.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3103/h_3029/50364/842288/2026/1/11/936965.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_343/h_364/50364/43758/2024/9/25/982532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_418/h_386/50364/43758/2024/9/25/539847.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_441/h_380/50364/43758/2024/9/25/18867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/471858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/589204.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/589204.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/45112.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/486048.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/877809.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/43758/2024/9/25/444616.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/304300.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/868491.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/517350.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/532694.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/730155.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/788014.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/833837.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/978071.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 660885,
+    "title": "最强音",
+    "url": "https://www.gamekee.com/yise/660885.html",
+    "updatedAt": "2025-05-12T12:34:04.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/660885_最强音.md",
+      "metadata": "03_图鉴词条/660885_最强音.json",
+      "rawApi": "_raw_api/details/660885.json"
+    }
+  }
+}

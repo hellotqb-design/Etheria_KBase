@@ -1,0 +1,44 @@
+{
+  "id": 620276,
+  "kind": "cleanup_candidate",
+  "title": "安德鲁",
+  "domainPath": [
+    "99_待清洗",
+    "01_旧角色或非官方角色图鉴"
+  ],
+  "classifyReason": "页面结构像角色，但不在官方角色图鉴目录",
+  "originalCategory": "03_图鉴词条",
+  "text": "安德鲁\n\n安德鲁",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/entry_icon/3c39c21d-5dc7-4ece-9ad4-16ce330aba3b.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/ff3c4e85-1fa2-4e29-ab2f-0fc00b584e06.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/cccdb72f-c8f1-48e0-b2b5-653f3b288828.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/356befcf-c35d-4650-ab1a-0da993976fb1.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/0a86650a-3e89-4d21-905e-2e912bda3da1.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/82a8458c-d306-4e7a-9926-08e8aec20109.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/01503835-5c0c-43c9-8bf7-e0ec4187fb81.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/po_icon1/a4afb59a-fe0a-44b8-80e3-29b24fbb8099.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/po_icon2/97477d14-69a7-4d8e-8393-a21f7567a3ea.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/po_icon3/eeacca3a-943d-4a1f-9ad5-eac6e36d17ab.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/po_icon4/ac673557-3012-455f-9639-9b8ad1c19bf1.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/po_icon5/ef82e59b-f787-49cc-b971-022349ac8e36.png"
+  ],
+  "source": {
+    "pageId": 620276,
+    "title": "安德鲁",
+    "url": "https://www.gamekee.com/yise/620276.html",
+    "updatedAt": "2024-04-18T09:20:49.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620276_安德鲁.md",
+      "metadata": "03_图鉴词条/620276_安德鲁.json",
+      "rawApi": "_raw_api/details/620276.json"
+    }
+  }
+}

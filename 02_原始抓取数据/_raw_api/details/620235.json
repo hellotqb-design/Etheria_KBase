@@ -1,0 +1,565 @@
+{
+  "id": 620235,
+  "game_id": 50364,
+  "entry_id": 147885,
+  "uid": 43758,
+  "type": 4,
+  "title": "克洛斯",
+  "tag": "2",
+  "created_at": 1713430249,
+  "updated_at": 1757320385,
+  "updated_uid": 664163,
+  "comment_at": 0,
+  "last_at": 1757320385,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/223193.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/a670cd21-0747-4ed7-aa51-c7ae23a42b12.png,",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 11216,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "四川省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 1,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 23,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 620235,
+  "content": "",
+  "content_json": "[{\"key\":\"0.101474766777625546\",\"type\":\"illustrated-book\",\"data\":[{\"key\":\"0.7dba02aa5fe45\",\"type\":\"tab-info\",\"data\":{\"title\":\"\",\"tabList\":[{\"key\":\"0.ecc481237e84\",\"isShowTopDesc\":false,\"isShowBottomDesc\":false,\"title\":\"立绘-1\",\"icon\":\"\",\"content\":[\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/223193.png\",\"//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/a670cd21-0747-4ed7-aa51-c7ae23a42b12.png\"],\"type\":\"image\"},{\"key\":\"0.ab8be2dcb30cd\",\"isShowTopDesc\":false,\"isShowBottomDesc\":false,\"title\":\"立绘-2\",\"icon\":\"\",\"content\":[\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/803474.png\",\"//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/eef54632-d9c6-42bd-b37e-040bfd2792b9.png\"],\"type\":\"image\"}]}},{\"key\":\"0.e126bd29b649\",\"type\":\"character-profile\",\"data\":{\"isShowImageList\":true,\"isShowName\":true,\"isShowAttrList\":true,\"isShowDesc\":true,\"title\":\"基本资料\",\"name\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯\"}]}]},\"descTitle\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"异格者协会评定\"}]}]},\"desc\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"异格者克洛斯，身份编码E02-022230，Re-A芯片状态稳定，未见异常波动。但由于该异格者能力特殊，对其Re-A芯片是否完全正常存疑。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯是十三区高校的「名人」，大名鼎鼎的黑客。她曾入侵过多个组织的网站，也对许多重要组织的服务器发起过攻击，每次都会引发不小的轰动。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"千万不要小看克洛斯的实力，就算放眼整个伊瑟，她都是最优秀的黑客之一。\"}]}]},\"attrList\":[{\"key\":\"0.bfc12efaafc\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"稀有度\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"SSR\"}]}]}},{\"key\":\"0.502fb7b7fb545\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"原质属性\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"虚\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2025/7/14/734885.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"auto\",\"verticalAlign\":\"middle\",\"height\":\"22px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]}},{\"key\":\"0.9099e02f2af1c\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"所属势力\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"十三区高校\"}]}]}},{\"key\":\"0.41ce1002b410d\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"称号\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"幻影骇客\"}]}]}},{\"key\":\"0.14f327b6b15db\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"性别\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"女\"}]}]}},{\"key\":\"0.6eb19b12c8557\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"职业\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"不明\"}]}]}},{\"key\":\"0.580b0d8414465\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"身份识别码\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"E02-022230\"}]}]}},{\"key\":\"0.13653ada819cf\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"ReA芯片状态\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"正常\"}]}]}}],\"imageSize\":{\"width\":130,\"height\":212},\"imagesList\":[],\"imageList\":[\"//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/56784a40-f9be-4730-bef6-19b3dd728254.png\"]}},{\"key\":\"0.216db13300074\",\"type\":\"character-profile\",\"data\":{\"isShowImageList\":false,\"isShowName\":false,\"isShowAttrList\":true,\"isShowDesc\":false,\"title\":\"详细属性\",\"name\":\"名称\",\"descTitle\":\"个人简介\",\"desc\":\"简介内容\",\"attrList\":[{\"key\":\"0.1802d05c8a5bf\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"生命\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"10985+4996\"}]}]}},{\"key\":\"0.6782047d8353d\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"攻击\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"869+312\"}]}]}},{\"key\":\"0.aa33b48282498\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"防御\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"754+225\"}]}]}},{\"key\":\"0.f370359a55beb\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"速度\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"128+15\"}]}]}},{\"key\":\"0.8ba1b32428fff\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"暴击率\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"10%\"}]}]}},{\"key\":\"0.74a32aa9449e7\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"暴击伤害\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"150%\"}]}]}},{\"key\":\"0.aa09f8dc13a11\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"效果命中\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"0%+32%\"}]}]}},{\"key\":\"0.b8ebb5b2646b2\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"效果抵抗\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"0%+12%\"}]}]}}],\"imageSize\":{\"width\":\"160px\",\"height\":\"160px\"},\"imagesList\":[]}},{\"key\":\"0.019435f4134b6\",\"type\":\"weapon-info\",\"data\":{\"isShowIcon\":false,\"isShowLabel\":false,\"isShowName\":false,\"isShowDesc\":false,\"isShowTable\":false,\"isShowSkill\":true,\"title\":\"普攻\",\"icon\":\"\",\"label\":\"\",\"name\":\"\",\"desc\":\"\",\"tableList\":[{\"key\":\"0.49157fa56beb\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能升级所需材料\"}]}]},\"colStyle\":[{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"}],\"head\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能1\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能2\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能3\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能4\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级2\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能5\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级3\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能6\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\",\"bold\":true},{\"text\":\"4\",\"color\":\"#272424\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能7\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\",\"bold\":true},{\"text\":\"5\",\"color\":\"#272424\",\"bold\":true}]}]}],\"body\":[[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(20)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(20)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(20)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(20)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]}]]}],\"skillData\":[{\"key\":\"0.41efb006946e7\",\"isShowIcon\":true,\"isShowName\":true,\"isShowDesc\":true,\"isShowMore\":true,\"icon\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/ec552b54-b46d-47b0-8353-0ae55b1e0708.png\",\"name\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"信号接驳 等级5\"}]}]},\"label\":\"\",\"desc\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"冷却时间：\",\"bold\":true},{\"bold\":true,\"text\":\"0\",\"color\":\"rgb(255, 77, 79)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯指挥无人机群组突袭目标；对敌方单体造成\"},{\"text\":\"2\",\"color\":\"rgb(255, 77, 79)\"},{\"text\":\"段\"},{\"text\":\"120%\",\"color\":\"rgb(255, 77, 79)\"},{\"text\":\"伤害，最后一击有\"},{\"text\":\"70%\",\"color\":\"rgb(255, 77, 79)\"},{\"text\":\"概率附加\"},{\"text\":\"1\",\"color\":\"rgb(255, 77, 79)\"},{\"text\":\"层【\"},{\"type\":\"button\",\"id\":\"button-dbd545dcba41d8\",\"key\":\"RICH_TEXT_POPOVER\",\"data\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"骇入进度：每层提升5%受到的伤害，额外降低10%造成的伤害，降低4%速度，最多叠加3层；叠加至3层后克洛斯会在回合结束时消耗所有层数对目标必定附加2回合【骇入!】。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"骇入！：无法被附加【骇入进度】，提升25%受到的伤害，额外降低40%造成的伤害，降低20%速度，不可被净化。\"}]}]},\"children\":[{\"text\":\"骇入进度\"}]},{\"text\":\"】。\"}]}]},\"moreInfo\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"2\",\"color\":\"#ff0000\"},{\"text\":\"\",\"color\":\"#ff0000\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能提升：攻击力\"},{\"text\":\"+25\",\"color\":\"#ff0000\"},{\"text\":\"/攻击力\"},{\"text\":\"+40\",\"color\":\"#ff0000\"},{\"text\":\"/攻击力\"},{\"text\":\"+5%\",\"color\":\"#ff0000\"},{\"text\":\"/攻击力\"},{\"text\":\"+60\",\"color\":\"#ff0000\"},{\"text\":\"/攻击力\"},{\"text\":\"+5%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能提升：伤害系数增加至\"},{\"text\":\"110%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"color\":\"#ff0000\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"3\",\"color\":\"#ff0000\"},{\"text\":\"\",\"color\":\"#ff0000\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能提升：攻击力\"},{\"text\":\"+100\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能提升：附加【骇入进度】概率增加至\"},{\"text\":\"70%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"4\",\"color\":\"#ff0000\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能提升：速度值\"},{\"text\":\"+5\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能提升：伤害系数增加至\"},{\"text\":\"120%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"5\",\"color\":\"#ff0000\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能提升：速度值\"},{\"text\":\"+10\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能提升：【骇入！】中所有效果的数值增加\"},{\"text\":\"5%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]}]},\"moreBtn\":\"查看升级效果\",\"iconSize\":{\"width\":\"60px\",\"height\":\"60px\"}}]}},{\"key\":\"0.ee617b0632131\",\"type\":\"weapon-info\",\"data\":{\"isShowIcon\":false,\"isShowLabel\":false,\"isShowName\":false,\"isShowDesc\":false,\"isShowTable\":false,\"isShowSkill\":true,\"title\":\"技能\",\"icon\":\"\",\"label\":\"\",\"name\":\"\",\"desc\":\"\",\"tableList\":[{\"key\":\"0.49157fa56beb\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能升级所需材料\"}]}]},\"colStyle\":[{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"}],\"head\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能1\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能2\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能3\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能4\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级2\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能5\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级3\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能6\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\",\"bold\":true},{\"text\":\"4\",\"color\":\"#272424\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能7\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\",\"bold\":true},{\"text\":\"5\",\"color\":\"#272424\",\"bold\":true}]}]}],\"body\":[[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(20)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(20)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(20)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(20)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]}]]}],\"skillData\":[{\"key\":\"0.41efb006946e7\",\"isShowIcon\":true,\"isShowName\":true,\"isShowDesc\":true,\"isShowMore\":true,\"icon\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/801f7075-46e2-4718-be17-b288f6627e26.png\",\"name\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"技术升级 等级5\"}]}]},\"label\":\"\",\"desc\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"冷却时间：\",\"bold\":true},{\"bold\":true,\"text\":\"4\",\"color\":\"rgb(255, 77, 79)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯的无人机张开力场，猫咪影像于其中穿行破坏任何目标；对敌方全体造成\"},{\"text\":\"220%\",\"color\":\"rgb(255, 77, 79)\"},{\"text\":\"伤害，有\"},{\"text\":\"75%\",\"color\":\"rgb(255, 77, 79)\"},{\"text\":\"概率附加\"},{\"text\":\"1\",\"color\":\"rgb(255, 77, 79)\"},{\"text\":\"层【骇入进度】；并有\"},{\"text\":\"80%\",\"color\":\"rgb(255, 77, 79)\"},{\"text\":\"概率偷取目标行动进度平分至全体队友，目标每有\"},{\"text\":\"1\",\"color\":\"rgb(255, 77, 79)\"},{\"text\":\"层【骇入进度】吸取量增加\"},{\"text\":\"10%\",\"color\":\"rgb(255, 77, 79)\"},{\"text\":\"，【骇入！】视为4层。\"}]}]},\"moreInfo\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"2\",\"color\":\"#ff0000\"},{\"text\":\"\",\"color\":\"#ff0000\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能提升：防御力\"},{\"text\":\"+15\",\"color\":\"#ff0000\"},{\"text\":\"/防御力\"},{\"text\":\"+25\",\"color\":\"#ff0000\"},{\"text\":\"/防御力\"},{\"text\":\"+5%\",\"color\":\"#ff0000\"},{\"text\":\"/防御力\"},{\"text\":\"+40\",\"color\":\"#ff0000\"},{\"text\":\"/防御力\"},{\"text\":\"+5%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能提升：伤害系数增加至\"},{\"text\":\"200%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"3\",\"color\":\"#ff0000\"},{\"text\":\"\",\"color\":\"#ff0000\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能提升：防御力\"},{\"text\":\"+70\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能提升：附加【骇入进度】概率增加至\"},{\"text\":\"75%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"4\",\"color\":\"#ff0000\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能提升：效果命中\"},{\"text\":\"+8%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能提升：伤害系数增加至\"},{\"text\":\"220%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"5\",\"color\":\"#ff0000\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能提升：效果命中\"},{\"text\":\"+12%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能提升：吸取行动进度概率增加至\"},{\"text\":\"80%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]}]},\"moreBtn\":\"查看升级效果\",\"iconSize\":{\"width\":\"60px\",\"height\":\"60px\"}}]}},{\"key\":\"0.e8d7896844901\",\"type\":\"weapon-info\",\"data\":{\"isShowIcon\":false,\"isShowLabel\":false,\"isShowName\":false,\"isShowDesc\":false,\"isShowTable\":false,\"isShowSkill\":true,\"title\":\"必杀/终结技\",\"icon\":\"\",\"label\":\"\",\"name\":\"\",\"desc\":\"\",\"tableList\":[{\"key\":\"0.49157fa56beb\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能升级所需材料\"}]}]},\"colStyle\":[{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"},{\"align\":\"left\"}],\"head\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能1\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能2\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能3\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能4\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级2\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能5\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级3\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能6\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\",\"bold\":true},{\"text\":\"4\",\"color\":\"#272424\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能7\",\"bold\":true}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\",\"bold\":true},{\"text\":\"5\",\"color\":\"#272424\",\"bold\":true}]}]}],\"body\":[[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(20)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(20)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(20)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(20)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"36.63px\",\"verticalAlign\":\"middle\",\"height\":\"35.59px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"(15)\"}]}]}]]}],\"skillData\":[{\"key\":\"0.41efb006946e7\",\"isShowIcon\":true,\"isShowName\":true,\"isShowDesc\":true,\"isShowMore\":true,\"icon\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/6d55928e-fc01-4b68-b846-94e30b5e3f3d.png\",\"name\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"格式化 等级 5\"}]}]},\"label\":\"\",\"desc\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"冷却时间：\",\"bold\":true},{\"bold\":true,\"text\":\"4\",\"color\":\"rgb(255, 77, 79)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯在敌方坐标处投射猫咪的电子脉冲弹，引爆并醒目留下自己的标志涂鸦;对敌方全体造成260%伤害，有100%概率附加2回合【\"},{\"type\":\"button\",\"id\":\"button-2d0cbb3bbf08d8\",\"key\":\"RICH_TEXT_POPOVER\",\"data\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"防御下降：防御下降60%。\"}]}]},\"children\":[{\"text\":\"防御下降\"}]},{\"text\":\"】，且有100%概率为主目标附加2层，其余目标附加1层【骇入进度】。\"}]}]},\"moreInfo\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"2\",\"color\":\"#ff0000\"},{\"text\":\"\",\"color\":\"#ff0000\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能提升：生命值\"},{\"text\":\"+25\",\"color\":\"#ff0000\"},{\"text\":\"/生命值\"},{\"text\":\"+400\",\"color\":\"#ff0000\"},{\"text\":\"/生命值\"},{\"text\":\"+5%\",\"color\":\"#ff0000\"},{\"text\":\"/生命值\"},{\"text\":\"+600\",\"color\":\"#ff0000\"},{\"text\":\"/生命值\"},{\"text\":\"+5%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能提升：伤害系数增加至\"},{\"text\":\"240%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"color\":\"#ff0000\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"3\",\"color\":\"#ff0000\"},{\"text\":\"\",\"color\":\"#ff0000\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能提升：生命值\"},{\"text\":\"+1000\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能提升：附加【骇入进度】和【防御下降】概率增加至\"},{\"text\":\"100%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"4\",\"color\":\"#ff0000\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能提升：生命值\"},{\"text\":\"+5%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能提升：伤害系数增加至\"},{\"text\":\"260%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"等级\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"5\",\"color\":\"#ff0000\"},{\"text\":\"\",\"color\":\"#ff0000\"},{\"text\":\"：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"潜能提升：生命值\"},{\"text\":\"+10%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能提升：技能冷却减少\"},{\"text\":\"1\",\"color\":\"#ff0000\"},{\"text\":\"回合\"}]}]},\"moreBtn\":\"查看升级效果\",\"iconSize\":{\"width\":\"60px\",\"height\":\"60px\"}}]}},{\"key\":\"N8lUrxYZ3jjeZLpj\",\"type\":\"upgrade-info\",\"data\":{\"title\":\"潜能\",\"isShowTabs\":false,\"tabs\":[],\"upgradeList\":[{\"key\":\"0.685c02bd78f9\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"45px\",\"verticalAlign\":\"middle\",\"height\":\"45px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"基础属性提升\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"基础攻击力、防御力和生命值提升\"},{\"text\":\"5%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]}]},{\"key\":\"0.e7d0741f09395\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"45px\",\"verticalAlign\":\"middle\",\"height\":\"45px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"效果命中提升\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"效果命中+\"},{\"text\":\"12%\",\"color\":\"#ff0000\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]}]},{\"key\":\"0.c824ad3488246\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"45px\",\"verticalAlign\":\"middle\",\"height\":\"45px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"基础属性提升\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"基础攻击力、防御力和生命值提升\"},{\"text\":\"5%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]}]},{\"key\":\"0.e7d0741f09395\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"45px\",\"verticalAlign\":\"middle\",\"height\":\"45px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"效果抵抗提升\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"效果抵抗\"},{\"text\":\"+12%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]}]},{\"key\":\"0.b5b0e217a380b\",\"isShowTitle\":true,\"isShowContent\":true,\"isShowOther\":true,\"filterTabKey\":null,\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png\",\"href\":\"\",\"alt\":\"\",\"style\":{\"width\":\"45px\",\"verticalAlign\":\"middle\",\"height\":\"45px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]},\"content\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"伤害提升和伤害减免\",\"bold\":true}]}]}],\"other\":[{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"造成伤害额外提升\"},{\"text\":\"10%\",\"color\":\"#ff0000\"},{\"text\":\"，受到伤害额外降低\"},{\"text\":\"10%\",\"color\":\"#ff0000\"},{\"text\":\"\"}]}]},{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]}]}]}},{\"key\":\"0.8fb62f21e416a\",\"type\":\"skill-info\",\"data\":{\"title\":\"异格档案\",\"isShowTabs\":true,\"tabs\":[{\"key\":\"0.b059cc403d5a6\",\"label\":\"记忆片段Ⅰ\"},{\"key\":\"0.7fdcf39cb64dd\",\"label\":\"记忆片段Ⅱ\"},{\"key\":\"0.ff1201a5ee3a8\",\"label\":\"记忆片段Ⅲ\"}],\"skillList\":[{\"key\":\"0.1c98b1326610d\",\"isShowIcon\":false,\"isShowName\":false,\"isShowDesc\":true,\"isShowMore\":false,\"filterTabKey\":\"0.b059cc403d5a6\",\"icon\":\"\",\"name\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"记忆片段|\"}]}]},\"label\":\"\",\"desc\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"【别以为我不知道！】\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"嘿，别以为我不知道你在偷看！说的就是你，超链者！\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"怎么，被吓了一跳？没见过连记忆片段都能篡改的异格者？那么恭喜，从现在开始，你见识到了。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"虽说记忆片段这种东西，基本都是因为异格者信任你才愿意让你查看的，但是我可不会这么做。毕竟我的记忆里有不少惊天大秘密，怎么能随随便便给别人看呢？不过你也别担心，我当然也会通过这些被修改过的记忆片段，告诉你一些你能知道的事情——当然，前提是我愿意！\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"让我想想，该告诉你点什么呢？嗯，就先从这份资料里没写到的地方说起吧。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"我讨厌十三区高校，也和康坦士校长之间的关系不怎么样，这不是什么秘密。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"那个老头子建立起「十三区高校」，但与其说这东西是学校，不如说更像是个把怪家伙集中起来、统一管理的大号小黑屋。这里到处都是麻烦的规矩，校规加起来快比辞典厚了，也就风见一宵那种人能把它一条不差地全背下来。我可不想被那种规矩束缚，所以，我每天都在想办法打破规矩。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"不过，我并不完全讨厌校长。他虽然循规蹈矩，但本身的想法不坏，建造那所讨厌的学校也可能是……我不清楚，反正，老头子或许有他自己的理由吧。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"这次就先说这些，等我想好了下次要说什么，再告诉你。\"}]}]},\"moreInfo\":\"\",\"moreBtn\":\"查看升级效果\",\"iconSize\":{\"width\":\"60px\",\"height\":\"60px\"}},{\"key\":\"0.ad923e74cde51\",\"isShowIcon\":false,\"isShowName\":false,\"isShowDesc\":true,\"isShowMore\":false,\"filterTabKey\":\"0.7fdcf39cb64dd\",\"iconSize\":{\"width\":67,\"height\":70},\"icon\":\"\",\"name\":\"\",\"label\":\"\",\"desc\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"【别小看我的实力！】\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"嘿，我想好这次应该告诉你点什么了，就来说说我的「光荣事迹」好了！\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"先说好，你可要保密啊！这可是货真价实的秘密。如果不是因为「侧写」那一栏里写的东西又少又无聊，我才不会轻易把这些事和别人说呢。毕竟，只靠那点抠抠索索的文字，根本没法让你清楚地认识到我有多厉害！\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"我干过最开心的一件事，就是入侵了DOKI娱乐的官网，把他们的网站图标改得一团糟。谁让他们那个古板又严肃的老板总是仗着权势欺负蜃都的人们呢！他的所作所为或许被隐藏的很好，可是这种程度的伪装，根本骗不过我。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"光是入侵官网肯定不够解气，我还入侵了他们推出的某著名五字游戏《XX:XXX》的服务器，取消了所有账号的体力上限。虽然我做的那点小改动很快就被修复了，但那些家伙的技术水平实在是有限，至今都没发现入侵他们服务器的是我。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"剩下诸如此类的事情，还有很多，你要是感兴趣，可以在互联网的技术论坛上搜搜我，我可是个名人呢！\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"对了，要是你能保守这个秘密，那下一次，我就把我最在意的一个秘密告诉你。\"}]}]},\"moreInfo\":\"\",\"moreBtn\":\"查看升级效果\"},{\"key\":\"0.021e73c84bff8\",\"isShowIcon\":false,\"isShowName\":false,\"isShowDesc\":true,\"isShowMore\":false,\"filterTabKey\":\"0.ff1201a5ee3a8\",\"iconSize\":{\"width\":67,\"height\":70},\"icon\":\"\",\"name\":\"\",\"label\":\"\",\"desc\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"【别以为我不会变得更强！】\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"上回说好了的，这次，我要告诉你我最重要的秘密之一。这个秘密就是，我也有过失败，准确的说，我曾经输给过某个人。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"那是一场黑客组织之间举办的网络安全攻防赛，优先攻下对方服务器的人就是胜者。凭我的实力，轻轻松松就打进了决赛，而在决赛中做我的对手的，是一个之前从没在网上听说过的神秘黑客，「M」。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"「M」的水平连我都不得不承认十分厉害，我和那家伙互不相让，大战八百回合···嗯，其实也没有，还是对你说实话好了。「M」的实力绝对不可小觑，那家伙几分钟内就攻破了我引以为傲的防御，而那时候，我甚至还没摸到「M」的漏洞。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"这件事给了我不小的打击，在那之前，我一直以为自己的黑客技术已经处在了整个伊瑟的顶端，但那时我才明白，自己的手段在真正厉害的人看来，只不过是小打小闹。但是，也别因此就小看我！我会不断精进自己的技术，总有一天，我会战胜那个神秘的「M」，让那家伙也尝尝当我手下败将的滋味！\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"这只是我诸多秘密中的一个，我猜，你一定还很好奇其他的吧？或许哪天等我来兴致了，就把它们告诉你。当然，你也可以努努力，变成强到足以打败我的黑客，把我的秘密都挖出来。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"我很期待，伊瑟能多一个和我平起平坐的强大黑客！\"}]}]},\"moreInfo\":\"\",\"moreBtn\":\"查看升级效果\"}]}},{\"key\":\"0.1049e8819bc1f\",\"type\":\"character-profile\",\"data\":{\"isShowImageList\":true,\"isShowName\":true,\"isShowAttrList\":true,\"isShowDesc\":true,\"title\":\"推荐搭配\",\"name\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐\"}]}]},\"descTitle\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"角色简评\"}]}]},\"desc\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"【战术定位】\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"PVE万金油破甲手（适用90%副本），同时具备：偷行动条、群体破甲、光环型增伤、减伤\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【养成建议】\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"┌─────────┬────────────┐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"| 技能优先级 | 111即可成型（省资源）|\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"| 源器配置 | 右三主属性堆效果命中 |\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"└─────────┴────────────┘\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【对局表现】\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\" 重构兵祸、 多琪、炼狱津等副本破甲实现增伤速刷\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"（当前版本仍为T0级工具人）\"}]}]},\"attrList\":[{\"key\":\"0.40c2363e9c1fe\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐源器\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"12疾驰+8时光+6讯光天击\"}]}]},\"isOneLine\":true,\"isWapOneLine\":true},{\"key\":\"0.01e16842bb3ed\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐智壳\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"胡狼\"}]}]},\"isOneLine\":true,\"isWapOneLine\":true},{\"key\":\"0.607ed15092015\",\"title\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐攻略\"}]}]},\"content\":{\"type\":\"simpleEditor\",\"data\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"待补充...\"}]}]},\"isOneLine\":true,\"isWapOneLine\":true}],\"imageSize\":{\"width\":\"160px\",\"height\":\"160px\"},\"imagesList\":[],\"imageList\":[\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/842288/2025/7/18/85952.png\"]}}],\"children\":[{\"text\":\"\"}]},{\"key\":\"Cz5QDzWMYTA07Mqm\",\"type\":\"illustrated-book\",\"data\":[],\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/223193.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/a670cd21-0747-4ed7-aa51-c7ae23a42b12.png,"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 43758,
+    "username": "阿拉蕾",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "description": "",
+    "follow_num": 48,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 1,
+    "content_at": 23846988,
+    "content_num": 7798,
+    "read_num": 26404211,
+    "like_num": 2567
+  },
+  "update_user": {
+    "uid": 664163,
+    "username": "代理人LS",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 157597,
+      "username": "KEE五号姬",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+      "last_ip_area": "江苏省",
+      "last_login_device_num": 2
+    },
+    {
+      "uid": 355468,
+      "username": "卷卷qwqqqq",
+      "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/ceDZzkfdB7pkgbB5I83XiciaSSWvtRsicgh9yicZy4NRLiceWS1mWatuF4zHPva65olDc8AnDibw5RJtGAcPx5LoqHTA/132",
+      "last_ip_area": "陕西省",
+      "last_login_device_num": 1
+    },
+    {
+      "uid": 664163,
+      "username": "代理人LS",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+      "last_ip_area": "上海",
+      "last_login_device_num": 1
+    },
+    {
+      "uid": 842288,
+      "username": "白免亦是白兔",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+      "last_ip_area": "广西",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维亚",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 705988,
+      "name": "莎朗",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 703540,
+      "name": "络薇",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 703532,
+      "name": "魁洛",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 701106,
+      "name": "玄骐",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 698206,
+      "name": "奥萨尔",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 698203,
+      "name": "艾罗安",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 694654,
+      "name": "玄骊",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 694638,
+      "name": "吉安克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 693379,
+      "name": "克索司",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 693377,
+      "name": "伯诺瓦",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 689795,
+      "name": "斐莫莉安",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 687307,
+      "name": "千羽",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 687309,
+      "name": "佩希思",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 684682,
+      "name": "罗魍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 684676,
+      "name": "桑提克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 682958,
+      "name": "奈薇忒",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 682953,
+      "name": "光狩谛听",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 680764,
+      "name": "瑞玛丽",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678715,
+      "name": "水生绫",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678658,
+      "name": "柯卡尔迪",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 677340,
+      "name": "逆翎",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675256,
+      "name": "宁芙涅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675259,
+      "name": "贝兹比",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 674460,
+      "name": "莉拉姆",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 668709,
+      "name": "夜离",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 674565,
+      "name": "拂秋",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 674562,
+      "name": "拿鹤",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+      "jump_url": ""
+    },
+    {
+      "id": 674003,
+      "name": "赫同",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 660858,
+      "name": "芙蕾雅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 665395,
+      "name": "渺渺",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 660865,
+      "name": "莉露摩卡",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 660868,
+      "name": "荼蘼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 660869,
+      "name": "月夜见",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 660872,
+      "name": "博尔涅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 660874,
+      "name": "米娅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 645156,
+      "name": "维罗妮卡",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 645088,
+      "name": "赫妍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 645068,
+      "name": "席琳丝",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 639249,
+      "name": "多琪",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 639263,
+      "name": "彼安汀",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 639260,
+      "name": "梨梨",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 639252,
+      "name": "罗喉",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 639265,
+      "name": "凌罗",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 620298,
+      "name": "赫尔基德",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 620279,
+      "name": "弥瑟亚",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 620290,
+      "name": "莉莉斯",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 620285,
+      "name": "海因里希",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 620266,
+      "name": "夏妲",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 619780,
+      "name": "炼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 620288,
+      "name": "缇亚马特",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 620257,
+      "name": "孽女善雅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 620283,
+      "name": "柯洛罗",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+      "jump_url": ""
+    }
+  ]
+}

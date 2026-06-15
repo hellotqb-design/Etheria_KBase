@@ -1,0 +1,220 @@
+{
+  "id": 684596,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 789037,
+  "type": 4,
+  "title": "《伊瑟》SS2赛季战斗平衡性调整--解读【只说重点】",
+  "tag": "2",
+  "created_at": 1764738769,
+  "updated_at": 1764738769,
+  "updated_uid": 0,
+  "comment_at": 1764738769,
+  "last_at": 1764738769,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "韶华根据自己的理解，为大家解读一下新赛季SS2的平衡性调整◆异格者相关官方解释，以下所有数值改动均列举异格者满级和技能满级时（Lv5）的最终效果变动。SSR「猩红铁幕·赫尔基德」【帷幕】（增益效果）▷新增被动<蔑视>：攻击低于赫尔基德的单位无法对其造成暴击。▷【帷幕】效果消失时提升拥有者15%→20",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/789037/2025/11/3/7303.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_607/50364/789037/2025/11/3/554708.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_605/50364/789037/2025/11/3/997368.png",
+  "model_ids": "",
+  "like_count": 1,
+  "unlike_count": 0,
+  "view_count": 1653,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "山东省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 621726,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 50364,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1764741433,
+  "server_id": 0,
+  "image_num": 14,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 684596,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":\"ZjppuENZldnHZnZr\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/789037/2025/11/3/7303.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1920px\",\"height\":\"1080px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"韶华根据自己的理解，为大家解读一下新赛季SS2的平衡性调整\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"◆异格者相关\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"官方解释，以下所有数值改动\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"均列举\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"异格者满级\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"和\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"技能满级时（Lv5）\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的最终效果变动。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"G4gAl4Hf2zb03WDr\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_607/50364/789037/2025/11/3/554708.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"607px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"SSR「猩红铁幕·赫尔基德」\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【帷幕】（增益效果）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"新增被动<蔑视>：攻击低于赫尔基德的单位无法对其造成暴击。\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷【帷幕】效果消失时提升拥有者\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"15% → 20%\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"行动进度。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【蔑视】\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"应该是专属被动，它的出现让基德大人不会那么脆皮了。\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"QP3uWHwm1ZQ9fJRN\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_605/50364/789037/2025/11/3/997368.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"605px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"SSR「水形之息·米娅」\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟【晴雨虹】（三技能）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"缩短所有减益效果\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"1→2\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"回合（控制效果除外）。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"增强为2回合，相当于直接解除所有减益效果了（墨月延长效果除外\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"Jx1bWYXAUZ4gEjZt\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_605/50364/789037/2025/11/3/513191.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"605px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"SSR「千面烬相·柯卡尔迪」\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟▷基础速度118→122，这下\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"可以飞的更快一些了\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"mZP0Hhf1O8BSt0jz\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_605/50364/789037/2025/11/3/118627.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"605px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"SSR「浴火之凰·炼」\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟凤凰*炼的一系列技能数值提升，韶华认为还是过于保守了。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"再怎样她是首抽的一张卡，是萌新之友。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"希望后续能够进一步加强或者重做。\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ppEJzKX2IX34VSLm\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_604/50364/789037/2025/11/3/920324.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"604px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"SSR「末日铁花·荼蘼」\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【刃心花】（专属减益）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷受到普攻的伤害额外增加\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"15%→20%\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"；持有者作为主目标被暴击时荼蘼会使用普通对其追击，每回合仅出发1次。【狂袭】（一技能）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷对敌方单体造成3段\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"70%→80%\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"伤害，最后一击暴击时有50%概率击退目标8%行动进度。【猎杀盛宴】（三技能）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷先为全体队友附加2回合【暴击率上升】，之后对敌方全体造成3段120%伤害，暴击时有\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"40%→60%\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的概率附加2回合【速度下降】\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"总所周知，荼蘼在PVE里面的强度大家肯定都有所体会。\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"本次调整属于全方面的加强，大招减速概率上调，应该会更容易挂上debuff了。\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"vjpxglQwg2NJdmS8\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1384/h_777/50364/789037/2025/11/3/583453.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1384px\",\"height\":\"777px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"SSR「二重典贷·宁芙涅」\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"本次调整亮点之一\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【溢流霜】（二技能）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷技能逻辑更改为\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"先进行净化，而后平均血量并治疗➡️这是重点\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷宁芙涅净化友方全体各\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"2→3\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"个减益效果，而后平均友方全体的生命百分比，并治疗友方全体，治疗量为目标生命上限的25%。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【极凛寒魄】（三技能）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷宁芙涅为友方全体附加2回合\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【增益效果】\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"及1回合【免疫】，若友方进入战斗时的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"攻击高于防御\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"则附加【攻击上升】，否则附加【防御上升】\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，同时附加2回合等同于自身25%最大生命的【霜花】，该技能对主目标附加的效果持续时间增加1回合。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【霜花】（专属增益）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷吸收等量伤害，持续期间\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"攻击提升40%→造成伤害提升25%。\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"一系列增强，由之前的攻击C的专属辅助，变成了通用辅助，净化数量+1.并且专属增益变成了高贵的伤害提升25%\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"0AUVhpaqFTkJDrKO\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1388/h_778/50364/789037/2025/11/3/335970.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1388px\",\"height\":\"778px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"SSR「笼潮·贝兹比」\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"本次调整亮点之二\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【浪涌】（专属被动）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷敌方异格者每拥有1种减益效果，贝兹比对其造成的伤害提升\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"10%→25%\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，若目标相性被其克制且为技能主目标，则造成的伤害提升\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"30%→40%\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，最多叠加6次。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【奋勇之潮】（三技能）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷贝兹比对敌方全体造成390%伤害，并有100%概率附加2回合【易伤】，每对1个单位造成暴击，则提升自身\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"20%→25%\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"行动进度。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【面板属性】\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷基础速度\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"120→124\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：看数值这次贝兹比的提升幅度不小的样子，如果4个单位全暴击，就可以直接无缝衔接2技能，等实装之后实验一下伤害\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"8zgbrY3KAngWKWEh\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1382/h_775/50364/789037/2025/11/3/464787.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1382px\",\"height\":\"775px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"SSR「幻影骇客·克洛斯」\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"目前作为逆翎下位。在没出逆翎之前，克罗斯还是超级吃香的。目前在无法使用逆翎的副本，克罗斯作为增减伤的辅助，还是当之无畏的首选的。\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"AcNTFEGJH4rBUP0O\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1385/h_774/50364/789037/2025/11/3/673300.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1385px\",\"height\":\"774px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"SSR「静默挽歌·奈薇忒」\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟：增加了大招伤害160%→180%\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"6JWauZKAhNaq8LI8\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1487/h_846/50364/789037/2025/11/3/94436.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1487px\",\"height\":\"846px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"SSR「隐猎·赫妍」\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"新增大招无视防御，期待赫妍秒御三家的表现\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"lo1Qzx3oSgT4tENZ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1487/h_844/50364/789037/2025/11/3/62870.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1487px\",\"height\":\"844px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"SSR「真理迷因·多琪」\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"本次调整亮点之三\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【备份】（专属增益）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷从蓝色效果变为\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"金色效果\",\"color\":\"rgb(255, 184, 0)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷受到减益效果影响的其他友方异格者行动前，消耗1层并净化该单位\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"3个→全部减益效果\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，并附加1层【数据流】。备份上限为6层，不可被驱散。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"再也不怕控制队罚站了，控制队亲妈啊。这下玩控制队的要preban多琪了\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"o4V4Wsb8yorDkoNC\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1386/h_778/50364/789037/2025/11/3/616122.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1386px\",\"height\":\"778px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"SR「鲜血舞步·杜兰铎」\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【刃舞】（二技能）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷技能顺序改变，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"先驱散增益效果，后击退行动进度\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▷对敌方单体造成4段70%伤害，每次攻击有40%概率驱散目标1个增益效果，并有30%概率击退目标25%行动进度。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"更加期待觉醒后的杜兰铎了 \",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"y7bIrbGAvxdCbBsX\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1484/h_842/50364/789037/2025/11/3/769797.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1484px\",\"height\":\"842px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"◆智壳相关\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"以下调整均列举\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"已觉醒智壳技能的最终效果变动。\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"以下为增强\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"「白獠武者」：8%→10%暴击伤害\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"「墨月」：50%→100%效果命中\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"「缄默法则」：CD减至3回合，【虚无】提升60%→100%效果抵抗\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"「噬身之蛇」：伤害提升6%→8%并提升6→8点速度\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"以下仅限pvp中削弱\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"「匠」在PVP模式中，附加的护盾量变为300%自身防御。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"相信大家通过以往的比赛可以看出来防御C带匠的强势爆发期有多猛，赫同可以逆属性砍龙妈，罗睺一个群体技能对面半血。观望一下匠在新赛季的表现吧。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"可以\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"点个关注\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\" 不迷路~~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"不要吝啬您的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"赞赞和收藏\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"哈~~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"韶华会经常分享各种攻略\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/789037/2025/11/3/7303.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_607/50364/789037/2025/11/3/554708.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_605/50364/789037/2025/11/3/997368.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 789037,
+    "username": "韶华",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 16306098,
+    "content_num": 14,
+    "read_num": 52245,
+    "like_num": 18
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 789037,
+      "username": "韶华",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+      "last_ip_area": "山东省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

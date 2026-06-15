@@ -1,0 +1,40 @@
+{
+  "id": 620799,
+  "kind": "yuanqi",
+  "name": "时光驾驭",
+  "entryName": "时光驾驭",
+  "group": "速度/技能冷却类",
+  "effect": "6：效果命中+18%；\n12：效果命中+18%；回合开始时，有35%的概率使异格者所有技能冷却减少1回合",
+  "obtain": "熔断禁区-多琪\n难度关卡：地狱1~4，炼狱",
+  "description": "未有异格者装备",
+  "attributes": {
+    "矩阵效果": "6：效果命中+18%；\n12：效果命中+18%；回合开始时，有35%的概率使异格者所有技能冷却减少1回合",
+    "获取途径": "熔断禁区-多琪\n难度关卡：地狱1~4，炼狱"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_175/50364/43758/2024/3/24/629498.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/354408.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/492723.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/539855.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/886576.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/935767.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620799,
+    "title": "时光驾驭",
+    "url": "https://www.gamekee.com/yise/620799.html",
+    "updatedAt": "2025-05-12T13:54:51.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620799_时光驾驭.md",
+      "metadata": "03_图鉴词条/620799_时光驾驭.json",
+      "rawApi": "_raw_api/details/620799.json"
+    }
+  }
+}

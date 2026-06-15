@@ -1,0 +1,32 @@
+{
+  "id": 678048,
+  "kind": "guide",
+  "title": "【伊瑟】新手RTA入门指南",
+  "domainPath": [
+    "03_攻略参考",
+    "99_综合攻略评测"
+  ],
+  "classifyReason": "攻略评测分类兜底",
+  "originalCategory": "04_新手开荒",
+  "text": "【伊瑟】新手RTA入门指南",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_15002/50364/9000/2025/8/23/369459.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 678048,
+    "title": "【伊瑟】新手RTA入门指南",
+    "url": "https://www.gamekee.com/yise/678048.html",
+    "updatedAt": "2025-09-23T04:16:36.000Z",
+    "sourceFiles": {
+      "markdown": "04_新手开荒/678048_【伊瑟】新手RTA入门指南.md",
+      "metadata": "04_新手开荒/678048_【伊瑟】新手RTA入门指南.json",
+      "rawApi": "_raw_api/details/678048.json"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 620276,
+  "url": "https://www.gamekee.com/yise/620276.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/620276",
+  "title": "安德鲁",
+  "category": "03_图鉴词条",
+  "type": 4,
+  "tag": "2",
+  "entryId": 147921,
+  "gameId": 50364,
+  "createdAt": "2024-04-18T09:20:49.000Z",
+  "updatedAt": "2024-04-18T09:20:49.000Z",
+  "commentCount": 0,
+  "likeCount": 0,
+  "favoriteCount": 0,
+  "viewCount": 1603,
+  "summary": "安德鲁",
+  "textLength": 0,
+  "imageCount": 7,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/entry_icon/3c39c21d-5dc7-4ece-9ad4-16ce330aba3b.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList",
+    "entry-dict"
+  ],
+  "user": {
+    "uid": 43758,
+    "username": "阿拉蕾",
+    "description": ""
+  },
+  "crawledAt": "2026-06-15T03:30:18.055Z"
+}

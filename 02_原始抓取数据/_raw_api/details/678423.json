@@ -1,0 +1,239 @@
+{
+  "id": 678423,
+  "game_id": 50364,
+  "entry_id": 195858,
+  "uid": 789037,
+  "type": 4,
+  "title": "伊瑟异能英雄养成小贴士①",
+  "tag": "2",
+  "created_at": 1758959260,
+  "updated_at": 1760152286,
+  "updated_uid": 0,
+  "comment_at": 1758959260,
+  "last_at": 1758959260,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "伊瑟游玩技巧小贴士①亲爱的超链者，这里由协会为大家分享几个养成小贴士。小贴士偏新人向~为新的超链者保驾护航~~1：前期升级体力分配的建议，以及双倍掉落活动的体力分配建议。首先先跟着系统引导完成对应战斗，重点来了（咳咳，记笔记哈）！那就是当超链者主线过完2-3之后，会开启“超链之证”，跟着里面的任务引",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/2025/9/27/47b83dbc-d0de-40c2-99e0-e1dee830ec8fjpeg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1200/50364/789037/2025/7/30/95007.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_554/h_181/50364/789037/2025/7/30/487640.png",
+  "model_ids": "",
+  "like_count": 1,
+  "unlike_count": 0,
+  "view_count": 4138,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "山东省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 448924,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1758960610,
+  "server_id": 0,
+  "image_num": 10,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 1776615777,
+  "version": "",
+  "content_id": 678423,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ycZ0gEgCOVKxqoTy\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/2025/9/27/47b83dbc-d0de-40c2-99e0-e1dee830ec8fjpeg\",\"alt\":\"小贴士1_250826_简中_500x280\",\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header1\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"伊瑟游玩技巧小贴士\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"①\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"亲爱的超链者，这里由协会为大家分享几个养成小贴士。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"小贴士偏新人向~ 为新的超链者保驾护航~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"1：前期升级体力分配的建议，以及双倍掉落活动的体力分配建议。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"首先先跟着系统引导完成对应战斗，重点来了（咳咳，记笔记哈）！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"那就是当超链者主线过完\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"2-3\",\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"之后，会开启\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“超链之证”\",\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\" ，\"},{\"text\":\"跟着里面的任务引导去做哦，奖励丰富。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"如图所示，“超链之证”的位置图标。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"3CzzCP5Xh4Z4pbyh\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1200/50364/789037/2025/7/30/95007.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"当超链者随着等级不断提升遇到要求等级开启的时候，不要慌，接下来你可以这样做。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"去打-------------\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“凶影追缉”“熔断禁区”“秘闻调查”“源点前哨”\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"它们分别对应\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“智壳副本”“源器副本”“异格者等级经验书”“技能等级材料”\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"Mdr4JSFazntVLyz7\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_554/h_181/50364/789037/2025/7/30/487640.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"以上四个日常挑战副本首通都有奖励哦。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"KUDtw4ccizleFSHc\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_554/h_261/50364/789037/2025/7/30/776556.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳升级会有属性提升，同理异格者升级也会有属性提升。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ZitckkO3OA8b9ZL3\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1200/50364/789037/2025/7/30/619903.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"潜能（技能等级）升级，不仅会获得属性加成，还可以提升技能等级。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"建议：受限于前期资源紧张，三个技能的潜能最好都要升级到\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"LV2\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"之前。攻击/攻击百分比，防御/防御百分比，生命/生命百分百，都可以增加很多属性值。后续再提升等级技能就可以啦~~~\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"S53jSdGZLc6aGv3c\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_553/h_312/50364/789037/2025/7/30/915965.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"双倍掉落活动建议\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"只有\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“熔断禁区”“秘闻调查”“源点前哨”\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"这三个是参加双倍掉落的哦\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"前期建议刷取“异格者等级经验书--会概率掉落\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"海德拉晶钻&异格原型抽卡卷\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"”和“技能等级材料”因为稳赚不赔哈。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"中后期刷“熔断禁区”的双倍源器掉落，享受飞一般的感觉~~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"2：R卡资源获取指南。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"R卡的养成比SR/SSR低了很多，需要的材料也会少很多。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"这就不得不提伊瑟的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“恶命”\",\"color\":\"rgb(9, 109, 217)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"大人，超爱打架的地下帮派打手。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"我只能说官方设计的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“恶命”\",\"color\":\"rgb(9, 109, 217)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"真的是一张神卡！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"科研\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“恶命”\",\"color\":\"rgb(9, 109, 217)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的玩家我真的很佩服！！很佩服！！很佩服！！重要的事情说三遍。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"升级等级&技能等级同上，重点是升级技能等级的一个材料。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"如图\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"NbZ1JQQCkwdTne6T\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1800/h_2500/50364/789037/2025/7/30/686520.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"召唤商店&竞技商店的积分都是很好获得的，每次刷新时间结束之前可以分别\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"rgb(225, 60, 57)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"买满\"},{\"text\":\"5\",\"color\":\"rgb(225, 60, 57)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"次。\",\"color\":\"rgb(225, 60, 57)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"无需考虑---买!!!  全测玩家告诉你：“恶命”是每人必练的一张卡。\",\"color\":\"rgb(225, 60, 57)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"3：伊瑟币怎么花。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"x05CwSRcdcVdS3dC\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_620/h_319/50364/789037/2025/7/30/350212.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"伊瑟币获取方式：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"副本掉落&任务奖励&商店和活动奖励兑换。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"主要用来强化升级源器（前期伊瑟币紧张的话，源器可以先强化到9级够用就可以了，因为强化的等级越高，需要消耗的伊瑟币越多）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"4：智壳养成币怎么花。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"jXpkJyzGCPcFPR9Y\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_648/h_257/50364/789037/2025/7/30/834973.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳币获取方式：凶影追缉&任务奖励&商店和活动奖励兑换。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"主要用于升级智壳等级和重构智壳\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"这里重点说一下重构：分别升级突破至10级/20级/30级，会分别解锁被动一/被动二/被动三。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"当你迷茫不知道刷什么的时候，可以选择刷\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"智壳副本。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\" 因为可以实打实的提升噢。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"但是重构前期不建议多次点击，给啥用啥，可以适当的点几下，以节约资源为主。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"NrgtLFPk2hfZ145h\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_554/h_297/50364/789037/2025/7/30/648135.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"结语\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"以上就是本篇的全部内容啦。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"预祝各位超链者国服欧气满满，游戏愉快~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"感谢阅读。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"韶华\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/2025/9/27/47b83dbc-d0de-40c2-99e0-e1dee830ec8fjpeg",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1200/50364/789037/2025/7/30/95007.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_554/h_181/50364/789037/2025/7/30/487640.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 789037,
+    "username": "韶华",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 16306098,
+    "content_num": 14,
+    "read_num": 52245,
+    "like_num": 18
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 789037,
+      "username": "韶华",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+      "last_ip_area": "山东省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 1,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 678424,
+      "name": "小贴士②",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 678425,
+      "name": "小贴士③",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 678426,
+      "name": "小贴士④",
+      "icon": "",
+      "jump_url": ""
+    }
+  ]
+}

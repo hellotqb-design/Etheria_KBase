@@ -1,0 +1,257 @@
+{
+  "id": 668697,
+  "game_id": 50364,
+  "entry_id": 189897,
+  "uid": 267618,
+  "type": 4,
+  "title": "多琪本攻略",
+  "tag": "2",
+  "created_at": 1751438939,
+  "updated_at": 1751513004,
+  "updated_uid": 267618,
+  "comment_at": 1761280683,
+  "last_at": 1761280690,
+  "comment_count": 1,
+  "status": 1,
+  "summary": "此攻略写于2025年7月2日前瞻：普通多琪上辅助增伤（莉莉、芙蕾雅等）、破甲（克罗斯、格雷、戴娜等）、输出手(夜离、糖糖、狐狸、荼蘼、老K等)、奶妈（缬草、绫罗等），打不过就在低端本沉淀+强化装备理论上都是能过的，此篇攻略着重讲炼狱多琪如何打。炼狱多琪的难点，在于如何怪物输出非常高，且必须要用控制（",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2848/h_1288/50364/267618/2025/6/2/600989.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1898/h_856/50364/267618/2025/6/2/866726.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2050/h_1242/50364/267618/2025/6/2/305138.png",
+  "model_ids": "",
+  "like_count": 1,
+  "unlike_count": 0,
+  "view_count": 10317,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "韩国",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 1,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 6,
+  "video_list": "[{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/2/691920.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/2/539098.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/2/537195.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/2/940185.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0}]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 668697,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"right\",\"indent\":\"\",\"children\":[{\"text\":\"﻿\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"此攻略写于2025年7月2日\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"right\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"18px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"前瞻：\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿普通多琪上辅助增伤（莉莉、芙蕾雅等）、破甲（克罗斯、格雷、戴娜 等）、输出手(夜离、糖糖、狐狸、荼蘼、老K 等)、奶妈（缬草、绫罗 等），打不过就在低端本沉淀+强化装备理论上都是能过的，此篇攻略着重讲炼狱多琪如何打。﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿炼狱多琪的难点，在于如何怪物输出非常高，且必须要用控制（眩晕、睡眠、冰冻等）去驱散怪物的减伤（90%），否则打不动怪物，今天下午更新削弱炼狱血量和第二阶段攻击力，难度低了很多，相应面板要求也低了不少。﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":\"rjJjjOcXwgWrOy8i\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2848/h_1288/50364/267618/2025/6/2/600989.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2848px\",\"height\":\"1288px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"第一种打法  糖糖速刷\",\"color\":\"\",\"fontSize\":\"18px\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"速刷队，以糖糖为核心，没有就看下一种，搭配一速推条（渺渺、马哥）或拉条角色（幻音千名），二速破甲（克罗斯、格雷、戴娜等），三速增伤（彼安汀、芙蕾雅、狗哥），四速控制（酣梦、章鱼哥等）\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"阵容：\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"﻿\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"WTkU6iMsOO0vndrq\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1898/h_856/50364/267618/2025/6/2/866726.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1898px\",\"height\":\"856px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"核心主C糖糖：\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/660865.html\",\"children\":[{\"text\":\"糖糖\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"大招是速刷核心，点满后，大招秒杀怪物，可以溅射100%伤害，此伤害不可暴击，不吃增伤or减伤，但是睡眠的25%增伤是能吃到的，举个例子如果糖糖开大的时候，怪物都处于睡眠状态，第一个怪物被糖糖大招击杀，一共打了10W 其他怪物会吃到12.5W的溅射伤害\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"lvVTbzYvS2U2l54S\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2050/h_1242/50364/267618/2025/6/2/305138.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"405px\",\"height\":\"245px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"DcPMoQrmRTDz2OBu\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2106/h_1190/50364/267618/2025/6/2/667811.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"432px\",\"height\":\"245px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"糖糖面板-3000攻以上 300%爆伤以上，套装带乘胜追击+狂怒，智壳带 伯爵，今天削弱后面板要求可能降低\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"一速推条or拉条：\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"速度确保大于289以上，可以跑过第一面的怪，让你的辅助先手打出控制，避免主C 被上到减攻导致不能秒怪 \"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/665395.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"渺渺\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"-优势是除了推条，在第二面可以用冰封，冰封有2个dbuff，配合糖糖的乘胜追击 智壳随意\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/660875.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"马哥\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"-优势推条带2个dbuff，配合糖糖的乘胜，智壳带万魔，第一面第二面各一次大招\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639283.html\",\"children\":[{\"text\":\"幻音千名\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"-拉条外有个加功，但是增伤角也有加功，所以得很高配才能用这个\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"﻿二速破甲手：﻿\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"140%命中以上，速度越快越好。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620235.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"克罗斯\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 优势克制属性、加上破甲可以上3个dbuff  智壳带万魔\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639286.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"戴娜\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 劣势 被克制属性 不好上buff 但是如果没克罗斯可以用，加上破甲可以上3个dbuff 智壳带万魔\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620284.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"格雷\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 优势克制属性，只有1个dbuff，但是可以给主C加暴击率，降低面板，用格雷要求主C装备更好 智壳带万魔\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"﻿三速增伤：﻿\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639263.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"彼安汀\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 优势 高贵爆伤+攻击力 ，速度越快越好 越肉越好\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/660858.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"芙蕾雅\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 优势 加攻和梦魇增伤，需要一定命中 速度越快越好 越肉越好，最好带万魔\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620286.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"狗哥\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\" - 优势 加暴加攻 速度越快越好 越肉越好\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"四速控制：\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿140%命中以上 除了酣梦最好保持四速 其他控制只要比C快就行 均要带万魔\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/645557.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"酣梦\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 优势 睡眠带增伤 劣势 睡眠会被打醒\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620229.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"章鱼哥\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\" - 优势 冰冻不会被打醒\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"以上面板均为自动面板，不锁定怪物，如手动可以适当降低\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"bold\":true,\"text\":\"附上AUTO通关小视频\",\"color\":\"rgb(255, 0, 0)\",\"underline\":true}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/2/539098.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/2/691920.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"第二种打法  群体C+启示录\",\"color\":\"\",\"fontSize\":\"18px\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"此打法以群体C+启示录为核心，配上莉莉，大招减主C技能和智壳CD，打出大量的真伤，来过副本，没有莉莉 你可能需要更肉的面板 才能抗住\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"K5YEKCJen4KDlCRD\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2296/h_1190/50364/267618/2025/6/2/387417.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"446px\",\"height\":\"231px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"主C选择：\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"攻击力大于3500 暴击率达标 爆伤随意， 攻击越高越好 套装选择随意，智壳带启示录\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620266.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"狐狸\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 最优秀，被动叠满大招无CD 自带破甲\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620279.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"老K\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 大招自带破甲 无视被动，带无敌，不容易死， 打的时候注意锁定主怪\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/668709.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"夜离\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 自带破甲 无限追击 单体优秀\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/660868.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"荼蘼\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 自带追击，不建议用荼蘼 实在没的选就吧 得锁定主怪\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"莉莉：\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"速度越快越好 越肉越好 核心，大招减少CD包含 智壳\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"E0bQQ5WqF1KqnZd1\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_1138/50364/267618/2025/6/2/675597.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"393px\",\"height\":\"224px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"﻿二速辅助：﻿\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"140%命中以上，速度越快越好。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/660858.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"芙蕾雅\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 优势 加攻和梦魇增伤，需要一定命中 速度越快越好 越肉越好，最好带万魔\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639294.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"暗锤\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 优势 可以提供大量buff 配合狐狸食用最佳，可以最快的叠狐狸buff\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620235.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"克罗斯\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 优势克制属性、加上破甲可以上3个dbuff  智壳带万魔\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639286.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"戴娜\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 劣势 被克制属性 不好上buff 但是如果没克罗斯可以用，加上破甲可以上3个dbuff 智壳带万魔\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620284.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"格雷\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 优势克制属性，只有1个dbuff，但是可以给主C加暴击率，降低面板，用格雷要求主C装备更好 智壳带万魔\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"四速控制：﻿\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿140%命中以上 除了酣梦最好保持四速 其他控制只要比C快就行 均要带万魔\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/645557.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"酣梦\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 优势 睡眠带增伤 劣势 睡眠会被打醒\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620229.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"章鱼哥\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\" - 优势 冰冻不会被打醒\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"奶妈：\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639291.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"缬草\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"- 3.5W血以上越肉越好，不死人就行\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639265.html\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"绫罗\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\" - 200速以上，速度越快越好，越肉越好，不死人就行\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"以上面板均为自动面板，如手动可以适当降低\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"bold\":true,\"text\":\"附上AUTO通关小视频\",\"color\":\"rgb(255, 0, 0)\",\"underline\":true}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/2/940185.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/2/537195.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2848/h_1288/50364/267618/2025/6/2/600989.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1898/h_856/50364/267618/2025/6/2/866726.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2050/h_1242/50364/267618/2025/6/2/305138.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 267618,
+    "username": "权",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 2,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 21123758,
+    "content_num": 17,
+    "read_num": 119075,
+    "like_num": 39
+  },
+  "update_user": {
+    "uid": 267618,
+    "username": "权",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 267618,
+      "username": "权",
+      "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+      "last_ip_area": "韩国",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 675221,
+      "name": "重构兵祸全面解析",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/26/249073.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675321,
+      "name": "多琪全面解析",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/436122.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675314,
+      "name": "奥洛拉全面解析",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/476926.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 668684,
+      "name": "炼狱兵祸攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1500/h_746/50364/267618/2025/6/2/760729.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 668705,
+      "name": "炼狱奥洛拉攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1504/h_752/50364/267618/2025/6/2/767481.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 672683,
+      "name": "智壳源器低配攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/154257/2025/7/2/112273.jpg",
+      "jump_url": ""
+    }
+  ]
+}

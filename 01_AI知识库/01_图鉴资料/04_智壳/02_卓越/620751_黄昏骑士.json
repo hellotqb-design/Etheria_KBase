@@ -1,0 +1,112 @@
+{
+  "id": 620751,
+  "kind": "zhike",
+  "name": "黄昏骑士",
+  "entryName": "黄昏骑士",
+  "rarityGroup": "卓越",
+  "starRarity": "★★★★",
+  "role": "攻击型",
+  "description": "从「蜂巢」集群中挣脱的精英个体，产生自我意识后，为了寻找新的使命而踏上旅途。",
+  "stats": {
+    "生命": "1998",
+    "攻击": "486",
+    "防御": "135",
+    "速度": "30"
+  },
+  "skills": [
+    {
+      "skillId": "620751-skill-1",
+      "order": 1,
+      "section": "宠物技能",
+      "name": "黄昏骑士（已觉醒）",
+      "description": "冷却时间：2回合\n单伤 减防\n本体行动前，选择生命百分比最低的敌人，对其造成160%伤害，并使其在本回合中防御额外降低60%。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "攻势"
+      ],
+      "other": [
+        "攻势 4/8/12",
+        "攻击力+10%/+25%/+45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾驰"
+      ],
+      "other": [
+        "疾驰 4/8/12",
+        "速度值+8%/+20%/+35%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "收割"
+      ],
+      "other": [
+        "收割 4/8",
+        "攻击力+10%/+10%；攻击时，若目标的生命值高于50%，额外无视其30%的防御力"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "战意"
+      ],
+      "other": [
+        "战意 4/8",
+        "攻击力+10%/+10%；异格者释放攻击类技能后，有20%的概率追击主目标"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★★",
+    "定位": "攻击型",
+    "生命": "1998",
+    "攻击": "486",
+    "防御": "135",
+    "速度": "30"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/345755.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_333/h_380/50364/43758/2024/9/25/320867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_341/h_316/50364/43758/2024/9/25/584378.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_359/h_374/50364/43758/2024/3/24/493364.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_370/h_355/50364/43758/2024/9/25/624355.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_410/h_397/50364/43758/2024/3/24/691769.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_430/h_380/50364/43758/2024/9/25/746771.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_458/h_469/50364/43758/2024/3/24/225822.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_458/h_469/50364/43758/2024/3/24/225822.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/175683.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/481286.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/175683.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/481286.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/866830.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620751,
+    "title": "黄昏骑士",
+    "url": "https://www.gamekee.com/yise/620751.html",
+    "updatedAt": "2025-08-17T07:30:58.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620751_黄昏骑士.md",
+      "metadata": "03_图鉴词条/620751_黄昏骑士.json",
+      "rawApi": "_raw_api/details/620751.json"
+    }
+  }
+}

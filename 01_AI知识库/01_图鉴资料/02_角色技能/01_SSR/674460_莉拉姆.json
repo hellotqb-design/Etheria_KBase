@@ -1,0 +1,341 @@
+{
+  "id": 674460,
+  "kind": "character_skill_bundle",
+  "name": "莉拉姆",
+  "entryName": "莉拉姆",
+  "rarity": "SSR",
+  "element": "破序",
+  "faction": "伊瑟E.O.S.",
+  "title": "破却宣言",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "/",
+  "chipStatus": "正常",
+  "assessment": "异格者莉拉姆，Re-A芯片状态正常，未见异常波动。\nE.O.S.熔断警备署特警第一行动队队长，隶属于彼安汀。\n远近闻名的战斗狂人，总是一副元气满满、干劲十足的模样。\n性格直率，大大咧咧，没什么心机，最中肯的评价大概是「一个莽撞的战斗天才」。\n面对危险时总是行动先于思考，虽然有时会因养撞行事而被卷入麻烦，但从没想过要做坏事。\n总的来说是个是个实力强劲，值得信赖的好伙伴。",
+  "stats": {
+    "生命": "11186+3369",
+    "攻击": "1241+535",
+    "防御": "741+224",
+    "速度": "125+15",
+    "暴击率": "10%+20%",
+    "暴击伤害": "150%+12%",
+    "效果命中": "0%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "674460-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "雷刃",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/842288/2025/7/17/273508.png",
+      "description": "冷却时间：\n莉拉姆驱动雷电对敌方单体造成260%伤害，并回复伤害量60%的生命。一闪:莉拉姆免疫所有控制和降低行动进度类效果",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至240%\n等级3\n潜能提升：攻击力+100\n技能提升：回复百分比增加至60%\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至260%\n等级5：\n潜能提升：攻击力+10%\n技能提升：【一闪】额外免疫所有击退行动进度效果",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "674460-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "万钧",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/842288/2025/7/17/118149.png",
+      "description": "冷却时间：3\n要动真格了!莉拉姆对敌方单体造成2段200%伤害，目标每损失1%生命，提升1.2%伤害结果，目标生命百分比低于70%时必定附加1回合【眩晕】，如果击杀了目标则对敌方全体必定附加1回合【眩晕】。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至190%\n等级3\n潜能提升：防御力+70\n技能提升：附加【眩晕】的生命触发比例增加至70%\n等级4：\n潜能提升：暴击率+4%\n技能提升：伤伤害系数增加至220%\n等级5：\n潜能提升：暴击率+8%\n技能提升：提升的伤害结果增加至1.2%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "674460-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "雷光电掣",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/842288/2025/7/17/895268.png",
+      "description": "冷却时间：3\n雷光之下，无人能逃!莉拉姆为自身附加2回合【攻击上升】和【速度上升】:再对敌方单体造成550%伤害，目标生命百分比高于60%时提升50%伤害结果该次伤害无视护盾;目标为非首领目标时破坏其等同于伤害量100%的最大生命，目标为首领目标时提升50%伤害结果。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至500%\n等级3\n潜能提升：生命值+1000\n技能提升：提升的伤害结果增加至50%\n等级4：\n潜能提升：速度值+5\n技能提升：伤害系数增加至550%\n等级5：\n潜能提升：速度值+10\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n输出\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 555|\n| 源器配置 | 右三主属性暴击，爆伤，爆伤/攻击加成 |\n└─────────┴────────────┘\n【对局表现】\n大招自带攻击加成，单体输出很高，以及自身免控免推条的机制，完美适配重构兵祸，多琪，娜娜，莎朗，赫研，炼狱津等副本。pvp方面，免疫控制及推条有效克制控制队，大招封锁生命上限也给肉队沉重打击，可谓pvp和pve双开花，是一个非常强力的角色，推荐拉满",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12洞悉穿刺+8狂怒+6爆裂利刃"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "伯爵"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12洞悉穿刺+8狂怒+6爆裂利刃",
+        "推荐智壳": "伯爵"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/683303.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击伤害提升"
+      ],
+      "other": [
+        "暴击伤害+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/7/17/865.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/7/17/865.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/896216.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/896216.jpg"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/7/17/865.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/7/17/865.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/896216.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/710405.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/17/463339.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/17/468869.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/17/612624.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/17/692158.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/17/943258.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/842288/2025/7/17/118149.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/842288/2025/7/17/273508.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/842288/2025/7/17/895268.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/683303.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/710405.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/896216.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2025/7/17/264345.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 674460,
+    "title": "莉拉姆",
+    "url": "https://www.gamekee.com/yise/674460.html",
+    "updatedAt": "2025-08-18T08:55:44.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/674460_莉拉姆.md",
+      "metadata": "03_图鉴词条/674460_莉拉姆.json",
+      "rawApi": "_raw_api/details/674460.json"
+    }
+  }
+}

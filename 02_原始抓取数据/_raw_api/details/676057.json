@@ -1,0 +1,335 @@
+{
+  "id": 676057,
+  "game_id": 50364,
+  "entry_id": 193988,
+  "uid": 878729,
+  "type": 4,
+  "title": "缬草PVE养成攻略",
+  "tag": "",
+  "created_at": 1756878823,
+  "updated_at": 1756968258,
+  "updated_uid": 0,
+  "comment_at": 1756878823,
+  "last_at": 1756878823,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "哈喽大家这里是lala，本期攻略将为大家全方面解析缬草的PVE养成一图流：一、角色概论缬草是目前SR异格者中最泛用的生存位，朦胧梦境超强的保人能力，附加增益效果，高贵的属性适配任何队伍与副本二、技能详情普攻—沉梦对敌方单体造成伤害，小概率附加一回合睡眠小技能—泡影使目标队友获得一回合无敌，为所有队友",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/8/3/444246.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/3/681900.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/3/817331.png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 11106,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 448924,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1756883210,
+  "server_id": 0,
+  "image_num": 4,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 676057,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"哈喽大家这里是lala，本期攻略将为大家全方面解析缬草的PVE养成 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一图流： \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"V6VqUhDtCOIgvuVB\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/8/3/444246.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3000px\",\"height\":\"8482px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"一、角色概论 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"缬草是目前SR异格者中最泛用的生存位，朦胧梦境超强的保人能力，附加增益效果，高贵的属性适配任何队伍与副本 \"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"二、技能详情\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"普攻—沉梦\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"对敌方单体造成伤害，小概率附加一回合睡眠 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"NvQYpYhHBk6cG5cd\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/3/681900.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"小技能—泡影\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"使目标队友获得一回合无敌，为所有队友附加一回合持续恢复，目标生命值低于50%时延长一回合持续恢复的持续时间 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"Ac2BrSKsmWgVwzgw\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/3/817331.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技—深眠\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技是缬草的关键技能，缬草平衡友方全体生命值百分比，为自身附加两回合朦胧梦境。朦胧梦境持续时间内，缬草无法行动，只会受到伤害，队友回合开始时为其附加缬草最大生命值护盾与一种未拥有的基础增益效果；任意友方阵亡时，结束朦胧梦境，并恢复其20%最大生命。该技能5级时拥有先机效果，能够直接获得一回合朦胧梦境，推荐优先加点 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"wiCJt3caGuoAgdi9\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/3/168537.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"加点推荐：终结技5级，其他技能不推荐\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"三、矩阵推荐\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"为了保证缬草终结技提供护盾的量以及缬草自身的生存能力，一号位可以携带涌泉来提高缬草的生命值；二号位可以选择的矩阵较多，治愈、时光驾驭、浴血之躯等等，总之哪一个对缬草都有提升，大家根据自身拥有的源器和智壳选择就好；三号位可以选择进化荫庇或灵子黑疫，一个增加治疗与抵抗，一个增加生命值，总之只要缬草在战斗中能够不死，怎样携带都行 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"毕业矩阵：涌泉、时光驾驭（不固定）、灵子黑疫（不固定）\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"四、智壳推荐\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一般的治疗智壳并不适配缬草，推荐大家携带千兆字节增加行动能力或携带匠增加生存能力，也可以携带万圣节或万魔法典刷新技能冷却；但匠与万圣节还有万魔法典的矩阵并不包含缬草最需要的涌泉，因此还是更推荐千兆字节；在生存压力巨大的副本再选择携带另外三个智壳 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"前期：不羁科学、星\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"中期：钻石之心\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"后期：千兆字节/万魔法典/匠/万圣节\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"被动推荐：涌流、援护、协鸣\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"五、源器推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"缬草终结技五级时在开局就可以获得一回合朦胧梦境，因此并不刚需高速启动，主词条可以安心带上生命值百分比保证生存与提供的护盾量。缬草对于副词条没有过多要求，除攻击力词条外其他都是有效词条 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"主词条：生命加成*3\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"副词条：任意\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"六、角色配队\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"缬草的属性与先机效果使其完美适配所有副本，对于词条要求不算高，pve中练度差距不大的情况下几乎能保下所有队友\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/8/3/444246.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/3/681900.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/3/817331.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 685541,
+      "name": "蚀心暗狩·罗魍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/842596.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 685537,
+      "name": "恶灵摇滚·桑提克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/321523.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683085,
+      "name": "静默挽歌·奈薇忒 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1662/h_940/50364/842288/2025/10/17/607708.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683357,
+      "name": "明光猎手·光狩谛听 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1664/h_940/50364/842288/2025/10/17/109281.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 677619,
+      "name": "幽翎爵女·逆翎",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/28/759667.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675001,
+      "name": "永夜明火·夜离",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/807765.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678704,
+      "name": "巡洄漫音·水生绫",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/459884.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675637,
+      "name": "破却宣言·莉拉姆",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1084/50364/664163/2025/7/30/359430.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678705,
+      "name": "千面烬相·柯卡尔迪",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/565969.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675301,
+      "name": "忘忧梦火·芙蕾雅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/7/27/230962.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675952,
+      "name": "异格者BUFF介绍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/429039.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675604,
+      "name": "二重典贷·宁芙涅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/812041.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675602,
+      "name": "笼潮·贝兹比",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/658875.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675284,
+      "name": "哨影猎手·谛听",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/26/153688.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675689,
+      "name": "幻影骇客·克洛斯",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/30/107101.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675768,
+      "name": "爆裂甜心·莉露摩卡",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/7/31/425722.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675883,
+      "name": "末日铁花·荼蘼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/410192.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675994,
+      "name": "厄影修罗·罗喉",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/3/735401.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 676257,
+      "name": "幻琴之音·幻音千明",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/8/62083.jpg",
+      "jump_url": ""
+    }
+  ]
+}

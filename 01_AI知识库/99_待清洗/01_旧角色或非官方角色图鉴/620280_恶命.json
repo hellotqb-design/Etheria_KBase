@@ -1,0 +1,44 @@
+{
+  "id": 620280,
+  "kind": "cleanup_candidate",
+  "title": "恶命",
+  "domainPath": [
+    "99_待清洗",
+    "01_旧角色或非官方角色图鉴"
+  ],
+  "classifyReason": "页面结构像角色，但不在官方角色图鉴目录",
+  "originalCategory": "03_图鉴词条",
+  "text": "恶命\n\n恶命",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/entry_icon/0f94bec9-f3ed-4777-a17e-0678ff0b2a43.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/84782715-5d24-4eee-932e-b31b575bf24a.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/3d5ce034-3b71-4333-b46e-46d3666b6961.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/057b1a85-4853-41f3-b5d2-d55c13a1a64c.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/bb9696f0-c20c-4805-ac4a-281b35aa007b.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/d9cba577-20fe-46f2-8f91-e50b78f98e5c.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/7cfb81c6-4ec0-487d-a0b8-a5fb8018e36d.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/po_icon1/7bd49dee-efea-4fa7-9446-d026c7b695f4.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/po_icon2/2833c10e-51cb-48cb-864d-c4d36e647743.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/po_icon3/39a1b4a8-6089-4e09-aad6-04d23c8a9ac0.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/po_icon4/0bc32aeb-d2ea-4f86-850c-9c13fd84a5c0.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/po_icon5/1d5e42ec-0ec5-4bd6-ad07-77291c70dbbb.png"
+  ],
+  "source": {
+    "pageId": 620280,
+    "title": "恶命",
+    "url": "https://www.gamekee.com/yise/620280.html",
+    "updatedAt": "2024-04-18T09:30:49.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620280_恶命.md",
+      "metadata": "03_图鉴词条/620280_恶命.json",
+      "rawApi": "_raw_api/details/620280.json"
+    }
+  }
+}

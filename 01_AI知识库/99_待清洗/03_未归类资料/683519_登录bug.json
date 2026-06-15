@@ -1,0 +1,31 @@
+{
+  "id": 683519,
+  "kind": "cleanup_candidate",
+  "title": "登录bug",
+  "domainPath": [
+    "99_待清洗",
+    "03_未归类资料"
+  ],
+  "classifyReason": "暂无足够规则判定到正式知识区",
+  "originalCategory": "99_未分类",
+  "text": "登录bug\n\n登录不进游戏，进去就卡黑屏，很多次才能登录进去\n\n登录不进游戏，进去就卡黑屏，很多次才能登录进去",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_3.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 683519,
+    "title": "登录bug",
+    "url": "https://www.gamekee.com/yise/683519.html",
+    "updatedAt": "2025-11-19T11:19:17.000Z",
+    "sourceFiles": {
+      "markdown": "99_未分类/683519_登录bug.md",
+      "metadata": "99_未分类/683519_登录bug.json",
+      "rawApi": "_raw_api/details/683519.json"
+    }
+  }
+}

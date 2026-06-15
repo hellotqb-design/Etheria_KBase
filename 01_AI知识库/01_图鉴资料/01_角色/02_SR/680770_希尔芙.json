@@ -1,0 +1,316 @@
+{
+  "id": 680770,
+  "kind": "character",
+  "name": "希尔芙",
+  "entryName": "希尔芙",
+  "rarity": "SR",
+  "element": "异",
+  "faction": "群星会",
+  "title": "幽灯萤火",
+  "gender": "女",
+  "profession": "执行书记",
+  "identityCode": "/",
+  "chipStatus": "正常",
+  "assessment": "异格者希尔芙，Re-A芯片状态正常，未见异常波动。\n群星会「夏日厅」干员、卡佩拉第143号福利院的执行书记。\n在加入群星会之前，她是卡佩拉地区的一个边陲小镇的福利院中，一名极寻常的护理人员，与所在福利院的孩子们一同被夏日厅收留后，由于极佳的专业素养，迅速被拔擢为所属福利院的执行书记，管理福利院日常事务的同时，协助「夏日厅」治疗中心护理部门处理后勤事宜。\n夏日厅中的大多数人，都认为她是最为低调勤勉、内敛温和的人，并认为她是一位绝佳的倾听者。\n工作中，她会为了不给别人添麻烦，而独自面对眼前的一切困难。\n日常生活中，也极具同情心和保护欲，虽然力量并不出众，但总会护着孩子们，即便是福利院以外的人向她求助，她也从不忍心拒绝。\n她从不提及自己的过往，也从不主动说起自己的心事。\n她文静柔和，从不引人注目，在她心中，似乎一直有一位崇拜、怀念着的姐姐。",
+  "stats": {
+    "生命": "11658+5164",
+    "攻击": "975+322",
+    "防御": "674+217",
+    "速度": "124+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%",
+    "效果抵抗": "0+32%"
+  },
+  "skills": [
+    {
+      "skillId": "680770-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "萤火",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_82/h_77/50364/842288/2025/9/22/565604.png",
+      "description": "冷却时间：\n萤火虽微，却能抗击。希尔芙对敌方单体造成240%伤害，随后治疗生命百分比最低的队友，治疗量为目标生命上限的20%，若目标当前生命百分比低于70%，额外为其附加2回合【防御上升】。被动:希尔关对目标的溢出治疗量将以50%的比例转化为【护盾】，持续2回合。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至240%\n等级3\n潜能提升：攻击力+100\n技能提升：治疗效果增加至目标最大生命值的20%\n等级4：\n潜能提升：速度值+4\n技能提升：目标生命值触发条件提升至70%\n等级5：\n潜能提升：速度值+8\n技能提升：【防御上升】持续时间增加至2回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "680770-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "萤佑",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_94/h_82/50364/842288/2025/9/22/793341.png",
+      "description": "冷却时间：3\n萤火微芒，可护周全。希尔芙净化目标队友全部减益效果，随后对目标进行治疗;治疗量为目标生命上限的50%。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：治疗效果增加至45%\n等级3\n潜能提升：防御力+70\n技能提升：净化效果增强为净化全部减益效果\n等级4：\n潜能提升：效果抵抗+8%\n技能提升：治疗效果增加至50%\n等级5：\n潜能提升：效果抵抗+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "680770-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "荧光熠熠",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_90/h_82/50364/842288/2025/9/22/855141.png",
+      "description": "冷却时间：4\n萤火不屈，熠熠生辉。希尔芙对全体敌方造成2段150%伤害，每次攻击净化友方全体1个减益效果，随后治疗友方全体治疗量为目标生命上限30%，并附加2回合【防御上升】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：治疗效果增加至目标最大生命值27%\n等级3\n潜能提升：生命值+1000\n技能提升：净化减益效果概率增加至100%\n等级4：\n潜能提升：生命值+5%\n技能提升：治疗效果增加至目标最大生命值30%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12浴血+8疾驰+8进化荫庇"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "千兆字节"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12浴血+8疾驰+8进化荫庇",
+        "推荐智壳": "千兆字节"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/9/22/135531.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "治疗效果提升"
+      ],
+      "other": [
+        "施加的治疗效果+10%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/9/22/719869.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/9/22/719869.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/439355.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/439355.jpg"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/9/22/135531.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/9/22/719869.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/9/22/719869.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/439355.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/53492.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/641808.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/740087.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/83273.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/845196.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/9/22/408736.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/439355.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/53492.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2025/7/18/227456.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_82/h_77/50364/842288/2025/9/22/565604.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_90/h_82/50364/842288/2025/9/22/855141.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_94/h_82/50364/842288/2025/9/22/793341.png"
+  ],
+  "source": {
+    "pageId": 680770,
+    "title": "希尔芙",
+    "url": "https://www.gamekee.com/yise/680770.html",
+    "updatedAt": "2025-10-22T12:06:44.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/680770_希尔芙.md",
+      "metadata": "03_图鉴词条/680770_希尔芙.json",
+      "rawApi": "_raw_api/details/680770.json"
+    }
+  }
+}

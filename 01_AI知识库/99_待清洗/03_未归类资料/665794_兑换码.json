@@ -1,0 +1,41 @@
+{
+  "id": 665794,
+  "kind": "cleanup_candidate",
+  "title": "兑换码",
+  "domainPath": [
+    "99_待清洗",
+    "03_未归类资料"
+  ],
+  "classifyReason": "暂无足够规则判定到正式知识区",
+  "originalCategory": "08_图鉴资料",
+  "text": "兑换码\n\n兑换码可以在主页右上角点开，【设置】→【其他】→【兑换码】进行使用复制粘贴记得检查一下空格都删除，不然会导致无法兑换目前国服公测可以领取的兑换码：ETHERIA0925ETHERIA666WELCOME2YISEYS666YS888YS999XD1M666yisexiaohaiyiseuziyise\n\n兑换码可以在主页右上角点开，【设置】→【其他】→【兑换码】进行使用\n\n复制粘贴记得检查一下空格都删除，不然会导致无法兑换\n\n目前国服公测可以领取的兑换码：\n\nETHERIA0925\n\nETHERIA666\n\nWELCOME2YISE\n\nYS666\n\nYS888\n\nYS999\n\nXD1M666\n\nyisexiaohai\n\nyiseuzi\n\nyisekejie",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/154257/2025/6/31/853921.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1440/h_810/50364/157597/2025/5/9/43116.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/6/4/55811.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/22/587172.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/8/130379.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/29/381088.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/11/21340.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/2/292985.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_500/50364/664163/2025/7/27/740775.jpg"
+  ],
+  "source": {
+    "pageId": 665794,
+    "title": "兑换码",
+    "url": "https://www.gamekee.com/yise/665794.html",
+    "updatedAt": "2025-09-25T13:56:12.000Z",
+    "sourceFiles": {
+      "markdown": "08_图鉴资料/665794_兑换码.md",
+      "metadata": "08_图鉴资料/665794_兑换码.json",
+      "rawApi": "_raw_api/details/665794.json"
+    }
+  }
+}

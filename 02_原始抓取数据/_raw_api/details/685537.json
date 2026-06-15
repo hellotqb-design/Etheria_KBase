@@ -1,0 +1,335 @@
+{
+  "id": 685537,
+  "game_id": 50364,
+  "entry_id": 202230,
+  "uid": 878729,
+  "type": 4,
+  "title": "【伊瑟】桑提克养成攻略",
+  "tag": "",
+  "created_at": 1765548628,
+  "updated_at": 1767120794,
+  "updated_uid": 0,
+  "comment_at": 1765548628,
+  "last_at": 1765548628,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "哈喽大家我是lala，今天我们一起来看看桑提克的养成攻略~一图流：一、角色概论先说总结，桑提克是目前环境中少有的暴击拐，并且可以一次减少多个减益效果，还具有一定长线作战能力二、技能详情普攻—喧嚣桑提克的普攻会对敌方单体造成伤害，净化减益效果最多的友方的一个减益效果，暴击时净化两个被动效果狂音，友方暴",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/11/12/4205.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/11/12/677415.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2025/11/12/979725.jpg",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 2248,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 968898,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 50364,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1765550960,
+  "server_id": 0,
+  "image_num": 5,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 685537,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"hPqIKXmNTh9SQcRj\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/11/12/4205.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"5000px\",\"height\":\"2822px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"哈喽大家我是lala，今天我们一起来看看桑提克的养成攻略~ \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一图流： \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"w9rVY85DZhv2KywX\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/11/12/677415.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3000px\",\"height\":\"8482px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"一、角色概论 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"先说总结，桑提克是目前环境中少有的暴击拐，并且可以一次减少多个减益效果，还具有一定长线作战能力 \"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"二、技能详情 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"普攻—喧嚣\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"bZiSzyE7opM5mTo1\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2025/11/12/979725.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"桑提克的普攻会对敌方单体造成伤害，净化减益效果最多的友方的一个减益效果，暴击时净化两个 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动效果狂音，友方暴击时会恢复伤害量20%的生命，每回合首次暴击会永久提升友方全体5%暴击伤害，最多叠加20层 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"小技能—狂响\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"LHLbf06qj5gKkS9I\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2025/11/12/807665.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"小技能会对敌方全体造成伤害，小概率增加目标一回合技能和智壳冷却，大概率附加两回合暴击下降与效果命中下降 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技—地狱轰鸣\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"vWLx9xN5xm69irE9\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2025/11/12/568517.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"桑提克的终结技会为友方全体净化三个减益效果，然后附加两回合暴击率上升和暴击伤害上升，概率使自身立即获得一个额外行动回合 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐优先将终结技升到3级，普攻升至2级，其余等级资源足够时补足即可 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐加点：终结技5级→普攻5级→小技能5级 \",\"bold\":true}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"三、矩阵推荐 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"矩阵方面，8层位首推疾驰，保证在输出行动前挂上增益效果；12层位首推浴血之躯，也可以选择时光驾驭加快技能回转；6层位首选迅光天击，也可以选择疾影强袭 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"毕业矩阵： \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一号位：疾驰 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"二号位：浴血之躯/时光驾驭 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"三号位：迅光天击/疾影强袭 \",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"四、智壳推荐 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"智壳方面，控制较多（例如PVP/PVE特定副本）的环境下首选天角兽净化减益效果；其他环境较为推荐胡狼卫士 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"前期：不羁科学 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"中期：暴风雪 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"后期：天角兽/胡狼卫士 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动推荐：涌流、迅影、无畏 \",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"五、源器推荐 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"源器方面，推荐携带两个暴击率主词条堆满暴击率，最后一个位置携带生命值百分比/效果命中/效果抵抗皆可；主词条首选速度，其次是暴击率，其他词条效果大差不差 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"主词条：暴击率*2+生命值百分比/效果命中/效果抵抗 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"副词条：速度＞暴击率 \",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"六、角色就业 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"就业方面，PVP桑提克在速攻队能够提供暴击伤害与暴击上升，提高容错；也可以在肉队使用，慢慢叠满狂音效果，同时提供续航。 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"PVE方面桑提克是不错的暴击拐，二技能提供的暴击率下降和效果抵抗下降也有一定的辅助作用 \"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"七、抽取建议 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"桑提克的技能效果相对强力，是目前少有的暴击拐，十分推荐抽取本体 \"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"感谢大家看到最后，有问题可随时在评论区提出，lala看到后会第一时间回应，点赞收藏评论加速更新，祝大家单发抽出心仪异格者，我们下期攻略再见 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"拜拜～ \"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/11/12/4205.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/11/12/677415.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2025/11/12/979725.jpg"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 685541,
+      "name": "蚀心暗狩·罗魍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/842596.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683085,
+      "name": "静默挽歌·奈薇忒 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1662/h_940/50364/842288/2025/10/17/607708.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683357,
+      "name": "明光猎手·光狩谛听 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1664/h_940/50364/842288/2025/10/17/109281.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 677619,
+      "name": "幽翎爵女·逆翎",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/28/759667.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675001,
+      "name": "永夜明火·夜离",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/807765.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678704,
+      "name": "巡洄漫音·水生绫",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/459884.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675637,
+      "name": "破却宣言·莉拉姆",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1084/50364/664163/2025/7/30/359430.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678705,
+      "name": "千面烬相·柯卡尔迪",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/565969.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675301,
+      "name": "忘忧梦火·芙蕾雅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/7/27/230962.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675952,
+      "name": "异格者BUFF介绍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/429039.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675604,
+      "name": "二重典贷·宁芙涅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/812041.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675602,
+      "name": "笼潮·贝兹比",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/658875.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675284,
+      "name": "哨影猎手·谛听",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/26/153688.png",
+      "jump_url": ""
+    },
+    {
+      "id": 676057,
+      "name": "永恒沉眠·缬草",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/4/48051.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675689,
+      "name": "幻影骇客·克洛斯",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/30/107101.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675768,
+      "name": "爆裂甜心·莉露摩卡",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/7/31/425722.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675883,
+      "name": "末日铁花·荼蘼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/410192.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675994,
+      "name": "厄影修罗·罗喉",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/3/735401.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 676257,
+      "name": "幻琴之音·幻音千明",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/8/62083.jpg",
+      "jump_url": ""
+    }
+  ]
+}

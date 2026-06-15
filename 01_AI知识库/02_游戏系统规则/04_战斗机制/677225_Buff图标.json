@@ -1,0 +1,60 @@
+{
+  "id": 677225,
+  "kind": "system_rule",
+  "title": "Buff图标",
+  "domainPath": [
+    "02_游戏系统规则",
+    "04_战斗机制"
+  ],
+  "classifyReason": "高置信战斗机制或公式资料",
+  "originalCategory": "06_装备智壳",
+  "text": "Buff图标\n\n蓝色增益，红色减益，金色无法被驱散和偷取。左上角是层数，右下角是持续回合数。增益减益角色专属缬草芙蕾雅克洛斯智壳\n\n蓝色增益，红色减益，金色无法被驱散和偷取。左上角是层数，右下角是持续回合数。\n\n增益\n\n减益\n\n角色专属\n\n缬草\n\n芙蕾雅\n\n克洛斯\n\n智壳",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_113/h_61/50364/253894/2025/8/13/423565.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_115/h_60/50364/253894/2025/8/13/278565.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_118/h_61/50364/253894/2025/8/13/328728.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_122/h_66/50364/253894/2025/8/13/589351.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_127/h_62/50364/253894/2025/8/13/772738.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_133/h_63/50364/253894/2025/8/13/389241.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_136/h_48/50364/253894/2025/8/13/829681.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_136/50364/253894/2025/8/13/86993.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_82/50364/253894/2025/8/13/761454.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_113/50364/253894/2025/8/13/592295.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_190/h_188/50364/253894/2025/8/13/887282.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_193/h_90/50364/253894/2025/8/13/949312.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_194/h_110/50364/253894/2025/8/13/22719.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_196/h_284/50364/253894/2025/8/13/308630.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_27/h_29/50364/253894/2025/8/13/344001.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_31/h_33/50364/253894/2025/8/13/379353.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_32/h_37/50364/253894/2025/8/13/788969.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_33/h_34/50364/253894/2025/8/13/340119.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_33/h_36/50364/253894/2025/8/13/691391.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_34/h_33/50364/253894/2025/8/13/225350.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_34/h_36/50364/253894/2025/8/13/490137.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_34/h_37/50364/253894/2025/8/13/507888.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_34/h_41/50364/253894/2025/8/13/914163.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_34/h_42/50364/253894/2025/8/13/565547.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_35/h_35/50364/253894/2025/8/13/596912.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_35/h_36/50364/253894/2025/8/13/294530.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_35/h_36/50364/253894/2025/8/13/294530.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_122/h_66/50364/253894/2025/8/13/589351.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_33/h_34/50364/253894/2025/8/13/340119.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_37/h_36/50364/253894/2025/8/13/405160.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_39/h_41/50364/253894/2025/8/13/325621.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/215/253894/2024/7/28/311743.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 677225,
+    "title": "Buff图标",
+    "url": "https://www.gamekee.com/yise/677225.html",
+    "updatedAt": "2025-09-13T09:09:33.000Z",
+    "sourceFiles": {
+      "markdown": "06_装备智壳/677225_Buff图标.md",
+      "metadata": "06_装备智壳/677225_Buff图标.json",
+      "rawApi": "_raw_api/details/677225.json"
+    }
+  }
+}

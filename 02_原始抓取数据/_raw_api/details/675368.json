@@ -1,0 +1,275 @@
+{
+  "id": 675368,
+  "game_id": 50364,
+  "entry_id": 193584,
+  "uid": 842268,
+  "type": 4,
+  "title": "【伊瑟】凶影追缉-库卢鲁-参考攻略",
+  "tag": "2",
+  "created_at": 1756292077,
+  "updated_at": 1756303590,
+  "updated_uid": 0,
+  "comment_at": 1756292077,
+  "last_at": 1756292077,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "作者：爱赖床的书生攻略对象：库卢鲁-虚（草系）攻略难度：普通危机前言：库卢鲁是虚（草）系boss，是智壳的第四个boss，从这里开始，普通难度就开始上强度了，这个boss有一个很强的减伤机制，我们需要清掉boss身前的4个小怪，才能打出正常输出，这个四个小怪也是草系，那么又是群体，又是火系的角色我们",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_810/h_375/50364/2025/8/27/d9a2f07a-1c33-4a98-b492-71b8879db5bdpng,//cdnimg-v2.gamekee.com/wiki2.0/images/w_347/h_159/50364/2025/8/27/fcf1af68-b9ff-49ff-9a61-df9bf6fb9e99png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_349/h_158/50364/2025/8/27/3ea33f5e-46a6-4d95-be76-428b1086bea4png",
+  "model_ids": "",
+  "like_count": 1,
+  "unlike_count": 0,
+  "view_count": 4353,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "江苏省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 448923,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 2,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1756302633,
+  "server_id": 0,
+  "image_num": 10,
+  "video_list": "[{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/931282.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/159033.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0}]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 675368,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"作者：爱赖床的书生\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/159033.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/931282.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"攻略对象：库卢鲁-虚（草系）    攻略难度：普通  危机\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"前言：库卢鲁是虚（草）系boss，是智壳的第四个boss，从这里开始，普通难度就开始上强度了，这个boss有一个很强的减伤机制，我们需要\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"清掉boss身前的4个小怪\",\"color\":\"rgb(0, 112, 192)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，才能打出正常输出，这个四个小怪也是草系，那么又是群体，又是火系的角色我们刚好有一个，那就是\\n炼。还是之前说的，炼在后面的强度会跟不上，所以只建议等级拉到45，技能131，不再继续投入，转向通用性高的智壳和源器加大投入。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"这边建议给 炼 搞一套属性过得去的，满级 熊猫 智壳，然后装备尽力换成一套金色攻势，研究是属性过得去就行，尽力触发12级攻势属性，同理 谛听 也是如此\",\"color\":\"rgb(238, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"。剩下的辅助位和奶位，装备至少要紫色以上，智壳20级以上即可。\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"这个boss就一个机制，清小怪，然后再打他，而且他没有二阶段，就一条命，但是小怪在的时候，他减伤90%很恐怖。\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_810/h_375/50364/2025/8/27/d9a2f07a-1c33-4a98-b492-71b8879db5bdpng\",\"alt\":null,\"style\":{\"width\":\"540px\",\"height\":\"250px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"Boss机制：\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能一（毒刺）：单体，攻击我方攻击力最高单位，50%概率附加2回合 攻击力下将\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能二（无底海渊）：群体，就伤害，没其他东西\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能三（愤怒海啸）：群体，如果水母还活着，引爆水母，再次造成伤害\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能四（召唤水母）：回合开始的时候召唤四个水母，以上技能轮一遍的时候，如果还没击杀boss，会重新召唤水母，这边请注意\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_347/h_159/50364/2025/8/27/fcf1af68-b9ff-49ff-9a61-df9bf6fb9e99png\",\"alt\":null,\"style\":{\"width\":\"262px\",\"height\":\"107px\"},\"children\":[{\"text\":\"\"}],\"isAdaptive\":false},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_349/h_158/50364/2025/8/27/3ea33f5e-46a6-4d95-be76-428b1086bea4png\",\"alt\":null,\"style\":{\"width\":\"233px\",\"height\":\"105px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_360/h_163/50364/2025/8/27/55fde6bf-c23e-4ebb-91de-252e21b45226png\",\"alt\":null,\"style\":{\"width\":\"240px\",\"height\":\"109px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_352/h_166/50364/2025/8/27/a805e4a4-849d-41fa-821b-4b7123f8621epng\",\"alt\":null,\"style\":{\"width\":\"235px\",\"height\":\"111px\"},\"children\":[{\"text\":\"\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\" \\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"一阶段：4个水母+boss\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"水母-虚（草系）：平A单体，技能全体，只有伤害，无额外效果\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_420/h_233/50364/2025/8/27/e8a9ca9f-b311-497d-a681-8f44abbda2dfpng\",\"alt\":null,\"style\":{\"width\":\"280px\",\"height\":\"155px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"推荐阵容：炼（主要输出）/夜离+谛听（次要输出）/夜离+蟒蛇+梨梨\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_383/h_215/50364/2025/8/27/265db3b6-6e39-4268-b8ee-5854d7ae002bpng\",\"alt\":null,\"style\":{\"width\":\"255px\",\"height\":\"143px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_397/h_221/50364/2025/8/27/e58e534d-8339-497a-a909-b8b13f3f6addpng\",\"alt\":null,\"style\":{\"width\":\"265px\",\"height\":\"147px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_397/h_222/50364/2025/8/27/84b96a79-0114-4b54-a427-4ce148d74895png\",\"alt\":null,\"style\":{\"width\":\"265px\",\"height\":\"148px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_394/h_223/50364/2025/8/27/2e63617f-bc46-457d-97a0-224f96412e7cpng\",\"alt\":null,\"style\":{\"width\":\"263px\",\"height\":\"149px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"这次通关和其他都不一样，是需要过机制的，要优先清理小怪，其他的都只是数值问题，所以这里大家要加大练度，保证能快速清理水母后攻击boss。\",\"color\":\"\",\"fontSize\":\"11pt\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"\\n\\n\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_810/h_375/50364/2025/8/27/d9a2f07a-1c33-4a98-b492-71b8879db5bdpng",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_347/h_159/50364/2025/8/27/fcf1af68-b9ff-49ff-9a61-df9bf6fb9e99png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_349/h_158/50364/2025/8/27/3ea33f5e-46a6-4d95-be76-428b1086bea4png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 842268,
+    "username": "爱赖床的书生",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_10.png",
+    "description": "抖音同名，B站三幻书生\n三幻1粉丝群1031632283\n三幻2粉丝群1035518368\n伊瑟-752522357\n其他游戏粉丝群暂无，有需要后面会开哦",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 22732054,
+    "content_num": 8,
+    "read_num": 30594,
+    "like_num": 10
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 842268,
+      "username": "爱赖床的书生",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_10.png",
+      "last_ip_area": "江苏省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 674689,
+      "name": "尼可娜娜",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/753864.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675366,
+      "name": "阿帕忒",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/444686.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 674742,
+      "name": "猎焰者赫妍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/799661.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675370,
+      "name": "惠特尼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/590629.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675364,
+      "name": "暗渡者",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/494466.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675369,
+      "name": "菲彼安",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/676500.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675303,
+      "name": "莎朗",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/543342.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675362,
+      "name": "亚克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/692180.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675313,
+      "name": "炼狱津",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/851564.jpg",
+      "jump_url": ""
+    }
+  ]
+}

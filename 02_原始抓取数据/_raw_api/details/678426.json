@@ -1,0 +1,239 @@
+{
+  "id": 678426,
+  "game_id": 50364,
+  "entry_id": 195861,
+  "uid": 789037,
+  "type": 4,
+  "title": "伊瑟游玩技巧小贴士④",
+  "tag": "2",
+  "created_at": 1758960728,
+  "updated_at": 1760152318,
+  "updated_uid": 0,
+  "comment_at": 1758960728,
+  "last_at": 1758960728,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "伊瑟游玩技巧小贴士④亲爱的超链者，这里由协会为大家分享第四个Part的游玩小贴士哈。1：PVP配装可单独配置，与PVE分别独立。现在的配装分为俩套---PVE&PVP，两者的配装可以单独设置和保存！！！OH~~~太方便了，这样可以在不耽误PVE刷本的同时，还可以进行PVP的较量。操作步骤：点击进入竞",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/789037/2025/8/27/564473.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1268/h_707/50364/2025/9/27/5e7d0548-ca50-4571-9d11-587462fcf491png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1344/h_733/50364/2025/9/27/4d3cc93d-ba7b-4fe0-a7da-c3c273ef6bd4png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 4153,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "山东省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 448924,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1758963087,
+  "server_id": 0,
+  "image_num": 8,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 678426,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"QBnimd8AMzjNLKn8\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/789037/2025/8/27/564473.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1920px\",\"height\":\"1080px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"header1\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"伊瑟游玩技巧小贴士④\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"亲爱的超链者，这里由协会为大家分享第四个Part的游玩小贴士哈。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"1：PVP配装可单独配置，与PVE分别独立。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"现在的配装分为俩套---\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"PVE&PVP\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，两者的配装可以\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"单独设置和保存\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"！！！\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"OH~~~太方便了，这样可以在不耽误PVE刷本的同时，还可以进行PVP的较量。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"操作步骤：\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"点击进入\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"竞技之域-右下角竞技配装功能按钮“开”\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"当显示为\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"绿点\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，说明开启成功。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"重点来喽\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：当你点击”竞技之域”---”竞技配装”进去之后，找到你的配装之后，例如，你在PVE里面原本调整好的用来打PVP的装备预设是可以\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"一键复制到竞技配装里面\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的哦~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"hZVTweWVlXlddHbS\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1268/h_707/50364/2025/9/27/5e7d0548-ca50-4571-9d11-587462fcf491png\",\"alt\":null,\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"4uGFZ4JBHZM3A6HS\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1344/h_733/50364/2025/9/27/4d3cc93d-ba7b-4fe0-a7da-c3c273ef6bd4png\",\"alt\":null,\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"2:PVE副本阵容预设的保存\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"有阵容预设的功能在，咱们保存好每个副本内预设的阵容配置编队，在以后的刷材料过程中起到了\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"一劳永逸\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的效果。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如图中所示1-2-3-4的步骤操作哈。功能和源器的保存类似，可以重命名，置顶，上移，下移以及删除该编队。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"可参考\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"小贴士2，传送门：\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://www.taptap.cn/moment/710569042787697900\",\"children\":[{\"text\":\"https://www.taptap.cn/moment/710569042787697900\",\"color\":\"var(--primary-tap-blue)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"c3DcDskq3dfk6sre\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1362/h_752/50364/2025/9/27/9ce84492-4fb4-40c1-830b-8a82a778d594png\",\"alt\":null,\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"3：连续战斗设置的详细介绍\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"连续战斗的\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"阵容锁定“开启”\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"后，主要用于连续战斗进入局内后可以\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"直接开始战斗\",\"color\":\"var(--gray-08)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"，咱们就可以点击图二②号所指的\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"最小化\",\"color\":\"var(--gray-08)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"按钮，进行快速的后台挂机。\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ySNEN2BI4EdYlwDW\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1334/h_608/50364/2025/9/27/ff2cde72-9d15-4e75-abf1-428e3bd11589png\",\"alt\":null,\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"下图\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"①号箭头\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"是该功能按钮。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"②号箭头\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"是\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"最小化\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"战斗按钮。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"当你\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"挂机胜率足够高\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的时候，可以选择把\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"战斗失败停止连续战斗“关闭”\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"自动攻击\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"可以\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"拖动下方头像\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"来选择优先集火的目标和攻击顺序，有第2波次的战斗（比如“多琪”）也是可以设置攻击顺序的。\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"mOeALoz1dSagnN40\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1332/h_732/50364/2025/9/27/37960ffd-e1ff-4c71-bd4f-b4e5b9d29709png\",\"alt\":null,\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"当你想停止连续战斗或者已经刷出想要的智壳胚子时。\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"有俩种方式可以结束连续战斗（下图一&图二）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"建议勾选\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"（完成当前战斗后结束连续战斗哈。）\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"避免浪费体力。\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"P4hlnzfAXrszf1EG\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1335/h_735/50364/2025/9/27/59da78f5-5a69-4f3d-b93c-a531e2b439f3png\",\"alt\":null,\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"eWyzxRrxiF7jfrb1\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1324/h_588/50364/2025/9/27/806028e3-7ad8-4510-98de-43fbf06b2fabpng\",\"alt\":null,\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"结语\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"以上就是本篇的全部内容啦。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"预祝各位超链者国服欧气满满，游戏愉快~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"感谢阅读。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"For韶华\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/789037/2025/8/27/564473.jpg",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1268/h_707/50364/2025/9/27/5e7d0548-ca50-4571-9d11-587462fcf491png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1344/h_733/50364/2025/9/27/4d3cc93d-ba7b-4fe0-a7da-c3c273ef6bd4png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 789037,
+    "username": "韶华",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 16306098,
+    "content_num": 14,
+    "read_num": 52245,
+    "like_num": 18
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 789037,
+      "username": "韶华",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+      "last_ip_area": "山东省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 678423,
+      "name": "小贴士①",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 678424,
+      "name": "小贴士②",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 678425,
+      "name": "小贴士③",
+      "icon": "",
+      "jump_url": ""
+    }
+  ]
+}

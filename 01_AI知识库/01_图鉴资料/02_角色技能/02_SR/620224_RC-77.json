@@ -1,0 +1,349 @@
+{
+  "id": 620224,
+  "kind": "character_skill_bundle",
+  "name": "RC-77",
+  "entryName": "RC-77",
+  "rarity": "SR",
+  "element": "异",
+  "faction": "莱伯茨生命",
+  "title": "科学怪杰",
+  "gender": "男",
+  "profession": "不明",
+  "identityCode": "T23-121501",
+  "chipStatus": "故障",
+  "assessment": "异格者RC-77，身份编码T23-121501，ReA芯片状态故障。\n履历清白无暇根据测序，RC-77诞生于伊瑟建设中的不稳定区域T-023。是的，就是莱伯茨生命在逃离E-01后正藏诺在那里。或许是在那时候，RC-77接触到了莱伯茨生命。\n在协会收集到的莱伯茨生命内网档案中有这样一段对他的评价一一「思维活跃，情绪高昂，极易兴奋，无法感知罪恶与愧疚的情绪。RC-77可谓是天生的完美科学家」。",
+  "stats": {
+    "生命": "11322+5081",
+    "攻击": "862+311",
+    "防御": "607+211",
+    "速度": "128+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+32%",
+    "效果抵抗": "0%+12%"
+  },
+  "skills": [
+    {
+      "skillId": "620224-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "蛇咬 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/fd1aabb4-5813-49f5-aacf-0b907003b0af.png",
+      "description": "冷却时间：0\nRC-77朝目标射出钩链，扯动链锁撕裂敌方;对敌方单体造成2段120%伤害，有50%概率为自身附加2回合【命中上\n升】。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至110%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【命中上升】概率增加至50%\n等级4：\n潜能提升：速度值+4\n技能提升：伤害系数增加至120%\n等级5：\n潜能提升：速度值+8\n技能提升：【命中上升】持续时间增加至2回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620224-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "异变突袭",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/6d7bfb5b-ee25-4dc5-b986-0c1401c5f6c5.png",
+      "description": "冷却时间：3\nRC-77钩动链枪，朝敌方发起近身突袭，并趁机引发敌方的异变；对敌方单体造成4段70%伤害，前三次攻击有30%概率击退25%行动进度，最后一击有60%概率延长1回合目标所有减益效果的持续时间。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：击退行动进度概率增加至30%\n等级3\n潜能提升：防御力+70\n技能提升：伤害系数增加至70%\n等级4：\n潜能提升：效果命中+8%\n技能提升：延长减益效果概率增加至60%\n等级5：\n潜能提升：效果命中+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620224-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "全面篡写 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/bfb27cc4-0873-4cf7-b4ef-90674b42d007.png",
+      "description": "冷却时间：4\nRC-77向钩链枪中注入神经毒素，再大面积地挥动链枪攻击所有敌方；先攻击敌方单体造成120%伤害，有65%概率附加1回合【眩晕】，之后攻击敌方全体三次，造成3段90%伤害，每次攻击有45%的概率附加2回合【攻击下降】和【防御下降】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：第一次攻击的【眩晕】概率增加至65%\n等级3\n潜能提升：生命值+1000\n技能提升：后三次攻击附加[攻击下降】和【防御下降】的概率增加至45%\n等级4：\n潜能提升：生命值+5%\n技能提升：后三次攻击的伤害系数增加至90%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "待补充...",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n减益、控制\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 555|\n| 源器配置 | 右三主属性暴击，暴击，攻击加成 |\n└─────────┴────────────┘\n【对局表现】\n大招有着多段伤害，并且自身初始速度很高，非常适合启示录先手打出高额伤害，同时还能控制对手",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+6狂怒+8极影强袭"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "启示录"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+6狂怒+8极影强袭",
+        "推荐智壳": "启示录",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/842288/2025/7/18/932762.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【天生的科学家】\n少年睁开眼时，天色尚是一片发灰的惨绿。数据粒子聚合拟态的乌云中隐隐能看到正弦波的纹路，空气潮湿使得皮肤总是粘腻，对于他这样喜爱潮湿的异格者来说算是不错的天气。\nRC-77调整好用废弃物重构的护目镜，煞有介事地清了清嗓子，翻开口袋里那本自制的「研究手册」。小本子里密密麻麻的内容多是他的手记和一些杂志的拼贴。\n他仔细端详着关于科技枪配件中最后没有被划掉的物件：PA83耐蚀塑膜—一唯一能包裹纯度99.9%的Ⅱ型腐蚀液的物质，制作弹药必不可少的好东西。但在T-023这样的边缘区域，多数人根本不了解这些东西之间有什么区别。\n「对了！那些新来的家伙似乎有不少好东西，或许可以「礼貌」地问他们借一点……」\nRC-77兴奋地想到，很快又有一个问题出现在他的脑海里：「啊，可是，什么叫做礼貌呢？」\n但是，他很快就想到了答案。「礼貌」并不是他的「研究」的必需品，就算没有「礼貌」也是可以的。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【天真的疯子】\n在T-023的岁月是RC-77最美妙的回忆之一，RC-77对那里发生的种种「趣事」总是滔滔不绝，虽然大多数故事听起来都伴随着恶心的粘液与失误造成的实验爆炸。\n很多人会找个借口离开，那些描述听起来实在让人反胃，更奇怪是讲述者——这个长着黄色瞳仁的怪家伙似乎完全无法感知人的喜恶，就连41号都曾经直言不讳，与这样的人沟通令自己恶心。\n「但是，恶心是什么意思？赫尔基德，你知道吗？」RC-77睁大了双瞳，面容更显可惧，表情却是毫不知世事的天真无辜。\n「……就是说，身体内部会产生一些异常的反应，胃液翻滚，喉咙发酸。」赫尔基德放下手中的茶杯，「总之……」\nRC-77惊笑道：「我明白！我明白！就是——吐泡泡！咕噜咕噜咕噜！」\n他昂起头颅张开嘴巴，黄色的泡泡突然从口中飞起，一向喜怒不形于色的男人动作似乎也有一瞬间的僵硬。\n「这就是所谓的「恶心」吗？这是我最爱做的事情！」RC-77天真的面孔洋溢着喜悦，「原来你们城里人也喜欢这样！」\n赫尔基德放下茶杯：「总之……你开心就好。」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【无尽的实验】\nRC-77和别的科学家不太一样。\n大多数的科学家搞研究是为了学术成果和专利能带来的利益，也有一部分是为了探索未知、为人类的科学事业做贡献……但RC-77两者都不是，他搞研究，纯粹是因为享受做实验的过程。他甚至曾经亲口说，只要能让他做实验，他可以把研究成果、论文书名权和专利权拱手相让。\n对未知的探索和意外带来的刺激感，是为数不多能够触动RC-77的东西。他对此有着极其热烈的追求，执着到甚至让人觉得偏执和不可理喻一一当他决定开始实验的时候，会想尽一切办法凑齐必需品，为此不惜违背法律，而他本人也毫无道德观念，愧疚感和罪恶感的缺失让他可以轻易去研究那些正常科学家想都不敢想的课题……\n这么做当然会招致E.O.S.的调查，但RC-77并不担心，他早就为自己找好了靠山一—R.C.S.。通过赫尔基德的牵线搭桥，他获得了绝佳的实验场地和设备，而R.C.S.也会为他抹去一切非法的痕迹，使他的履历清白无暇。\n这对一切于RC-77来说，堪称完美。",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/c095660d-f5ab-4e96-9143-668d50d13ad9.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/c095660d-f5ab-4e96-9143-668d50d13ad9.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/cd5e89d7-e3a5-4225-ba3e-0f6c85d2bc80.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/cd5e89d7-e3a5-4225-ba3e-0f6c85d2bc80.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/c095660d-f5ab-4e96-9143-668d50d13ad9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/c095660d-f5ab-4e96-9143-668d50d13ad9.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/cd5e89d7-e3a5-4225-ba3e-0f6c85d2bc80.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/25204c09-2ff0-40e1-b87a-cd509ad2bd51.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/cd5e89d7-e3a5-4225-ba3e-0f6c85d2bc80.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/25204c09-2ff0-40e1-b87a-cd509ad2bd51.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/fd1aabb4-5813-49f5-aacf-0b907003b0af.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/6d7bfb5b-ee25-4dc5-b986-0c1401c5f6c5.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/bfb27cc4-0873-4cf7-b4ef-90674b42d007.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/842288/2025/7/18/932762.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/899362.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620224,
+    "title": "RC-77",
+    "url": "https://www.gamekee.com/yise/620224.html",
+    "updatedAt": "2025-08-22T09:54:33.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620224_RC-77.md",
+      "metadata": "03_图鉴词条/620224_RC-77.json",
+      "rawApi": "_raw_api/details/620224.json"
+    }
+  }
+}

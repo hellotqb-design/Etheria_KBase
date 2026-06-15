@@ -1,0 +1,216 @@
+{
+  "id": 638508,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 236746,
+  "type": 2,
+  "title": "《伊瑟》2024.10.24原质测试招募开启！",
+  "tag": "2",
+  "created_at": 1728629527,
+  "updated_at": 1728629548,
+  "updated_uid": 236746,
+  "comment_at": 1728629527,
+  "last_at": 1729487103,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "《伊瑟》「原质测试」定档，招募开启！关注+预约《伊瑟》并在下方留言，我们将在10月22日12:00抽取100位超链者送出【原质测试资格】！※抽奖将以实物抽奖的方式进行，获奖的超链者无需填写收件地址📶测试信息▶测试时间：10月24日11:00—11月4日11:00▶测试平台：iOS、安卓、PC三平台",
+  "thumb": "",
+  "model_ids": "",
+  "like_count": 3,
+  "unlike_count": 0,
+  "view_count": 4057,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "四川省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 448923,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 0,
+  "video_list": "",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 638508,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"《伊瑟》「原质测试」定档，招募开启！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"关注+预约《伊瑟》并在下方留言，我们将在10月22日12:00抽取100位超链者送出【原质测试资格】！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"※抽奖将以实物抽奖的方式进行，获奖的超链者无需填写收件地址\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"📶\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"测试信息\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶测试时间：10月24日11:00 — 11月4日11:00\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶测试平台：iOS、安卓、PC三平台（数据互通）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶测试性质：限量删档不计费测试\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶测试账号：TapTap ID\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"📶\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"测试资格获取\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶招募时间：即日起~10月20日23:59\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://jsj.top/f/HVm0GA\",\"children\":[{\"text\":\"前往填写招募问卷\",\"color\":\"var(--primary-tap-blue)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"text\":\"◀即有机会获得测试资格与ROG ally等精美奖品！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶资格发放：若您获得测试资格，可在TapTap【个人中心-右上角消息按钮-通知】中收到通知\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"※登录填写问卷的TapTap账号需和本次测试账号一致\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"📶\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"测试须知\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"1、本次测试中所体验的内容均为开发中版本，不代表游戏上线的最终品质。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"2、招募问卷一经提交则无法修改，还请超链者们确认填写的信息真实无误。\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": null,
+  "model_list": [],
+  "user": {
+    "uid": 236746,
+    "username": "兔兔酱",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_512/h_512/215/236746/2022/9/20/890498.png",
+    "description": "创建wiki请联系QQ：2017946590，微信：tutujiangLO，备注来意",
+    "follow_num": 735,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": true,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 2,
+    "content_at": 1375,
+    "content_num": 1804,
+    "read_num": 25374051,
+    "like_num": 10658
+  },
+  "update_user": {
+    "uid": 236746,
+    "username": "兔兔酱",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_512/h_512/215/236746/2022/9/20/890498.png",
+    "description": "创建wiki请联系QQ：2017946590，微信：tutujiangLO，备注来意",
+    "follow_num": 735,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": true,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 2,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 236746,
+      "username": "兔兔酱",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_512/h_512/215/236746/2022/9/20/890498.png",
+      "last_ip_area": "四川省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

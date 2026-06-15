@@ -1,0 +1,341 @@
+{
+  "id": 684676,
+  "kind": "character",
+  "name": "桑提克",
+  "entryName": "桑提克",
+  "rarity": "SSR",
+  "element": "理",
+  "faction": "踯躅街",
+  "title": "恶灵摇滚",
+  "gender": "男",
+  "profession": "摇滚乐手",
+  "identityCode": "/",
+  "chipStatus": "正常",
+  "assessment": "异格者桑提克，Re-A芯片状态正常，未见异常波动。\n出身于奥芙里斯西部开拓区，是活跃于地下流鬼中的地下金属摇滚小子，超人气的贝斯手，也是一个癫狂的杀手。\n桑提克肆意而狂暴的音乐风格，极受流鬼和粉丝们追捧，但在粉丝们看来，桑提克总是独来独往，对摇滚以外的一切人或事表现都极其淡漠，唯独触碰贝斯时才会爆发出骇人的癫狂。\n他一旦开始演奏，便会彻底沉迷于癫狂的摇滚中不可自拔，追求极致痛感与音色炸裂的融合，会用持续暴虐的拨弦逼迫肉身至极限，在失控边缘即兴出扭曲旋律。\n深信「死亡是唯一不跑调的和弦」，用自毁式表演嘲讽生命，将观众的惊惧尖叫视为最高赞美。\n但在舞台之外，也常有人能看到有流浪猫、流浪狗跟随在他身边。\n他是音浪的暴君，但在他内心深处，也藏着不为人知的柔软和弦。",
+  "stats": {
+    "生命": "11658+3416",
+    "攻击": "971+322",
+    "防御": "678+319",
+    "速度": "124+15",
+    "暴击率": "10%+8%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+32%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "684676-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "喧嚣",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_78/h_71/50364/842288/2025/11/3/716683.png",
+      "description": "冷却时间：\n多来点喧嚣声，好将夜晚的气氛变得狂热。桑提克拨响琴弦，对敌方单体造成240%伤害，净化减益效果最多的友方1个减益效果，暴击时净化2个。狂音:我方触发暴击时恢复相当于20%伤害量的生命，每回合首次暴击时永久提升友方全体5%暴击伤害，最多叠加20次。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：该效果可触发暴击,暴击时额外净化1个减益效果\n等级4：\n潜能提升：速度值+5\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：速度值+10\n技能提升：提升的暴击伤害增加至5%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "684676-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "狂响",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_90/h_72/50364/842288/2025/11/3/624734.png",
+      "description": "冷却时间：3\n来吧!来吧!和我一起演奏!一起让这首曲子，点燃夜空!桑提克弹奏出狂乱音符，攻击全体目标造成240%伤害，有45%概率增加目标1回合异格者和智壳的技能冷却，并有65%概率附加2回合【暴击率下降】和【效果命中下降】。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至240%\n等级3\n潜能提升：防御力+70\n技能提升：增加技能冷却概率增加至45%\n等级4：\n潜能提升：防御力+5%\n技能提升：附加【暴击率下降】和【效果命中下降】概率增加至65%\n等级5：\n潜能提升：防御力+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "684676-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "地狱轰鸣",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_92/h_73/50364/842288/2025/11/3/199486.png",
+      "description": "冷却时间：4\n尽情释放吧，这可是宇宙最强音!桑提克用力拨动琴弦，为友方全体净化3个减益效果，附加2回合【暴击率上升】和【暴击伤害上升】，并有100%概率使自身立刻获得1个额外行动回合。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：获得额外回合概率增加至75%\n等级3\n潜能提升：生命值+1000\n技能提升：净化减益效果数量增加至3个\n等级4：\n潜能提升：效果命中+8%\n技能提升：获得额外回合概率增加至100%\n等级5：\n潜能提升：效果命中+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "桑提克是以暴击为核心的辅助型异格者,专属被动能够在任意友方异格者造成暴击时使其基于伤害恢复一定生命,并使所有友方异格者暴击伤害提升。二技能可使敌方所有异格者以及智壳技能冷却增加,并附加【暴击率下降】以及【效果命中下降】;大招能为全体友方净化减益效果,附加【暴击率上升】及【暴击伤害上升】,并立即获得行动回合。在长线战斗中能在提升续航的同时,不断提升友方单位造成的伤害。",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "8疾驰+12浴血之躯+6讯光天击"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "天角兽"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "8疾驰+12浴血之躯+6讯光天击",
+        "推荐智壳": "天角兽"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/11/3/351260.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/11/3/839022.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/11/3/839022.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/11/3/956783.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/11/3/956783.jpg"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/11/3/956783.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/11/3/839022.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/11/3/839022.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/11/3/956783.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/950184.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/11/3/159699.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/641808.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/740087.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/778863.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/845196.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/11/3/351260.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/950184.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2025/10/12/754552.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_78/h_71/50364/842288/2025/11/3/716683.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_90/h_72/50364/842288/2025/11/3/624734.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_92/h_73/50364/842288/2025/11/3/199486.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 684676,
+    "title": "桑提克",
+    "url": "https://www.gamekee.com/yise/684676.html",
+    "updatedAt": "2025-12-03T15:01:34.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/684676_桑提克.md",
+      "metadata": "03_图鉴词条/684676_桑提克.json",
+      "rawApi": "_raw_api/details/684676.json"
+    }
+  }
+}

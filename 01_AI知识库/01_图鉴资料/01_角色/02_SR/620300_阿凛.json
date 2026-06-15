@@ -1,0 +1,349 @@
+{
+  "id": 620300,
+  "kind": "character",
+  "name": "阿凛",
+  "entryName": "阿凛",
+  "rarity": "SR",
+  "element": "理",
+  "faction": "十三区高校",
+  "title": "暴走武豪",
+  "gender": "女",
+  "profession": "不明",
+  "identityCode": "S03-073086",
+  "chipStatus": "正常",
+  "assessment": "异格者阿凛，身份编码S03-073086，Re-A芯片状态稳定，未见异常波动。\n逃家的叛逆少女、德育分倒数第一的纪录保持者、校规破环狂……只是这些头衔，就足矣对她有一个大概的印象。但与此同时，阿漂又是一个行侠仗义，非常讲义气的人，她会帮助任何一个她看得见的弱者，甚至不惜因此惹上麻烦。\n也正因此，十三区高校的很多学生，都自然而然地将阿凛当成了「大姐头」一样的存在。",
+  "stats": {
+    "生命": "9505+3201",
+    "攻击": "654+290",
+    "防御": "883+371",
+    "速度": "122+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+32%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "620300-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "恐山行 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/b46edeca-56ea-40da-8459-bb1a54618df5.png",
+      "description": "冷却时间：0\n阿凛使用葫芦连续砸向目标;对敌方单体造成2段80%，额外附加相当于40%自身防御的伤害，每次有25%概率附加1回合【嘲讽】。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：自身防御附加伤害比例增加至35%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【嘲讽】概率增加至15%\n等级4：\n潜能提升：速度值+4\n技能提升：自身防御附加伤害比例增加至40%\n等级5：\n潜能提升：速度值+8\n技能提升：附加【嘲讽】概率增加至25%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620300-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "守源 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/5047d850-bf9e-4a23-bfa9-70d6091948e0.png",
+      "description": "冷却时间：4\n阿凛狠狠踢向葫芦，释放出原质气息守护全体队友；为全体队友附加2回合【防御上升】和相当于300%自身防御的【护盾】。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：护盾量增加至240%防御\n等级3\n潜能提升：防御力+70\n技能提升：护盾量增加至270%防御\n等级4：\n潜能提升：防御力+5%\n技能提升：护盾量增加至300%防御\n等级5：\n潜能提升：防御力+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620300-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "怒达摩 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/bb429d08-63dc-4f31-9c4a-8b5112d9aee3.png",
+      "description": "冷却时间：4\n阿凛跳向空中，向葫芦中注入原质使其巨大化，砸向敌方全体；对敌方全体造成160%，额外附加相当于75%自身防御的伤害，有75%概率附加1回合【嘲讽】和2回合【攻击下降】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：自身防御附加伤害比例增加至75%\n等级3\n潜能提升：生命值+1000\n技能提升：附加【嘲讽】和[攻击下降】概率增加至75\n等级4：\n潜能提升：效果命中+8%\n技能提升：【攻击下降】持续时间增加至2回合\n等级5：\n潜能提升：效果命中+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n控制，护盾\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 155|\n| 源器配置 | 右三主属性3防御加成 |\n└─────────┴────────────┘\n【对局表现】\n拥有令人安心的护盾，大招的控制和减攻效果也不错",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12金刚+8奋进+6巨壁屏障"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "匠"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12金刚+8奋进+6巨壁屏障",
+        "推荐智壳": "匠",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/389235.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "施加的护盾量提升"
+      ],
+      "other": [
+        "施加的护盾量+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【自由，是本色！】\n阿凛出生在蜃都的一个大家族。她的父亲是家族的族长，不管是在家族内部还是在整个蜃都都有着极高的话语权，对子女的管教也异常严格，就算对待自己的亲生女儿，也不会宽容半分。\n从小时起，阿凛就被家人以「大家闺秀」为目标进行培养，每天需要学习繁重的课业、进行严格的礼仪训练……\n但这些对于一个年幼的孩子而言，终究是过于沉重的负担。阿凛渴望着像个普通的孩子那样去玩耍、去探索外面的世界，而不是永远被困在冷冰冰的围墙里，听老师讲那些那些愈发无聊的课程。她试着将自己的想法告诉父母，换来的却是一顿狂风暴雨般的训斥—一似乎在她父母看来，「玩要」就像是毒药，会侵害和腐蚀阿凛内心。他们用最严厉的口吻告诚阿凛，要听从父母的话，别再去想什么去外边玩耍，否则就与她断绝关系，让她再也享受不到衣食无忧的生活。\n但是，这份渴望却并没有因为训斥消失，而是随着阿凛的成长与日俱增。或许是天性使然，她并没有像其他真正的「大家闺秀」一样屈服，而是不停地与父母辩论和争吵，希望能争取到一点属于自己的空间，却一直没能成功。最终，在一次激烈的争吵以后，阿凛决定从家里逃走。\n「如果衣食无忧的代价是一辈子被困在围墙里，那我宁愿不要！」\n这是阿凛离开家前丢下的最后一句话。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【叛逆，是傲骨！】\n离开家的阿凛彻底失去了经济来源，被迫流落街头。在那些流浪的日子里，她偶尔也会怀念家里衣来伸手饭来张口的日子，但一想到那些至今仍像噪音一样嗡嗡地萦绕在她脑海中的规训，那些仅剩的怀念就立刻烟消云散了。\n流落街头的日子并不好过，但阿凛很快找到了自己的活法。在过去，她不管怎么努力，都无法礼仪课上完美地表演出那些轻柔、优雅的仪态，但现在，当她不必再束手束脚、终于可以自由地挥舞拳头时，她惊喜地发现了自己在战斗方面的天赋。凭借着这份力量和仗义执言的豪爽性格，阿凛很快就在市井中闯出了名头，获得了一群追随者。但同时，这份名气也传到了她的家族那里，并给她招来了麻烦。\n对于一个名门望族来说，一个逃家在外、成为混混老大的女儿无异于家族光环上碍眼的污点。家族的大人们动用各种关系，不停向阿凛施压，他们给了她两条路——要么回到家里继续做一个「大家闺秀」，要么就在外面隐姓埋名、夹起尾巴做人。\n起初，阿凛并不在意，对于那些被家族派来找她麻烦的家伙，她一律用拳头给了他们回答。然而，随着这样的情况愈演愈烈，那些跟随在她身边的小混混们逐渐承受不住来自家族大人物们的利诱或威逼，纷纷从阿凛身边离开。当阿凛反应过来的时候，她已经又回到了孤身一人的状态，没有人敢再呆在她身边，甚至于过去那些与她交情甚好的混混们也为了自己的安全或利益与她反目成仇。\n阿凛气愤不已，却又无从发泄，偌大一个蜃都，竟然连她可以生存的一方天地都容不下。\n在这个时候，流落街头的阿凛被康坦士校长发现。校长看中了她的能力，并以从家族手中庇护她、让她获得想要的自由为筹码，邀请她作为学生加入十三区高校。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【不羁，是灵魂！】\n在十三区高校，阿凛遇到了自己的一生之敌。\n她原本以为，进入了十三区高校，就可以在学校的庇护下不再受到家族的制约，随心所欲地去做自己的事。然而，当她真正来到十三区高校，并看到那本几乎要和辞典一样厚的校规时，心中只剩下了一个声音。\n「这和当初说好的不一样啊！」\n不过对阿凛来说，这并不是什么大问题，毕竟规矩是死的，但人是活的。进入十三区高校后，家族确实没再来找过阿凛的麻烦，这让她十分满意。至于校规，她就更不在乎了，违背校规对她来说是家常便饭，逃课打架样样不落，德育分扣光也无所谓，反正那种东西的重要程度还不如她随手扔掉的泡泡糖纸。\n唯一让她感到麻烦的，是一个人一一月夜见。\n那家伙是十三区高校的学生会长，每天在学校中巡视，名义上是为了及时发现学生们学习生活上的问题，及时制止校园中的学生们作出不符合校规的事情。但对于阿凛来说，那家伙简直就是多管闲事，就连她翘课躲在天台上嚼泡泡糖都要来妨碍。而且，月夜见的力量十分强大，还仿佛有什么特殊能力，不论阿凛躲到哪里，月夜见都能把她揪出来，再「请」进教室里。\n打又打不过，躲又躲不开，这让阿凛又气又恼。在她看来，月夜见根本就是个虚伪的人，她所维护的「校规」比小孩子过家家还要无聊，除了妨碍她享乐，一点用都没有。\n她暗自下定决心，总有一天，她要用自己的拳头把校规打得稀巴烂！",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/7b9e5fc7-15aa-471a-aaca-2b6226702a24.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/7b9e5fc7-15aa-471a-aaca-2b6226702a24.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/c250b303-3325-4394-97aa-f1cdedeff690.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/c250b303-3325-4394-97aa-f1cdedeff690.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/7b9e5fc7-15aa-471a-aaca-2b6226702a24.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/7b9e5fc7-15aa-471a-aaca-2b6226702a24.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/c250b303-3325-4394-97aa-f1cdedeff690.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/fc65182d-e16e-432a-bd4d-063f367de5bd.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/c250b303-3325-4394-97aa-f1cdedeff690.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/fc65182d-e16e-432a-bd4d-063f367de5bd.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/b46edeca-56ea-40da-8459-bb1a54618df5.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/5047d850-bf9e-4a23-bfa9-70d6091948e0.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/bb429d08-63dc-4f31-9c4a-8b5112d9aee3.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/389235.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/331841.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/147551.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620300,
+    "title": "阿凛",
+    "url": "https://www.gamekee.com/yise/620300.html",
+    "updatedAt": "2025-08-25T04:58:31.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620300_阿凛.md",
+      "metadata": "03_图鉴词条/620300_阿凛.json",
+      "rawApi": "_raw_api/details/620300.json"
+    }
+  }
+}

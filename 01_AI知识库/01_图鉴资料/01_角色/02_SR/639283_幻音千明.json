@@ -1,0 +1,310 @@
+{
+  "id": 639283,
+  "kind": "character",
+  "name": "幻音千明",
+  "entryName": "幻音千明",
+  "rarity": "SR",
+  "element": "虚",
+  "faction": "十三区高校",
+  "title": "幻琴之音",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "E03-101554",
+  "chipStatus": "正常",
+  "assessment": "异格者幻音千明，身份编码E03-101554，Re-A芯片状态正常，未见异常波动。\n温柔安静的少女千明，就读于十三区高校。\n从前性格怯懦柔软，为了鼓励自己自学了小提琴演奏，从此踏上了音乐之路，还在十三区高校创办了音乐社团。\n虽然平日里依然内向，但在朋友和音乐的激励下已经逐步学会了如何与人相处，并学习着如何成为一个优秀社团负责人。\n总有一天，千明一定会在人群中大放异彩。",
+  "stats": {
+    "生命": "11735+3423",
+    "攻击": "656+291",
+    "防御": "686+322",
+    "速度": "119+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%",
+    "效果抵抗": "0%+38%"
+  },
+  "skills": [
+    {
+      "skillId": "639283-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "音涌",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_82/50364/103682/2024/9/25/44036.png",
+      "description": "冷却时间：\n对单体敌人造成240%伤害，为减益效果最多的队友净化1个减益效果。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：净化概率增加至80%\n等级4：\n潜能提升：速度值+4\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：速度值+8\n技能提升：净化概率增加至100%"
+    },
+    {
+      "skillId": "639283-skill-2",
+      "order": 2,
+      "section": "被动",
+      "name": "琴心慧",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_92/50364/103682/2024/9/25/839360.png",
+      "description": "冷却时间：\n自身回合开始前如未处于不可行动状态，为随机3名队友附加2回合【攻击上升】，目标已被附加【攻击上升】时再附加1回合【圣，母颂】",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：效果抵抗+3%\n等级3\n潜能提升：防御力+70\n技能提升：若目标身上已有【攻击上升】则附加1回合【圣，母颂】\n等级4：\n潜能提升：防御力+5%\n技能提升：效果抵抗+3%\n等级5：\n潜能提升：防御力+10%\n技能提升：附加的友方单位数量增加至3名",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "639283-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "颂明华",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_89/h_95/50364/103682/2024/9/25/377910.png",
+      "description": "冷却时间：3\n提升所有队友20%行动进度并附加2回合【攻击上升】，目标已被附加【攻击上升】则再附加2回合【圣，母颂】",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：提升行动进度效果增加至18%\n等级3\n潜能提升：生命值+1000\n技能提升：【圣，母颂】的提升行动进度效果增加至5%\n等级4：\n潜能提升：效果抵抗+8%\n技能提升：提升行动进度效果增加至20%\n等级5：\n潜能提升：效果抵抗+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n拉条，增益\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 555|\n| 源器配置 | 右三主属性3生命加成 |\n└─────────┴────────────┘\n【对局表现】\n有着不错的拉条以及免疫推条，适合配合狐狸，炼等高需求buff的角色",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8戍卫+6极影强袭"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万魔法典"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8戍卫+6极影强袭",
+        "推荐智壳": "万魔法典"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/524698.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "受到治疗效果提升"
+      ],
+      "other": [
+        "受到的治疗效果+10%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害双向提升"
+      ],
+      "other": [
+        "造成伤害结果提升10%，受到伤害结果降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【千明的旋律。】\n自幼内向孤僻的小女孩千明，在最近的生日晚宴上得到了一把小提琴。\n据我了解，在千明很小很小的时候，她就梦想有一天能得到这样一把小提琴——外观优美，音色典雅，演奏起来仿佛能使乐谱化为流光的音符。\n令人遗憾的是，幼年的千明从不肯在人前表演，但只要关上房门，她就能演奏出极为华丽的旋律。\n为此，千明的养父母费了很大的功夫，希望她能够克服自我，站上舞台。\n但依然无济于事。\n——麦琪的异格者观察日记·千明的旋律",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【千明的激励。】\n为了帮助她克服这样的心理，风见一宵自告奋勇以她为核心，创办了十三区高校的音乐社团。\n但千明依旧不愿与外人相处，也鲜少出席社团的活动。\n为了说服她参与音乐社团的演出，风见一宵可谓是用尽苦心。\n但千明似乎仍不能克服自己的内心恐惧，直到某天十三区高校意外遭受了袭击。\n具体的细节不在此页赘述，但可以记录的是，千明用小提琴激励了很多人的异格力量，就连总被说不成器的炀也不例外。\n受到激励的异格者们很快反制了袭击的暴徒们，千明也因此被誉为英雄，被崇拜她的学妹学弟们称为「幻音千明」。\n这件事情，成为了她改变的契机。\n——麦琪的异格者观察日记·千明的激励",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【千明的独奏。】\n经历了那场意外后，千明的确开朗了许多。\n她开始试着在音乐社团的下午集会上为同学们演奏，与大家交流音乐和创作。\n上周，千明邀请协会的大家前去观看她的小提琴独奏会—一那场独奏会在十三区高校的礼拜堂举行，现场座无虚席。\n还有后来的观众站在角落里，安静地欣赏到结束。\n印象里，我从未见过这样光芒四射的千明，在场的每个人都感受到了自内心而发的激励。\n我相信，只要有人一直倾听，千明就会一直、一直这样演奏下去。\n终有一日，她会成为人群中最为闪耀的存在。\n——麦琪的异格者观察日记·千明的独奏",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1121/h_575/50364/103682/2024/9/25/656640.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1121/h_575/50364/103682/2024/9/25/656640.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_959/h_722/50364/103682/2024/9/25/244828.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_959/h_722/50364/103682/2024/9/25/244828.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1121/h_575/50364/103682/2024/9/25/656640.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1121/h_575/50364/103682/2024/9/25/656640.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_959/h_722/50364/103682/2024/9/25/244828.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_370/h_601/50364/103682/2024/9/25/896224.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1736/h_1736/215/103682/2025/10/20/668579.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/524698.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_370/h_601/50364/103682/2024/9/25/896224.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/436356.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/207704.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/332405.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_82/50364/103682/2024/9/25/44036.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_92/50364/103682/2024/9/25/839360.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_89/h_95/50364/103682/2024/9/25/377910.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_959/h_722/50364/103682/2024/9/25/244828.png"
+  ],
+  "source": {
+    "pageId": 639283,
+    "title": "幻音千明",
+    "url": "https://www.gamekee.com/yise/639283.html",
+    "updatedAt": "2025-08-18T08:38:31.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639283_幻音千明.md",
+      "metadata": "03_图鉴词条/639283_幻音千明.json",
+      "rawApi": "_raw_api/details/639283.json"
+    }
+  }
+}

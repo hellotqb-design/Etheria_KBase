@@ -1,0 +1,373 @@
+{
+  "id": 639252,
+  "kind": "character_skill_bundle",
+  "name": "罗喉",
+  "entryName": "罗喉",
+  "rarity": "SSR",
+  "element": "虚",
+  "faction": "踯躅街",
+  "title": "厄影修罗",
+  "gender": "男",
+  "profession": "未公开",
+  "identityCode": "E07-111142",
+  "chipStatus": "正常",
+  "assessment": "异格者罗喉，身份编码E07-111142，Re-A芯片状态正常，未见异常波动。\n活跃于艾尔特利斯的神秘人士，经营着名为「空」的古董店。\n店如其名，「空」无贵重之物，放眼望去尽是些下等货，但他总有办法将它们售卖出去。\n现为E07街区最受欢迎的「情报贩子」，信奉「等价交换」的准则。\n据说走进「空」的客人，离开时都付出了「代价」。\n总是笑容满面，给人以热情好客的印象，实际上不知道在背地里谋划着什么诡计，话语之间恐怕也多为真假难辨的巧言。\n是相处时需要格外留意的家伙。",
+  "stats": {
+    "生命": "10724+4931",
+    "攻击": "708+296",
+    "防御": "948+387",
+    "速度": "117+15",
+    "暴击率": "10%+8%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+12%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "639252-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "焱流",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_92/h_83/50364/103682/2024/9/24/824028.png",
+      "description": "冷却时间：0\n对敌人单体造成相当于380%自身防御的伤害，有80%概率附加1回合【防御下降】",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：自身防御附加伤害比例增加至350%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【防御下降】概率增加至60%\n等级4：\n潜能提升：速度值+5\n技能提升：自身防御附加伤害比例增加至380%\n等级5：\n潜能提升：速度值+10\n技能提升：附加【防御下降】概率增加至80%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "639252-skill-2",
+      "order": 2,
+      "section": "被动",
+      "name": "忿火相",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_89/h_92/50364/103682/2024/9/24/222705.png",
+      "description": "冷却时间：0\n战斗开始时，自身获得3层【忿火】。战斗中如未处于不可行动状态，每当其他队友异格者行动4次，自身获得1层【忿火】，且当其他队友异格者在其行动回合中未使用攻击类技能时，自身有60%概率获得1层【忿火】。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：额外获得【忿火】的概率增加至40%\n等级3\n潜能提升：防御力+70\n技能提升：额外获得【忿火】的概率增加至50%\n等级4：\n潜能提升：防御力+5%\n技能提升：额外获得【忿火】的概率增加至60%\n等级5：\n潜能提升：防御力+10%\n技能提升：战斗开始时获得的【念火]层数增加至3层",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "639252-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "焱君之威",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_91/h_88/50364/103682/2024/9/24/261217.png",
+      "description": "冷却时间：4\n先为全体队友附加2回合【防御上升】，同时自身获得3层【忿火】，然后对全体敌人造成相当于400%自身防御的伤害。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：自身防御附加伤害比例增加至370%\n等级3\n潜能提升：生命值+1000\n技能提升：【忿火】的叠加上限增加至12层\n等级4：\n潜能提升：生命值+5%\n技能提升：自身防御附加伤害比例增加至400%\n等级5：\n潜能提升：生命值+10%\n技能提升：获得的【忿火】层数增加至3层",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n坦克，输出\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 242|\n| 源器配置 | 右三主属性暴击，防御加成，爆伤 |\n└─────────┴────────────┘\n【对局表现】\npve在高难配合拂秋，善雅，蝰蛇等角色在可以长线战斗的对局中表现不错，pvp也是兼具坦克与输出的t0角色",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12浴血+8荆棘+6巨壁屏障"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "匠"
+        },
+        {
+          "key": "推荐攻略",
+          "value": ""
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12浴血+8荆棘+6巨壁屏障",
+        "推荐智壳": "匠",
+        "推荐攻略": ""
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/327021.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【万般皆上品，只要有所值。】\n庭院一隅，四方天地，唯有顶上一点阳光落下来，仿若一个不封顶的「笼」。\n罗喉屏退了所有的侍者。看着所有人离开，他这才转过头，看向了旁边的假山\n「贵客大驾光临，小店招待不周。」罗喉笑着用手中烟斗轻轻敲了敲檀木桌面，如同乐者思索节拍，「只是您委托之事····眼下时机还未成熟，我也很是为难。\n「喵？」\n「你想要恢复成以前的样子，以小店的能力而言，不算什么难事·····」罗喉深深吸了口烟斗，而后缓缓吐出几个烟圈，「就是这代价····」\n「喵！」\n黑猫一跃而上了罗喉的肩膀，他吐出了最后一个烟圈。\n「既然阁下这么爽快，那在下自然也不会推脱！！\n「三日之后我会为你完成心愿。不过，我亦会收取我认为合理的报酬。」\n「喵！」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【所见即所得，一诺值千金。】\n「海因里希先生，您应该知道，我这只是个古董店。」\n罗喉看了一眼眼前阴翳的男人，然后若无其事地敲了敲自己的烟斗。\n「规矩我知道，开价吧。」\n「哦？看来是个上道的客人呢，那要看看，你能提供什么？」\n「无所谓，除了能力以外，你看上什么，都可以尽管拿走。」\n「这么爽快的客人，我已经很久没有见到了呢。」\n「不过，在下从来不是贪心的人，只会取走符合价码的东西，不会让客人吃亏。」\n「你要什么？」\n「事后，我需要你的一只眼睛。」\n「眼睛？」\n「没错，就是你的一只眼睛。」罗喉吐了口烟。\n「成交！」\n「那我要的东西呢？」\n「我已经替你准备好了。」\n罗喉微笑着，然后用自己的烟斗敲了敲眼前的桌子。\n一会儿后，海因里希就收到了罗喉发过去的邮件。\n「这是……」\n「她叫41号，是现在唯一能帮助你的人。」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【所愿所偿，万物皆有代价。】\n「要想补全缺失的人格，最需要的是与其相关联的人格记忆数据。」\n阿休看着眼前的罗喉，然后又看了一眼躺在装置上的黑猫。\n「没有这些，一切都是空话。」\n阿休看着罗喉。\n「我早就猜到了，不然也不会找你。」\n「看看这是什么？」\n罗喉拿出了一根透明的玻璃试管。试管中间，漂浮着一串闪烁着不同颜色的泪珠。\n「这是……梦泪。」\n阿休不可思议地看着罗喉。\n「这就是之前那位女士所应付的代价吗？」\n「没错。」\n罗喉笑着。\n「41号从极夜之都收集到的“梦泪”里面，蕴含着当初极夜之都大部分人的记忆残片，其中就蕴含着大量关于蒂芙尼的人格记忆数据。」\n被召集而来的技术人员们关上了实验室的大门，有条不紊地进入了工作。在门关上前的那一瞬，罗喉看见那根玻璃试管被安置于黑猫上方，犹如童话里施展魔法的长杖。\n「该是完成心愿的时刻了。」\n罗喉为自己沏了一杯新茶，侍者燃起了香，待到香气满厅之时，实验室的大门终于被打开——\n此时，在阿休的身后，一位身姿曼妙的年轻女性款步向外走来，然后在罗喉身前的十几步远的位置停下。\n她的模样与极夜之都记录中的别无二致，但眉眼间似乎多了几分冰冷。\n罗喉看着眼前的少女，微微一笑。\n「欢迎归来，蒂芙尼小姐。」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1155/h_572/50364/103682/2024/9/24/293188.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1155/h_572/50364/103682/2024/9/24/293188.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_973/h_745/50364/103682/2024/9/24/316155.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_973/h_745/50364/103682/2024/9/24/316155.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1155/h_572/50364/103682/2024/9/24/293188.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1155/h_572/50364/103682/2024/9/24/293188.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_973/h_745/50364/103682/2024/9/24/316155.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_267/h_490/50364/103682/2024/9/24/9532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1736/h_1736/215/103682/2025/10/20/668579.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_267/h_490/50364/103682/2024/9/24/9532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/327021.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/553657.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/960068.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_89/h_92/50364/103682/2024/9/24/222705.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_91/h_88/50364/103682/2024/9/24/261217.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_92/h_83/50364/103682/2024/9/24/824028.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_973/h_745/50364/103682/2024/9/24/316155.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 639252,
+    "title": "罗喉",
+    "url": "https://www.gamekee.com/yise/639252.html",
+    "updatedAt": "2025-08-18T08:45:03.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639252_罗喉.md",
+      "metadata": "03_图鉴词条/639252_罗喉.json",
+      "rawApi": "_raw_api/details/639252.json"
+    }
+  }
+}

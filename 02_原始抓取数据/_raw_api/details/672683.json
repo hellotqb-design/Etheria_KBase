@@ -1,0 +1,257 @@
+{
+  "id": 672683,
+  "game_id": 50364,
+  "entry_id": 192169,
+  "uid": 154257,
+  "type": 4,
+  "title": "智壳源器低配攻略",
+  "tag": "2",
+  "created_at": 1754068580,
+  "updated_at": 1777143076,
+  "updated_uid": 154257,
+  "comment_at": 1754068580,
+  "last_at": 1777143076,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "FBIWARNING本攻略主要展示不用SSR辅助的前提下通关各智壳、源器副本的可能性。最初做这个攻略的时候梨梨还没有白送，现在正常是不用这么辛苦的玩法了，不过新玩家看看还是能有点启发作用。魔↗术↘技↘巧由于常规情况下我们的主要伤害来自于C位的大招，因此C位放大招的节奏在很大程度上决定了通关的时长，从",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/30/392523.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/30/165807.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/30/920660.jpg",
+  "model_ids": "",
+  "like_count": 8,
+  "unlike_count": 0,
+  "view_count": 12959,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "吉林省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 14,
+  "video_list": "[{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/154257/2026/3/26/177939.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/154257/2026/3/26/431851.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0}]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 1777141987,
+  "version": "",
+  "content_id": 672683,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"FBI WARNING\",\"fontSize\":\"24px\",\"color\":\"rgb(255, 77, 79)\",\"bold\":true}],\"textAlign\":\"center\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"本攻略主要展示\",\"color\":\"\",\"fontSize\":\"24px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"不用SSR辅助\",\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"24px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"的前提下通关各智壳、源器副本的可能性。\",\"color\":\"\",\"fontSize\":\"24px\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"24px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"24px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"最初做这个攻略的时候梨梨还没有白送，现在正常是不用这么辛苦的玩法了，不过新玩家看看还是能有点启发作用。\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"fontSize\":\"24px\",\"color\":\"rgb(255, 0, 0)\",\"text\":\"魔↗术↘技↘巧\"}],\"textAlign\":\"center\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"由于常规情况下我们的主要伤害来自于C位的大招，因此C位放大招的节奏在很大程度上决定了通关的时长，从而进一步影响配队的攻防倾向，这里我们设定一个概念\"},{\"text\":\"【单C通关基准大招数】\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"，也就是满血boss能吃你的主C大招几下，这个数值只要看首回合伤害粗略估计一下即可。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"这个数值的作用是快速推算当前队伍通关需要的\"},{\"text\":\"回合数\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"，因为放大招的节奏是基本固定的，这里我们以555莉拉姆、551梨梨为例，来对比一下有没有梨梨的前5回合行动区别。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"有梨\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"回合1：梨梨技能2  >>>  莉拉姆拉条30%  >>>  莉拉姆大招\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"回合2：梨梨技能3  >>>  莉拉姆拉条30%+大招冷却  >>>  莉拉姆大招\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"回合3：梨梨技能1  >>>  莉拉姆拉条30%（还有几率额外拉条）  >>>  莉拉姆技能1助战  >>>  莉拉姆技能2\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"回合4：梨梨技能2  >>>  莉拉姆拉条100%  >>>莉拉姆技能1\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"回合5：梨梨技能1  >>>  莉拉姆拉条30%（还有几率额外拉条）  >>>  莉拉姆技能1助战  >>>  莉拉姆大招\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"总计莉拉姆放了3个大招、3个技能1、1个技能2\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"color\":\"rgb(255, 0, 0)\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"无梨\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"回合1：莉拉姆大招\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"回合2：莉拉姆技能2\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"回合3：莉拉姆技能1\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"回合4：莉拉姆大招\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"回合5：莉拉姆技能2\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"总计莉拉姆放了2个大招、1个技能1、2个技能2\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"注意并不是所有C大招都是3回合冷却（虽然现在最常用的几个都是），更长的冷却时间会导致梨梨的技能3不足以让主C大招在回合2再次可用，从而改变上述行动顺序，除非梨梨技能3升满，请自行注意实际使用的主C大招冷却回合数，本攻略默认不涉及此种例外情况。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"比如你的主C大招能砍boss满血的60%，则需要放两次才能通关，有梨的情况下需要2回合，无梨的情况下需要4回合。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"比如你的主C大招能砍boss满血的40%，则需要放三次才能通关，有梨的情况下需要5回合，无梨的情况下需要7回合。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"推算出回合数之后，首先可以判断能不能通关，因为有的本不允许活很久，其次可以判断能不能组不超过2回合的速通队，最后可以判断阵容的调整余地。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"本攻略以1~2回合为速通队，4~-5回合为短线队，7~8回合为长线队。日常8本全部可以速通，大部分能用短线队，少部分能用长线队。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"其中速通队是一种比较特殊的情况，只要不被秒就能过，因此几乎不用考虑生存问题，而是更注重爆发性。长线队练度提高后能变成短线队，但短线队提高练度未必能变成速通队。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"低配玩法的重点在于设法减少回合数，把长线队转换成短线队，短线队转换为速通队，从而化不能打为能打，化翻车为不翻车。而要想把同样的大招数压缩进更少的回合内，一个思路是带双C，另一个思路是减CD，减CD可以通过技能（如\"},{\"text\":\"梨梨、彼安汀、米娅、水生绫、月夜见、寻愿多乐丝、R卡奇、柯洛罗、风见一宵\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"）、智壳（如\"},{\"text\":\"万魔、万圣节\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"）、矩阵（如\"},{\"text\":\"时光驾驭\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"）等多种方式达成。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"fontSize\":\"24px\",\"color\":\"rgb(255, 0, 0)\",\"text\":\"尼可娜娜（炼狱）\"}],\"textAlign\":\"center\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"对练度要求最低的炼狱本，如果事先准备好相关角色，50级开放时可以马上通关，保证日常体力不浪费。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"boss初始处于减伤状态，我方每高1点速度破1.5%减伤，最多有效40点。不能打速通的话最好有减速手对冲小怪给boss的加速，速通有加速手就够了，正常能用的角色太多了，初始必刷的\"},{\"text\":\"逆翎+梨梨\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"直接就是一对。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"低配能通关的阵容仍然很多，这里只列出部分角色：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"加速：\"},{\"text\":\"风见一宵、妮璐\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"加速C：\"},{\"text\":\"莉拉姆、砺行阿凛\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"减速：\"},{\"text\":\"风见一宵、蝰蛇、方格斯\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"生存：\"},{\"color\":\"rgb(255, 0, 0)\",\"text\":\"恶命、缬草\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"替补：\"},{\"text\":\"戍守卡奇、黛纳\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"低配通关效果如下所示，图一是莉拉姆双C速通，图二是纯低配的谛听+完整对策打法。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"aC0CHiVlQwrtPdkR\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/30/392523.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"UZGS3fP0oO7Scf9o\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/30/165807.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"多琪（炼狱）\",\"fontSize\":\"24px\",\"color\":\"rgb(255, 0, 0)\"}],\"textAlign\":\"center\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"敌方初始处于减伤状态，吃到控制类debuff会移除三回合，但已经被移除时再次吃控制技不会延长。首先保证每面最多两个大招解决，生存就基本没问题，然后稍微注意一下控制位的对轴，不要空放大招就行。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"核心对策是控制手，首选\"},{\"text\":\"酣梦一宵\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"，一是有睡眠增伤，二是大招CD比较短。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"理想情况下酣梦和主c分别是第四、五动，让主C吃到睡眠增伤，大招秒掉第一面，酣梦带万魔，第二面再重复一次，也就是速通队的打法。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"低配能通关的阵容很多，无非是牢点，这里顺便演示下逆翎为主C的非主流打法。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"FnCkoIJ5ay3JU3DT\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/30/920660.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"fontSize\":\"24px\",\"color\":\"rgb(255, 0, 0)\",\"text\":\"重构兵祸（炼狱）\"}],\"textAlign\":\"center\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"重点机制是敌方开局有一个3回合的免疫，常规打法（包括DOT队）刚需一个驱散手，正常玩法还是直接用\"},{\"text\":\"逆翎\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"就行，没逆翎的也有一堆驱散和偷窃能用，除了水系有啥用啥。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"低配虽然看上去也有好几个驱散手，但真正好用的只有\"},{\"text\":\"凛心黛纳\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"没驱散手的邪修思路是绕过免疫，只带\"},{\"text\":\"寻愿多乐丝、幻音千明、暗卡奇\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"等buffer，上位buffer还有\"},{\"text\":\"梨梨、多琪、水生绫、拂秋、彼安汀\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"等。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"严格来说暗卡奇是混合型辅助，但能延长队友的buff，在组buffer队时可视为特殊的专拐。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"低配通关效果如下所示，图一是纯SR的常规驱散打法，风见可换妮璐，如果换梨梨可以直接二回合秒了。图二是无驱散双单C直击boss本体，图三是先清攻击之手的安全打法，带群C是为了同时给本体扣血。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"作为源器的入门本，兵祸的通关阵容非常灵活，只要有驱散手，既可以单C+强增伤，又可以双C+弱增伤，也可以全DOT，还可以直伤+DOT混合，甚至可以嘲讽住慢慢磨死，正常游玩从逆翎出生后基本就是无脑过了，低配到SS4.1凛心黛纳出生后也同样无脑过了。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"SelMuFDjQwIFZ6ay\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2026/3/16/650209.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"kxi8PyFeL7G3GkWA\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/29/937780.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"w7ZOt2XKFfpgIOoz\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/29/593694.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"fontSize\":\"24px\",\"color\":\"rgb(255, 0, 0)\",\"text\":\"莎朗（炼狱）\"}],\"textAlign\":\"center\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"boss本体不吃debuff，大量毒伤，解法是速通、免疫、强力净化三选一。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"速通无视机制，输出够高就行。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"免疫只有五个角色，三个还是被克的水系（但\"},{\"text\":\"宁芙涅\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"速通能用），有\"},{\"text\":\"千羽\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"随便打，\"},{\"text\":\"暗卡奇\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"只能尝试打短线。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"强力净化如\"},{\"text\":\"桑提克、多琪\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"等可以拖长战线增加容错率，但角色本身养成偏后，真能上场时不出意外已经能速通了。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"低配速通如下图，首回合控怪暖机，2回合给主C两次拉满条和减CD，达到副C甚至还没二动，主C已经连发大招~2技~大招的效果，生存方面有R卡奇首回合连控带推条小怪，全程只受boss攻击一下，毫无压力。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"2m7MLGOCFPSMTSyN\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/29/832999.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"fontSize\":\"24px\",\"color\":\"rgb(255, 0, 0)\",\"text\":\"赫妍（炼狱）\"}],\"textAlign\":\"center\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"boss本体约等于白给，真正的威胁来自于小怪，所以传统的重点机制是控小怪，亲妈对策是\"},{\"text\":\"席琳斯\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"，现代打法是控一下破减伤，然后直接秒。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"另外这是DOT队能打的三个本中最有价值的，一是难度最高，二是产出顶级，三是机制有利，DOT不被分摊伤害和反击，队员还能堆点血防，在近代阶段也是本图的主流解法，直到逆翎、莉拉姆这一代人权出现，统治地位才被直伤队夺走。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"低配的主要痛点是控制手，\"},{\"color\":\"rgb(255, 0, 0)\",\"text\":\"R卡奇、奥波尔、克拉肯、绯月鞠\"},{\"text\":\"都无法稳定控住小怪，顶多带万魔多控一回合，战线稍长点主C就容易被反击死，基本只能打速通，最快首回合2大招直接带走，图一是多打一次尾刀的情况，此时R卡奇起了拉满条的额外作用，但换成其他控制手也一样过。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"顺便一提，有个流言是错误的，本关不是没有暗善雅就不能用DOT队，\"},{\"color\":\"rgb(255, 0, 0)\",\"text\":\"奥波尔+方格斯+梨梨+凌罗\"},{\"text\":\"就有九成以上胜率，甚至不需要任何三矩阵，不需要胡狼，不需要万魔，效果见图二，测试用队伍一速275，技能是凌罗111，梨梨551，两个SR555。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"其实再退一步，没有梨梨的纯低配DOT队也能过，就是不太稳定，见图三。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"LFQVEnAKmu7I2b3p\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/29/484396.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"color\":\"rgb(255, 0, 0)\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"UkFQlm0SUNSj0Ic4\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2026/0/5/178216.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"7nFh0v4rgHr1QacA\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2026/0/5/892602.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"fontSize\":\"24px\",\"color\":\"rgb(255, 0, 0)\",\"text\":\"奥洛拉（炼狱）\"}],\"textAlign\":\"center\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"非高难本的毕业考核关，数值和机制难度都比之前有提升，甚至从某种意义上来说不次于之后的高难关，刷迅光的最大障碍。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"核心机制是boss会释放一个相当于我方50%最大生命的光环，需要施加等量的治疗才能破除，否则会减伤90%，而且破除用的部分不会加血。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"但我自己计算正好是60%最大生命\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"color\":\"rgb(255, 0, 0)\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"注意奶妈一般带超新星加奶量，而超新星没有双速矩阵，实战中很容易造成梨梨把主C拉到奶妈之前的局面，所以本关要尽量抬奶妈速度，实在抬不到主C之前再压主C速度。如果梨梨点了二技能，这个差距还要制造得更大才行。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"这关尽量打速通，虽然能打长线但不像之前的本一样可以预计要打多长，因为光环冷却只有两回合，再加上周期性免疫，一旦脱离速通窗口，再想让光环、奶妈大招、智壳技能、C大招、驱散、破甲全对上轴难如登天。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Boss除了直伤之外，还有一个狂言DOT会造成每回合掉血，而且一挂就是全体三回合，需要额外配奶妈或净化，三回合免疫也是会反复挂的，这些同样是不利于长线作战的因素。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"作为核心对策，首先要找个能大招一次破掉光环的奶妈，\"},{\"color\":\"rgb(255, 0, 0)\",\"text\":\"凌罗、米娅、千明、希尔芙\"},{\"text\":\"等非木属性奶妈的大招基础奶量都是20%~30%，有的还有额外治疗机制，比如凌罗是基于buff数，千明是基于已损失血量，希尔芙没有，米娅也没有并且奶量基于自身血量计算。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"奶量计算公式据我实测是\"},{\"color\":\"rgb(255, 0, 0)\",\"text\":\"基数*次数*基础比例*(1+技能描述加成)*(1+智壳加成+源器加成)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"以\"},{\"text\":\"超新星+8治愈的凌罗\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"用\"},{\"text\":\"没升级的三技能\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"治疗\"},{\"text\":\"3buff的主C\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"为例，奶量=主C总血量*2*12%*(1+15%*3)*(1+35%+25%)=主C总血量*55.68%\"}]},{\"type\":\"paragraph\",\"children\":[{\"color\":\"rgb(255, 0, 0)\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"如果按照boss技能描述的话本来应该是够破50%光环的，但破60%就不够了，\"},{\"text\":\"并且凌罗如果不点3技能和超新星对轴的话，长线没吃到超新星加成的时候只有43.5%\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"在55.68%的基础上加进化是59.856%，没用。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"在55.68%的基础上加智壳第二被动，13%~15%可以高于60%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"在55.68%的基础上升三技能，一点就能高于60%，升到四级是71.68%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"好在凌罗还会挂一个鲸祈buff，在主C行动之前会再治疗一次至少5%，加上55.68%正好够。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"满三技能\"},{\"text\":\"希尔芙\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"同装备下奶量是固定48%，就算加15%智壳被动和进化，最多也只有56.1%，没用。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"满三技能\"},{\"text\":\"千明\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"同装备下基础奶量也是48%，需要主C血量约为58%以下时才能破掉，速通在首回合可以实现，非速通后面无法保证。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"米娅\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"要分情况讨论，速通只要奶妈功能，此时自身血量基数很大，不用点技能，并且智壳和矩阵中只补一种基本就够了，另一种可以补速度，非速通要堆命中，不点技能奶量低于吃满buff加成的凌罗，并且同样有和超新星错轴的问题，好处是自带驱散。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"总而言之，速通除了希尔芙都能带，非速通又不投资没有绝对稳的，此时凌罗点满三技能会舒服很多，但等能速通又变多余了，自己决定吧。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"正常速通有单C（包括谛听）就够，主要考察辅助是否齐全，尤其是有没有\"},{\"text\":\"逆翎、克索司\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"这样能同时驱散+破甲的角色，有的话能省出一个增伤辅助位置，速通就比较容易达成。反之则主要考察双C强度，辅助可以不需要SSR，但双C爆发力必须顶级，基本上要\"},{\"text\":\"莉拉姆、夜离、贝茨比、谛听\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"四选二，而且贝茨比现在已经不太用了。如果没刷初始导致两边都不达标的话，这里再额外附赠两个牢队阵容，但翻车率可能会有一半。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【逃课技巧】在必须速杀但只差一点血量杀不掉的场合，可以把主暴率的源器换成主暴伤凹暴击。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"低配速通效果见图一，还是经典的双C+驱散+破甲打法。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"单谛听有梨梨打法见图二。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"单谛听无梨梨打法见图三，\"},{\"text\":\"风见一宵\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"集驱散+加减速+加减冷却于一身，在这里意外地好用，尤其是CD+2卡好了能直接几乎全程无光环。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"aZTsIsToiFaLssQ0\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/11/1/77452.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"9qkTXsxLlYvNHl9E\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2079/h_1118/50364/154257/2026/0/10/647038.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2079px\",\"height\":\"1118px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"g3SBtWeJDjCivrnO\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2026/0/10/820744.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"fontSize\":\"24px\",\"color\":\"rgb(255, 0, 0)\",\"text\":\"炼狱津（炼狱）\"}],\"textAlign\":\"center\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"日常8本里的首个高难本，boss会改变属性并在我方同属性角色行动四次后释放额外攻击，因此我方属性要尽量分散避免暴毙，除非能打速通，而且boss也比之前的肉很多，打速通也更难。低配主要是靠\"},{\"text\":\"蝰蛇+木善雅\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"苟住，其余两个位置增伤+输出即可。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"OdFNhA0j9QCWRUE1\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/11/1/561467.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"flod\",\"title\":\"赫尔基德（炼狱）\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"没啥难度，机制拆解如下：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"二技能：减速+自身5层【巨型帷幕】（首段攻击90%减伤）\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"一技能：破甲\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"被动：推条+按【巨型帷幕】层数增伤\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"小怪1：boss一层【巨型帷幕】+拉条\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"小怪2：boss一层【巨型帷幕】+破甲\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"整体思路是多动消【巨型帷幕】层数，带个减速手减缓boss叠层，带净化、加速、加防、减攻保障生存，破甲一般都有。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"智壳攻击也消层数并且抵减防，使得角色攻击不受【巨型帷幕】影响（但偶尔有bug不生效），所以最差的结果无非是平时打不动全靠开大，正常有梨梨开大也比较快，只要苟住不死就行。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"正常打法下完全不不需要配稀奇古怪的队，逆翎+梨梨+凌罗的标准阵容已经轻松满足这点要求，带个荼蘼、玄骊这种多动C无脑乱杀。面板\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"够高的莉拉姆更是直接一刀砍穿，不知机制为何物。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"视频里使用了尽可能低配的阵容，无SSR，无觉醒SR，除谛听外无光暗SR，原则上用砺行阿凛应该也行，因为这是测试用的小号，没练砺行阿凛，装备也是有啥用啥没刻意调，风见一宵都没双速，刻影也没怎么用，正常玩家用这个阵容打的话还会更快更稳一些。\\n\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/154257/2026/3/26/431851.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/154257/2026/3/26/177939.png\",\"wapPoster\":\"\",\"children\":[{\"text\":\"\"}]}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/30/392523.jpg",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/30/165807.jpg",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/154257/2025/10/30/920660.jpg"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 154257,
+    "username": "时崎狂肝",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/7.png",
+    "description": "人生就像一场电影，总要有人演写攻略的。",
+    "follow_num": 46,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 2,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 1,
+    "content_at": 35481,
+    "content_num": 51,
+    "read_num": 246523,
+    "like_num": 423
+  },
+  "update_user": {
+    "uid": 154257,
+    "username": "时崎狂肝",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/7.png",
+    "description": "人生就像一场电影，总要有人演写攻略的。",
+    "follow_num": 46,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 1,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 154257,
+      "username": "时崎狂肝",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/7.png",
+      "last_ip_area": "吉林省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": true,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 6,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 675221,
+      "name": "重构兵祸全面解析",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/26/249073.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675321,
+      "name": "多琪全面解析",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/436122.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675314,
+      "name": "奥洛拉全面解析",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/476926.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 668684,
+      "name": "炼狱兵祸攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1500/h_746/50364/267618/2025/6/2/760729.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 668697,
+      "name": "炼狱多琪攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1506/h_748/50364/267618/2025/6/2/418791.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 668705,
+      "name": "炼狱奥洛拉攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1504/h_752/50364/267618/2025/6/2/767481.jpg",
+      "jump_url": ""
+    }
+  ]
+}

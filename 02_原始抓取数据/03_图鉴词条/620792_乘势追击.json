@@ -1,0 +1,38 @@
+{
+  "id": 620792,
+  "url": "https://www.gamekee.com/yise/620792.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/620792",
+  "title": "乘势追击",
+  "category": "03_图鉴词条",
+  "type": 4,
+  "tag": "2",
+  "entryId": 148379,
+  "gameId": 50364,
+  "createdAt": "2024-04-24T06:09:32.000Z",
+  "updatedAt": "2024-04-24T06:20:45.000Z",
+  "commentCount": 0,
+  "likeCount": 0,
+  "favoriteCount": 0,
+  "viewCount": 284,
+  "summary": "基础信息 乘势追击 获取途径 乘势追击 6：暴击率+12%； 12：暴击率+12%；攻击时，目标每有一种减益或控制效果，伤害提升6%，最多提升30% ",
+  "textLength": 0,
+  "imageCount": 6,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList"
+  ],
+  "user": {
+    "uid": 43758,
+    "username": "阿拉蕾",
+    "description": ""
+  },
+  "crawledAt": "2026-06-15T03:30:15.263Z"
+}

@@ -1,0 +1,349 @@
+{
+  "id": 620281,
+  "kind": "character_skill_bundle",
+  "name": "方格斯",
+  "entryName": "方格斯",
+  "rarity": "SR",
+  "element": "理",
+  "faction": "莱伯茨生命",
+  "title": "无限木马",
+  "gender": "男",
+  "profession": "不明",
+  "identityCode": "E09-050349",
+  "chipStatus": "故障",
+  "assessment": "异格者方格斯，身份编码E09-050349，Re-A芯片故障检测到大量非法改装记录。\n疯狂的植入体改造者、E-07擂台上的新星、莱伯茨生命的改造实验体……不管以哪种身份，方格斯都是危险的代名词，这不仅是指他身上数不清的、不知用了什么方法才强行在一起而没有过载烧坏的强化设备，还有他那堪称混乱与疯狂的思维。\n与方格斯相处一定要小心，他发起疯来，可是连自己都打的。",
+  "stats": {
+    "生命": "10312+4828",
+    "攻击": "865+311",
+    "防御": "618+212",
+    "速度": "123+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%+12%",
+    "效果命中": "0%+32%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "620281-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "疫，病传染 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/2eb7a56a-c172-4bfd-9efd-4862641d8080.png",
+      "description": "冷却时间：0\n方格斯射出带有病毒的子弹，对敌方单体造成280%伤害，有35%概率附加1层【持续伤害】，持续1回合。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至260%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【持续伤害】概率增加至25%\n等级4：\n潜能提升：速度值+4\n技能提升：伤害系数增加至280%\n等级5：\n潜能提升：速度值+8\n技能提升：附加【持续伤害】概率增加至35%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620281-skill-2",
+      "order": 2,
+      "section": "被动",
+      "name": "感染 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/d276ca6f-3d50-46b0-849d-9206188096ff.png",
+      "description": "冷却时间：0\n方格斯不顾一切地散播病毒，其他队友释放伤害类技能后如未处于不可行动状态，方格斯有50%概率助战。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：追击概率增加至30%\n等级3\n潜能提升：防御力+70\n技能提升：追击概率增加至35%\n等级4：\n潜能提升：效果命中+8%\n技能提升：追击概率增加至40%\n等级5：\n潜能提升：效果命中+12%\n技能提升：追击概率增加至50%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620281-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "疫，病散播 等级 5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/73c84f2b-484c-4400-ba5e-1b8a08cdf157.png",
+      "description": "冷却时间：3\n方格斯射出强力的病毒弹，产生连环爆炸，对敌方全体造成250%伤害，并有100%概率附加1层2回合【持续伤害】和【速度下降】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至230%\n等级3\n潜能提升：生命值+1000\n技能提升：附加【持续伤害】和【速度下降】概率增加至100%\n等级4：\n潜能提升：生命值+5%\n技能提升：伤害系数增加至250%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n持续输出，连击\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 553|\n| 源器配置 | 右三主属性3效果命中 |\n└─────────┴────────────┘\n【对局表现】\n毒队的组件之一，配合上自身的追击机制，可以打出附加多个持续伤害，常用于兵祸和赫研本中",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+6时光+6讯光天击"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万魔法典"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+6时光+6讯光天击",
+        "推荐智壳": "万魔法典",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/658675.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击伤害提升"
+      ],
+      "other": [
+        "暴击伤害+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【变强，这是方格斯存在的唯一价值。】\n「不够强，还是不够强！」\n方格斯从肩上扯下几个烧坏的改造植入体，扔在地上，用脚踩了个稀碎。就是这几个零件，害得他差点在上一场对决中输给对面的家伙。\n「得变强才行，弱者不配活在这个世界上……我得变强才行！」\n他抓起几个新的植入体，将它们接在自己身上。然而，伴随着一阵火花，仅仅几秒过去，那几个零件就全部坏掉了一一方格斯身上已经接入了太多改造植入体，那些普通的零件根本无法与之匹配。\n「都是些没用的东西！我得找些更强的……更强的！！！」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【为了变强，可以不择手段。】\n「给我更强的植入体！」\n方格斯踹开41号的实验室大门。他用枪指着41号的脸，威胁她给自己提供帮助。\n41号一点都不意外，因为几乎每隔十几天，这种事情就会在这间实验室里上演。像往常那样，方格斯自己躺到实验台上，让41号进行检查。\n「和上次没什么两样，你身上的改造太多了，一般的植入体承受不住那种原质能量。想要更强的力量，你得单独定制。」\n「定！当然要定！只要能获得更强的力量，让我干什么都可以！我会变得更强！」\n几乎毫不犹豫地，方格斯对41号说道。他渴求变强，因为他知道，作为莱伯茨生命的实验体，如果不变得更强，等待他的就只有被废弃的命运。\n41号露出满意的微笑，说：「很好，我这里有个全新的装置，正缺个实验体。」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【「最强」的概念并不存在，变强的道路永无止境。】\n「哈哈……哈哈哈！我变得更强了！」\n方格斯肆无忌惮地使用着自己的原质能力。这力量通过他的新改造植入体涌进枪里，爆发出巨大的力量。然而，这力量虽然强大，却难以控制，就连他自己的头发和衣服，都因为失控的力量被波及，变得破破烂烂。\n「手术很成功，但是……你可收敛点。这东西力量很强，别到时候一个不留神，让它把你自己都打趴下了。别忘了，不管走到哪，你都是莱伯茨生命的资产，你的命，可不属于你自己。」\n41号冷冷地提醒他，但方格斯毫不在乎，他已经变强了，暂时远离了被废弃的威胁。\n「我当然知道，但是随你便！现在我变强了……有了这个新的改造植入体，我想做什么，就做什么！整个E-07，已经没人能拦得住我了！哈哈哈！」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/25b670b5-3585-4a3e-b628-14eca3756fd9.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/25b670b5-3585-4a3e-b628-14eca3756fd9.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/b3e119ea-1e6a-4a25-a94c-d75feeaa4b4e.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/b3e119ea-1e6a-4a25-a94c-d75feeaa4b4e.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/25b670b5-3585-4a3e-b628-14eca3756fd9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/25b670b5-3585-4a3e-b628-14eca3756fd9.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/b3e119ea-1e6a-4a25-a94c-d75feeaa4b4e.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/689976ab-6cac-4c81-b0f9-9ce4e28692cc.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/b3e119ea-1e6a-4a25-a94c-d75feeaa4b4e.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/689976ab-6cac-4c81-b0f9-9ce4e28692cc.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/2eb7a56a-c172-4bfd-9efd-4862641d8080.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/d276ca6f-3d50-46b0-849d-9206188096ff.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/73c84f2b-484c-4400-ba5e-1b8a08cdf157.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/658675.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/391826.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/389425.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620281,
+    "title": "方格斯",
+    "url": "https://www.gamekee.com/yise/620281.html",
+    "updatedAt": "2025-08-18T07:40:12.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620281_方格斯.md",
+      "metadata": "03_图鉴词条/620281_方格斯.json",
+      "rawApi": "_raw_api/details/620281.json"
+    }
+  }
+}

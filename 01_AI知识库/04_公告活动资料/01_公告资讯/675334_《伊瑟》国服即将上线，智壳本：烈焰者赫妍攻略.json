@@ -1,0 +1,32 @@
+{
+  "id": 675334,
+  "kind": "reference",
+  "title": "《伊瑟》国服即将上线，智壳本：烈焰者赫妍攻略",
+  "domainPath": [
+    "04_公告活动资料",
+    "01_公告资讯"
+  ],
+  "classifyReason": "公告或活动资料",
+  "originalCategory": "01_公告资讯",
+  "text": "《伊瑟》国服即将上线，智壳本：烈焰者赫妍攻略",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/2/21.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/video/50364/599914/2025/7/27/908371.png"
+  ],
+  "source": {
+    "pageId": 675334,
+    "title": "《伊瑟》国服即将上线，智壳本：烈焰者赫妍攻略",
+    "url": "https://www.gamekee.com/yise/675334.html",
+    "updatedAt": "2025-08-27T06:48:51.000Z",
+    "sourceFiles": {
+      "markdown": "01_公告资讯/675334_《伊瑟》国服即将上线，智壳本：烈焰者赫妍攻略.md",
+      "metadata": "01_公告资讯/675334_《伊瑟》国服即将上线，智壳本：烈焰者赫妍攻略.json",
+      "rawApi": "_raw_api/details/675334.json"
+    }
+  }
+}

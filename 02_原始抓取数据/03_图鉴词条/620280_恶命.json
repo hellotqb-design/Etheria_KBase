@@ -1,0 +1,40 @@
+{
+  "id": 620280,
+  "url": "https://www.gamekee.com/yise/620280.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/620280",
+  "title": "恶命",
+  "category": "03_图鉴词条",
+  "type": 4,
+  "tag": "2",
+  "entryId": 147924,
+  "gameId": 50364,
+  "createdAt": "2024-04-18T09:30:49.000Z",
+  "updatedAt": "2024-04-18T09:30:49.000Z",
+  "commentCount": 0,
+  "likeCount": 0,
+  "favoriteCount": 0,
+  "viewCount": 1527,
+  "summary": "恶命",
+  "textLength": 0,
+  "imageCount": 7,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/entry_icon/0f94bec9-f3ed-4777-a17e-0678ff0b2a43.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList",
+    "entry-dict"
+  ],
+  "user": {
+    "uid": 43758,
+    "username": "阿拉蕾",
+    "description": ""
+  },
+  "crawledAt": "2026-06-15T03:30:17.120Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 688993,
+  "url": "https://www.gamekee.com/yise/688993.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/688993",
+  "title": "【伊瑟】千羽养成攻略",
+  "category": "07_攻略评测",
+  "type": 4,
+  "tag": "",
+  "entryId": 0,
+  "gameId": 50364,
+  "createdAt": "2026-01-07T03:27:51.000Z",
+  "updatedAt": "2026-01-07T07:10:17.000Z",
+  "commentCount": 0,
+  "likeCount": 1,
+  "favoriteCount": 0,
+  "viewCount": 2825,
+  "summary": "哈喽大家我是lala，今天我们一起来看看新异格者千羽~一图流：一、角色概论先说总结，千羽能够根据自身与目标的速度差增伤，还能够为友方附加免疫效果，十分强力二、技能详情普攻—旋光羽千羽对目标造成2段伤害，自身速度每高出1点，普攻增伤0.6%；最后一段伤害暴击时自拉条15%被动—光翼守护千羽行动后为自身",
+  "textLength": 1045,
+  "imageCount": 12,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2026/0/7/272975.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2026/0/7/122792.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2026/0/7/422129.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2026/0/7/969664.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2026/0/7/142450.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2026/0/7/142450.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2026/0/7/272975.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2026/0/7/122792.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList",
+    "wikiIndex"
+  ],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "description": ""
+  },
+  "crawledAt": "2026-06-15T03:28:07.645Z"
+}

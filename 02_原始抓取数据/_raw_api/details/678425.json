@@ -1,0 +1,239 @@
+{
+  "id": 678425,
+  "game_id": 50364,
+  "entry_id": 195860,
+  "uid": 789037,
+  "type": 4,
+  "title": "伊瑟游玩技巧小贴士③",
+  "tag": "2",
+  "created_at": 1758960458,
+  "updated_at": 1760152307,
+  "updated_uid": 789037,
+  "comment_at": 1759165400,
+  "last_at": 1759165400,
+  "comment_count": 1,
+  "status": 1,
+  "summary": "伊瑟游玩技巧小贴士③亲爱的超链者，这里由协会为大家分享第三个Part的游玩小贴士哈。1：异格者升星系统介绍当你的异格者满级之后，需要升星获得更高属性四维上限。虽然升星之后等级回退到了1级，但是实际上是比之前强的，并不是重新练这个角色哈。2星→3星：需要2个蓝色留影材料。3星→4星：需要3个紫色留影材",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1267/h_713/50364/2025/9/27/d7305097-f7f6-48a6-97b1-599b9b1026b8jpeg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1207/h_694/50364/789037/2025/8/27/489857.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_677/50364/789037/2025/8/27/923224.png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 4705,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "山东省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 15,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 678425,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"3ZP9SELG4UVCAC7x\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1267/h_713/50364/2025/9/27/d7305097-f7f6-48a6-97b1-599b9b1026b8jpeg\",\"alt\":\"14C4B8BA08076B0F96CCAACDA18DFE1A\",\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"header1\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"伊瑟游玩技巧小贴士③\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"亲爱的超链者，这里由协会为大家分享第三个Part的游玩小贴士哈。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"1：异格者升星系统介绍\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"当你的异格者满级之后，需要\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"升星\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"获得更高属性\"},{\"text\":\"四维上限\",\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"虽然升星之后等级回退到了1级，但是实际上是比之前强的，并不是重新练这个角色哈。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"2星→3星\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"underline\":true},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"：需要2个\"},{\"color\":\"rgb(9, 109, 217)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"蓝色\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"留影材料。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"3星→4星\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"underline\":true},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"：需要3个\"},{\"color\":\"rgb(106, 57, 201)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"紫色\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"留影材料。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"4星→5星\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"underline\":true},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"：需要4个\"},{\"color\":\"rgb(231, 95, 51)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"橙色\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"留影材料。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"5星→6星\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"underline\":true},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"：需要5个\"},{\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"赤色\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"留影材料。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"如下图：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"hhjrQpiETFzSyzvW\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1207/h_694/50364/789037/2025/8/27/489857.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"eUl9DLSjynPW7ePL\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_677/50364/789037/2025/8/27/923224.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"HN1Ks1JFRNtY5tMq\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1205/h_679/50364/789037/2025/8/27/333854.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"TZJxfFSG7jLC3TyS\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1225/h_671/50364/789037/2025/8/27/290338.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"举例：比如下图小熊座卡奇我想升6星，但是目前只有1个赤色留影材料，那么就可以使用合成功能合成4个赤色留影材料。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"合成功能\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"会自动计算背包中的材料数量。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"每种颜色合成所需数量如下：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"3个蓝\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"·留影可合成1个\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"紫\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"·留影\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"4个紫\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"·留影可合成1个\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"橙\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"·留影\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"5个橙\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"·留影可合成1个\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"赤\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"·留影\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ngwHN5SWC8tRwN6R\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1267/h_557/50364/789037/2025/8/27/576796.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"2：异格者潜能等级---原质印迹的合成\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"大家刷潜能激活材料掉落的初级原质印迹溢出，其实是正常的，不用担心中级/高级的印迹不够用。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"只需要点击所需材料后弹出窗口，再点击中间的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"转换\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"按钮。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"10BdQtmSBdaSZp2i\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1059/h_663/50364/789037/2025/8/27/816196.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"分为\"},{\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"中级/高级\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"转换，兑换比例均为\"},{\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"5:1\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，然后先去自己所需数量即可。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"eSsYIwX8cd1Vbxy6\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_951/h_506/50364/789037/2025/8/27/269255.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"3：智壳如何继承\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"找到你想继承的1级智壳，点击继承按钮会出现图二所示的左侧列表。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"然后选择你想消耗的已升级智壳就可以继承到新智壳上面。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"注意：这一操作会将选择智壳的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"星级，等级，被动技能\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"全部继承到新智壳上面\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，当前智壳矩阵效果会保留，消耗的智壳就会消失。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"MehHyGeqYVibaMiu\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1267/h_643/50364/789037/2025/8/27/589712.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"hxPMfIK4QiuvCvGQ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1266/h_669/50364/789037/2025/8/27/379196.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"随着功能的优化\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【竞技配装】\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"内智壳功能也已经支持养成啦，并且可以\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"强制消耗普通配装\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"使用的智壳。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"会在操作消耗智壳继承功能的时候，进行\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"二次弹窗提醒\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"。咱们确认无误可以继续操作的话，就点击确认。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"下图为竞技之域\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"里面的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"竞技配装路径。\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"R16IelOVxl5NPUSh\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1268/h_675/50364/789037/2025/8/27/417076.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"4：活动商店没有延迟兑换\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"对没错，大家需要在\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"活动结束前及时兑换材料或者活动结束的最后一天\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"将所有积分进行兑换。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"一般情况下活动都是\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"7天\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"时间。\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"HvNRoTUDqiBaqqJQ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1267/h_700/50364/789037/2025/8/27/620598.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"5：隐藏名片功能\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"一般这个功能多用于竞技场和RTA，因为个人名片里面可以看到你的通关阵容，常用阵容卡的星级，等级等信息，还有竞技场的场次，胜率这些。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"避免信息泄露，可以\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"右上角按钮---设置---其他--里面点击不公开名片---开启\",\"underline\":true},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"。就可以隐藏啦。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"WE9cQ1YIpyBhZiZF\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1269/h_582/50364/789037/2025/8/27/104302.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"6：阵容锁定功能\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"进入战斗之后点击右上角的两把剑的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"小齿轮按钮---点击阵容锁定--开启\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"这样就可以在进去战斗之后，不需要调整阵容，即可快速战斗开战。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"2JagLEel0D7Mjeqw\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1042/h_615/50364/789037/2025/8/27/196968.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"当你在战斗中遇到这个弹窗的时候，一般都是更新或者更改了这个副本里面阵容的PVE配装，这时，\"},{\"text\":\"你可以检查一下配装和配速，如果没问题的话\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，就点击\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“忽略”\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，然后在阵容预设里面更新一下最新的配装。如果不符合，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"就点击确定只用之前预设的阵容就好了\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"这里建议大家强化出更好的源器和智壳的时候，好好利用配装预设功能。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"及时更新各种装备/阵容的预设方案哈。\",\"color\":\"rgb(255, 184, 0)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"rgb(255, 184, 0)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"x2XPZUQU2YCgYmf4\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_788/h_373/50364/789037/2025/8/27/222573.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"结语\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"以上就是本篇的全部内容啦。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"预祝各位超链者国服欧气满满，游戏愉快~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"感谢阅读。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"For韶华\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1267/h_713/50364/2025/9/27/d7305097-f7f6-48a6-97b1-599b9b1026b8jpeg",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1207/h_694/50364/789037/2025/8/27/489857.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_677/50364/789037/2025/8/27/923224.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 789037,
+    "username": "韶华",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 16306098,
+    "content_num": 14,
+    "read_num": 52245,
+    "like_num": 18
+  },
+  "update_user": {
+    "uid": 789037,
+    "username": "韶华",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 789037,
+      "username": "韶华",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+      "last_ip_area": "山东省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 678423,
+      "name": "小贴士①",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 678424,
+      "name": "小贴士②",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 678426,
+      "name": "小贴士④",
+      "icon": "",
+      "jump_url": ""
+    }
+  ]
+}

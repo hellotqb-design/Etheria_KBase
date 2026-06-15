@@ -1,0 +1,53 @@
+{
+  "id": 620750,
+  "url": "https://www.gamekee.com/yise/620750.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/620750",
+  "title": "黑旗",
+  "category": "03_图鉴词条",
+  "type": 4,
+  "tag": "2",
+  "entryId": 148332,
+  "gameId": 50364,
+  "createdAt": "2024-04-24T02:29:02.000Z",
+  "updatedAt": "2025-05-12T12:35:38.000Z",
+  "commentCount": 0,
+  "likeCount": 0,
+  "favoriteCount": 0,
+  "viewCount": 4323,
+  "summary": "",
+  "textLength": 364,
+  "imageCount": 19,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/21420.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/417283.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/761436.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_333/h_380/50364/43758/2024/9/25/320867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_341/h_316/50364/43758/2024/9/25/584378.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_359/h_374/50364/43758/2024/3/24/493364.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_370/h_355/50364/43758/2024/9/25/624355.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_410/h_397/50364/43758/2024/3/24/114912.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_410/h_397/50364/43758/2024/3/24/114912.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/21420.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/761436.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_430/h_380/50364/43758/2024/9/25/746771.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_458/h_469/50364/43758/2024/3/24/238739.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/969163.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList",
+    "entry-dict",
+    "wikiEntry"
+  ],
+  "user": {
+    "uid": 43758,
+    "username": "阿拉蕾",
+    "description": ""
+  },
+  "crawledAt": "2026-06-15T03:30:06.751Z"
+}

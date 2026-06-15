@@ -1,0 +1,335 @@
+{
+  "id": 677619,
+  "game_id": 50364,
+  "entry_id": 195281,
+  "uid": 878729,
+  "type": 4,
+  "title": "逆翎养成攻略",
+  "tag": "",
+  "created_at": 1758199824,
+  "updated_at": 1759049108,
+  "updated_uid": 0,
+  "comment_at": 1758199824,
+  "last_at": 1758199824,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "：我只是能力强一点，什么都兼顾了一下罢了。什么，你说我多管闲事？逆羽，给我拖住他！哈喽大家我是lala，今天我们一起来看看伊瑟新光暗异格者逆翎～一图流：——————一、角色概论先说总结，逆翎能高频对敌方单位附加【逆羽】来增伤，终结技还能够使敌方破防减伤，是目前最为泛用的破防手，抽到绝对不亏二、技能详",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/8/18/473493.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/8/18/384357.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/18/452479.png",
+  "model_ids": "",
+  "like_count": 2,
+  "unlike_count": 1,
+  "view_count": 15474,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 895119,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1758200866,
+  "server_id": 0,
+  "image_num": 5,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 677619,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"DCnq2Ymkp2TGnckn\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/8/18/473493.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"5000px\",\"height\":\"2822px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"：我只是能力强一点，什么都兼顾了一下罢了。什么，你说我多管闲事？逆羽，给我拖住他！\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"哈喽大家我是lala，今天我们一起来看看伊瑟新光暗异格者逆翎～\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一图流：\"},{\"type\":\"image\",\"key\":\"eOsEps3dK3r4OhIq\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/8/18/384357.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3000px\",\"height\":\"8482px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"——————\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"一、角色概论\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"先说总结，逆翎能高频对敌方单位附加【逆羽】来增伤，终结技还能够使敌方破防减伤，是目前最为泛用的破防手，抽到绝对不亏\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"二、技能详情\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"普攻—翎火\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"逆翎的普攻会对敌方全体造成伤害，并且附加一层【逆羽】\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"qitWZz7EGxfuAsx7\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/18/452479.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动—翎羽\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动是逆翎的核心技能，每当敌方单位被附加除【逆羽】外的减益效果时，就会被附加一层【逆羽】，每层逆羽会使目标受到的伤害提升6%，速度下降3点，最高叠加10层。除逆翎外，此效果每个技能最多触发一次。敌方单位行动结束后，逆翎拉条友方全体，推荐点到4.5级，吃满速度加成\"},{\"type\":\"image\",\"key\":\"jcFoV1VxbkKG6PWH\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/18/772075.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技—幽翎焰舞\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"逆翎对敌方群体造成3段伤害，每段伤害都有概率驱散目标一个增益效果，并有概率附加防御下降与虚弱\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"zcwW001xhgJGJjp9\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/18/44543.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐加点：普攻4.5级→被动5级→终结技4级→资源溢出时补足其他技能\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"三、矩阵推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"矩阵方面，一号位推荐携带疾驰，保证行动频率。二号位首推时光驾驭6补足效果命中，也可以携带荆棘、奋进等生存相关的矩阵保证在副本中不死。三号位首推迅光天击，能够同时提供逆翎最需要的效果命中与速度，其次是疾影强袭，虽然攻击力词条对逆翎提升不大，但好歹能够补充速度，其他矩阵均不推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"毕业矩阵：\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一号位：疾驰\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"二号位：时光驾驭6＞生存相关\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"三号位：迅光天击＞疾影强袭\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"四、智壳推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"智壳方面，优先推荐万魔法典，快速刷新终结技CD来多次附加逆羽，加快刷本效率。其次是胡狼卫士，追击能够补足伤害，后续的加速与自拉条提高出手频率。实在没得选或队伍生存压力过大时可以选择让逆翎携带匠，为残血队友提供护盾，保证队友的存活\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"前期：不羁科学/星\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"中期：暴雪/山海经\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"后期：万魔法典＞胡狼卫士＞匠\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动推荐：涌流、迅影、凝视/洞彻/影护\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"五、源器推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"源器词条方面，主词条推荐效果命中，保证稳定附加减益效果；副词条推荐速度，在主c行动前出手来让伤害最大化\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"主词条：效果命中*3\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"副词条：速度＞效果命中＞生命值百分比\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"六、角色配队\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"配队方面，逆翎目前最适配的主C为贝兹比，高频附加减益效果，可以最大化贝兹比的被动收益。当然，逆翎十分泛用，并不过度依赖于其他的异格者。\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"七、抽取建议\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"逆翎是目前最大杯的破防手，抽卡资源足够的情况下十分推荐大家在必出池抽取本体，原质更多的还是为pvp服务，不需要刻意抽取\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"感谢大家看到最后，有问题可随时在评论区提出，lala看到后会第一时间回应，点赞收藏评论加速更新，祝大家公测单发抽出心仪异格者，我们下期攻略再见\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"拜拜～\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/8/18/473493.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/8/18/384357.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/18/452479.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 2,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 685541,
+      "name": "蚀心暗狩·罗魍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/842596.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 685537,
+      "name": "恶灵摇滚·桑提克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/321523.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683085,
+      "name": "静默挽歌·奈薇忒 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1662/h_940/50364/842288/2025/10/17/607708.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683357,
+      "name": "明光猎手·光狩谛听 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1664/h_940/50364/842288/2025/10/17/109281.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675001,
+      "name": "永夜明火·夜离",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/807765.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678704,
+      "name": "巡洄漫音·水生绫",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/459884.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675637,
+      "name": "破却宣言·莉拉姆",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1084/50364/664163/2025/7/30/359430.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678705,
+      "name": "千面烬相·柯卡尔迪",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/565969.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675301,
+      "name": "忘忧梦火·芙蕾雅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/7/27/230962.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675952,
+      "name": "异格者BUFF介绍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/429039.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675604,
+      "name": "二重典贷·宁芙涅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/812041.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675602,
+      "name": "笼潮·贝兹比",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/658875.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675284,
+      "name": "哨影猎手·谛听",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/26/153688.png",
+      "jump_url": ""
+    },
+    {
+      "id": 676057,
+      "name": "永恒沉眠·缬草",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/4/48051.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675689,
+      "name": "幻影骇客·克洛斯",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/30/107101.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675768,
+      "name": "爆裂甜心·莉露摩卡",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/7/31/425722.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675883,
+      "name": "末日铁花·荼蘼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/410192.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675994,
+      "name": "厄影修罗·罗喉",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/3/735401.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 676257,
+      "name": "幻琴之音·幻音千明",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/8/62083.jpg",
+      "jump_url": ""
+    }
+  ]
+}

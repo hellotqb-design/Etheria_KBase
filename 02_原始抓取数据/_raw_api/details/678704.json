@@ -1,0 +1,335 @@
+{
+  "id": 678704,
+  "game_id": 50364,
+  "entry_id": 195500,
+  "uid": 878729,
+  "type": 4,
+  "title": "水生绫养成攻略",
+  "tag": "",
+  "created_at": 1759330514,
+  "updated_at": 1759404672,
+  "updated_uid": 0,
+  "comment_at": 1759330514,
+  "last_at": 1760682113,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "哈喽大家我是lala，今天我们一起来看看伊瑟新SSR异格者，水生绫！一图流：一、角色概论先说总结，水生绫不仅可以通过驱散、回血保证队友生存，还能够通过终结技为队友拉条与减冷却，加快队伍的输出频率，十分适配PVE的后期高难环境二、技能详情普攻—洄音渡水生绫的普攻是常规模板，对敌方单体造成伤害，然后小概",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/9/1/295777.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/9/1/263830.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/9/1/960880.png",
+  "model_ids": "",
+  "like_count": 2,
+  "unlike_count": 0,
+  "view_count": 11384,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 448924,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1759331735,
+  "server_id": 0,
+  "image_num": 5,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 678704,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"wEcGNBvdWqzAF4mS\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/9/1/295777.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"5000px\",\"height\":\"2822px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"哈喽大家我是lala，今天我们一起来看看伊瑟新SSR异格者，水生绫！\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一图流：\"},{\"type\":\"image\",\"key\":\"3qYD6QXSl9IRIjAi\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/9/1/263830.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3000px\",\"height\":\"8482px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"一、角色概论\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"先说总结，水生绫不仅可以通过驱散、回血保证队友生存，还能够通过终结技为队友拉条与减冷却，加快队伍的输出频率，十分适配PVE的后期高难环境\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"二、技能详情\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"普攻—洄音渡\",\"bold\":true},{\"type\":\"image\",\"key\":\"DGvb0DCWMSznUkEH\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/9/1/960880.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"水生绫的普攻是常规模板，对敌方单体造成伤害，然后小概率减少己方所有异格者技能冷却一回合\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"小技能—净琉音\",\"bold\":true},{\"type\":\"image\",\"key\":\"Juo98McyzNebgwoM\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/9/1/51148.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"水生绫回合开始时，为友方全体每人驱散一个负面效果，净化成功后治疗其15%最大生命\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技—巡音洄想\",\"bold\":true},{\"type\":\"image\",\"key\":\"A9y46nN3RTM8nTKw\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/9/1/909513.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技是水生绫的核心技能，主动使用时拉条全体并减少己方所有异格者技能与智壳冷却一回合。当敌方单位阵亡时，减少此技能2回合冷却，如果无法减少，则拉条自身80%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐加点：终结技5级→被动5级→普攻5级\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"三、矩阵推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"水生绫技能模组决定了她可开发的玩法多样，并不局限于特定矩阵，本次攻略lala只为大家推荐较为稳定的矩阵搭配\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一号位推荐携带疾驰，一速拉条全体40%保证队伍优先出手，等队友打完一轮后终结技转好冷却再次拉条并为己方全体减冷却，优化己方输出节奏。二号位目前没有较为适合的矩阵，推荐大家携带生存相关矩阵保证存活。三号位较为推荐疾影强袭/迅光天击堆高速度\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"毕业矩阵：\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一号位：疾驰\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"二号位：生存相关\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"三号位：迅影强袭/迅光天击\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"四、智壳推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"水生绫自带减冷却，对技能刷新要求不大，因此智壳首推胡狼卫士，提高自身行动频率。万魔法典、万圣节、匠的效果大差不差，大家根据自身练度选择即可\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"前期：不羁科学\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"中期：暴雪/钻石之心\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"后期：胡狼卫士\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动推荐：涌流、迅影、影护\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"五、源器推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"水生绫不会附加负面效果，技能也没有输出需要，源器直接携带3生命值百分比即可，副词条推荐速度抢先手\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"主词条：生命值百分比*3\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"副词条：速度＞生命值百分比\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"六、角色配队\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"配队方面，水生绫十分适配生存压力较小或有生存位的、技能冷却长的队伍，例如PVP中的肉队、速攻队\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"PVE中较为适合与技能真空期长但伤害极高的队友来刷新终结技冷却，如贝兹比、夜离、莉拉姆等高伤主C\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"七、抽取建议\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"水生绫十分适配PVE的高难环境，PVP也有不错的发挥空间，资源足够时推荐抽取本体\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"感谢大家看到最后，有问题可随时在评论区提出，lala看到后会第一时间回应，点赞收藏评论加速更新，祝大家单发抽出心仪异格者，我们下期攻略再见\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"拜拜～\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/9/1/295777.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/9/1/263830.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/9/1/960880.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 685541,
+      "name": "蚀心暗狩·罗魍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/842596.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 685537,
+      "name": "恶灵摇滚·桑提克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/321523.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683085,
+      "name": "静默挽歌·奈薇忒 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1662/h_940/50364/842288/2025/10/17/607708.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683357,
+      "name": "明光猎手·光狩谛听 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1664/h_940/50364/842288/2025/10/17/109281.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 677619,
+      "name": "幽翎爵女·逆翎",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/28/759667.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675001,
+      "name": "永夜明火·夜离",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/807765.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675637,
+      "name": "破却宣言·莉拉姆",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1084/50364/664163/2025/7/30/359430.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678705,
+      "name": "千面烬相·柯卡尔迪",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/565969.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675301,
+      "name": "忘忧梦火·芙蕾雅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/7/27/230962.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675952,
+      "name": "异格者BUFF介绍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/429039.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675604,
+      "name": "二重典贷·宁芙涅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/812041.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675602,
+      "name": "笼潮·贝兹比",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/658875.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675284,
+      "name": "哨影猎手·谛听",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/26/153688.png",
+      "jump_url": ""
+    },
+    {
+      "id": 676057,
+      "name": "永恒沉眠·缬草",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/4/48051.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675689,
+      "name": "幻影骇客·克洛斯",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/30/107101.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675768,
+      "name": "爆裂甜心·莉露摩卡",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/7/31/425722.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675883,
+      "name": "末日铁花·荼蘼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/410192.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675994,
+      "name": "厄影修罗·罗喉",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/3/735401.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 676257,
+      "name": "幻琴之音·幻音千明",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/8/62083.jpg",
+      "jump_url": ""
+    }
+  ]
+}

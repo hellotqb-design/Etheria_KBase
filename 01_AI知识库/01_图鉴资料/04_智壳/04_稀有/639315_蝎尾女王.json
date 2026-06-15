@@ -1,0 +1,70 @@
+{
+  "id": 639315,
+  "kind": "zhike",
+  "name": "蝎尾女王",
+  "entryName": "蝎尾女王",
+  "rarityGroup": "稀有",
+  "starRarity": "★★",
+  "role": "治疗型",
+  "description": "博览馆的吉祥物兼讲解员，但并没有什么工作热情，下班的时候跑得比谁都快。",
+  "stats": {
+    "生命": "1771",
+    "攻击": "108",
+    "防御": "42",
+    "速度": "13"
+  },
+  "skills": [
+    {
+      "skillId": "639315-skill-1",
+      "order": 1,
+      "section": "宠物技能",
+      "name": "蝎尾女王（已觉醒）",
+      "description": "冷却时间：4回合\n群疗\n本体行动后，治疗本体与当前血量最低的队友异格者，治疗量为1500+10%自身生命上限。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "涌泉"
+      ],
+      "other": [
+        "涌泉 4/8/12",
+        "生命值+10%/+25%/+45%"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★",
+    "定位": "治疗型",
+    "生命": "1771",
+    "攻击": "108",
+    "防御": "42",
+    "速度": "13"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_301/h_346/50364/43758/2024/9/25/327925.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_301/h_346/50364/43758/2024/9/25/327925.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/835331.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_343/h_340/50364/43758/2024/9/25/930086.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_381/h_384/50364/43758/2024/9/25/498443.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/835331.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 639315,
+    "title": "蝎尾女王",
+    "url": "https://www.gamekee.com/yise/639315.html",
+    "updatedAt": "2024-10-25T06:16:55.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639315_蝎尾女王.md",
+      "metadata": "03_图鉴词条/639315_蝎尾女王.json",
+      "rawApi": "_raw_api/details/639315.json"
+    }
+  }
+}

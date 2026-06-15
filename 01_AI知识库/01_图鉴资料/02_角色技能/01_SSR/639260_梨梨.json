@@ -1,0 +1,340 @@
+{
+  "id": 639260,
+  "kind": "character_skill_bundle",
+  "name": "梨梨",
+  "entryName": "梨梨",
+  "rarity": "SSR",
+  "element": "破序",
+  "faction": "Doki娱乐",
+  "title": "幽灵戏法",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "S09-031413",
+  "chipStatus": "正常",
+  "assessment": "异格者梨梨，身份编码S09-031413，Re-A芯片状态正常，未见异常波动。\nDOKI娱乐的知名魔术师，娜菲忒的「女儿」之一。\n性格软弱，很容易局促不安。非常恐惧聚光灯和热闹的人群。\n在她的演出助理和生活管家，魔术礼帽「拉比翁」和魔术披风「皮特翁」的帮助和监督下，努力克服内心的恐惧登台演出。\n每次演出都会努力排练千百遍，可一旦发生了超出排练情形的意外状况，还是会手忙脚乱而出。\n好在有「拉比翁」与「皮特翁」的及时救场，这些意外的演出事故就变成了表演效果。\n久而久之，这反而成为了一种独有的「表演风格」，为观众们带来了意想不到的惊喜。\n另外，尽管人气很高，但魔术师本人并没有成为「明星」的自觉，总认为一切都是「拉比翁」和「皮特翁」的功劳。",
+  "stats": {
+    "生命": "12071+5268",
+    "攻击": "1034+328",
+    "防御": "810+231",
+    "速度": "127+15",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+12%",
+    "效果抵抗": "0%+32%"
+  },
+  "skills": [
+    {
+      "skillId": "639260-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "帽子戏法",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_87/h_88/50364/103682/2024/9/24/470822.png",
+      "description": "冷却时间：0\n对单体敌人造成240%伤害，有50%概率增加自身和行动进度最低的队友20%的行动进度，且拥有【双生戏法】的队友有100%的概率会进行助战。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：提升行动进度概率增加至50%\n等级3\n潜能提升：攻击力+100\n技能提升：助战概率增加至75%\n等级4\n潜能提升：速度值+5\n技能提升：提升行动进度效果增加至20%\n等级5：\n潜能提升：速度值+10\n技能提升：助战概率增加至100%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "639260-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "迅影戏法",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_91/h_87/50364/103682/2024/9/24/511619.png",
+      "description": "冷却时间：3\n为目标队友附加【双生戏法】，再为全体队友附加2回合【速度上升】；如果目标已被附加了【双生戏法】，则改为附加3回合【暴击伤害上升】并立即获得行动回合。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：【双生戏法】的提升行动进度效果增加至25%\n等级3\n潜能提升：防御力+70\n技能提升：【暴击伤害上升】持续时间增加至3回合\n等级4：\n潜能提升：效果抵抗+8%\n技能提升：【双生戏法】的提升行动进度效果增加至30%\n等级5：\n潜能提升：效果抵抗+12%\n技能提升：技能冷却减少1回合"
+    },
+    {
+      "skillId": "639260-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "惊梦戏法",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_92/h_86/50364/103682/2024/9/24/32953.png",
+      "description": "冷却时间：5\n对全体敌人造成260%伤害，有55%概率延长1回合所有技能冷却，并立即重置拥有【双生戏法】的队友所有技能冷却。此技能无法被减少冷却。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至240%\n等级3\n潜能提升：生命值+1000\n技能提升：延长技能冷却概率增加至55%\n等级4：\n潜能提升：生命值+5%\n技能提升：伤害系数增加至260%\n等级5：\n潜能提升：生命值+10%\n技能提升：减少技能冷却效果增强为重置所有技能冷却",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n拉条，增益\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 551|\n| 源器配置 | 右三主属性3生命/防御加成 |\n└─────────┴────────────┘\n【对局表现】\n莉莉作为游戏的底层逻辑，在pve和pvp都是无敌的存在，我只能用2个字来形容她，有了她，你就是无敌的",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8戍卫+6讯光天击"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "胡狼"
+        },
+        {
+          "key": "推荐攻略",
+          "value": ""
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8戍卫+6讯光天击",
+        "推荐智壳": "胡狼",
+        "推荐攻略": ""
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/842288/2025/7/18/64301.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害双向提升"
+      ],
+      "other": [
+        "造成伤害结果提升10%，受到伤害结果降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【我……总是不行。】\n当梨梨推开准备室的门时，她的内心依然志忘不安。\n「话说，为什么我觉得自己一直在上下晃动啊？」一个闷闷的声音从梨梨背后响起，是魔术披风「皮特翁」问道。\n「可能是有人怕得发抖吧，嘿嘿。」魔术礼帽「拉比翁」回答。\n没错，此刻的梨梨将要登台表演，虽然要表演的项目已经排演过上百遍，可她仍止不住害怕。\n「对不起····我…····我太没用了，如果不是拉比翁先生和皮特翁先生·····根本就·····根本就不会有人来看我的演出……\n「梨梨」\n「到！」还未等拉比翁说完，梨梨就条件反射般回答。\n「梨梨，听我说。」拉比翁耐心地说，「你要告诉自己『放轻松…·····放轻松…··』，而不是一直紧绷绷地，好像下一秒就要遭受袭击了一样。」\n拉比翁话音刚落，准备室通往舞台的门就打开了。梨梨站在门口，不前，两手握拳举在身前，似乎在为自己打气。\n「梨梨你放心，万事都有我们给你帮忙呢，你只要做完该做的就好！」拉比翁和皮特翁一起低语，试图让眼前的小女孩打起精神。\n可梨梨脸色惨白，看起来随时都会晕过去。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【我……要鼓起勇气！】\n演出虽然结束了，但终究还是闹出了不小的乱子。\n因为紧张原本只需要变出一只鸽子的梨梨，却一不小心变出了一群鸽子，把整个会场弄得一团糟。\n多亏会馆里的人帮忙，才把那些鸽子全部收了回去……\n到了第二场，梨梨却死活不愿意再上场。\n「果然我还是不行！」\n「不行不行不行！」\n「我再也不要去了，再也不要去了！」\n梨梨抱着旁边的柱子拼命地摇头，任凭旁边的拉比翁怎么劝说，都丝毫鼓不起勇气。\n「我受不了了！」\n「笨蛋！笨蛋！笨蛋！」\n生气的皮特翁跳了起来，给了梨梨一个头槌。\n「疼！」\n梨梨喊着疼，然后一屁股坐在了地上。\n「笨蛋！」\n皮特翁骂着。\n「我再也不想理你了！」\n骂完之后，皮特翁再也没有了声音。\n显然，它这次真的生气了。\n梨梨捡起来落在地上的帽子，然后看着旁边叹气的拉比翁。\n「拉比翁先生……」\n「梨梨，你还记得奥利维尔先生吗？」\n「我当然记得！」\n梨梨眼睛里突然流露出激动的神采。\n「那可是世界上最棒的魔术表演。」\n「那你还记得，在那个舞台上，奥利维尔先生说过什么吗？」\n拉比翁看着梨梨。\n「奥利维尔先生说，成功的魔术，只有一条原则，那就是观众的笑声。」\n「而伟大的魔术师，一定能给人带来快乐，带来幸福。」\n梨梨很流利地说背出了奥利维尔的原话。\n「那么，舞台，对于魔术师来说，又是什么？」\n「奥利维尔先生说过——无论发生什么，魔术师从不背叛属于自己的舞台。」\n梨梨的声音突然弱了下来。\n——无论发生什么，魔术师从不背叛属于自己的舞台。\n——因为他的一切，都为舞台而生！\n那在特洛庇尔剧院穹顶回荡的声音，仿佛又回到了梨梨的耳畔。\n「拉比翁先生，我知道要怎么做了。」\n梨梨深吸了口气，然后抱着自己的帽子站了起来。\n拉比翁点了点头，然后轻轻地落回了梨梨的肩上。\n「奥利维尔先生！」\n「我会鼓起勇气的！」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【我……做到了！】\n「接下来我们将要看到的，是DOKI娱乐当之无愧的『魔术新星』———梨梨小姐！」\n在掌声与欢呼声的簇拥下，梨梨摇晃着上了台。\n魔术表演开始了，梨梨先是做了几个基础的戏法，又应观众请求打算变出两只白鸽，不知怎的，她手一滑，一群鸽子就这样飞了出来，引得现场一片哗然。\n但很快，就引起了一阵阵笑声。\n「他们笑了！」\n「你做得很好，梨梨！别害怕！就这样继续下去！」拉比翁压着声音，提醒着梨梨。\n「有我们呢！」\n「我……我不紧张！」\n梨梨颤着手重新摘下自己的魔术礼帽。战战兢兢地进入下一个流程的表演。\n这场魔术名为「易位空间」，顾名思义，这需要魔术师本人在相应构筑出的区域里完成一次次「易位」。\n起初，梨梨用绳子之类的小型道具顺利完成了表演，接下来，就需要她自己进入空间，完成最为完美的「易位」。\n梨梨站在高台中，央，双手摩挲着身后的披风和礼帽。\n「不紧张不紧张，我不紧张！」\n「奥利维尔先生说过，我能做到的。」\n「娜菲忒女士也说过，我能做到的！」\n「还有皮特翁和拉比翁在呢，我肯定可以的。」\n「我也要相信我自己！」\n一边不断鼓励自己，一边深吸了一口气，一咬牙，梨梨自高台跃下。\n在众人的惊呼声后……梨梨顺利出现在了舞台另一端的花从中，央。\n而此时，无数的花瓣化作花雨从整个穹顶落下。\n刚刚因期待而死寂的场内爆发出雷鸣般的掌声。\n此时，所有的聚光灯，落在了梨梨的身上。\n在如潮的掌声和欢呼中，她的眼睛里闪烁着炽热的光。",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1158/h_574/50364/103682/2024/9/24/813053.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1158/h_574/50364/103682/2024/9/24/813053.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_973/h_721/50364/103682/2024/9/24/765847.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_973/h_721/50364/103682/2024/9/24/765847.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1158/h_574/50364/103682/2024/9/24/813053.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1158/h_574/50364/103682/2024/9/24/813053.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_973/h_721/50364/103682/2024/9/24/765847.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_313/h_521/50364/103682/2024/9/24/310729.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1736/h_1736/215/103682/2025/10/20/668579.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_313/h_521/50364/103682/2024/9/24/310729.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/842288/2025/7/18/64301.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/522073.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/207704.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_87/h_88/50364/103682/2024/9/24/470822.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_91/h_87/50364/103682/2024/9/24/511619.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_92/h_86/50364/103682/2024/9/24/32953.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_973/h_721/50364/103682/2024/9/24/765847.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 639260,
+    "title": "梨梨",
+    "url": "https://www.gamekee.com/yise/639260.html",
+    "updatedAt": "2025-08-18T08:45:19.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639260_梨梨.md",
+      "metadata": "03_图鉴词条/639260_梨梨.json",
+      "rawApi": "_raw_api/details/639260.json"
+    }
+  }
+}

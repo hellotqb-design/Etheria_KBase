@@ -1,0 +1,53 @@
+{
+  "id": 669045,
+  "url": "https://www.gamekee.com/yise/669045.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/669045",
+  "title": "装备属性选择",
+  "category": "06_装备智壳",
+  "type": 4,
+  "tag": "2",
+  "entryId": 190100,
+  "gameId": 50364,
+  "createdAt": "2025-07-04T03:29:54.000Z",
+  "updatedAt": "2025-08-13T02:46:09.000Z",
+  "commentCount": 0,
+  "likeCount": 12,
+  "favoriteCount": 0,
+  "viewCount": 8830,
+  "summary": "此攻略写于2025年7月4日前瞻：今天跟群里大佬讨论了下，发现装备的副属性根据部位都是不同的，心血来潮写个科普吧~面甲副属性：面甲主属性为攻击力，不会出现的副属性有白字攻击、效果抵抗、生命加成、防御加成所以输出选择面具的最好属性为暴击率、暴击伤害、攻击加成、速度（大部分输出需要更快的出手，如果后续出",
+  "textLength": 1080,
+  "imageCount": 19,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/154257/2025/6/31/853921.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1440/h_810/50364/157597/2025/5/9/43116.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/5/10/719647.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/22/587172.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/8/130379.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_234/h_226/50364/267618/2025/6/4/454231.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_242/h_230/50364/267618/2025/6/4/36050.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_246/h_242/50364/267618/2025/6/4/92231.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_246/h_242/50364/267618/2025/6/4/92231.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_238/50364/267618/2025/6/4/911749.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_234/h_226/50364/267618/2025/6/4/454231.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_238/50364/267618/2025/6/4/911749.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/29/381088.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/11/21340.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/2/292985.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_500/50364/664163/2025/7/27/740775.jpg"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList",
+    "entry-dict",
+    "wikiEntry"
+  ],
+  "user": {
+    "uid": 267618,
+    "username": "权",
+    "description": ""
+  },
+  "crawledAt": "2026-06-15T03:29:46.988Z"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 678384,
+  "url": "https://www.gamekee.com/yise/678384.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/678384",
+  "title": "幻方奇缘科普",
+  "category": "08_图鉴资料",
+  "type": 4,
+  "tag": "2",
+  "entryId": 195216,
+  "gameId": 50364,
+  "createdAt": "2025-09-26T15:58:29.000Z",
+  "updatedAt": "2025-09-26T15:59:29.000Z",
+  "commentCount": 0,
+  "likeCount": 0,
+  "favoriteCount": 0,
+  "viewCount": 3808,
+  "summary": "",
+  "textLength": 0,
+  "imageCount": 17,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1052/h_589/50364/267618/2025/8/26/667523.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/267618/2025/8/26/167948.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/8/26/332377.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/8/26/649237.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/9/11/754213.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/9/14/667551.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/27/484466.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/27/575414.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/27/575414.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/27/484466.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/8/26/406233.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/8/26/569524.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2656/h_1444/50364/267618/2025/8/26/876110.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList",
+    "entry-dict",
+    "wikiEntry"
+  ],
+  "user": {
+    "uid": 267618,
+    "username": "权",
+    "description": ""
+  },
+  "crawledAt": "2026-06-15T03:28:35.676Z"
+}

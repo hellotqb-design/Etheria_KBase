@@ -1,0 +1,275 @@
+{
+  "id": 675370,
+  "game_id": 50364,
+  "entry_id": 193581,
+  "uid": 842268,
+  "type": 4,
+  "title": "【伊瑟】凶影追缉-惠特妮-参考攻略",
+  "tag": "2",
+  "created_at": 1756292267,
+  "updated_at": 1756303571,
+  "updated_uid": 0,
+  "comment_at": 1756292267,
+  "last_at": 1756292267,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "作者-爱赖床的书生攻略对象：惠特妮-理（火系）攻略难度：危机噩梦前言：惠特妮，是理（火）系boss，是我们智壳的第6个boss，这个boss有个独特的机制-时光掌控（15次），在战斗中会永久降低我方的速度，需要在战斗中通过多段攻击降低层数来进行应对，需要靠高频率或者多段角色来破除这个buff，这个b",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_827/h_383/50364/2025/8/27/982dedd0-bb98-40b6-ab59-d29f2beb474dpng,//cdnimg-v2.gamekee.com/wiki2.0/images/w_373/h_174/50364/2025/8/27/76cd79d3-aacd-44e0-9a03-fb189082e9ccpng,//cdnimg-v2.gamekee.com/wiki2.0/images/w_364/h_174/50364/2025/8/27/5b3081f9-3033-4318-833a-76c19b3979d6png",
+  "model_ids": "",
+  "like_count": 1,
+  "unlike_count": 0,
+  "view_count": 4311,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "江苏省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 448923,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 2,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1756302581,
+  "server_id": 0,
+  "image_num": 11,
+  "video_list": "[{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/772612.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/170319.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0}]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 675370,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"作者-爱赖床的书生\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/170319.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/772612.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"攻略对象：惠特妮-理（火系）    攻略难度：危机 噩梦\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"前言：惠特妮，是理（火）系boss，是我们智壳的第6个boss，这个boss有个独特的机制-\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"时光掌控（15次）\",\"color\":\"rgb(0, 176, 240)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，在战斗中会永久降低我方的速度，需要在战斗中通过多段攻击降低层数来进行应对，需要靠高频率或者多段角色来破除这个buff，这个boss只有一条命但是她有4个发条小怪，伤害非常高，而且boss每次行动，这些小怪都有20%的概率进行追击，所以在打这个boss之前一定要把自己的练度拉高。\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"那么开始考虑配队，首先是我们的主要输出单位\\n谛听+自己的另一个光暗主C（或者你养的另一个主c），剩下两个辅助位置，这边推荐梨梨和蟒蛇/黛纳，或者还有一个多段攻击很多的\\n炀-异-水系（但是很少有人练）\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"关于练度，因为已经通关了菲彼安，我们可以通关\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"刷菲彼安噩梦\",\"color\":\"rgb(196, 89, 17)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，来\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"刷两个满级的词条适配的黄蜂智壳\",\"color\":\"rgb(238, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"谛听\",\"color\":\"rgb(238, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"的技能升级到555，第二个主C的技能升到113或者115，梨梨的技能最好也是115，实在不行111也够用，剩下的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"黛纳\",\"color\":\"rgb(238, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"和\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"蟒蛇\",\"color\":\"rgb(238, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"不需要“金色技能点”，这两个角色用的地方也很多，技能等级可以拉高。然后尽力把角色都升到6星，40级以上。源器方面，两个主C 需要\\n一套词条差不多的 \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"粉色攻势套装\",\"color\":\"rgb(238, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，辅助则需要 \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"金色以上的疾驰套装，能用粉色更好\",\"color\":\"rgb(238, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"。\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_827/h_383/50364/2025/8/27/982dedd0-bb98-40b6-ab59-d29f2beb474dpng\",\"alt\":null,\"style\":{\"width\":\"551px\",\"height\":\"255px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"Boss机制：\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能一（凝滞）：单体，100%偷取25%的行动条\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能二（迟坠之针）：群体，附加100%攻击力下将，如果释放该技能的时候还有 时光掌控 的层数，则消耗所有层数，为敌方施加同层数的 时间凝滞（每层速度下降3%最高15层不可驱散）\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能三（周而复始）：复活或者恢复钟表怪\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能四（时光涌流）：友方单位释放伤害类技能后，其余钟表怪有20%概率追击主目标，惠特妮为40%。\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_373/h_174/50364/2025/8/27/76cd79d3-aacd-44e0-9a03-fb189082e9ccpng\",\"alt\":null,\"style\":{\"width\":\"249px\",\"height\":\"116px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_364/h_174/50364/2025/8/27/5b3081f9-3033-4318-833a-76c19b3979d6png\",\"alt\":null,\"style\":{\"width\":\"243px\",\"height\":\"116px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_369/h_175/50364/2025/8/27/34f094af-dbf9-406e-ba12-a02d610d9dabpng\",\"alt\":null,\"style\":{\"width\":\"246px\",\"height\":\"117px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_361/h_171/50364/2025/8/27/03d0a853-3cb9-4515-8e45-9acc6e5ecfaepng\",\"alt\":null,\"style\":{\"width\":\"241px\",\"height\":\"114px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"4个钟表怪+Boss\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"钟表怪-理-火系：单体，50%概率附加1回合防御下降\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_510/h_277/50364/2025/8/27/6fd6d38b-577f-426a-a240-217d4ab8700dpng\",\"alt\":null,\"style\":{\"width\":\"340px\",\"height\":\"185px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"推荐阵容：谛听（主要输出）+莉拉姆/夜离+蟒蛇+梨梨\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_425/h_111/50364/2025/8/27/f754750a-3f22-4266-a1bb-a3582a98a0cdpng\",\"alt\":null,\"style\":{\"width\":\"425px\",\"height\":\"111px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_373/h_213/50364/2025/8/27/05bae466-bb7e-46ee-bdf0-cb907bea74d2png\",\"alt\":null,\"style\":{\"width\":\"249px\",\"height\":\"142px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_386/h_214/50364/2025/8/27/7da576f9-9d55-4b6f-b2fc-1b40636b7009png\",\"alt\":null,\"style\":{\"width\":\"257px\",\"height\":\"143px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_381/h_212/50364/2025/8/27/988ce773-aa74-48bf-89b7-5671bf40085fpng\",\"alt\":null,\"style\":{\"width\":\"254px\",\"height\":\"141px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_381/h_214/50364/2025/8/27/022d79b9-02be-4b1a-81c4-e27e0d490d97png\",\"alt\":null,\"style\":{\"width\":\"254px\",\"height\":\"143px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"克洛斯的位置，可以换成有更好练度的黛纳或者蟒蛇。梨梨的位置如果实在没有，可以换成另一个有练度的主C，直接打一波流，或者换成奶系角色，绫罗，但是一定要有练度，至少能抗住。\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"最后祝大家早日通关\\n\\n\\n\\n\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_827/h_383/50364/2025/8/27/982dedd0-bb98-40b6-ab59-d29f2beb474dpng",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_373/h_174/50364/2025/8/27/76cd79d3-aacd-44e0-9a03-fb189082e9ccpng",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_364/h_174/50364/2025/8/27/5b3081f9-3033-4318-833a-76c19b3979d6png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 842268,
+    "username": "爱赖床的书生",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_10.png",
+    "description": "抖音同名，B站三幻书生\n三幻1粉丝群1031632283\n三幻2粉丝群1035518368\n伊瑟-752522357\n其他游戏粉丝群暂无，有需要后面会开哦",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 22732054,
+    "content_num": 8,
+    "read_num": 30594,
+    "like_num": 10
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 842268,
+      "username": "爱赖床的书生",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_10.png",
+      "last_ip_area": "江苏省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 674689,
+      "name": "尼可娜娜",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/753864.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675366,
+      "name": "阿帕忒",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/444686.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 674742,
+      "name": "猎焰者赫妍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/799661.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675364,
+      "name": "暗渡者",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/494466.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675369,
+      "name": "菲彼安",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/676500.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675368,
+      "name": "库卢鲁",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/705755.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675303,
+      "name": "莎朗",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/543342.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675362,
+      "name": "亚克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/692180.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675313,
+      "name": "炼狱津",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/851564.jpg",
+      "jump_url": ""
+    }
+  ]
+}

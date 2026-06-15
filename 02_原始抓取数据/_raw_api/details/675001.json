@@ -1,0 +1,335 @@
+{
+  "id": 675001,
+  "game_id": 50364,
+  "entry_id": 193523,
+  "uid": 640664,
+  "type": 4,
+  "title": "永夜明火——夜离测评攻略",
+  "tag": "2",
+  "created_at": 1755911533,
+  "updated_at": 1755938306,
+  "updated_uid": 640664,
+  "comment_at": 1758336690,
+  "last_at": 1758336690,
+  "comment_count": 1,
+  "status": 1,
+  "summary": "前言：无论是PVE或是PVP，都很能打的强力主C养成篇技能方面首先简单介绍一下夜离的技能1技能普通攻击—跃流火对敌方造成240%的伤害，并且有30%的概率偷取敌方buff技能，推荐点到等级42技能被动—振蝶影这个是夜离的核心技能，普通攻击和大招都可以触发这个被动，如果触发了这个被动三次，那三次的概率",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/640664/2025/7/23/24065.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_262/h_201/50364/2025/8/23/963c70c5-0d11-4a49-b504-4d83587eb7d7png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_220/50364/2025/8/23/e740a33d-2d26-470d-8846-eeae09d1d10cpng",
+  "model_ids": "",
+  "like_count": 9,
+  "unlike_count": 0,
+  "view_count": 18713,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "四川省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 11,
+  "video_list": "[{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/261535.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/218815.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/281693.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/928437.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/736135.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/441343.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/991929.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/544035.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/692256.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/476800.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/109917.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/275621.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/947828.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/315533.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/476973.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/401573.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0}]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 675001,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"20px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"前言：无论是PVE或是PVP，都很能打的强力主C\"}]},{\"type\":\"divider\",\"value\":\"line-2\",\"children\":[{\"text\":\"\"}]},{\"type\":\"image-album\",\"data\":[\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/640664/2025/7/23/24065.jpg\"],\"limit\":[false],\"children\":[{\"text\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/218815.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/261535.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"养成篇\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"技能方面\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"首先简单介绍一下夜离的技能\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"1技能普通攻击—跃流火 \",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_262/h_201/50364/2025/8/23/963c70c5-0d11-4a49-b504-4d83587eb7d7png\",\"alt\":null,\"style\":{\"width\":\"262px\",\"height\":\"201px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n对敌方造成\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"240%\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"的伤害，并且有\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"30%\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"的概率偷取敌方buff技能，推荐点到\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"等级4\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"2技能被动—振蝶影\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_220/50364/2025/8/23/e740a33d-2d26-470d-8846-eeae09d1d10cpng\",\"alt\":null,\"style\":{\"width\":\"266px\",\"height\":\"220px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"这个是夜离的核心技能，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"普通攻击和大招\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"都可以触发这个被动，\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"如果触发了这个被动三次，那三次的概率是\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"100%，60%，36%\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，以此递减,夜离追击的数学期望是2.5次左右。\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"推荐点满\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"3技能大招—夜火长离\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_269/h_238/50364/2025/8/23/002615d0-cf22-472a-bd97-c2f97e5be2c2png\",\"alt\":null,\"style\":{\"width\":\"269px\",\"height\":\"238px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n夜离\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"净化自身所有DeBuff\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"后，给自身附加两回合\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"暴击上升\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，对敌人造成3段\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"120%\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"伤害并有\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"50%\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"给对方上\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"防御降低DeBuff\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"。夜离的核心输出技能，\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"推荐点满\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"divider\",\"value\":\"line-2\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳方面\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"PVE只推荐启示录\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_553/h_374/50364/2025/8/23/57b1ce6e-60dc-487b-a22c-a3a3983ca468png\",\"alt\":null,\"style\":{\"width\":\"553px\",\"height\":\"374px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n启示录效果是：触发时对目标造成\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"12%最大生命值真实伤害\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"。而夜离的大招是\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"多段攻击\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，并且\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"大招后的多段追击同样可以触发启示录\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，属于是夜离\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"专属智壳\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"了。\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳矩阵推荐\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_553/h_396/50364/2025/8/23/307903a2-9b82-4c7a-ab2f-99934c7b5aeepng\",\"alt\":null,\"style\":{\"width\":\"553px\",\"height\":\"396px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"面板方面\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"由于大招的存在，会给自己上一个\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"暴击buff\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，极大的\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"降低了夜离的面板要求\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，只需要堆\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"70以上暴击\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"即可满爆。\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"参考面板\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"：智壳为\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"攻势+狂怒+暴烈利刃\",\"underline\":true}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"bold\":true,\"underline\":true},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_553/h_365/50364/2025/8/23/1f2b688a-b5d0-4585-bc25-c25121ad4806png\",\"alt\":null,\"style\":{\"width\":\"553px\",\"height\":\"365px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"如果想输出最大化，推荐\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"狂怒+乘势追击+暴烈利刃\",\"underline\":true},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"},{\"text\":\"（注意：乘势追击需要敌方在debuff较多情况下才可以达到最大伤害哦~）\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"潜能方面\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"0潜能\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"也是\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"极强力的群体输出手\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n如果资源或经济比较宽裕的小伙伴，可以提升到\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"潜能2或潜能2以上\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，点出\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"暴击率提升\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，这可以提高面板的整体强度，分出暴击属性给\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"暴击伤害或速度属性\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"。\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_553/h_353/50364/2025/8/23/41b330bf-b1cf-4de2-8357-b21f323553bepng\",\"alt\":null,\"style\":{\"width\":\"553px\",\"height\":\"353px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-2\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\" \"},{\"text\":\"副本篇\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"兵祸本\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/928437.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/281693.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"这个本的难度在于\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"boss的高机动高伤害\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，如果能给boss挂上\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"减速等debuff\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"会好打很多，炼狱难度boss开局会\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"自带一个免疫\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，因此有\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"驱散角色\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"是比较好的\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"多琪本\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"这个本的难点在于boss会不停的给小怪上\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"强化buff\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"，我们需要及时\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"控制小怪\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"，来\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"解除buff\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"，才可以对小怪造成大量伤害\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/441343.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/736135.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"奥洛拉本\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"fontSize\":\"16px\"},{\"text\":\"这个本的难点在于boss会给我们上一个\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"降伤害buff（奶盾）\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"，需要我们\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"奶量到达一定数值\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"，才会解除这个buff，并且\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"小怪会给boss上免疫\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"，有一个\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"驱散角色\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"会容易很多，这里推荐\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"sr蝰蛇\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"，不仅可以全体驱散，还可以给boss上降攻和减速debuff。\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/544035.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/991929.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳—尼可娜娜\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"这个本只需要及时\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"控制住小怪\",\"color\":\"var(--gray-08)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"，防止小怪给Boss上强化Buff，然后全力输出boss即可，这里\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"奥波尔\",\"color\":\"var(--gray-08)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"可以用\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"卡奇\",\"color\":\"var(--gray-08)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"代替，\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"梨梨\",\"color\":\"var(--gray-08)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"可以用\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"月夜见\",\"color\":\"var(--gray-08)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"代替，\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"缬草\",\"color\":\"var(--gray-08)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"可以用\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"蝰蛇\",\"color\":\"var(--gray-08)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"代替\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/476800.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/692256.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳—莎朗\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"fontSize\":\"16px\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"Boss会不停的给我们上\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"毒Debuff\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"，我们需要用\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"戍守卡奇\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"上\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"免疫buff\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"，然后全力输出boss即可\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/275621.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/109917.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳—赫妍\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"这个本的小怪会帮Boss\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"分摊伤害\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"以及\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"反击\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"我们，需要及时\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"控制小怪\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"。\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"这里\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"席琳丝\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"可以用\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"奥波尔\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"代替，\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"席琳丝\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的作用是可以\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"封印小怪的被动\",\"color\":\"var(--gray-08)\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，让它们不能帮boss分摊伤害，以及不能反击我们。\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/315533.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/947828.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳—炼狱津\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"这个本作为游戏目前\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"最难\",\"color\":\"var(--gray-08)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"的PVE副本，对\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"速度，控制，输出，护盾\",\"color\":\"var(--gray-08)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"的要求都很高。Boss和小怪伤害高，速度快。这里讲一下配队思路，\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"克洛斯\",\"color\":\"var(--gray-08)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"需要高速来保证在夜离前置位出手，\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"梨梨\",\"color\":\"var(--gray-08)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"负责启动和拉条。希望后续官方可以\",\"color\":\"rgb(82, 86, 90)\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"削弱一下Boss强度~\",\"color\":\"var(--gray-08)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"16px\"},{\"text\":\"\\n\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/401573.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/23/476973.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"16pt\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"PVP篇\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"与人斗其乐无穷也 ---鲁迅（并没说过）\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"PVP篇的夜离可以说百花齐放,多种纸壳可以选择\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"启示录\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_553/h_374/50364/2025/8/23/57b1ce6e-60dc-487b-a22c-a3a3983ca468png\",\"alt\":null,\"style\":{\"width\":\"553px\",\"height\":\"374px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"虽然PVP\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"削弱了启示录30%的伤害\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，但启示录依旧是\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"优选\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，矩阵可以把\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"暴烈利刃换成疾影强袭\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，这样可以提高\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"夜离的速度，提高出手的频率\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"伯爵\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_553/h_335/50364/2025/8/23/48ed2da4-836e-4577-8dd3-ea68250d4fd5png\",\"alt\":null,\"style\":{\"width\":\"553px\",\"height\":\"335px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"带上\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"免疫矩阵+高速\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，对面如果没有驱散，或者控制不住夜离，夜离出手对面就很危险了\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"万魔法典\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_553/h_364/50364/2025/8/23/6899208f-5736-468d-9d2e-25384cfac5d2png\",\"alt\":null,\"style\":{\"width\":\"553px\",\"height\":\"364px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"万魔法典，带\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"浴血+强袭+任意\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"浴血的强势\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"让夜离即使吃了对面的伤害也不会第一时间暴毙，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"刷新冷却\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"也可以多次放大给对面造成不小的麻烦\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"今天的测评攻略就到这里啦~我是鲸鱼喵~有什么问题，欢迎大家在评论区讨论~\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\\n\\n\\n\\n\\n\\n\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/640664/2025/7/23/24065.jpg",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_262/h_201/50364/2025/8/23/963c70c5-0d11-4a49-b504-4d83587eb7d7png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_220/50364/2025/8/23/e740a33d-2d26-470d-8846-eeae09d1d10cpng"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 640664,
+    "username": "鲸鱼喵",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_212/215/640664/2025/7/23/393710.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 23158224,
+    "content_num": 4,
+    "read_num": 35854,
+    "like_num": 15
+  },
+  "update_user": {
+    "uid": 640664,
+    "username": "鲸鱼喵",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_212/215/640664/2025/7/23/393710.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 640664,
+      "username": "鲸鱼喵",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_212/215/640664/2025/7/23/393710.png",
+      "last_ip_area": "四川省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 4,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 2,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 2,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 685541,
+      "name": "蚀心暗狩·罗魍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/842596.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 685537,
+      "name": "恶灵摇滚·桑提克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/321523.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683085,
+      "name": "静默挽歌·奈薇忒 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1662/h_940/50364/842288/2025/10/17/607708.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683357,
+      "name": "明光猎手·光狩谛听 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1664/h_940/50364/842288/2025/10/17/109281.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 677619,
+      "name": "幽翎爵女·逆翎",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/28/759667.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678704,
+      "name": "巡洄漫音·水生绫",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/459884.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675637,
+      "name": "破却宣言·莉拉姆",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1084/50364/664163/2025/7/30/359430.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678705,
+      "name": "千面烬相·柯卡尔迪",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/565969.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675301,
+      "name": "忘忧梦火·芙蕾雅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/7/27/230962.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675952,
+      "name": "异格者BUFF介绍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/429039.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675604,
+      "name": "二重典贷·宁芙涅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/812041.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675602,
+      "name": "笼潮·贝兹比",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/658875.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675284,
+      "name": "哨影猎手·谛听",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/26/153688.png",
+      "jump_url": ""
+    },
+    {
+      "id": 676057,
+      "name": "永恒沉眠·缬草",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/4/48051.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675689,
+      "name": "幻影骇客·克洛斯",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/30/107101.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675768,
+      "name": "爆裂甜心·莉露摩卡",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/7/31/425722.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675883,
+      "name": "末日铁花·荼蘼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/410192.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675994,
+      "name": "厄影修罗·罗喉",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/3/735401.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 676257,
+      "name": "幻琴之音·幻音千明",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/8/62083.jpg",
+      "jump_url": ""
+    }
+  ]
+}

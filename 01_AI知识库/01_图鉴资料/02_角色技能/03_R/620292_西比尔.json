@@ -1,0 +1,326 @@
+{
+  "id": 620292,
+  "kind": "character_skill_bundle",
+  "name": "西比尔",
+  "entryName": "西比尔",
+  "rarity": "R",
+  "element": "异",
+  "faction": "伊瑟E.O.S",
+  "title": "疾风烁刃",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "S05-011012",
+  "chipStatus": "正常",
+  "assessment": "异格者西比尔，身份编码S05-011012，Re-A芯片状态稳定，未见异常波动。\n熔断警备署的成员，负责熔断警备署与协会之间的对接工作，会认真负责地整理好每次任务的相关资料。\n不过，在她的内心里，似乎也怀瑞着前往一线、拯救每个需要帮助的人的梦想。",
+  "stats": {
+    "生命": "8694+3119",
+    "攻击": "1024+481",
+    "防御": "484+198",
+    "速度": "116+9",
+    "暴击率": "10%+20%",
+    "暴击伤害": "150%+12%",
+    "效果命中": "0%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "620292-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "加速急袭 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/138f8efb-0967-4a55-bba8-7facf83d8277.png",
+      "description": "冷却时间：0\n西比尔跃起刺击目标敌方；对敌方单体造成2段120%伤害，攻击后有40%概率为自身附加2回合【速度上升】。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至110%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【速度上升】概率增加至40%\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至120%\n等级5：\n潜能提升：攻击力+10%\n技能提升：【速度上升】持续时间增加至2回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620292-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "电能冲锋 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/e78c05b5-e84e-4f76-a0f2-46215b2b578a.png",
+      "description": "冷却时间：3\n西比尔使用缠绕着雷击的臂刃连续攻击目标敌方；对敌方单体造成3段120%伤害，目标每损失10%的生命上限，提升10%的伤害。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至110%\n等级3\n潜能提升：防御力+70\n技能提升：提升伤害效果增加至8%\n等级4：\n潜能提升：暴击率+4%\n技能提升：伤害系数增加至120%\n等级5：\n潜能提升：暴击率+8%\n技能提升：提升伤害效果增加至10%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620292-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "龙卷 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/af85e002-ba2c-4f34-ab29-8d0e53e906a0.png",
+      "description": "冷却时间：3\n西比尔高高跃起，快速旋转着攻击目标敌方；对敌方单体造成4段110%伤害，每次攻击有60%概率附加2回合【防御下降】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至100%\n等级3\n潜能提升：生命值+1000\n技能提升：附加【防御下降】概率增加至60%\n等级4：\n潜能提升：速度值+3\n技能提升：伤害系数增加至110%\n等级5：\n潜能提升：速度值+6\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n输出\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 555|\n| 源器配置 | 右三主属性暴击，爆伤，爆伤/攻击加成 |\n└─────────┴────────────┘\n【对局表现】\n作为水系单体输出表现还可以，适合打源器本奥洛拉",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12洞悉穿刺+8狂怒+6爆裂利刃"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "启示录"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12洞悉穿刺+8狂怒+6爆裂利刃",
+        "推荐智壳": "启示录",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/842288/2025/7/18/327831.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击伤害提升"
+      ],
+      "other": [
+        "暴击伤害+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【成为熔断警察，是我一直以来的志向！】\n西比尔到熔断警备署报道的那天，心情格外好。\n她从小的志向，就是加入E.O.S.，成为一名熔断警察。在她看来这是无比光荣的职业，她将会像每一个熔断警察那样奔赴熔断发生的前线，与熔断生物战斗，救助每一个被困的人类或异格者。\n「我一定会认真对待每一次任务，并不停磨练自己的战斗力！」\n西比尔这样想着，走进了警备署，一个人事科的警员接待了她。在带她参观了一圈警备署后，警员将西比尔的入职资料交给了她。\n西比尔看着入职资料上写的职位，愣住了。\n「特别调查小组？那是什么？之前没听说过啊……」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【这份工作和希望中的好像有点不一样……】\n西比尔面对着堆成小山的文件，发出一声无奈的叹息。\n她已经加入熔断警备署两年了，在这期间，她一直认真工作，并因此升为了特别调查小组的组长。\n唯一让她有些遗憾的是特别行动小组的工作，虽然也有亲自前往现场调查的任务，但大多数时候是侦查和整理情报，并不会直接参与救援或与熔断生物对抗，而且，这份工作更多时候，是留在办公室整理资料。\n「这和预想的可不太一样啊……」\n但是很快的，她就又打起了精神，她拍了拍自己的脸，鼓励自己。\n「没关系……即使没办法亲自前往救援现场，我的工作也能给更多困于危险中的人带去帮助！要加油啊！」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【虽然如愿以偿，但也预示着危险……】\n随着源病毒和熔断在艾尔特利斯各处爆发，熔断警备署的工作量直线上升。不仅是外勤队伍每天加班，就连西比尔所在的特别行动小组也经常被调去协助，正面与熔断生物交锋的次数也逐渐增多。\n某种意义上，这也算是让西比尔如愿以偿了，但她却开心不起来。源病毒爆发频率加剧，意味着人们陷入危险的几率更高了。相比起打倒熔断生物带来的满足感，西比尔更希望艾尔特利斯的人们能够安居乐业。\n但是源病毒是不讲道理的。熔断警备署用尽了手段，能做到的也只是尽量降低熔断爆发后造成的损失，尽可能地拯救生还者。\n「再这么下去，大家只会被永无止境的源病毒爆发拖垮……」\n当想到这里的时候，西比尔突然冒出了一个想法——能不能有办法提前预知源病毒爆发的地点，或者找到源病毒爆发的原因、进行预防。\n于是西比尔重新做起了过去一直在做的事情一—侦查、收集和整理情报。就算希望渺茫，她也想要试试看。",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/ad6b6226-424b-449b-8f07-feb524416aeb.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/ad6b6226-424b-449b-8f07-feb524416aeb.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/7f7eb48b-022c-4b50-aaa9-215bceb17d98.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/7f7eb48b-022c-4b50-aaa9-215bceb17d98.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/ad6b6226-424b-449b-8f07-feb524416aeb.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/ad6b6226-424b-449b-8f07-feb524416aeb.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/7f7eb48b-022c-4b50-aaa9-215bceb17d98.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/61e64fd9-2456-4ad5-a8d0-be02af73728b.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/7f7eb48b-022c-4b50-aaa9-215bceb17d98.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/61e64fd9-2456-4ad5-a8d0-be02af73728b.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/138f8efb-0967-4a55-bba8-7facf83d8277.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/e78c05b5-e84e-4f76-a0f2-46215b2b578a.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/af85e002-ba2c-4f34-ab29-8d0e53e906a0.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_466/50364/664163/2024/11/25/315438.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/464826.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/336266.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/447721.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/775506.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/85545.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/842288/2025/7/18/327831.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/597431.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/389425.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/960068.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620292,
+    "title": "西比尔",
+    "url": "https://www.gamekee.com/yise/620292.html",
+    "updatedAt": "2025-08-18T07:39:24.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620292_西比尔.md",
+      "metadata": "03_图鉴词条/620292_西比尔.json",
+      "rawApi": "_raw_api/details/620292.json"
+    }
+  }
+}

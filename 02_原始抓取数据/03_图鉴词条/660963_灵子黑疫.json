@@ -1,0 +1,43 @@
+{
+  "id": 660963,
+  "url": "https://www.gamekee.com/yise/660963.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/660963",
+  "title": "灵子黑疫",
+  "category": "03_图鉴词条",
+  "type": 4,
+  "tag": "2",
+  "entryId": 185756,
+  "gameId": 50364,
+  "createdAt": "2025-05-12T13:57:22.000Z",
+  "updatedAt": "2025-05-12T13:57:22.000Z",
+  "commentCount": 0,
+  "likeCount": 1,
+  "favoriteCount": 0,
+  "viewCount": 3921,
+  "summary": "",
+  "textLength": 129,
+  "imageCount": 9,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50364/842288/2025/7/18/313231.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_175/50364/43758/2024/3/24/629498.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/237084.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/888971.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList",
+    "entry-dict",
+    "wikiEntry"
+  ],
+  "user": {
+    "uid": 355468,
+    "username": "卷卷qwqqqq",
+    "description": ""
+  },
+  "crawledAt": "2026-06-15T03:29:52.553Z"
+}

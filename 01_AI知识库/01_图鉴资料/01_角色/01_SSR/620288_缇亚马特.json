@@ -1,0 +1,420 @@
+{
+  "id": 620288,
+  "kind": "character",
+  "name": "缇亚马特",
+  "entryName": "缇亚马特",
+  "rarity": "SSR",
+  "element": "异",
+  "faction": "莱伯茨生命",
+  "title": "黑渊逆鳞",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "L09-122616",
+  "chipStatus": "故障",
+  "assessment": "异格者缇亚马特，身份编码L09-122616，Re-A芯片状态故障，无法进行定位和监测。\n缇亚马特是有记录以来原质能量强度最高的异格者之一据说，在特定条件下，她的原质能量强度可以突破异格者的极限。\n但她作为实验室中诞生的造物，似乎并不具备正常异格者的情感，再加上她拥有能够轻易摧毁一个实验基地的强大力量，因此被E.O.S.列入了重犯通名单。\n在她的原质能力当中，最有威胁性的就是人格复制与人格操纵。\n协会绝对不建议未达到等级的超链者与这样一位神秘而危的异格者打交道一一如果非要这么做，那就必须具备",
+  "stats": {
+    "生命": "16452+6363",
+    "攻击": "653+290",
+    "防御": "618+212",
+    "速度": "117+15",
+    "暴击率": "10%+8%",
+    "暴击伤害": "150%",
+    "效果命中": "0%",
+    "效果抵抗": "0%+20%"
+  },
+  "skills": [
+    {
+      "skillId": "620288-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "雷枪 等级 5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/e0958555-04fc-41c3-bc85-c302ce3091d2.png",
+      "description": "冷却时间：0\n缇亚马特挥动长枪穿刺目标；对敌方单体造成2段相当于10%自身生命上限的伤害，每次消耗8%自身当前生命并附加消耗量110%的真实伤害。\n进化之母：为其他队友分担25%伤害，自身每累计失去或被治疗13%生命上限，附加1层【浴血】。【浴血】叠加至8层时进入【终焉形态】，治疗自身10%的生命上限并立刻获得行动回合。\n浴血\n每层提升3%受到的治疗效果，上限叠加20层，不可被驱散。\n终焉形态\n化身为【终焉形态】，获得并只可使用【净化之曰】；每回合结束时失去越来越多的【浴血】（第1回合2层，第2回合4层，第3回合8层，之后固定16层），【浴血】层数归零时退出【终焉形态】，不可被驱散。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：生命消耗量的伤害比例增加至100%\n等级3\n潜能提升：攻击力+100\n技能提升：分担伤害比例增加至25%\n等级4：\n潜能提升：速度值+5\n技能提升：进入终焉形态时回复的生命值增加至10%\n等级5：\n潜能提升：速度值+10\n技能提升：获得【浴血】的生命触发比例降低至13%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620288-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "生命缚誓 等级 5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/0c9d99e6-71e0-4182-abf8-de9b19676aa6.png",
+      "description": "冷却时间：3\n缇亚马特建立心灵羁绊链接队友；消耗25%自身当前生命为全体队友附加2回合【持续恢复】和【护盾】，护盾量等同于生命消耗量的120%；缇亚马特每拥有1层【浴血】，护盾量提升5.0%。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：生命消耗量的护盾比例增加至105%\n等级3\n潜能提升：防御力+70\n技能提升：每层【浴血】提升的护盾量效果增加至4.0%\n等级4：\n潜能提升：效果抵抗+8%\n技能提升：生命消耗量的护盾比例增加至120%\n等级5：\n潜能提升：效果抵抗+12%\n技能提升：每层【浴血】提升的护盾量效果增加至5.0%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620288-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "永恒 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/12b831a3-64bf-45c8-bec5-da6d6ccff8a1.png",
+      "description": "冷却时间：4\n缇亚马特消耗自身的生命为武器灌注力量，掷出长枪贯穿敌方；消耗30%自身当前生命对敌方全体造成2段相当于10%自身生命上限的伤害，有50%概率附加1回合【嘲讽】。",
+      "upgradeText": "等级2\n潜能提升：生命值+25/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：通常形态下，附加【嘲讽】概率增加至50%\n等级3\n潜能提升：生命值+1000\n技能提升：终焉形态下，当前生命附加真实伤害比例增加至11%\n等级4：\n潜能提升：生命值+5%\n技能提升：终焉形态下，回复百分比增加至20%\n等级5：\n潜能提升：生命值+10%\n技能提升：终焉形态下，当前生命附加真实伤害比例增加至13%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620288-skill-4",
+      "order": 4,
+      "section": "必杀/终结技",
+      "name": "净化之日 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_67/h_69/50364/355468/2025/4/9/796480.png",
+      "description": "冷却时间：0\n缇亚马特使用净化烈焰烧尽敌方；对敌方全体造成相当于15%自身生命上限的伤害，额外附加自身13%当前生命值的真实伤害，并回复伤害量20%的生命，此技能不会产生冷却。\n浴血\n每层提升3%受到的治疗效果，上限叠加20层，不可被驱散。\n终焉形态\n化身为【终焉形态】，获得并只可使用【净化之曰】；每回合结束时失去越来越多的【浴血】（第1回合2层，第2回合4层，第3回合8层，之后固定16层），【浴血】层数归零时退出【终焉形态】，不可被驱散。",
+      "upgradeText": "等级2：通常形态下，附加【嘲讽】概率增加至50%\n等级3：终焉形态下，当前生命附加真实伤害比例增加至11%\n等级4：终焉形态下，回复百分比增加至20%\n等级5：终焉形态下，当前生命附加真实伤害比例增加至13%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n坦克，输出手，pvp\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 515|\n| 源器配置 | 右三主属暴击率，生命加成，生命加成 |\n└─────────┴────────────┘\n【对局表现】\npvp非常强力的存在，配合善雅和凌罗，变身后pvp所有角色都拜倒在龙妈脚下",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12浴血之躯+8荆棘+6巨壁屏障"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "琥珀"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12浴血之躯+8荆棘+6巨壁屏障",
+        "推荐智壳": "琥珀",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/306126.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "受到治疗效果提升"
+      ],
+      "other": [
+        "受到的治疗效果+10%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【回忆是死寂的深海】\n记忆往往会与情感相勾连，本应如此。但是对缇亚马特来说，她的回忆就像一片寂静的深海，自诞生以来就毫无波澜。\n实验室中的每一天，与过去的任何一天都并无不同。仪器发出的蜂鸣一成不变，实验员也总是那么几张面孔，就连数据异常时，从身体中涌出的痛苦，都无比熟悉。\n她甚至可以像一个旁观者那样，冷静地审视过去的自己，像翻看一本闲书那样，翻阅着过往的回忆。\n毕竟，每一天的缇亚马特，都是一个全新的人格。\n回忆可以共享，可情绪却难以感同身受，也许她曾经焦躁、恐惧、绝望、癲狂……但现在都已无从得知。那些无用的情绪早就随着人格的消亡一起消失无踪。\n缇亚马特从回忆中醒来，眼前的实验员似乎和往常有所不同。\n「该实验体的原质强度提升已经进入平台期，推测需要额外的刺激才能取得进一步增长。」\n「试试第十三套方案。」\n「基地的供能系统负荷不足，还是调整为第二十七套方案吧。」\n实验员们交流时，完全没有避讳缇亚马特，似乎并不认为她是一个能够独立思考的个体。\n很快，所有实验员都忙碌起来，预示着某种「日常」即将被打破。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【情绪是力量的燃料】\n很久没有感受过这种强烈的情绪了，好像有一团烈火在胸口熊熊燃烧，随时都会喷涌而出，将周围的一切都焚烧殆尽。\n缇亚马特缓缓睁开眼，久违地看见了阳光，那个常年不见天日的实验基地，如今已经不复存在，只留下一个恐怖的深坑。\n通过翻阅自己的回忆，她能看见自己是如何被激发出力量，又是如何释放原质炸碎了拘束装置。最终，没有任何生命能逃过火焰的吞噬，号称固若金汤的实验基地，也化作焦土。\n狂热的实验员将她称为「天使」，他们直到最后也没有明白，为什么他们所追求的神圣造物，反而是摧毁一切的元凶。\n「天使啊·……」她咀嚼了一下这个词汇，低低地嘲笑出声。\n这一刻，她清晰地感受到了不断涌出的情绪。这个名为愤怒的怪兽，原来一直寄宿在自己的身体中、流淌在血液里。\n愤怒是无法自己平息的，越是被囚禁，就越是疯狂生长，左冲右撞，试图找到一个发泄的缺口。它串联起了千千万万个人格的共同回忆，而这些人格凝聚在一起，爆发出了毁天灭地的强大力量。\n随着最后一点火星熄灭，缇亚马特也重归平静，她径直离开了这片废墟，没有再看一眼曾经囚禁自己的牢笼。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【梦境是现实的剪影】\n缇亚马特从不知道自己还能够做梦—一在陷入沉眠之前，她并没想过自己有一天能够安稳地入睡。即便如此，她还是立刻意识到了眼前的一切就是他人口中的「梦境」。\n整个空间充斥着错乱无序的实验仪器、培养皿与约束装置，无数长得完全一致的虚拟人格在热烈地交谈。就像是将她记忆中的某一页剪碎了拼接起来，糅合成了这个可笑而离奇的场景。\n仿佛是因为她意识到了自己正在做梦，周围的空气都变得凝滞黏腻起来，挤压、缠绕着她的身躯，拼命将她排斥出这个世界。\n她很快就从这场「梦」中醒来，光怪陆离的景象如同退潮那般迅速消散。就连实验室里那些阴沉可憎的回忆，好像也随着这场梦境一起变得荒诞、模糊，并逐渐远去。\n她感到有些惋惜，这难得的安眠只持续了不到一个标准时。\n然而她已不能再睡下去，一股强烈的危机预兆涌上心头，她知道，那些阴魂不散的追击者又在搜寻她的踪迹，马上就要找到她的藏身处了。\n离开出生地之后，她漫无目的地走了很远很远，但这还不够。一场短暂又迷离的幻梦过后，她有了新的方向——找到一个永远不会被打扰的安眠之地。",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/998305.png",
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/5360670a-e355-4ddc-9184-ecf7be6c5e89.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/998305.png\n//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/5360670a-e355-4ddc-9184-ecf7be6c5e89.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/407084.png",
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/ffb0baf0-8669-4b9b-8a44-1f8d2812be20.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/407084.png\n//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/ffb0baf0-8669-4b9b-8a44-1f8d2812be20.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/5360670a-e355-4ddc-9184-ecf7be6c5e89.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/ffb0baf0-8669-4b9b-8a44-1f8d2812be20.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/c41462eb-8f48-4ba5-a5c4-377209f3813a.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/e0958555-04fc-41c3-bc85-c302ce3091d2.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/0c9d99e6-71e0-4182-abf8-de9b19676aa6.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/12b831a3-64bf-45c8-bec5-da6d6ccff8a1.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/407084.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/998305.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/306126.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2025/7/14/729312.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/332405.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/960068.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_67/h_69/50364/355468/2025/4/9/796480.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 620288,
+    "title": "缇亚马特",
+    "url": "https://www.gamekee.com/yise/620288.html",
+    "updatedAt": "2025-08-22T08:03:40.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620288_缇亚马特.md",
+      "metadata": "03_图鉴词条/620288_缇亚马特.json",
+      "rawApi": "_raw_api/details/620288.json"
+    }
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "id": 620298,
+  "kind": "character",
+  "name": "赫尔基德",
+  "entryName": "赫尔基德",
+  "rarity": "SSR",
+  "element": "理",
+  "faction": "R.C.S",
+  "title": "猩红铁幕",
+  "gender": "男",
+  "profession": "未公开",
+  "identityCode": "E06-060627",
+  "chipStatus": "故障",
+  "assessment": "异格者赫尔基德，身份编码E06-060627，Re-A芯片状态故障，无法检测到任何有用信息。\n神秘的异格者，思维方式难以探究，行为动机更是成迷但按照他自已的说法，他所做的一切，全都是为了「利益」。\n然而，一旦问及他所谓的「利益」究竟哪方面的利益，或者说是谁的利益，赫尔基德都无一例外地选择默。\n比人实力强劲，动机不明，不论与他敌对还是与他合作都是十分危险的事情，请千万小心。",
+  "stats": {
+    "生命": "10724+3322",
+    "攻击": "1023+481",
+    "防御": "681+218",
+    "速度": "127+15",
+    "暴击率": "10%+20%",
+    "暴击伤害": "150%",
+    "效果命中": "0%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "620298-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "黑棘 等级 5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_92/h_84/50364/355468/2025/4/12/442049.png",
+      "description": "冷却时间：0\n赫尔基德在肩旁凝结数个黑色锥刺晶体，射向目标；对敌方单体造成240%伤害，有50%概率附加1回合的【眩晕】，自身拥有【帷幕】时概率提升100%。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：【眩晕】概率提升至40%\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：攻击力+10%\n技能提升：【眩晕】概率提升至50%"
+    },
+    {
+      "skillId": "620298-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "晶刺绞杀 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/70728bd9-19bd-4176-bb83-9bd3fc11b7b1.png",
+      "description": "冷却时间：3\n对敌方全体造成300%伤害，有100%概率附加2回合【攻击下降】，自身拥有【帷幕】时，造成伤害量的50%会补充至【帷幕】，最多不超过自身攻击的150%。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至300%\n等级3\n潜能提升：防御力+70\n技能提升：【帷幕】的伤害量补充比例增加至50%\n等级4：\n潜能提升：暴击率+4%\n技能提升：附加【攻击下降】概率增加至100%\n等级5：\n潜能提升：暴击率+8%\n技能提升：技能冷却减少1回合"
+    },
+    {
+      "skillId": "620298-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "惟幕 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/336cf8f0-2e4f-438a-a134-b1625b20fef9.png",
+      "description": "冷却时间：4\n对敌方全体造成3段110%伤害；为全体队友附加等同于300%自身攻击的【帷幕】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：【帷幕】的护盾量增加至270%攻击力\n等级3\n潜能提升：生命值+1000\n技能提升：伤害系数增加至110%\n等级4：\n潜能提升：速度值+5\n技能提升：【帷幕】的护盾量增加至300%攻击力\n等级5：\n潜能提升：速度值+10\n技能提升：技能冷却减少1回合"
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n护盾，免疫\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 115|\n| 源器配置 | 右三主属性3攻击加成 |\n└─────────┴────────────┘\n【对局表现】\npve中暂无刚需就业，pvp被拉姆克制，虽然被增强过，但玩法有待开发",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8攻势+6极影强袭"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万魔法典"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8攻势+6极影强袭",
+        "推荐智壳": "万魔法典",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/326826.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "施加的护盾量提升"
+      ],
+      "other": [
+        "施加的护盾量+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【赫尔基德最早的个人记录是在海德拉银行风控部的工作记录。】\n「一切的风险，都会有与之相配的利益。」\n这是赫尔基德教给每个加入海德拉银行风控部新人的第一件事。\n海德拉银行的传奇风控人，以最快速度升入银行高层的天才，每个出身普通的银行职员向往的偶像··这是大多数海德拉银行员工对赫尔基德的第一印象。\n最初，赫尔基德只是一个风控部普通职员，每天的工作就是使用各种手段收集情报和数据、进行分析并为那些有钱人提出各种投资建议和风险提示。在分析情报和数据上，赫尔基德有着超乎常人的天赋，总能敏锐地发现其中暗藏的玄机。赫尔基德只需要几个关键的数据，就能把参与其中的那些企业与幕后主使人的想法猜得一清二楚，因此，他很快就在这份岗位上取得了惊人的成绩。\n那时候，人们都认为，赫尔基德会成为海德拉银行的下一任风控部主管。\n然而，只有赫尔基德自己知道，工作上的成功并不能给他任何成就感。他早就摸透了那些占据了精英阶层顶端的、有钱人们的心思一一用手里的钱，赚更多的钱，循环往复，永不改变。那些人的思想迂腐不堪，他们的眼界永远只限于那些被自己拢入怀中的金币，而永远也看不到远方无限的可能性。\n赫尔基德对这样停滞不前的世界感到厌倦和怜悯，他渴求变化与革新。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【赫尔基德正在筹谋一个风险与收益同样巨大的计划。】\n「你会成为撬动整个伊瑟的几个关键点之一。」\n赫尔基德还记得，当他向自己真正的「上级」汇报对海德拉银行的渗透进度时，那个人对自己的评价。他还能回想起那一刻，快意从他心底涌出，顺着他的脊椎冲向四肢百骸，让他的身躯兴奋地战栗着，仿佛一个天翻地覆的崭新伊瑟已经触手可及。\n「这将是我无上的荣耀。」\n直到「上级」走远，他才从一直维持着的鞠躬姿势中直起身。他的心情无比畅快，但他的表情仍旧维持着平静。他知道，他真正的「同伴们」已经在着手准备一天精妙的计划，他也必须已经开始筹谋下一步的行动。\n他需要拉拢一些能被自己所利用的人，而他的心里已经有了人选。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【赫尔基德找到了一个绝佳的合作者。】\n「你是说，你会为我的研究提供资金？从场地到设备，甚至是实验材料？」\n青灰色皮肤的少年睁大了眼睛，直勾勾地盯着赫尔基德，他的语气半信半疑，但却难掩目光中热切的期待。\n「你想从我这里得到什么？知识？技术？还是学术成果？无所谓，论文一作也好，技术专利也罢，只要让我亲自做实验，剩下的，你想要什么都可以。」\n「不，那些东西我都不要。我需要的，是你的才智，RC-77。 」\n赫尔基德将一张海德拉银行的黑卡放在桌上，缓缓推向RC-77。RC-77当然知道这意味着什么，想要拥有海德拉银行的黑卡，就至少要有几千万伊瑟币的储蓄。\n「这张卡里的伊瑟币应该足够你用几年的。并且，这些只不过是定金，你想研究什么都行，但要遵守我的要求。」\n「你说。」\n「一段时间后，会有一个极为重要的研究项目，我需要你去研究它，严格保密，并且提供一切成果。有任何问题吗？」\n「不……当然没有！这简直，太棒了！」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/d2c6388a-58d0-4948-8c0a-6ae6ee2011d8.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/d2c6388a-58d0-4948-8c0a-6ae6ee2011d8.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/1eef36b5-d920-4db1-be7a-418ff92d09ef.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/1eef36b5-d920-4db1-be7a-418ff92d09ef.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/d2c6388a-58d0-4948-8c0a-6ae6ee2011d8.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/d2c6388a-58d0-4948-8c0a-6ae6ee2011d8.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/1eef36b5-d920-4db1-be7a-418ff92d09ef.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/2fdcc27d-8c1b-42a9-a60a-ba70abe839ef.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/1eef36b5-d920-4db1-be7a-418ff92d09ef.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/2fdcc27d-8c1b-42a9-a60a-ba70abe839ef.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/70728bd9-19bd-4176-bb83-9bd3fc11b7b1.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/336cf8f0-2e4f-438a-a134-b1625b20fef9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/326826.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/716345.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/147551.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/960068.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_92/h_84/50364/355468/2025/4/12/442049.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 620298,
+    "title": "赫尔基德",
+    "url": "https://www.gamekee.com/yise/620298.html",
+    "updatedAt": "2025-08-18T08:44:21.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620298_赫尔基德.md",
+      "metadata": "03_图鉴词条/620298_赫尔基德.json",
+      "rawApi": "_raw_api/details/620298.json"
+    }
+  }
+}

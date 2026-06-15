@@ -1,0 +1,275 @@
+{
+  "id": 671001,
+  "game_id": 50364,
+  "entry_id": 192022,
+  "uid": 154257,
+  "type": 4,
+  "title": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+  "tag": "2",
+  "created_at": 1753050930,
+  "updated_at": 1781197450,
+  "updated_uid": 154257,
+  "comment_at": 1769354994,
+  "last_at": 1781197450,
+  "comment_count": 3,
+  "status": 1,
+  "summary": "本攻略适用于国际服/国服SS5赛季版本。本游戏版本以赛季为单位，每个赛季初会进行平衡性调整，角色、智壳、源器、矩阵都可能改动，不要仅仅因为弱势就回收整类装备。【关于卡牌】（括号中为对应的游戏内术语，下同）本游戏为魔灵like游戏，主要玩法为4-5人队，角色分火（理）风（虚）水（异）暗（破序）光（恒定",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1718/h_992/50364/154257/2026/3/18/209075.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/154257/2026/2/26/306868.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/154257/2026/3/4/806556.png",
+  "model_ids": "",
+  "like_count": 21,
+  "unlike_count": 0,
+  "view_count": 29173,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "吉林省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 2,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0,\"video_compressed\":\"\"}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 7,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 1781235695,
+  "version": "",
+  "content_id": 671001,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"本攻略适用于国际服/国服SS5赛季版本。\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"color\":\"rgb(255, 0, 0)\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"color\":\"rgb(255, 0, 0)\",\"text\":\"本游戏版本以赛季为单位，每个赛季初会进行平衡性调整，角色、智壳、源器、矩阵都可能改动，不要仅仅因为弱势就回收整类装备。\"}]},{\"type\":\"flod\",\"title\":\"SS2赛季活动日历\",\"children\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"bxxWJJ8fjhpeQ0Xt\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1718/h_992/50364/154257/2026/3/18/209075.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1718px\",\"height\":\"992px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}],\"themeColor\":\"rgb(255, 77, 79)\"},{\"type\":\"flod\",\"title\":\"SS3赛季活动日历\",\"children\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"5rbwJEC91BlegQp2\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/154257/2026/2/26/306868.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2560px\",\"height\":\"1440px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}],\"themeColor\":\"rgb(255, 77, 79)\"},{\"type\":\"flod\",\"title\":\"SS4赛季活动日历\",\"children\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"d24IruvSv0rAR3PB\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/154257/2026/3/4/806556.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2560px\",\"height\":\"1440px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}],\"themeColor\":\"rgb(255, 77, 79)\"},{\"type\":\"flod\",\"title\":\"SS5赛季活动日历\",\"children\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"VVHuWvqobFD5X5ua\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_1080/h_608/50364/154257/2026/5/11/1781148818887_1781148818513_bw2ehb5g3u_rkpzshn7qp.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"608px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}],\"themeColor\":\"rgb(255, 77, 79)\"},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【关于卡牌】\",\"fontSize\":\"24px\"},{\"text\":\"（括号中为对应的游戏内术语，下同）\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"本游戏为魔灵like游戏，主要玩法为4-5人队，角色分火（理）风（虚）水（异）暗（破序）光（恒定）五种属性，SSR、SR、R三个等级，SSR初始4星，SR初始3星，R初始2星，全部最高均可升到6星，重复出货可最高命座（原质）到5级。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"光暗统称为极相，三色统称为原相，还有一种高级三色叫做超限原相，从成本角度看是极相=超限原相>原相，整体强度也是这样，但某些原相也是顶级水准，尤其是在活动本里。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"本游戏内并未明确划分职业，需要玩家自行分辨，大致上可以分为传统的C、辅助、生存角色。\"}]},{\"type\":\"flod\",\"title\":\"快速判断角色类型的技巧及一点注意事项\",\"children\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"策划通过另一种方式暗示了角色类型，角色的每个技能盘中都夹有8次不消耗晶格的属性升级，其中初始（即1和2级之间）有五个，2和3级之间有一个，这六个是相同且固定的，在一技能里是攻击，二技能里是防御，三技能里是生命；3级和4级，4级和5级之间各有一个，这两个是相同但不固定的，可以通过其出现规律快速判断角色类型，常见组合见下表，只有极个别角色例外，比如没有暴率但有暴伤，仍然能明显判断出是C。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"LLCRyQlBZu9QW6h4\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_385/h_232/50364/154257/2026/2/28/162410.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"385px\",\"height\":\"232px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"严格来说debuffer还可以细分为纯debuffer型和debuffer+buffer混合型，但在装备上都要优先迁就debuffer部分堆命中，所以归一大类。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"debuff实际成功率=技能描述*（1+效果命中-对方效果抵抗），但不能超过【技能描述的两倍】或【90%】中的较低者，也不会低于【技能描述的一半】。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"buffer型辅助没有特殊需求，PVE通常堆生命，防御由于算法原因超过1000会有边际效应，以主流梨梨面板为例，全堆防御会比全堆生命少约10%的等效血量，不过早期装备缺乏时仍然可用，有高速时也值得。至于抵抗由于存在下限的缘故，即使全堆也有不小吃到技能的风险。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"生存位也分在debuffer和buffer下（多数是buffer），奶量计算基准因人而异，额外提升要矩阵效果或命座或智壳被动，单个源器上是没有【奶量加成】这项属性可堆的。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"另外在角色第二、四命座上的属性也和角色类型高度相关，C通常是暴率+暴伤，辅助通常是命中+抵抗，生存位通常有奶量和盾量提升。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"通过以上两种方式，即使在不精通面板倍数和技能效果的情况下，也能轻松判断策划设计的初衷，比如玄骊，虽然大招是完全没有输出的，貌似应该是辅助，但通过上述两种方式可断定为C，实际战斗中可发现反而是大C。\"}]}],\"themeColor\":\"rgb(255, 77, 79)\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"除个别特殊情况外，最优组队架构通常是1~2个C，0~1个生存，其余都是辅助，这样能最大化伤害乘区。\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【关于资源】\",\"fontSize\":\"24px\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"所有卡池都是角色池，十连保底SR，除定向池外80连保底SSR，普池50连后SSR概率提升，专池不会歪，混池不可指定UP角色。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"抽卡资源比较充裕，只要正常参加活动，零氪最终都能满图鉴，并且命座只加白值不改机制，这是非常厚道的一点。而最大的问题是复刻池约等于没有，后入坑的玩家想拿特定的老角色就非常看脸，所以抽卡的首要原则就是一定要\"},{\"color\":\"rgb(255, 0, 0)\",\"text\":\"假定每张新卡都是必抽，并按保底预留足够的资源\"},{\"text\":\"，不过PVE玩家实际可跳过部分角色。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一般来说，\"},{\"text\":\"图鉴>技能>输出命座>辅助命座\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"，图鉴是大质变，技能是小质变，命座是量变。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"光暗/超限专池：300钻一抽，每池持续三周。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"三色专池：100钻一抽，每池持续三周。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"三色定向：一次性池，开荒期不动，后面补实在抽不到的，这个池子不随新角色更新，主要是PVP肉队和PVE活动用的几个角色还能上场。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"普池（常驻召唤）：全员大混池，和图鉴同步，100钻一抽，25%出光暗和超限。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"光暗混池（极相召唤）：只能用光暗票抽，没必要抽，想抽也抽不了多少。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"SR和SSR专池：只能用对应票抽，获得非常有限。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"另外定期会有\"},{\"text\":\"普池专属\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"累抽活动（祈祝之礼），100/200/300抽分别送三色SSR自选箱*1、SSR晶格*1、SSR随机券*1，平民玩家注意先抽累抽再抽当期专池，尤其是累抽晚于专池开始的情况下。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"最后再强调一次，本游戏的优点是普池出一切，缺点是基本上错过的一切都要靠普池出，后入坑的玩家除了氪帝之外是没法和人均80+SSR的开服零氪老登相比的，所以请保持耐心，享受养成box的乐趣。\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"flod\",\"title\":\"历代卡池一览\",\"children\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"FnkBOR7pF1P5Z4kR\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_1299/h_3697/50364/154257/2026/5/11/1781150267046_1781150267037_xkcr8hpmio_5iewj0svdu.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1299px\",\"height\":\"3697px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}],\"themeColor\":\"rgb(255, 77, 79)\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"综合抽卡建议：开荒刷好初始就停，商店每周礼包买折扣普票和光暗票，新玩家除了保专池外，还要尽量保100累抽，目前为止含金量都不错，是补一些关键图鉴的重要渠道，300和200累抽根据各人资源富余程度决定。超限没有活动票，召唤商店和巅峰竞技场商店可以交换少量，而且刷新周期较长，主要得用钻抽。\",\"color\":\"rgb(255, 0, 0)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"升级材料（调查记录）有日常副本，同时掉落少量升星材料（留影）、微量抽卡券和钻石。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"留影没有专门副本，各种渠道都会给，幻音剧场是不多但稳定的来源，需要合理分配，但不算紧张，C位6星+其他队员5星足以应付普通PVE，溢出后再全员6星，低级可以合成高级。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能升级材料（原质印迹）有日常副本，还有很多自选箱，低级可以合成高级。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"技能突破材料（晶格）除了没有日常副本之外，还具有以下特点：\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"text\":\"可能导致角色质变\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"各稀有度独立且无法用低级合成高级\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"需求量极大但产出有限，竞技场和公会商店是除活动外比较稳定的来源\"}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"源器、经验、技能材料会有定期的双倍掉落活动（盈满的祝福），还可额外开启双倍体力消耗实现四倍掉落，具体日期见官方活动日历，没有次数限制，可以平时攒体力药。开荒先刷经验和技能材料，实打实提升练度。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"由于晶格的重要性和稀缺性，\"},{\"text\":\"使用时务必确认优先角色和优先技能，尤其是SSR，所有能换SSR晶格碎片的活动都优先换它，\",\"fontSize\":\"24px\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"SR晶格最终是溢出的，主要是早期要优先给核心角色吃，觉醒SR每人还要消耗12个。\"}]},{\"type\":\"divider\",\"value\":\"line-8\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"从SS5赛季开始，新号可以获得\"},{\"text\":\"瑞玛丽和满技能的炼、克洛斯、凌罗\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"，开荒逻辑和之前有所区别，首先主C方面不再需要刷初始，包括谛听没有也行；其次可以优先围绕炼、克洛斯、凌罗组队省资源，开荒的晶格压力大大减轻；最后也不用再重置炼。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"1. 刷初始\",\"fontSize\":\"24px\",\"color\":\"rgb(115, 209, 61)\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"刷初始的核心目标是\"},{\"text\":\"梨梨+逆翎\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"，这一对人权级辅助几乎是任何场景的标配（暗系强者恐怖如斯...），以下进行简单说明。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"梨梨：会给攻击最高的队友（通常是C）套一个光环【双生戏法】，并对该光环持有者产生减冷却、拉条、助战（即夹攻）、加暴伤等效果，从而大大提升输出效率。技能111>>>511>>>551，因为目前的主流C的大招都是3回合冷却，所以3技能不需要升，并且开荒不要太早升2技能，否则其他辅助的速度如果跟不上，就会把C拉得过早行动。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"逆翎：目前唯一群体驱散+60%破甲角色，另两个类似的角色是只能对单的克索司，和30%破甲的玄骐，这个组合因为能省出个位置而在某些特定场合格外有效（比如兵祸和奥洛拉）。技能111>>>115>>>515，2技能可升但优先度不高。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"刷初始主要看三个渠道：\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"text\":\"新手逆翎/夜离二选一池，定向逆翎。\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"普池\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"新号第二天签到的光暗七选一自选箱\"}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"首先从前两个渠道抽出逆翎，然后自选梨梨，如果是抽到了逆翎+梨梨的天胡开局，自选箱可以拿莉拉姆。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"2.\",\"color\":\"rgb(115, 209, 61)\",\"fontSize\":\"24px\"},{\"text\":\" \"},{\"text\":\"根据账号等级节点规划体力分配\",\"color\":\"rgb(115, 209, 61)\",\"fontSize\":\"24px\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"text\":\"好像是10级：开工会及商店，有紫晶格和金晶格碎片\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"忘了多少级反正很低：开兵祸和多琪本\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"13级：开竞技场及商店，有紫晶格和金晶格\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"13级：开紫色智壳本\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"14级：开中级技能材料本\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"15级：开周常活动本\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"21级：开高级技能材料本\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"23级：开黄色智壳本\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"25级：开月塔（虚烬探索）\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"30级：开奥洛拉本\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"35级：开红色智壳本\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"35级：开源器本地狱难度\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"40级：开多队本（源网征令）\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"50级：开各副本炼狱难度\"}]},{\"type\":\"list-item\",\"children\":[{\"text\":\"100级：开柯洛罗本，通关后开赫尔基德本\"}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"账号升级经验=等量体力消耗+每日任务奖励，老玩家可能会建议至少买体力冲到50级开炼狱本，每天最多能买100点*（10+基地加成）次，每次100钻，其中第一次60钻，所以也可以折个中，每天只买一次。经验溢出之后不会转化成资源，而是纯浪费掉，所以理论上前期最好是以吃任务奖励为主，至少50级之前不碎钻在刷垃圾装备上，但是另一方面，冲级也能更早挖出升级奖励，而且角色更早成型也能多拿活动奖励，整体看还是有利有弊。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"35级之前纯粹是垃圾时间，优先升等级和技能，智壳和源器不卡关就算合格，红色以下装备都是过渡，很快就会卖掉，早期钱很紧缺不要乱升（其实后期也不够用，因为回收比例不高，大约是40%）。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"35到50级正式开始刷装备，目标是红色智壳和源器，所以只刷智壳地狱和源器地狱四，智壳相对难度低可以先刷，智壳和矩阵选择见节奏榜，智壳确认能长期用的话可以洗被动，日后有了好的三矩阵智壳可以直接继承过去，注意要保留矩阵的那个智壳不能满级。但是地狱仍然会掉落一些垃圾装备，所以还是要尽早转炼狱提高效率。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"50级起开始刷智壳本和源器本的炼狱难度，平时可以多在智壳本里沉淀，双倍活动先刷经验和技能材料扩充box，至少要养出日常常用角色，再扩展到各种活动和PVP需要的角色，还有余力再刷双倍源器。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"3.\",\"color\":\"rgb(115, 209, 61)\",\"fontSize\":\"24px\"},{\"text\":\" \"},{\"text\":\"当我们在谈论刷装备的时候，我们在谈论什么\",\"color\":\"rgb(115, 209, 61)\",\"fontSize\":\"24px\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"炼狱和地狱的最大区别是会掉落六种【特化核心XX】矩阵，PVE不必须追求极限速度的散件，一般来说毕业矩阵搭配都是12+8+6，这样正好能最大化利用套装效果，而其中的6就是特化核心，因为他们比较高级，在源器上必然是右侧，而且同时只能穿一个（无论种类），在智壳上必然是三矩阵智壳的第三矩阵，因此它们的来源就是锁死的智壳3+源器3，所以每个角色能且只能凑出这一个6。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"反过来说，三矩阵智壳的第三矩阵也必然是特化核心，因此只用普通矩阵顶多能凑出24，不存在12+8+6的可能性，在没刷出特化核心之前可以先用12+12或12+8。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【冷知识】三矩阵智壳比双矩阵智壳的面板要高一点，前者满级速度是40的话后者就是35，所以即使用12+12或12+8也最好用三矩阵智壳。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"对于普通PVE，尤其是打穿装备本来说，这六种特化核心并不是全都需要，最主要的就是\"},{\"text\":\"暴烈\",\"color\":\"rgb(255, 77, 79)\"},{\"text\":\"和\"},{\"text\":\"迅光\",\"color\":\"rgb(146, 84, 222)\"},{\"text\":\"。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"迅光\",\"color\":\"rgb(146, 84, 222)\"},{\"text\":\"能提供速度和命中，是绝大部分辅助的首选。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"暴烈\",\"color\":\"rgb(255, 77, 79)\"},{\"text\":\"能提供双爆，绝大多数dps的首选。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"进化\",\"color\":\"rgb(56, 158, 13)\"},{\"text\":\"在SS3改版后咸鱼翻身加了速度，但是不用通常也没什么压力。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"巨壁\",\"color\":\"rgb(255, 169, 64)\"},{\"text\":\"个别dps可以用，而且也不是非用不可。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"疾影\",\"color\":\"rgb(64, 169, 255)\"},{\"text\":\"原则上是给dps设计的，但输出又不如暴烈，除了过渡基本没用。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\",\"color\":\"rgb(146, 84, 222)\"}]},{\"type\":\"paragraph\",\"children\":[{\"color\":\"rgb(146, 84, 222)\",\"text\":\"灵子\"},{\"text\":\"和巨壁的价值类似，只是一个主防一个主血。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"矩阵的选择主要受智壳掉落可能性影响，每个智壳都只能掉落8种固定矩阵之一，而且【每种智壳能出】的矩阵不等于【单个智壳能同时出】的矩阵，有些矩阵是互斥的，具体组合和互斥关系见下表。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"个人猜想有些互斥可能并不是机制上的，而是恰好还没有智壳具备这种组合，如果日后新增智壳也许可以实现。\"}]},{\"type\":\"flod\",\"title\":\"矩阵组合&互斥关系\",\"children\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"iHcvdFmCEABxN4yz\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1700/h_3717/50364/154257/2026/4/4/339428.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1700px\",\"height\":\"3717px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}],\"themeColor\":\"rgb(255, 77, 79)\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"智壳本身的类型有一定指导意义，但也并不是绝对的，比如匠虽然是辅助（速度）型，但无论技能还是矩阵都比较偏生存，而千兆字节虽然是生存型，但其实是速度型技能+速度/治疗型矩阵，噬身之蛇虽然是生存型，但其实是攻击/速度型技能+生存型矩阵等等，要根据实际情况用。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"暴烈经常搭配其他两个攻击型矩阵，俗称\"},{\"text\":\"三红\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"迅光经常搭配疾驰，俗称\"},{\"text\":\"双速\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"另外注意12+8+6只是结构上的最优解，能最大程度发挥三个矩阵的完整效果，但在实际应用中，数值强度和灵活性也很重要。比如上面提的双速辅助常常会配两个高速散件，堆极限速度抢先手，这时8件套的矩阵效果相对而言就没那么必需；再比如12疾驰+12浴血+6迅光的胡狼，平时可以当双速用，高难本可以无缝切换成12浴血+8疾驰+6迅光的小强形态，真真是极好的。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"源器的升级机制是15级5档，每逢3的倍数等级升档，不满四个副词条时每档新增一个副词条，满后提升一个词条数值，常玩手游的话都熟悉。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"副词条的命中次数会以不同颜色显示，五次是红色，四次是黄色，三次是紫色，两次是蓝色，一次是绿色，结合升级机制就是只有初始四词条才有可能出单条红色，三词条最多能出单条黄色，二词条最多能出单条紫色。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"不同属性有不同的赋值范围，以速度为例，大约是初始=3，绿速=5~7，蓝速=8~10，紫速=11~13，黄速=14~16，红速=17~20，实际速度有小数部分，另外还受强化波动影响，在个别情况下低色反而会强于高色，所以严格来说要看数值，我们这里泛泛而谈，统一按颜色讨论。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"作为角色堆属性最快的渠道，右侧源器的主属性是没有速度的，而辅助又需要大量的速度，所以狭义上大家赌的就是红速和黄速，其他的都是副产品，或者前提是速度达标时才有价值的伪有效词条，比如其他游戏可能【紫速+绿X】和【黄速】是等价的，在这里不一定成立。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"早期凑出主属性符合的右侧源器和套装效果是最优先的，有时光是主属性就要刷很久，不要一开始就追求完美，哪怕只是紫速也是后面的事。\"}]},{\"type\":\"flod\",\"title\":\"装备强化拓展阅读\",\"children\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"那么这里就有一个矛盾的问题，如果为了节省资源只升底子好的源器，则可用的非常少，如果什么都升，资源又不够用。从性价比的角度看，可以先试探升9级，结果好的再升12和15，因为+2到+9每级费用比前一级多五千，+10到+15多一万，最后两档的总费用占了五档的67.65%，所以只要有节制地升12和15，经济就会好很多。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"从概率的角度看，初始四词条并且带速度，至少升一到五次速度的几率分别是67.232%（不低于绿色），26.272%（不低于蓝色），5.792%（不低于紫色），0.672%（不低于黄色），0.032（红色），此时直到紫色掉率都能接受，不过这个大前提的本身几率不高。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"换成初始三词条，升到四词条后带速度的情况，至少升一到四次速度的几率分别是68.359%，26.172%，5.078%，0.391%，此时直到紫色也仍然能接受，并且三词条已经很经常掉了。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"再换成保底掉落的初始二词条，至少升一到三次速度的几率分别是，70.37%，25.93%，3.7%，紫色明显不如三词条了。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"当然这些概率还要去掉根本没有速度的情况，以及右侧主属性不匹配的情况，所以我上面说平民玩家大量用的还是紫到蓝速。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"另外一个要区别对待的角度是矩阵等级，还是因为要大量堆速度的缘故，12+6的双速矩阵基本是辅助的标配，此时剩下的8套装还允许有一件可以是二级的，因为三矩阵智壳固定是3+3+3，所以这个弹性必然给到源器，这些8套装里的二级源器仍然有比较正常的升级价值，但12套装里如果也有二级源器的话，就需要至少一个额外源器位置补足套装效果，8套装就无法再成立，资源紧张时可以后升这类只能当散件用的源器。\"}]}],\"themeColor\":\"rgb(255, 77, 79)\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"4. 装备开荒路线规划\",\"color\":\"rgb(115, 209, 61)\",\"fontSize\":\"24px\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"首先提供一个刷了逆翎初始的极简开荒路线，如上所述围绕白嫖角色+初始角色组队：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"1. 娜娜：\"},{\"text\":\"炼+逆翎+梨梨+凌罗，\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"刷带暴烈的三红白獠（可以打修罗难度）\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"2. 兵祸：\"},{\"text\":\"炼+瑞玛丽+逆翎+梨梨+凌罗，\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"刷暴烈另一半\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"3. 赫妍：\"},{\"text\":\"炼+逆翎+梨梨+R卡奇，\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"刷带迅光的双速胡狼，顺便刷暴烈启示录打多琪用\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"4. 奥洛拉：\"},{\"text\":\"炼+瑞玛丽+逆翎+梨梨+凌罗，\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"刷迅光另一半\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"5. 多琪：\"},{\"text\":\"逆翎主C+瑞玛丽+梨梨+酣梦一宵+凌罗，\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"刷疾驰\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"6. 莎朗：\"},{\"text\":\"炼+瑞玛丽+梨梨+凌罗，\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"开荒没有大量刷的价值，随便拿个凌罗能凑合用的超新星就行\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"以上是原始的装备6本，后面还有三个高难智壳本，但不影响三矩阵的完成，沉淀一下总能过去。源器本的维斯佩拉才是真正意义上的高难本，暂时不用管它，以上6本已经足够刷出常用bd。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"按照以上阵容计算，除了白嫖的满技能角色外，合计最低真实晶格投入需要：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"115逆翎，511梨梨，155瑞玛丽，\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"共12金晶格，如果有其他群C则逆翎可111\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"114酣梦一宵，\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"共3紫晶格\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"555R卡奇，\",\"color\":\"rgb(255, 0, 0)\"},{\"text\":\"共12蓝晶格，在竞技场商店（每周五个）买最划算，召唤商店每周也有五个。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"再精简的话瑞玛丽111也能凑合用，酣梦一宵开始没有的话可以换其他AOE控制手，优先用她是因为睡眠有增伤的副作用。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"总而言之，事到如今开荒已经是0难度，本攻略也越来越简化，很多之前用的精打细算的技巧已经成为时代的眼泪，当初主要是为了装备这部分做的这个攻略，现在回头看反而成了最无脑的部分，这在一定程度上也弥补了新玩家的赶进度压力，虽然图鉴要慢慢开，但不会因为缺角色而不好刷装备了。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"最后给新玩家打个预防针，极品三矩阵智壳的掉率远低于你的想象，不要死盯着一个角色刷，三矩阵里有两个半能用就行，先让全队都用上。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1718/h_992/50364/154257/2026/3/18/209075.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/154257/2026/2/26/306868.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/154257/2026/3/4/806556.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 154257,
+    "username": "时崎狂肝",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/7.png",
+    "description": "人生就像一场电影，总要有人演写攻略的。",
+    "follow_num": 46,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 2,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 1,
+    "content_at": 35481,
+    "content_num": 51,
+    "read_num": 246523,
+    "like_num": 423
+  },
+  "update_user": {
+    "uid": 154257,
+    "username": "时崎狂肝",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/7.png",
+    "description": "人生就像一场电影，总要有人演写攻略的。",
+    "follow_num": 46,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 1,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 154257,
+      "username": "时崎狂肝",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/7.png",
+      "last_ip_area": "吉林省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 5,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 3,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 675322,
+      "name": "国服安装教学",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/2/292985.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 645547,
+      "name": "萌新必看",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/22/587172.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675573,
+      "name": "萌新开荒攻略PVE篇",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/29/381088.png",
+      "jump_url": ""
+    },
+    {
+      "id": 678427,
+      "name": "福利合集",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/11/21340.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 665794,
+      "name": "兑换码",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/5/10/719647.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 669045,
+      "name": "装备属性科普",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/6/4/55811.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 665358,
+      "name": "国际服安装教学",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1440/h_810/50364/157597/2025/5/9/43116.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 672483,
+      "name": "白嫖/低氪开荒规划",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_500/50364/664163/2025/7/27/740775.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 619789,
+      "name": "攻略组招募",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/8/130379.jpg",
+      "jump_url": ""
+    }
+  ]
+}

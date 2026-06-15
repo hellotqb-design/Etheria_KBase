@@ -1,0 +1,347 @@
+{
+  "id": 708683,
+  "kind": "character",
+  "name": "纳伽兰",
+  "entryName": "纳伽兰",
+  "rarity": "SSR",
+  "element": "虚",
+  "faction": "伊里森监狱",
+  "title": "天之吼",
+  "gender": "男",
+  "profession": "第五典狱长",
+  "identityCode": "/",
+  "chipStatus": "正常",
+  "assessment": "异格者纳伽兰，Re-A芯片状态正常，未见异常波动。\n伊里森监狱的第五典狱长，霸气、蛮横，以严酷无情的管理手段闻名。\n与他相处时需要注意，他从不在乎任何礼节、规章制度，抓住犯人、完成任务才是他唯一关注的目标，有实绩，才算拥有与他对谈的底气。\n他行事或许会过于强硬、冷酷和我行我素，但他也绝对尊重那些内心强大、对弱者心怀悲悯的人。\n作为伊里森监狱重建后新上任的典狱长，纳伽兰并不常驻在监区中，而是经常率领缉拿团在外四处搜捕越狱的逃犯。\n重建的第五监区中关押的囚犯，绝大多数都是在事故中趁机越狱，而后由纳伽兰亲手抓捕归案。\n他曾率领缉拿团抓捕R.C.S.的诸多重犯和逃犯，并负责指挥与R.C.S.第四行刑官法耶尔有关的缉拿行动。\n时至今日，他也依然是追捕法耶尔行动中不可或缺的核心战力，在监狱系统内，是对抗R.C.S.行刑官经验最为丰富的一位指挥官。",
+  "stats": {
+    "生命": "16103+6276",
+    "攻击": "707+296",
+    "防御": "818+232",
+    "速度": "126+15",
+    "暴击率": "10%+20%",
+    "暴击伤害": "150%+12%",
+    "效果命中": "0%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "708683-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "致残之斧",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_64/h_63/842288/2026/5/12/77493320mqaozc20.png",
+      "description": "冷却时间：\n对待罪徒，绝不手软!对敌方单体造成2段相当于自身15%最大生命的伤害，每段有35%概率附加2回合【速度下降】。\n奔雷:自身速度高于200点时，每多出1点速度提升自身1%暴击伤害和效果命中;被攻击时有20%概率触发【迅斧】，速度每高于攻击者1点提升1%概率。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：自身生命附加伤害比例增加至15%\n等级3\n潜能提升：攻击力+100\n技能提升：提升的暴击伤害和效果命中增加至1%\n等级4：\n潜能提升：速度值+5\n技能提升：提升行动进度效果增加至30%\n等级5：\n潜能提升：速度值+10\n技能提升：每点速度对【迅斧】概率的提升增加至1%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "708683-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "断头台",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_66/h_69/842288/2026/5/12/14635851mqaozigs.png",
+      "description": "冷却时间：3\n痛苦会被铭记，罪行也绝不容饶恕!对敌方单体造成相当于自身42%最大生命的伤害，若攻击后目标生命百分比低于25%，则直接斩杀目标;攻击后治疗自身，治疗量相当于50%自身最大生命此技能成功击杀时会改为治疗全体友方。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：自身生命附加伤害比例增加至39%\n等级3\n潜能提升：防御力+70\n技能提升：治疗效果增加至自身最大生命的50%\n等级4：\n潜能提升：暴击率+4%\n技能提升：自身生命附加伤害比例增加至42%\n等级5：\n潜能提升：暴击率+8%\n技能提升：斩杀比例增加至25%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "708683-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "破阵冲击",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_67/h_66/842288/2026/5/12/47780589mqaozpzk.png",
+      "description": "冷却时间：3\n伤痕会随时间愈合，但背叛永不会被遗忘。对敌方全体造成3段相当于自身15%最大生命的伤害，每段有100%概率附加2回合【速度下降】和【遗忘】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：自身生命附加伤害比例增加至14%\n等级3\n潜能提升：生命值+1000\n技能提升：附加【速度下降】和【遗忘】概率增加至100%\n等级4：\n潜能提升：生命值+5%\n技能提升：自身生命附加伤害比例增加至15%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "纳伽兰是一名超限生命型输出异格者，更高的速度可以使他在突破敌阵的过程中如鱼得水，是披荆斩棘的战场先锋。",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8涌泉+6讯光天击"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "胡狼"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8涌泉+6讯光天击",
+        "推荐智壳": "胡狼"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_186/h_186/842288/2026/5/12/37721205mqaosg7v.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击伤害提升"
+      ],
+      "other": [
+        "暴击伤害+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_1920/h_1080/842288/2026/5/12/22420777mqanwcrd.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_1920/h_1080/842288/2026/5/12/22420777mqanwcrd.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/842288/2026/5/12/89430006mqanwr0b.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/842288/2026/5/12/89430006mqanwr0b.jpg"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/641808.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/740087.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/845196.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2026/1/11/283649.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2026/1/11/340072.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2026/1/11/250590.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_186/h_186/842288/2026/5/12/37721205mqaosg7v.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_1920/h_1080/842288/2026/5/12/22420777mqanwcrd.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_1920/h_1080/842288/2026/5/12/22420777mqanwcrd.jpg?x-image-process=image/format",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_1920/h_1080/842288/2026/5/12/22420777mqanwcrd.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_1920/h_1080/842288/2026/5/12/22420777mqanwcrd.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp,//cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/842288/2026/5/12/89430006mqanwr0b.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp,//cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/842288/2026/5/12/97818604mqanwxuu.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/842288/2026/5/12/89430006mqanwr0b.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/842288/2026/5/12/89430006mqanwr0b.jpg?x-image-process=image/format",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/842288/2026/5/12/89430006mqanwr0b.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/842288/2026/5/12/97818604mqanwxuu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/842288/2026/5/12/97818604mqanwxuu.jpg?x-image-process=image/format",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/842288/2026/5/12/97818604mqanwxuu.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_64/h_63/842288/2026/5/12/77493320mqaozc20.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_66/h_69/842288/2026/5/12/14635851mqaozigs.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_67/h_66/842288/2026/5/12/47780589mqaozpzk.png"
+  ],
+  "source": {
+    "pageId": 708683,
+    "title": "纳伽兰",
+    "url": "https://www.gamekee.com/yise/708683.html",
+    "updatedAt": "2026-06-12T08:56:52.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/708683_纳伽兰.md",
+      "metadata": "03_图鉴词条/708683_纳伽兰.json",
+      "rawApi": "_raw_api/details/708683.json"
+    }
+  }
+}

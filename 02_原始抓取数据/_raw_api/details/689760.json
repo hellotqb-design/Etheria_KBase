@@ -1,0 +1,220 @@
+{
+  "id": 689760,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 878729,
+  "type": 4,
+  "title": "【伊瑟】拂秋养成攻略",
+  "tag": "",
+  "created_at": 1768385112,
+  "updated_at": 1768551621,
+  "updated_uid": 878729,
+  "comment_at": 1768385112,
+  "last_at": 1768551621,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "哈喽大家我是lala，今天我们一起来看看能治疗能拉条的肉队中流砥柱拂秋~一图流：一、角色概论先说总结，拂秋能够附加【月迷津】来治疗、拉条友方，PVP中十分适配肉队，在PVE高难也有十分不错的表现二、技能详情普攻—花烟锦拂秋的普攻会对敌方单体造成伤害，然后随机拉条两名友方被动效果反锦会在敌人行动结束后",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2026/0/16/919146.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2026/0/16/861322.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2026/0/14/116013.png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 1722,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 50364,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 5,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 689760,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"rNxpSXZ1LnGU76N4\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2026/0/16/919146.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"5000px\",\"height\":\"2822px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"哈喽大家我是lala，今天我们一起来看看能治疗能拉条的肉队中流砥柱拂秋~\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一图流：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"dvUYnzcVS9fRqMFt\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2026/0/16/861322.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3000px\",\"height\":\"8482px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"一、角色概论\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"先说总结，拂秋能够附加【月迷津】来治疗、拉条友方，PVP中十分适配肉队，在PVE高难也有十分不错的表现\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"二、技能详情\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"普攻—花烟锦\",\"bold\":true},{\"type\":\"image\",\"key\":\"YMZgHUADj17dKneS\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2026/0/14/116013.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"拂秋的普攻会对敌方单体造成伤害，然后随机拉条两名友方\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动效果反锦会在敌人行动结束后根据自身携带月迷津情况触发不同效果：未携带月迷津时拉条自身，携带月迷津时推条自身\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"小技能—镜玄光\",\"bold\":true},{\"type\":\"image\",\"key\":\"cGAINVK4eGa6ZJBV\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2026/0/14/972888.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"小技能会对敌方单体造成三段伤害，每次都会为生命百分比最低的友方触发月迷津\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技—水月空盈\",\"bold\":true},{\"type\":\"image\",\"key\":\"xnViALrDh9f1iY6b\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2026/0/14/917525.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"拂秋的终结技会为友方全体附加两回合护盾，为自身附加月迷津，然后为其他友方附加两回合速度上升\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐加点：终结技5级→小技能5级→普攻5级\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"三、矩阵推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"矩阵方面，PVE的8层推荐治愈，在控制多的副本也可以携带戍卫，12层首推浴血之躯，其次可以选择涌泉，6层仅推荐进化荫庇；PVP方面推荐8层携带戍卫防止被控，12层携带有浴血之躯提高生存，6层携带进化荫庇\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"毕业矩阵：\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一号位：戍卫/治愈\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"二号位：浴血之躯/涌泉\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"三号位：进化荫庇\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"四、智壳推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"智壳所有环境最优选择超新星；其次PVP可以携带最强音、胡狼卫士，但胡狼卫士的拉条、加速都不适配月迷津的效果，仅做最下位使用；PVE可以携带最强音，其他不做推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动一号位固定涌流；二号位推荐生息、援护，也可以携带镇静增加效果抵抗；三号位协鸣增加己方输出，也可以选择无畏提高自身生存\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"前期：星＞蝎尾女王\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"中期：暴风雪＞电音鱿鱿\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"后期：超新星＞最强音＞胡狼卫士\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动推荐：涌流、生息/援护/镇静、协鸣/无畏\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"五、源器推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"源器词条方面，PVE选择3生命值%，PVP可以将其中两个替换为效果抵抗防止被控；副词条方面，速度酌情携带不要太高，卡在队伍三手/四手即可，尽可能防止月迷津消耗过快，其次可以更多的去携带效果抵抗与生命\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"主词条：1生命值%+2生命值%或2效果抵抗\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"副词条：速度酌情＞效果抵抗/生命值%＞生命\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"六、角色配队\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"配队方面，拂秋PVP十分适配肉队，算是队伍核心但不刚需的角色，不被禁更好，被禁了也有其他奶妈作为下位；PVE方面多在高难副本就业，为队伍提供生存和跑条能力\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"七、抽取建议\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"拂秋技能效果十分全面且强力，在资源足够或三色自选时十分推荐抽取/选择\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"感谢大家看到最后，有问题可随时在评论区提出，lala看到后会第一时间回应，点赞收藏评论加速更新，祝大家单发抽出心仪异格者，我们下期攻略再见\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"拜拜～\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2026/0/16/919146.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2026/0/16/861322.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2026/0/14/116013.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

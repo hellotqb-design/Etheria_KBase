@@ -1,0 +1,39 @@
+{
+  "id": 675316,
+  "url": "https://www.gamekee.com/yise/675316.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/675316",
+  "title": "炼狱津 新手教学",
+  "category": "04_新手开荒",
+  "type": 4,
+  "tag": "2",
+  "entryId": 0,
+  "gameId": 50364,
+  "createdAt": "2025-08-27T05:11:02.000Z",
+  "updatedAt": "2025-08-27T05:11:02.000Z",
+  "commentCount": 1,
+  "likeCount": 0,
+  "favoriteCount": 0,
+  "viewCount": 539,
+  "summary": "#伊瑟#伊瑟攻略#伊瑟公测定档0925",
+  "textLength": 20,
+  "imageCount": 7,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://www.bilibili.com/video/BV1fovwzyE35/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e45281b27ce8f761c5d7ee047f448227"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList"
+  ],
+  "user": {
+    "uid": 889292,
+    "username": "快男徽章",
+    "description": ""
+  },
+  "crawledAt": "2026-06-15T03:29:06.657Z"
+}

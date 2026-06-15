@@ -1,0 +1,174 @@
+{
+  "id": 693386,
+  "kind": "zhike",
+  "name": "厄鸦",
+  "entryName": "厄鸦",
+  "rarityGroup": "传说",
+  "starRarity": "★★★★",
+  "role": "攻击型",
+  "stats": {
+    "生命": "4011",
+    "攻击": "244",
+    "防御": "351",
+    "速度": "40"
+  },
+  "skills": [
+    {
+      "skillId": "693386-skill-1",
+      "order": 1,
+      "section": "技能",
+      "name": "厄鸦（已觉醒）",
+      "description": "冷却时间：0回合\n本体异格者发动回合外攻击后，追击主目标，造成相当于240%自身防御的伤害。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "金刚"
+      ],
+      "other": [
+        "金刚 4/8/12",
+        "防御力+10%/+25%；获得的护盾量增加20%/+45%；获得的护盾量增加50%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾驰"
+      ],
+      "other": [
+        "疾驰 4/8/12",
+        "速度值+8%/+20%/+35%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "荆棘"
+      ],
+      "other": [
+        "荆棘4/8",
+        "防御力+10%/+10%；异格者受到攻击后，有25%概率用普通攻击反击对方"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "收割"
+      ],
+      "other": [
+        "收割 4/8",
+        "攻击力+10%/+10%；攻击时，若目标的生命值高于50%，额外无视其30%的防御力"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "乘势追击"
+      ],
+      "other": [
+        "乘势追击 6/12",
+        "暴击率+12%/+12%；\n攻击时，目标每有一种减益或控制效果，伤害额外提升6%，最多提升36%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "浴血之躯"
+      ],
+      "other": [
+        "浴血之躯 6/12",
+        "效果抵抗+18%/+18%；+回合内受到累计大于20%最大生命值的伤害时，使超出的\n伤害额外降低60%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "暴烈利刃"
+      ],
+      "other": [
+        "暴烈利刃 6",
+        "暴击率+12%，暴击伤害+20%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "巨壁屏障"
+      ],
+      "other": [
+        "巨壁屏障 6",
+        "防御力+25%，效果抵抗+30%"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★★",
+    "定位": "攻击型",
+    "生命": "4011",
+    "攻击": "244",
+    "防御": "351",
+    "速度": "40"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/664163/2025/8/17/249969.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/115316.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/306212.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/824266.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/972828.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2782/h_2951/50364/842288/2026/1/11/708858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2784/h_3251/50364/842288/2026/1/11/832973.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2896/h_3297/50364/842288/2026/1/11/955923.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3103/h_3029/50364/842288/2026/1/11/658962.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3103/h_3029/50364/842288/2026/1/11/658962.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2026/1/11/798111.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/295654.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_343/h_364/50364/43758/2024/9/25/982532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_418/h_386/50364/43758/2024/9/25/539847.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_441/h_380/50364/43758/2024/9/25/18867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/295654.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/14/356775.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/14/802267.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2026/1/11/153419.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2026/1/11/320782.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2026/1/11/631737.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2026/1/11/798111.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2026/1/11/945314.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/471858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/533928.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/877809.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/43758/2024/9/25/444616.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/304300.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/868491.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/517350.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/532694.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/730155.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/788014.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/833837.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/978071.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 693386,
+    "title": "厄鸦",
+    "url": "https://www.gamekee.com/yise/693386.html",
+    "updatedAt": "2026-02-11T15:29:52.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/693386_厄鸦.md",
+      "metadata": "03_图鉴词条/693386_厄鸦.json",
+      "rawApi": "_raw_api/details/693386.json"
+    }
+  }
+}

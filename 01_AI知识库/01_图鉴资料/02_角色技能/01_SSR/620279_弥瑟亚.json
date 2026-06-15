@@ -1,0 +1,275 @@
+{
+  "id": 620279,
+  "kind": "character_skill_bundle",
+  "name": "弥瑟亚",
+  "entryName": "弥瑟亚",
+  "rarity": "SSR",
+  "element": "恒定",
+  "faction": "美梦俱乐部",
+  "title": "审判之剑",
+  "gender": "男",
+  "profession": "未公开",
+  "identityCode": "S09-080271",
+  "chipStatus": "故障",
+  "assessment": "异格者弥瑟亚，身份编码S09-080271，Re-A芯片状态敌障，无法检测到任何有用信息。\n曾经屋都最大的地下势力一一极夜之都背后的掌权人之一。但在属都停机事件后，极夜之都受到混乱冲击，并达首领蒂芙尼的失踪而分裂。现在的弥瑟业混迹于美梦俱乐部，是美梦俱乐部的首领，他似乎正在整合曾经的旧部推测是想重建极夜之都。\n弥瑟亚性格直爽霸气又极为护短，是很好的伙伴人选，只要不触碰他的律条，就不会看到恐怖的事！",
+  "stats": {
+    "生命": "10724+3322",
+    "攻击": "1302+551",
+    "防御": "681+218",
+    "速度": "117+15",
+    "暴击率": "10%+8%",
+    "暴击伤害": "150%+32%",
+    "效果命中": "0%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "620279-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "反逆十字 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/e941aa40-d58e-48c9-a5d0-fd850f5ad6ca.png",
+      "description": "冷却时间：0\n对敌方单体造成2段130%伤害，有25%概率附加2回合的【易伤】\n审判：弥瑟亚击败敌方目标后，为自身附加1回合【无敌】。若自身已被附加【无敌】，则延长1回合持续时间，每回合仅能触发1次。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至120%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【易伤】概率增加至25%\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至130%\n等级5：\n潜能提升：攻击力+10%\n技能提升：【易伤】持续时间增加至2回合"
+    },
+    {
+      "skillId": "620279-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "二重审判 等级 5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/65d9ed0a-d912-456b-9aad-1768827b6246.png",
+      "description": "冷却时间：3\n对敌方单体造成3段100%伤害，最后一击额外附加等同于目标已损失生命100%的伤害（附加伤害最高不超过自身350%攻击）。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至90%\n等级3\n潜能提升：防御力+70\n技能提升：目标已损失生命值的计算系数增加至100%\n等级4：\n潜能提升：暴击伤害+8%\n技能提升：伤害系数增加至100%\n等级5：\n潜能提升：暴击伤害+12%\n技能提升：额外附加的伤害上限增加至350%"
+    },
+    {
+      "skillId": "620279-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "降神 等级 5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/1604c4da-0dac-40ab-9b8e-ad87fdeee008.png",
+      "description": "冷却时间：3\n对敌方全体造成2段180%伤害，此次伤害无视目标70%的防御和被动，并为自身附加1回合【无敌】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至170%\n等级3\n潜能提升：生命值+1000\n技能提升：攻击时额外无视目标被动效果\n等级4：\n潜能提升：速度值+5\n技能提升：伤害系数增加至180%\n等级5：\n潜能提升：速度值+10\n技能提升：无视防御力效果增加至70%"
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "待补充...",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n输出\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 555|\n| 源器配置 | 右三主属性暴击，爆伤，爆伤/攻击加成 |\n└─────────┴────────────┘\n【对局表现】\npve表现被夜离力压一头，pvp打肉队是一个不错的选择",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12洞悉穿刺+8狂怒+爆裂利刃"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "白撩武者"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12洞悉穿刺+8狂怒+爆裂利刃",
+        "推荐智壳": "白撩武者",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_277/50364/842288/2025/7/18/677357.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击伤害提升"
+      ],
+      "other": [
+        "暴击伤害+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【在成为极夜之都前，它的名字曾是「家」。】\nE-023的夜晚灯火通明，一盏盏灯好似银河中的星星，起组成了一望无垠的绚烂银河。\n在一栋几百米高的标志建筑屋顶，三个小身影坐在屋檐边，满脸愁容。\n「要不…」\n「不！」\n小蒂法丝弱弱的开口刚想说点什么就被打断，他气鼓鼓的瞪着小弥瑟亚一脸不服。\n「取名废不配取名。」小弥瑟亚一脸不屑的说道。\n「哼！文化课我可是班上前三名，而你是倒数！」\n「行了行了，你们俩别吵了，好好想名字。」小蒂芙尼两只手分别压着一个少年，用力揉乱了他们的头发。\n「哼，叫伊瑟第一帮派不是挺好的。」小弥瑟亚手托着下巴看着底下的灯火，毫不遮掩的在两人面前展示着自己的野心。\n「还说我呢，就你这名字！是嫌学校注意不到我们吗！」小蒂法丝叉着腰站了起来，「更何况你不要忘了我们的初衷，我们就只是……想要个家而已。」\n三人都沉默了下来。\n伊瑟很大，大到连蜃都这样的大城市都只是伊瑟的一个小方块。但是这么大的伊瑟，却没有他们三人认可的容身之所。\n学校很好，但不是他们要的家，他们见过人类的家，很温馨很快乐，他们也想要…·只是，现在不止他们三人，还有许多和他们志同道合的异格者，一起寻找家的异格者。\n「那就叫伊瑟第一大家庭。」\n「难听！还说我取名废！」\n眼看着两人要打起来，蒂芙尼头疼的揪着两人的后脖领，「别吵了，我想好了。」\n「叫什么？」小弥瑟亚和小蒂法丝闻言同时转头看向蒂芙尼。\n「极夜之家。」\n小蒂芙尼看着E-023的夜晚，看着那条银河，笑着开口：「就叫极夜之家！要让那些和我们一样的异格者，不论何时，即便是夜晚也能找到我们，我们不仅是他们的庇护，也是他们的家人！」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【不论离家多远，「家」的灯火总是温暖地亮着，等待每个回家的人。】\n「叮~叮叮——咔——」巨型结构建筑中，A-01楼，数万个牢房门应声打开。\n弥瑟亚左右活动了脖颈，踏出门口时和不远处的白发少年对了一下眼神，顺着人流来到了放风场。\n「哈罗哈罗，这里这里。」刚才对视的白发少女，也就是蒂法丝蹦跳着吸引弥瑟亚的注意力。\n「都安排好了？」\n「当然，「针」已经好好的插，进，去了。」\n蒂法丝单手叉腰，笑着歪了歪头。\n弥瑟亚顺着蒂法丝歪头的方向看到不远处那几个略显呆板的狱卒，淡淡说道。\n「该拿的情报都拿到了，就今天吧，别让你姐久等了。」\n「终于要走了吗？」蒂法丝伸了伸懒腰，「不过今天看管的狱卒格外少，从感应来看，都朝着另一个地方汇聚。」\n「哼，管他们到底有什么阴谋，如果妨碍到我们全部打倒就好。」\n蒂法丝闻言，无所谓的耸了耸肩。\n「嘟————」突然，警报声响彻全场，两人了然的对视一眼。意外真的发生了，不过对于他们来说，这可是一个「好消息」。\n弥瑟亚冲着少女扬了扬头，「走吧，该回家了。」\n「恩，回家！」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【但是，曾经的「家」已经远去，成为了一个破碎的梦。】\n人，到处都是乱糟糟的人……\n惊恐的人群不断往外逃离，熔断蔓延至大楼，空间开始分崩离析……\n在建筑的二层，弥瑟亚打倒了一队又一队前来抓捕他们的人，即便是强悍如他，都逐渐有些疲惫。他已经分不清楚对面的敌人究竟是E.O.S.还是那群操控着熔断生物的神秘人，但已经无所谓了，他的剑会指向每一个不是极夜之都成员的人。\n也包括那几个「叛徒」。\n挥了挥巨剑，弥瑟亚看到了建筑外的情况，也看到了外面已经被毁了一半的极夜之都招牌，他沉着脸继续向上行进。\nE.O.S的突然发难已经出乎了弥瑟亚和蒂芙尼的意料，而另一个势力的插手，却是让他们直接演变成了武装冲突。\n现在没时间去调查那第三方势力到底有什么目的，弥瑟亚只想带着蒂芙尼和蒂法丝离开这里，只要家人好好的，他们随时都可以重建极夜之都。\n战斗，从白天打倒了黑夜，曾经让弥瑟亚他们都自豪的灯火辉煌的夜，在今晚，却是一片黑暗……\n而他们的灯，再也不会亮起了。\n蒂芙尼在动乱中音讯全无，没人知道她究竟去向何方、是不是还活在伊瑟的某个地方。\n三盏相互依偎的灯，徒留另外两盏茫然失措，也不再温暖……\n「律条」诞生了，弥瑟亚不想再去维系和任何人的关系，只遵守「律条」的筛选，不论是对别人还是对自己。\n他将全部精力放在了提升实力上，只要够强，比任何人都强，就一定能够保护自己在意的一切。",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/e6ea0937-6b7c-4ef3-b6e6-83c070cb2c1c.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/e6ea0937-6b7c-4ef3-b6e6-83c070cb2c1c.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/020d1cce-df2f-4852-a704-b8e086255556.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/020d1cce-df2f-4852-a704-b8e086255556.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/e6ea0937-6b7c-4ef3-b6e6-83c070cb2c1c.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/e6ea0937-6b7c-4ef3-b6e6-83c070cb2c1c.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/020d1cce-df2f-4852-a704-b8e086255556.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/4d293e2e-0c81-4e7f-8cd9-719f2cf804ea.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/020d1cce-df2f-4852-a704-b8e086255556.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/4d293e2e-0c81-4e7f-8cd9-719f2cf804ea.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/e941aa40-d58e-48c9-a5d0-fd850f5ad6ca.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/65d9ed0a-d912-456b-9aad-1768827b6246.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/1604c4da-0dac-40ab-9b8e-ad87fdeee008.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_277/50364/842288/2025/7/18/677357.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/520497.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/389425.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/960068.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 620279,
+    "title": "弥瑟亚",
+    "url": "https://www.gamekee.com/yise/620279.html",
+    "updatedAt": "2025-08-18T08:44:07.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620279_弥瑟亚.md",
+      "metadata": "03_图鉴词条/620279_弥瑟亚.json",
+      "rawApi": "_raw_api/details/620279.json"
+    }
+  }
+}

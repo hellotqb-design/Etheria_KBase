@@ -1,0 +1,111 @@
+{
+  "id": 620750,
+  "kind": "zhike",
+  "name": "黑旗",
+  "entryName": "黑旗",
+  "rarityGroup": "卓越",
+  "starRarity": "★★★★",
+  "role": "辅助型",
+  "description": "从待开发的深海测试区发现的源生智壳，研究人员只能在风暴中看见它若隐若现的身影。",
+  "stats": {
+    "生命": "3399",
+    "攻击": "193",
+    "防御": "222",
+    "速度": "30"
+  },
+  "skills": [
+    {
+      "skillId": "620750-skill-1",
+      "order": 1,
+      "section": "宠物技能",
+      "name": "黑旗（已觉醒）",
+      "description": "冷却时间：3回合\n加速 拉条\n本体行动后，追击主目标造成140%伤害，为本体异格者附加2回合【速度上升】，并提升16%行动进度。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "涌泉"
+      ],
+      "other": [
+        "涌泉 4/8/12",
+        "生命值+10%/+25%/45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "金刚"
+      ],
+      "other": [
+        "金刚 4/8/12",
+        "防御力+10%/+25%/45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾驰"
+      ],
+      "other": [
+        "疾驰 4/8/12",
+        "速度值+8%/+20%/+35%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "荆棘"
+      ],
+      "other": [
+        "荆棘 4/8",
+        "防御力+10%/+10%；异格者受到攻击后，有25%的概率用普通攻击\n反击对方"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★★",
+    "定位": "辅助型",
+    "生命": "3399",
+    "攻击": "193",
+    "防御": "222",
+    "速度": "30"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/21420.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/417283.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/761436.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_333/h_380/50364/43758/2024/9/25/320867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_341/h_316/50364/43758/2024/9/25/584378.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_359/h_374/50364/43758/2024/3/24/493364.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_370/h_355/50364/43758/2024/9/25/624355.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_410/h_397/50364/43758/2024/3/24/114912.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_410/h_397/50364/43758/2024/3/24/114912.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/21420.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/761436.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_430/h_380/50364/43758/2024/9/25/746771.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_458/h_469/50364/43758/2024/3/24/238739.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/969163.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620750,
+    "title": "黑旗",
+    "url": "https://www.gamekee.com/yise/620750.html",
+    "updatedAt": "2025-05-12T12:35:38.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620750_黑旗.md",
+      "metadata": "03_图鉴词条/620750_黑旗.json",
+      "rawApi": "_raw_api/details/620750.json"
+    }
+  }
+}

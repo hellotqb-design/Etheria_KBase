@@ -1,0 +1,377 @@
+{
+  "id": 620266,
+  "kind": "character",
+  "name": "夏妲",
+  "entryName": "夏妲",
+  "rarity": "SSR",
+  "element": "异",
+  "faction": "DOKI娱乐",
+  "title": "幻惑魔女",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "S07-061262",
+  "chipStatus": "正常",
+  "assessment": "异格者夏妲，身份编码S07-061262，Re-A芯片状态稳定，未见异常波动。\nDOK娱乐首屈一指的女明星，聚光灯下闪耀的都会女皇，八面玲珑的上流社会代言人……在蜃都，无人不知夏妲的名号。\n她游走于蜃都绚烂的霓虹灯下和繁华的名利场中，带来的不仅是华丽的舞蹈，也有真真假假的流言。想要从她的话中看破真相，绝不是一件容易的事。",
+  "stats": {
+    "生命": "11798+3430",
+    "攻击": "1026+482",
+    "防御": "612+211",
+    "速度": "115+15",
+    "暴击率": "10%+18%",
+    "暴击伤害": "150%+12%",
+    "效果命中": "0%+12%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "620266-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "驰魂 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/dbc8e478-2c34-437d-b20a-ce4df441d4e1.png",
+      "description": "冷却时间：0\n夏妲投射出心火的飞矢；对敌方单体造成3段90%伤害，每次有20%概率偷取目标1个增益效果；自身心火完全进化后，偷取概率提升至80%。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至80%\n等级3\n潜能提升：攻击力+100\n技能提升：基础偷取增益效果概率增加至20%\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至90%\n等级5：\n潜能提升：攻击力+10%\n技能提升：进化3次后偷取增益效果概率增加至80%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620266-skill-2",
+      "order": 2,
+      "section": "被动",
+      "name": "心魄 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/c403b133-78ed-441a-b7a6-453605d1032d.png",
+      "description": "冷却时间：0\n夏妲每累计获得3次增益效果，周身心火就会进化1次，每次提升自身18%攻击和10%暴击伤害，最多进化3次。\n心火：每次进化提升18%攻击和10%暴击伤害，最多进化3次，不可被驱散。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：暴击率+3%\n等级3\n潜能提升：防御力+70\n技能提升：每次进化提升的攻击力增加至18%\n等级4：\n潜能提升：暴击率+4%\n技能提升：暴击率+3%\n等级5：\n潜能提升：暴击率+8%\n技能提升：每次进化额外提升10%的暴击伤害",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620266-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "心旌摇曳 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/55a493c5-bfaf-4aad-8c66-d9c216f3807d.png",
+      "description": "冷却时间：4\n夏妲释放所有心火，燃起青焰；对敌方全体造成220%伤害，有60%概率附加2回合【防御下降】；自身心火每进化一次，该技能当前冷却与最大冷却减少1回合，并额外造成1段90%伤害。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：附加【防御下降】概率增加至50%\n等级3\n潜能提升：生命值+1000\n技能提升：每次进化额外造成的伤害系数增加至75%\n等级4：\n潜能提升：速度值+5\n技能提升：附加【防御下降】概率增加至60%\n等级5：\n潜能提升：速度值+10\n技能提升：每次进化额外造成的伤害系数增加至90%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n输出\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 155|\n| 源器配置 | 右三主属性暴击，爆伤，攻击加成 |\n└─────────┴────────────┘\n【对局表现】\n多琪，奥洛拉副本中有着亮眼的表现，长线输出表现优异，配合启示录可以实现超高的输出",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12攻势+8狂怒+6爆裂利刃"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "启示录"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12攻势+8狂怒+6爆裂利刃",
+        "推荐智壳": "启示录",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/842288/2025/7/18/593567.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击伤害提升"
+      ],
+      "other": [
+        "暴击伤害+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【我出生在霓虹灯闪耀如昼的大都市里。】\n「真是个废物，竟然什么原质能力都用不出来。」\n实验员皱着眉头，眼中是毫不隐藏的嫌恶。\n角落里，小小的身影贴着光秃秃的水泥墙，猛地打了个冷颤，又将身体瑟缩得更小。她瘦得皮包骨，脊背、肩头和手腕的关节贴着皮肤，清晰分明。\n「对不起……」\n异格者女孩的声音细若蚊呐，耳朵和尾巴上脏污的绒毛跟着身体一起颤抖，好像风中一团即将被吹散的茅草。\n「废物，好好在这里盯着，要是放一只蚊子出去，有你好看的！」\n「是……我、我知道了……」\n当橡胶鞋踏出的沉重脚步声逐渐远去的时候，她慢慢靠着冰冷的墙角坐下，终于长舒一口气。\n「总算，又熬过了一天……」\n她庆幸着抬起头，透过狭窄的同起床和铁栅栏狭窄的缝隙，她的眼中映出星空的模样。\n她当然不是什么废物，也早早地就学会了使用自己的原质能力。只是，现在还不是使用原质能力的时候，她必须得继续等待，等待一个合适的时机，抓住她期盼的自由。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【我成长在闪光灯永不停歇的名利场中。】\n「欢迎我们的新星—一夏妲！她将为大家带来一场绝妙的舞蹈表演！」\n伴随着主持人的呼声和震耳欲聋的音乐，她踏着轻盈的舞步跃入舞台。轻盈的裙摆和指尖的折扇翩飞若蝶，她的一举一动、一颦一笑，都牵动着看客们的心神。下方的舞池里，欢呼声如同涌动的波涛，一阵阵拍打在舞台上。\n自那阴暗的实验室逃出来后，她便给自己起了一个全新的名字，凭借着天赋和原质能力，她在蜃都寻得了一份舞者的工作。\n夏妲的舞蹈是自创的，她没钱去专业的培训班里学习，只能看着天空的飞鸟，看着被风吹拂的花草，看着远处灯牌上的广告，凭借天赋想象舞蹈的样子，并最终跳出来。有时候跳着跳着，夏妲就会忘记已经完成的编舞，只凭自己的喜好舞动肢体。而在看过她的舞后，人们都说，夏妲太美了，她的舞蹈像醇厚的佳酿，她的笑容像香甜的蜜糖···没有人不会被这舞蹈吸引、为之沉醉。\n然而，夏妲能够清晰地感受到，在自己微笑的面具背后，有一个冰冷的自己。这个夏妲牵动着神经、肌腱和骨骼，让她露出柔美的微笑，但内心里却没有半点笑意。她对掌声与欢呼感到恶心，她对不得不靠取悦他人才能活下去的自己更加恶心，但命运却跟她开了一个巨大玩笑，她的能力无不与取悦他人有关，而那些被取悦者，也从来没能看出这层被夏妲营造出来的美妙幻象。\n她早就厌倦了这种活在谎言里的生活。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【在意的人？嗯~我身边没有那种东西。】\n「这次工作比较特别，流程像平常那样就行。但是记住，千万别出错，也别说不该说的话，不然没你好日子过。」\n上台前，老板拧着夏妲的袖子，一字一顿地警告她，而夏妲点点头，柔和地微笑着。\n「无非是一些大老板来寻欢作乐，又不想被人知道罢了，之前也有过好几次。」\n她这么想着，像往常一样踏着舞步，跃入舞台。然而，令她感到意外的是，今天的舞台下一片寂静，吧台和卡座空无一人，偌大的舞池里，只有一个穿着低调的黑色长裙、稍显年长的女士坐在椅子上，身旁站着两个穿着黑衣的保镖。\n夏妲并不清楚这位女士的身份，但仍像平时那样，跟随音乐跳着她最熟悉的舞蹈。她能感受到，随着她的舞蹈，两个保镖的注意力被一点点吸引，甚至忘了自己的工作，全神贯注地看着她跳舞。但她随后又发现了异常—一那名女士只是静静地看着她，既没有沉迷也没有出神，而是在观察，或者说，在欣赏。\n夏妲惊讶于世界上竟然有能不被她吸引的人，起初她以为那位女士只是比别人的意志力坚定一些，没什么大不了的。但随着她更加卖力地舞蹈、甚至不惜使用原质能力，那位女士依旧岿，然，不，动一一哪怕她身边那两个训练有素的保安已经忍不住随着音乐和舞蹈轻轻哼起歌。这让夏妲无比好奇，她想知道，究竟怎样才能让这位女士也沉迷于自己。\n但直到一曲舞毕，随着谢幕的鞠躬，夏妲听见那位女士缓缓鼓掌。\n她抬起头，看着椅子上的女士，像往常一样微笑着说：「希望您喜欢这段舞。」\n那位女士回答道：「真是不错舞蹈，曲调欢快，动作又美丽，只是……作为舞者的你，看起来，并不喜欢这种取悦他人的舞蹈。」\n在夏妲震惊的目光里，那位女士站起身，缓缓走到舞台前，向夏妲伸出手：「我的名字是娜菲忒，你，有兴趣与我合作吗？」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/142521.png",
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/bf5aa80b-7b79-4eca-a8e8-e3c32775cec0.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/142521.png\n//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/bf5aa80b-7b79-4eca-a8e8-e3c32775cec0.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/272150.png",
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/2b28e0d9-d399-474c-a58d-e30aa0e33286.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/272150.png\n//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/2b28e0d9-d399-474c-a58d-e30aa0e33286.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/bf5aa80b-7b79-4eca-a8e8-e3c32775cec0.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/2b28e0d9-d399-474c-a58d-e30aa0e33286.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/60903d6c-360a-4080-9342-57dcb7d713c3.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/dbc8e478-2c34-437d-b20a-ce4df441d4e1.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/c403b133-78ed-441a-b7a6-453605d1032d.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/55a493c5-bfaf-4aad-8c66-d9c216f3807d.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/272150.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/142521.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/842288/2025/7/18/593567.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/95636.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/389425.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 620266,
+    "title": "夏妲",
+    "url": "https://www.gamekee.com/yise/620266.html",
+    "updatedAt": "2025-08-18T08:43:00.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620266_夏妲.md",
+      "metadata": "03_图鉴词条/620266_夏妲.json",
+      "rawApi": "_raw_api/details/620266.json"
+    }
+  }
+}

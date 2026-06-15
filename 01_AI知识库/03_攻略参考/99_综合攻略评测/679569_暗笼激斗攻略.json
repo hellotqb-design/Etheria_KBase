@@ -1,0 +1,43 @@
+{
+  "id": 679569,
+  "kind": "guide",
+  "title": "暗笼激斗攻略",
+  "domainPath": [
+    "03_攻略参考",
+    "99_综合攻略评测"
+  ],
+  "classifyReason": "攻略评测分类兜底",
+  "originalCategory": "07_攻略评测",
+  "text": "暗笼激斗攻略",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1052/h_589/50364/267618/2025/8/26/667523.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/267618/2025/8/26/167948.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/8/26/332377.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/8/26/649237.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/8/27/649367.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/9/11/754213.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_2088/50364/267618/2025/9/14/44778.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/9/14/911058.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/9/14/911058.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_2088/50364/267618/2025/9/14/44778.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/9/14/920854.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/9/14/920854.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/8/26/406233.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/8/26/569524.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2656/h_1444/50364/267618/2025/8/26/876110.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 679569,
+    "title": "暗笼激斗攻略",
+    "url": "https://www.gamekee.com/yise/679569.html",
+    "updatedAt": "2025-10-13T15:38:32.000Z",
+    "sourceFiles": {
+      "markdown": "07_攻略评测/679569_暗笼激斗攻略.md",
+      "metadata": "07_攻略评测/679569_暗笼激斗攻略.json",
+      "rawApi": "_raw_api/details/679569.json"
+    }
+  }
+}

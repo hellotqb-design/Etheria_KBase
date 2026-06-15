@@ -1,0 +1,176 @@
+{
+  "id": 619854,
+  "kind": "zhike",
+  "name": "万魔法典",
+  "entryName": "万魔法典",
+  "rarityGroup": "传说",
+  "starRarity": "★★★★",
+  "role": "辅助型",
+  "description": "从人类的求知欲中诞生的智壳，似乎通晓一切，传闻它一直向往着那个神秘的「大书库」。",
+  "stats": {
+    "生命": "4452",
+    "攻击": "269",
+    "防御": "290",
+    "速度": "40"
+  },
+  "skills": [
+    {
+      "skillId": "619854-skill-1",
+      "order": 1,
+      "section": "宠物技能",
+      "name": "万魔法典（已觉醒）",
+      "description": "冷却时间：8回合\n减冷却\n本体行动前激发本体的所有潜能，使本体异格者释放的下个技能不产生冷却时间，并在2回合内额外提升其10%速度。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾驰"
+      ],
+      "other": [
+        "疾驰 4/8/12",
+        "速度值+8%/+20%/+35%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "奋进"
+      ],
+      "other": [
+        "奋进 4/8",
+        "防御力+10%/+10%；受到攻击后，增加10%的行动进度"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "狂怒"
+      ],
+      "other": [
+        "狂怒 4/8",
+        "攻击力+10%/+10%；异格者暴击时，该段伤害结果额外提升12%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "戍卫"
+      ],
+      "other": [
+        "戍卫 4/8",
+        "生命值+10%/+10%；每波战斗开始时，获得1回合免疫效果"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "乘势追击"
+      ],
+      "other": [
+        "乘势追击 6/12",
+        "暴击率+12%/+12%；\n攻击时，目标每有一种减益或控制效果，伤害额外提升6%，最多提升36%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "浴血之躯"
+      ],
+      "other": [
+        "浴血之躯 6/12",
+        "效果抵抗+18%/+18%；\n回合内受到累计大于20%最大生命值的伤害时，使超出的伤害额外降低55%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾影强袭"
+      ],
+      "other": [
+        "疾影强袭 6",
+        "速度值+15%，攻击力+20%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "迅光天击"
+      ],
+      "other": [
+        "迅光天击 6",
+        "速度值+15%，效果命中+20%"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★★",
+    "定位": "辅助型",
+    "生命": "4452",
+    "攻击": "269",
+    "防御": "290",
+    "速度": "40"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/664163/2025/8/17/249969.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/115316.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/306212.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/824266.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/972828.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/15755.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/428801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/580362.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/691890.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2782/h_2951/50364/842288/2026/1/11/708858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2784/h_3251/50364/842288/2026/1/11/832973.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2896/h_3297/50364/842288/2026/1/11/955923.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3103/h_3029/50364/842288/2026/1/11/936965.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_343/h_364/50364/43758/2024/9/25/341313.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_343/h_364/50364/43758/2024/9/25/341313.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/295654.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/691890.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_418/h_386/50364/43758/2024/9/25/539847.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_441/h_380/50364/43758/2024/9/25/18867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/295654.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/988191.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/7/19/722487.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/7/19/802022.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/471858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/533928.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/877809.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/43758/2024/9/25/444616.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/304300.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/868491.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/517350.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/532694.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/730155.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/788014.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/833837.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/978071.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 619854,
+    "title": "万魔法典",
+    "url": "https://www.gamekee.com/yise/619854.html",
+    "updatedAt": "2025-08-19T04:09:58.000Z",
+    "sourceFiles": {
+      "markdown": "06_装备智壳/619854_万魔法典.md",
+      "metadata": "06_装备智壳/619854_万魔法典.json",
+      "rawApi": "_raw_api/details/619854.json"
+    }
+  }
+}

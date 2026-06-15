@@ -1,0 +1,174 @@
+{
+  "id": 677063,
+  "kind": "zhike",
+  "name": "寅虎",
+  "entryName": "寅虎",
+  "rarityGroup": "传说",
+  "starRarity": "★★★★",
+  "role": "攻击型",
+  "stats": {
+    "生命": "2750",
+    "攻击": "676",
+    "防御": "164",
+    "速度": "40"
+  },
+  "skills": [
+    {
+      "skillId": "677063-skill-1",
+      "order": 1,
+      "section": "技能",
+      "name": "寅虎（已觉醒）",
+      "description": "冷却时间：3回合\n增伤\n本体行动前，选择生命百分比最低的敌方(优先选择BOSS)，对其造成180%伤害，并使其在本回合接下来受到第1次伤害额外提升50%。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "攻势"
+      ],
+      "other": [
+        "攻势 4/8/12",
+        "攻击力+10%/+25%/+45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "浴血之躯"
+      ],
+      "other": [
+        "浴血之躯 6/12",
+        "效果抵抗+18%/+18%；回合内受到累计大于20%最大生命值的伤害时使超出的伤害额外降低55%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "收割"
+      ],
+      "other": [
+        "收割4/8",
+        "攻击力+10%/+10%；攻击时,若目标的生命值高于50%,额外无视其30%的防御力"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "狂怒"
+      ],
+      "other": [
+        "狂怒 4/8",
+        "攻击力+10%/+10%；异格者暴击时,该段伤害结果额外提升12%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "戍卫"
+      ],
+      "other": [
+        "戍卫 4/8",
+        "生命值+10%/+10%；每波战斗开始时,获得1回合免疫效果"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "洞悉穿刺"
+      ],
+      "other": [
+        "洞悉穿刺 6/12",
+        "暴击伤害+18%/+18%；回合内异格者造成的前三次伤害分别额外提升25%、15%和5%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "暴裂利刃"
+      ],
+      "other": [
+        "暴裂利刃 6",
+        "暴击率+12%，暴击伤害+20%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾影强袭"
+      ],
+      "other": [
+        "疾影强袭6",
+        "速度值+15%，攻击力+20%"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★★",
+    "定位": "攻击型",
+    "生命": "2750",
+    "攻击": "676",
+    "防御": "164",
+    "速度": "40"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/664163/2025/8/17/249969.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/115316.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/306212.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/824266.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_280/50364/842288/2025/8/12/469435.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_280/50364/842288/2025/8/12/469435.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/8/12/489716.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/8/12/201098.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2782/h_2951/50364/842288/2026/1/11/708858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2784/h_3251/50364/842288/2026/1/11/832973.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2896/h_3297/50364/842288/2026/1/11/955923.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3103/h_3029/50364/842288/2026/1/11/936965.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_343/h_364/50364/43758/2024/9/25/982532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_418/h_386/50364/43758/2024/9/25/539847.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_441/h_380/50364/43758/2024/9/25/18867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/8/12/201098.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/8/12/207779.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/8/12/346920.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/8/12/489716.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/8/12/503632.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/8/12/514389.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/8/12/551444.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/842288/2025/8/12/684108.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/471858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/533928.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/877809.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/43758/2024/9/25/444616.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/304300.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/868491.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/517350.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/532694.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/730155.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/788014.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/833837.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/978071.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 677063,
+    "title": "寅虎",
+    "url": "https://www.gamekee.com/yise/677063.html",
+    "updatedAt": "2025-09-12T06:18:54.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/677063_寅虎.md",
+      "metadata": "03_图鉴词条/677063_寅虎.json",
+      "rawApi": "_raw_api/details/677063.json"
+    }
+  }
+}

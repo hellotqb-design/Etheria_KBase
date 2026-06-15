@@ -1,0 +1,101 @@
+{
+  "id": 620764,
+  "kind": "zhike",
+  "name": "玉藻童子",
+  "entryName": "玉藻童子",
+  "rarityGroup": "特异",
+  "starRarity": "★★★",
+  "role": "攻击型",
+  "description": "Doki娱乐的人气主播，事实证明萌宠自己学会直播的话，就没有主人什么事了。",
+  "stats": {
+    "生命": "1404",
+    "攻击": "295",
+    "防御": "95",
+    "速度": "20"
+  },
+  "skills": [
+    {
+      "skillId": "620764-skill-1",
+      "order": 1,
+      "section": "宠物技能",
+      "name": "玉藻童子（已觉醒）",
+      "description": "冷却时间：4回合\n加攻\n本体行动前，使其在2回合内攻击力提升600，并额外提升10%暴击率。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "攻势"
+      ],
+      "other": [
+        "攻势 4/8/12",
+        "攻击力+10%/+25%/+45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "治愈"
+      ],
+      "other": [
+        "治愈 4/8",
+        "生命值+10%/+10%；治疗效果提升20%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "收割"
+      ],
+      "other": [
+        "收割 4/8",
+        "攻击力+10%/10%；\n攻击时，若目标的生命值高于50%，额外无视其30%的防御力"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★",
+    "定位": "攻击型",
+    "生命": "1404",
+    "攻击": "295",
+    "防御": "95",
+    "速度": "20"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/22746.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/284176.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_293/h_316/50364/43758/2024/3/24/812671.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_317/h_306/50364/43758/2024/3/24/299532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_356/50364/43758/2024/3/24/975499.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_334/h_329/50364/43758/2024/3/24/729628.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_334/h_329/50364/43758/2024/3/24/729628.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/175683.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/284176.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_355/h_350/50364/43758/2024/9/25/280346.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_384/h_432/50364/43758/2024/3/24/394522.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_403/h_371/50364/43758/2024/3/24/460555.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_441/h_396/50364/43758/2024/9/25/586598.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_452/h_377/50364/43758/2024/3/24/398277.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/175683.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620764,
+    "title": "玉藻童子",
+    "url": "https://www.gamekee.com/yise/620764.html",
+    "updatedAt": "2025-05-12T13:22:33.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620764_玉藻童子.md",
+      "metadata": "03_图鉴词条/620764_玉藻童子.json",
+      "rawApi": "_raw_api/details/620764.json"
+    }
+  }
+}

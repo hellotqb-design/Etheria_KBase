@@ -1,0 +1,220 @@
+{
+  "id": 677616,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 878729,
+  "type": 4,
+  "title": "绯月鞠养成攻略",
+  "tag": "",
+  "created_at": 1758198153,
+  "updated_at": 1758198153,
+  "updated_uid": 0,
+  "comment_at": 1758198153,
+  "last_at": 1758198153,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "哈喽大家我是lala，今天我们一起来看看玩球少女，绯月鞠！一图流：——————一、角色概论先说结论，绯月鞠在PVE中的发挥空间较少，仅可在多琪副本中充当下位控制使用，偶尔也能在敌方治疗较多的副本上场。PVP中是面对肉队的极佳对策卡，光环常驻的加攻减疗可以很好限制肉队发挥二、技能详情普攻—鞠返绯月鞠对",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/8/18/796900.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/8/18/343639.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/18/301892.png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 811,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 895119,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1758198402,
+  "server_id": 0,
+  "image_num": 5,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 677616,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ptGCMWAcBGYTnCNu\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/8/18/796900.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"5000px\",\"height\":\"2822px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"哈喽大家我是lala，今天我们一起来看看玩球少女，绯月鞠！\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一图流：\"},{\"type\":\"image\",\"key\":\"GO0CaBQIB7BCiVZ1\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/8/18/343639.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3000px\",\"height\":\"8482px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"——————\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"一、角色概论\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"先说结论，绯月鞠在PVE中的发挥空间较少，仅可在多琪副本中充当下位控制使用，偶尔也能在敌方治疗较多的副本上场。PVP中是面对肉队的极佳对策卡，光环常驻的加攻减疗可以很好限制肉队发挥\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"二、技能详情\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"普攻—鞠返\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"绯月鞠对敌方单体造成两段伤害，最后一击有概率推条目标\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"2mNIDJbettB6tIrK\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/18/301892.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动—鞠彩\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"绯月鞠的被动可以提供光环效果：全场攻击增加，治疗效果降低30%，但友方不可再被附加攻击上升。需要注意的是，全场加攻效果在pve中不会触发。此技能推荐优先升满\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"IFRfuqiWhfjtDNUg\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/18/254288.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技—爆裂手鞠\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"对敌方全体造成两段伤害，首次攻击会附加抵抗下降，最后一击60%概率附加一回合石化。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被石化的目标无法行动，回合结束时无法减少技能冷却\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技是绯月鞠的主要控制技能，推荐升到三级，稳定附加石化\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"LSU2TOEtc8RLG2eJ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/18/681164.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3840px\",\"height\":\"2160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐加点：被动5级→终结技3级，其他酌情加点\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"三、矩阵推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"绯月鞠需要先手行动打出控制，因此推荐一号位携带疾驰，保证速度。由于终结技附加石化概率较低，二号位在PVE环境仅推荐时光驾驭6，补充效果命中，避免没有控住的情况发生，PVP中可以携带奋进来多次出手，也可以携带荆棘反击推条。3号位优先选择迅光天击，同时满足对速度和效果命中的需求，其次可以选择疾影强袭，提升速度\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"毕业矩阵：\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一号位：疾驰\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"二号位：时光驾驭6/奋进8/荆棘8\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"三号位：迅光天击/疾影强袭\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"四、智壳推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"智壳方面，首选推荐万魔法典，刷新终结技CD，多次打出控制。其次选择墨月或胡狼卫士，墨月可以增加效果命中与负面效果持续时间，胡狼卫士可以提升行动频率。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"前期：不羁科学/星\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"中期：暴雪/山海经\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"后期：万魔法典＞墨月/胡狼卫士\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动推荐：涌泉、迅影、凝视\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"五、源器推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"词条方面，主词条推荐携带3效果命中，尽可能的保证控制的稳定性。副词条优先速度，保证出手频率，其次是效果命中与生命值百分比，其他词条均不推荐。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"主词条：效果命中*3\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"副词条：速度＞效果命中＞生命值百分比\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"六、角色配队\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"无论是PVE还是PVP，绯月鞠更多还是作为对策卡出场，并无适合的配队\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"七、抽取建议\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"绯月鞠属于PVE不强但PVP总要有一只的对策型异格者，不过PVP是很后期的事情了，不推荐大家刻意抽取，在抽SSR的同时等歪即可\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"——————\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"感谢大家看到最后，有问题可随时在评论区提出，lala看到后会第一时间回应，点赞收藏评论加速更新，祝大家公测单发抽出心仪异格者，我们下期攻略再见\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/8/18/796900.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/8/18/343639.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/18/301892.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

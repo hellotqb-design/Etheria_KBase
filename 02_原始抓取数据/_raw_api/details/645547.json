@@ -1,0 +1,275 @@
+{
+  "id": 645547,
+  "game_id": 50364,
+  "entry_id": 148362,
+  "uid": 701725,
+  "type": 4,
+  "title": "【伊瑟】【入坑】 一份比较全面的萌新入坑指南",
+  "tag": "2",
+  "created_at": 1737016104,
+  "updated_at": 1737526760,
+  "updated_uid": 0,
+  "comment_at": 1774951084,
+  "last_at": 1774951084,
+  "comment_count": 5,
+  "status": 1,
+  "summary": "原贴发在taptap，虽然是本人搬运，我也标明一下出处https://www.taptap.cn/moment/628977162275259531匿名白嫖gamekee的wiki很久了，这次也终于主动给自己支持的游戏写一份攻略，希望可以坚持下去本人有幸参与了所有的融合测试，结合现行体验服前前后后跑",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_456/50364/701725/2025/0/16/463229.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_634/h_372/50364/701725/2025/0/16/967618.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_877/h_857/50364/701725/2025/0/16/135903.png",
+  "model_ids": "",
+  "like_count": 10,
+  "unlike_count": 0,
+  "view_count": 35547,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "澳大利亚",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 621726,
+  "favorite_count": 2,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1737017816,
+  "server_id": 0,
+  "image_num": 0,
+  "video_list": "",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 645547,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"原贴发在taptap，虽然是本人搬运，我也标明一下出处\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://www.taptap.cn/moment/628977162275259531\",\"children\":[{\"text\":\"https://www.taptap.cn/moment/628977162275259531\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"匿名白嫖gamekee的wiki很久了，这次也终于主动给自己支持的游戏写一份攻略，希望可以坚持下去\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"本人有幸参与了所有的融合测试，结合现行体验服前前后后跑了7 8个号了，难得可以玩到一款比较现代优质的回合制游戏，因此写篇入坑指南希望可以帮助各位萌新可以成为一个事半功倍的超链者。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\",\"text\":\"故事背景\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"伊瑟的故事发生在科技繁盛的黄金年代。正当人类文明如日中天之时，一场来源不明的极寒灾难骤然降临。寒潮以雷霆之势席卷全球，摧毁了人类的城市，冻结了江河湖海，带来了无数的伤亡与绝望。幸存的人类文明依靠“灵子技术”，构建了一个寄托希望的全新虚拟世界——伊瑟。在这个充满希望的赛博世界里，人类不仅得以重建曾经失去的一切，甚至实现了超越现实的梦想：通过灵子技术改造的“异格者”（游戏中所使用的角色）成为新文明的核心，而名为EOS的虚拟政权则引领着这个新世界的秩序。（\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"我不做人啦，我要当赛博人！\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"0064565ee0e75\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_456/50364/701725/2025/0/16/463229.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"456px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"然而，就在伊瑟世界欣欣向荣之时，一种神秘病毒“Genesis”（代号“源病毒”）悄然出现。其来源成谜，目的不明，但它迅速掀起了一场危机。源病毒能够感染异格者、腐化被感染的人类，将他们变为无意识（存疑）的怪物，还能侵蚀网络和智能机械。更为不安的是，一个名为RCS的反伊瑟组织正在利用源病毒进行大规模改造与破坏，试图彻底摧毁这片承载着人类未来的世界。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"源病毒的肆虐，让人类再次想起了现实世界中那场至今呼啸不止的寒潮。这一次，人类文明绝不能重蹈覆辙。为对抗病毒、拯救伊瑟，一群被称为“超链者”（主角）的人类挺身而出，踏上了追寻真相、挽救新世界的艰难冒险之旅。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"游戏概述\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"《伊瑟》是一款心动自研的原创IP游戏，战斗采用了基于速度的经典回合制战斗，根据不同的玩法可以同时上阵4至5名异格者。游戏在传统回合制中，新增了智壳这一机制，更加灵活了异格者的配装，也丰富了整个队伍的技能搭配。异格者拥有自己的属性，分为下位红绿蓝三色（\"},{\"text\":\"理\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"虚\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"异\",\"color\":\"rgb(89, 145, 255)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"）循环互相克制以及上位的光暗（\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"破序\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"恒定\",\"color\":\"rgb(255, 184, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"），一共五个属性。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"822ceb14bc3dd\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_634/h_372/50364/701725/2025/0/16/967618.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"634px\",\"height\":\"372px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"游戏的每个剧情章节都配有精致场景，配以优秀的背景音乐以及特殊的解谜动作，和隐藏在各处角落的宝箱可以给玩家带来一定的探索乐趣。主线剧情有非常智能的保存点，即便玩家在某一处战斗落败，重新进入关卡也不需要从头来过，非常的贴心。关键的剧情节点皆配有优质的过场动画，并且剧情全程语音，十分良心。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"游戏在剧情模式以外，同时兼顾社交，PVE和PVP玩法。在诸多PVE的挑战中，玩家需要针对关卡配置，boss机制以及属性克制来搭配自己的阵容。目前版本PVP内容包含传统竞技场天梯以及即时匹配的RTA。而社交相关的好友功能，能够让玩家更便利地参与组队玩法，而工会则拥有其独特的GVE玩法。后文会详细介绍每种玩法的特点和产出资源。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"伊瑟的美术风格比较偏向赛博风格，尤其是场景部分。但异格者里能够感受到明显的区别，有机械飞升的赛博人，也有充满东方特色又兼具科技感的武士。每名异格者都拥有精美的立绘以及3D建模，其中SSR角色还拥有live2D演示，部分角色也在删档测试阶段就已经实装了皮肤。可以说，在美术方面，心动是诚意满满，下足了功夫。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"为了让各位异格者拥有鲜活的个性，以及带来更沉浸的剧情体验，游戏也请来了著名的CV，比如为缇亚马特配音的黄莺老师（曾为《魔兽世界》中的希尔瓦娜斯，《星际争霸2》的凯瑞甘配音）以及诸多活跃于二游圈的著名CV如菊花花，小N，花铃等，还有你们大名鼎鼎的V（出自单机大作《赛博朋克2077》），我不会告诉你们，她只配了个R角色（项目组死刑，bushi\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\",\"text\":\"角色养成\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"游戏的养成大致可以分为：源器（装备），智壳（挂件），潜能（固定属性和技能）和等级四个方面，接下来会按照对于角色加成的占比来一一介绍。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\",\"text\":\"一、源器\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"即传统的装备系统，一共可以装备6件，对应左侧的面甲、晶管和腕轮各一件，以及右侧的核心三件。这三件核心并没有部位区分，而是同样逻辑的部位，可以自由选择三件穿戴（可以理解为角色除了左边的装备外还能戴三个饰品）。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"装备由蓝色至红色分为四个品质，不同档位没有机制区别，通过属性高低以及套装点数多少进行区分。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"4892a10600583\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_877/h_857/50364/701725/2025/0/16/135903.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"877px\",\"height\":\"857px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"属性：\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"28px\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"左侧三件对应的主属性依次为固定数值攻击，生命和防御。副属性词条在获得时随机，强化装备时每三级会优先增加一条副词条，或是随机强化一条已有的副词条（如果已有四个副词条）\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"28px\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"右侧的核心装备的主属性为全随机，可以获得百分比词条。但请注意，核心的\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"主属性无法获得\\\"速度\\\"\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，速度词条只能通过副属性获得，相比于其他游戏，速度属性会相对更珍贵一些，也更难给队伍配轴。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"套装/矩阵：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"28px\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"游戏一共设有21种套装，效果各不相同。套装属性获得/强化方式有别于传统的根据已装备的套装数量决定，而是套装技能点数。比如攻势套一共有三级效果，在4/8/12点攻势点的时候分别会获得10/25/45%的攻击力，装备在获得时随机会带有1至3点套装点，表现形式为装备图标下方的套装图标数量，根据所装备的套装点之和，来决定获得的效果等级。一件装备不会同时拥有两种套装点数。具体的搭配需要结合下文\\\"智壳\\\"部分一同讲解。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"a2273e916105\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_460/h_519/50364/701725/2025/0/16/969872.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"460px\",\"height\":\"519px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"28px\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"注，部分强力套装会限制所携带的数量，根据先行体验服来看，强力套装激活需要6点，其中装备只能穿戴3点，剩余3点必须通过智壳填充。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"  \",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\",\"text\":\"二、智壳\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"智壳类似于一件特殊挂载的装备，游戏内以悬浮的智能宠物的形式表现，也是伊瑟最具特色和战略意义的系统。它拥有技能，被动效果，套装词条和基础属性四个维度来进行养成。智壳区分稀有度，依次从蓝色至红色四档，越稀有的智壳在四个维度上都会有不同程度的加强。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"  \",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"基础属性：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"28px\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"智壳会为所装备的角色增加攻击、生命、防御以及速度四种属性。其中攻防血的属性占比并不高，但是速度是相对珍贵的属性，并且不同稀有度有着明显区分。但同一稀有度内的不同智壳加成的速度，在同样等级/突破情况下是相同的。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"a552d07d7893c\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_494/h_137/50364/701725/2025/0/16/347263.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"494px\",\"height\":\"137px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\" \",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"技能：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"28px\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"智壳所给予装备角色的一个额外技能，种类繁多，比如本次行动前增加攻击、对单体/群体造成伤害、行动后自拉条甚至是行动后刷新使用的技能CD等。智壳的技能有初次CD和常规CD两个限制，即第一次使用前所需要等待的回合数以及距离下一次使用的间隔，所以不要再问为什么有些智壳为什么初动时候没有发动技能了。智壳技能均为自动发动，无法手动对轴。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"1130a62b27a4f\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_501/h_232/50364/701725/2025/0/16/914825.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"501px\",\"height\":\"232px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"被动效果：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"28px\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"被动效果为智壳突破时获得，智壳初始等级上限为10级，每次突破增加10级等级上限，最高40级。三次突破分别需要消耗1/2/3个同名智壳，也就是练满一个智壳一共需要7只。每次突破时会获得一个随机的被动技能。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"28px\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"被动技能为增加异格者的属性，可能是固定数值或是百分比，相较于装备词条，还会有百分比增伤、减伤以及\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"速度\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"等特殊属性。被动技能可以后续消耗资源进行单个无限次重构，也就是\\\"洗\\\"，重构不仅随机属性种类，也随机属性的级别，比如蓝色百分比攻击3%，红色为7%。此外，被动技能也可以由一件智壳，连同等级和突破一同继承给另一件智壳。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"e439f24134f9b\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_480/h_347/50364/701725/2025/0/16/455740.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"480px\",\"height\":\"347px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\" \",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"套装词条：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"28px\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"智壳在获得时会在该智壳类型所允许的范围内，随机获得装备套装点数，也就是智壳的装备点数并非全随机，而是每一种智壳拥有自己所允许的套装范围，比如你如果希望智壳携带速度套，那就要刷对应的智壳，并非所有智壳都可能携带速度套。有别于角色的装备限制，智壳可能获得多种套装点数。理论上，一个满配的智壳可以获得三种不同套装，各三点套装点，也就是9点，结合6件装备一共可以有27点装备点数，能够更灵活的搭配角色的装备技能。这也是需要反复刷取智壳的最主要原因。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"2068538257af\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_565/h_245/50364/701725/2025/0/16/121878.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"565px\",\"height\":\"245px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"  \",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\",\"text\":\"三、潜能\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"潜能分为技能等级、潜能属性和原质突破三个方面。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"  \",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"技能等级/潜能：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"28px\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"角色的每个技能分别会有一个对应的12格潜能轮盘，需要玩家依序点亮。其中标有技能等级的格子用于强化技能效果，其余格子为增加角色属性。加成的属性会根据角色类型有所区分，比如有的角色会加强暴击爆伤，有的角色会加强效果命中、抗性，而有的角色会获得速度。技能格需要消耗特殊道具来提升技能等级，就删档测试而言，道具稀有度较高，且区分SSR和SR角色，如果不确定当前角色是否为主力，请谨慎使用。本次测试提供了一次免费的角色“回炉”功能，能够返还所有的培养资源，暂不确定公测后是否会保留或是以后会常驻。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"04507d109e82d\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_504/h_591/50364/701725/2025/0/16/321428.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"504px\",\"height\":\"591px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"  \",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"原质：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"28px\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"当抽到重复角色时，会获得该角色的碎片用于强化原质，最多可以强化5次，以大剑哥弥瑟亚为例，满原质共可以获得10%攻防血（白字基础上的10%）、10%增伤、10%减伤，8%暴击以及12%爆伤。提升幅度客观，但是考虑到需要多抽5个的成本，没有强大的蓝绿修改器，普通玩家应该是不需要多考虑的，毕竟原质不会带来机制的变化，就当做重复获得时的添头，至少没有特地去提升原质的必要。当然真爱和xp党随意。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"  \",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\",\"text\":\"四、等级\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"伊瑟异格者的等级机制比较传统，所有角色会有初始星级的区别，对应着异格者的稀有度。但所有异格者最终都可以提升至6星满级。每次提升星级需要消耗指定的升星道具，目前升星道具大多来自于活动奖励以及各个玩法之中。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\",\"text\":\"开荒规划\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"本攻略写于2025年1月《伊瑟》第四次删档测试，阅读时请注意攻略的时效性。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"一、开荒阵容确定\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"任何游戏都避不开确定开荒阵容的问题，伊瑟里初始众小强之中炼是完全可以当主力输出进行培养的，并且开服活动应该会对齐删档测试，会有根据炼的养成进度的活动，奖励也很客观。除非你运气很好抽到了其他2个强力输出，或是有自己独特的XP，不然都建议培养炼。炼的AI会优先三技能再二技能，非常适合大多数boss带小怪的副本。第一回合三技能清小怪，第二回合二技能乱击集中输出boss。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"6537d88ad6627\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_897/50364/701725/2025/0/16/194680.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"897px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"var(--caption-m12-w12-line-height)\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"胸口掏不出刀来的炼\",\"color\":\"rgb(191, 191, 191)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"var(--caption-m12-w12-line-height)\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(191, 191, 191)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"至今为止的删档测试开服时，都伴有克洛斯的单up池子，100抽保底并且不会歪其他角色。克洛斯是开局小强之一格雷的上位替换，有着较高的基础速度，超高基础命中的群体破甲以及独立的加伤debuff，并且技能倍率也不错，可以补充伤害。如果已经有黛纳的话，可以暂不考虑克洛斯，毕竟黛纳一个人就可以把加伤需要的debuff全包了。此外，四测新增了自选单up池，40抽保底，仅限获得一个SSR，是一个非常良心的池子。不过呢，开服期间结合活动，PVE一次性奖励以及算上可以预估的官方额外发放的奖励，玩家攒个200+抽是很轻松的事情，所以个人建议这个池子不需要一开始就抽，而是抽完其他池子后，根据抽取角色的情况来酌情补位。因为普池有0.25%概率出光暗SSR的关系，我几次测试都会将多余的资源投入到普池之中试下运气，如果你和本人一样是个赌狗，则可以在预留40抽的前提之下，先去普池碰一下运气。此外，7天活动会赠送一个很好用的治疗，14天会赠送一个防转伤的角色，在自选时不要重复了。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"3d7b707a6c6b\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_302/50364/701725/2025/0/16/303372.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"302px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"var(--caption-m12-w12-line-height)\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"普池会有0.25%概率出光暗SSR\",\"color\":\"rgb(191, 191, 191)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"var(--caption-m12-w12-line-height)\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(191, 191, 191)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"前期伊瑟的绝大部分内容，其实并不需要治疗，主线并没有类似不阵亡队员的星级评分制度，只要可以打过即可，并且每场战斗后角色都会补满状态。需要反复刷的副本则是由通关时间来决定星级评价，星级并不影响获得的奖励，而是自动战斗可以设置的次数。一星可以自动5次，二星8次，三星10次，是一个意义不明的设定。所以，如果没有出现卡关的情况时，完全可以使用1buff+1debuff+2输出的阵容（部分PVE内容可以上阵第5个角色，酌情换成第三个输出、治疗或是对策），当敌人强度提升到需要打阵地消耗战了，再把buff手或是第二个输出换成治疗。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"队伍角色确定后，非常重要的一点是安排出手顺序。由于伊瑟并没有主属性词条为速度的装备，所以前期对轴只能通过随机获得的散件，debuff和buff一定要安排在输出之前，在降防/加攻/加伤等一系列状态辅助下，输出是可以达到成倍的效果。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\",\"text\":\"二、体力分配\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"结合几次测试的经验，伊瑟前期最重要的是推进主线从而解锁更多的玩法内容或是副本难度。主线第三章后，解锁新的章节会有账号等级限制，如何合理利用好卡等级期间的体力是前期少走弯路非常重要的必修课。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"虽然在养成中，源器/装备是对于角色战斗力提升幅度最大的，但这是相对于终盘内容而言，而且装备在开荒阶段会、不可避免地会出现被迭代淘汰的问题。并且，装备的获取和强化，有着非常大的随机性。在此，我个人并不建议玩家在前期将大量的体力投入到装备的获取中。体力应当优先投入到稳定的提升中，比如潜能和智壳。装备的提升，在保证角色都有装备穿，点亮套装技能的前提下，应当放在这两者之后。举个例子，一个4至5星的输出角色，白字攻击1000不到，然而一技能潜能盘的前5格就会带来125+10%攻击的加成，点亮这五格可能只需要刷10次不到的潜能本，性价比会高于随机获取还需要花钱强化的主词条攻击的装备。并且，装备的强化会消耗大量金币，删档测试时官方都会赠送巨量金币来加速玩家成长，公开测试并不能保证会有同等的福利。如果你的潜能/智壳/等级都已经提升至瓶颈，那可以适当刷取一些装备，只要保证主力输出右三件装备的主属性即可，副词条不必苛求。装备本优先选取泛用性高的套装来刷，比如疾驰（速度）套。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"智壳也同样，在保证完成活动要求的刷取次数后，不需要前期投入太多体力，因为智壳副本横向拓展是随着主线进度解锁的，后续开放的智壳的技能会明显更强。前期保证角色都有的穿即可，更不需要花费精力去刷或者重构被动技能。以及切记，一定要注意智壳的套装范围，尽量不要出现角色穿戴装备和智壳套装脱轨的情况。多花体力去提升属性，远比不上前期把套装等级配上去。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"等到了中后期可以稳定获取红色品质装备/强力智壳了，再加大体力投入刷取。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\",\"text\":\"三、前期角色推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"考虑到大家抽卡的随机性以及各种奇怪独特的XP，在此我只推荐一些个人觉得非常好用的SR角色，在我眼里有些SR角色的实用性和泛用性是超过SSR的。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"黛纳\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"c6ff3f5d1bcf6\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_271/h_127/50364/701725/2025/0/16/480461.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"271px\",\"height\":\"127px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"不好意思，放错图了，这是黛纳，她挺大，挺强大我的意思是\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"2e0deacd5d3ab\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_264/h_119/50364/701725/2025/0/16/650390.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"264px\",\"height\":\"119px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如上文提到的，黛纳的三技能可以同时完成加伤全家桶，即破甲+加伤+加受到的暴击伤害，简直是debuff超人。虽然基础命中较低，但我们可以给她配三件效果命中，效果命中实在太好堆了。前期体力有富余，刷疾驰本（速度套）即可，反正速度套是最万能的套装，浪费相对较小，只需要保证在主力输出前出手即可。前中期绝大部分的战斗都会在2-3回合内结束，不用在意长达5回合的CD（上图因为技能强化满了，所以减了一回合）。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"46d5592b1961e\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_824/h_504/50364/701725/2025/0/16/30814.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"824px\",\"height\":\"504px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"var(--caption-m12-w12-line-height)\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"感受一下黛纳的减防加伤全家桶\",\"color\":\"rgb(191, 191, 191)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"28310881f282e\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_744/h_87/50364/701725/2025/0/16/611311.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"744px\",\"height\":\"87px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"f0d816f3af946\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_871/h_515/50364/701725/2025/0/16/377823.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"871px\",\"height\":\"515px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"var(--caption-m12-w12-line-height)\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"有无黛纳的伤害对比\",\"color\":\"rgb(191, 191, 191)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"暂时没有完全的上位替换，黛纳就是一波流的神！黛门！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"幻音千明\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"60a283c316fe5\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_269/h_119/50364/701725/2025/0/16/302812.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"269px\",\"height\":\"119px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"非常好用的辅助，三技能全体加攻+全体拉条20%，又一个平民战神。配合戴纳就是一个非常标准的平民核爆起手，PVE和PVP皆可。配装上只需要堆叠速度，辅以增加一些生存即可。虽说只要开出三技能就是胜利，但毕竟二技能被动每回合有随机2名角色加攻，也在长期作战提供了很重要的辅助，尤其搭配水狐狸（夏妲）可以提供稳定buff实现快速叠层。在给黛纳刷命中的疾驰套的时候一定会有许多副产物可以给千明穿。前期PVP大家菜鸡互啄，基本谁的千明先动就赢了（bushi\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"注意是辅助千明，不要练成那个治疗千明了！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ba20729378b79\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_621/h_146/50364/701725/2025/0/16/398347.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"621px\",\"height\":\"146px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"上位替换为多琪，提升巨巨大，但是多琪贵为光暗SSR且没有up池，普池概率低于万分之五，就算正式服刷初始也需要刷很久，获取很随缘。所以千明会是一个陪伴大家很久的辅助。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"善雅\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"99aca89ca804f\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_260/h_119/50364/701725/2025/0/16/801483.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"260px\",\"height\":\"119px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"SR奶妈版本，什么？为什么你的善雅是给人上持续伤害的？欧洲人滚啊！哦，不对，回来吧，别滚了，反正现在是删档的。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"善雅的核心强度在于她自成体系，最能发挥她强度的在于长线的战斗，尤其是PVP阵地战。高速善雅可以形成稳定的驱散，并且快速为生命转伤（如莉莉斯和缇亚马特）的队友提供生命上限加成，并且普攻自拉条能够更快回转。如果你看了这次的表演赛直播，就会知道善雅的登场率还挺高。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"卡奇/寻愿多乐丝\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"438997fb96867\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_632/h_139/50364/701725/2025/0/16/283539.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"632px\",\"height\":\"139px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"没想到吧，这就是初始小强的羁绊吖！卡奇单体100%拉条+2回合攻击buff+减1技能CD。多乐丝提供50%+2回合爆伤+减1技能CD（我们伊瑟自己的欢愉 bushi，并且这2个技能都只有3回合CD。不过多为特殊对轴，用于加速自动战斗。比如当你的输出可以稳定2回合击杀boss时，就可以把第四个角色换成卡提，速度配在输出之后，直接拉条结束战斗。攻坚是完全用不到的角色。配装上没有属性要求，只要在输出之后，紧挨着就行，装备完全可以捡垃圾穿。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"等以后如果出现1技能出伤也很强的角色后，也许这两个角色可以配高速装，同时上场实现2带1。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"上位替换为彼安汀。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"戍守卡奇\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ee6fe15a6626\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_261/h_117/50364/701725/2025/0/16/455775.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"261px\",\"height\":\"117px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"乌龟人狂喜，二技能3段每段推条20%并且附加2回合速度降低，三技能在堆满182%效果命中时，是一个提供全体3回合加防+\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"2回合免疫\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的技能，技能回转4回合。卡奇在没有原质强化的情况下自带20%命中，最高级的命中核心强化满提供60%，算上命中套装，182%是非常容易达成的。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"89d9c9c6a2b1\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_814/h_522/50364/701725/2025/0/16/603543.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"814px\",\"height\":\"522px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"除上述角色以外，请保证队伍一定要有2名以上的强力输出角色，最好是除了赠送的炼以外还有一名aoe以及一名单体来应对不同的情况。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"在开荒过程中，请尽量以培养PVE角色为主，因为在开荒的过程中会不断积攒抽卡资源，游戏版本也会不断更新，目前游戏的角色并不多，删档测试的大家也几乎摸不到比较终盘的游戏内容。PVP的meta和版本答案尚不清楚，但无论将来版本如何，都会需要成熟的PVE阵容来稳定加速获取装备/智壳。优先养好10来个PVE角色以应对现有的游戏玩法才是关键。大家早晚都要刷装备坐牢，那就先好好把狱友们培养起来。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"最后的最后，再次强调本攻略写于2025年1月，第四次融合测试期间。日后阅读请注意攻略的时效性，尤其在官方还在不断调整角色技能时，不排除有的角色会被一刀砍进下水道的可能。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"感谢各位阅读。\\n\\n\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_456/50364/701725/2025/0/16/463229.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_634/h_372/50364/701725/2025/0/16/967618.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_877/h_857/50364/701725/2025/0/16/135903.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 701725,
+    "username": "败烦",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/20.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 44477607,
+    "content_num": 1,
+    "read_num": 35544,
+    "like_num": 10
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 701725,
+      "username": "败烦",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/20.png",
+      "last_ip_area": "上海",
+      "last_login_device_num": 6
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 6,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 675322,
+      "name": "国服安装教学",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/2/292985.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675573,
+      "name": "萌新开荒攻略PVE篇",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/29/381088.png",
+      "jump_url": ""
+    },
+    {
+      "id": 678427,
+      "name": "福利合集",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/11/21340.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 665794,
+      "name": "兑换码",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/5/10/719647.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 669045,
+      "name": "装备属性科普",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/6/4/55811.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 665358,
+      "name": "国际服安装教学",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1440/h_810/50364/157597/2025/5/9/43116.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "自建开荒入门攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/154257/2025/6/31/853921.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 672483,
+      "name": "白嫖/低氪开荒规划",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_500/50364/664163/2025/7/27/740775.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 619789,
+      "name": "攻略组招募",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/8/130379.jpg",
+      "jump_url": ""
+    }
+  ]
+}

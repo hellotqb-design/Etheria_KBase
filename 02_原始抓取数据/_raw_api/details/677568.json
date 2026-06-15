@@ -1,0 +1,220 @@
+{
+  "id": 677568,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 253894,
+  "type": 4,
+  "title": "前期要培养的辅助角色",
+  "tag": "2",
+  "created_at": 1758173351,
+  "updated_at": 1759026694,
+  "updated_uid": 253894,
+  "comment_at": 1758173351,
+  "last_at": 1759026694,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "有难度的关卡就是智壳本的炼狱难度，源器本的地狱4和炼狱，虚烬探索的42层。因为国服送光暗自选，默认带梨梨。SR默认技能点满，SSR默认技能不点，点了会说明。2/3指的是覆盖率，3回合冷却，持续2回合。前面有百分比的是角色专属buff，数值与普通buff不同，所以单独写出来。由于自动时AI默认先放S3",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/115653.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/620502.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/15/177387.png",
+  "model_ids": "",
+  "like_count": 4,
+  "unlike_count": 0,
+  "view_count": 2973,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "河南省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 77,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 677568,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"有难度的关卡就是智壳本的炼狱难度，源器本的地狱4和炼狱，虚烬探索的42层。\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"因为国服送光暗自选，默认带梨梨。\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"SR默认技能点满，SSR默认技能不点，点了会说明。2/3指的是覆盖率，3回合冷却，持续2回合。前面有百分比的是角色专属buff，数值与普通buff不同，所以单独写出来。由于自动时AI默认先放S3（梨梨除外），如果S2比S3冷却少一回合，最后同时冷却好，还是会释放S3，相当于S2少这一回合冷却没用。\",\"bold\":true}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿加攻\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\" \"},{\"type\":\"image\",\"key\":\"0lWL7uIZNxM7R4ow\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/115653.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"131px\",\"height\":\"170px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/3 \"},{\"type\":\"image\",\"key\":\"0Obfj1NFn9Noeg1p\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/620502.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"114px\",\"height\":\"173px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" 全程30%加攻，但不能附加攻击上升\"},{\"type\":\"image\",\"key\":\"wGrK0jczaL7nio4R\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/15/177387.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"133px\",\"height\":\"173px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/5  \"},{\"type\":\"image\",\"key\":\"00h27BLBvpb9NiCd\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/678163.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"113px\",\"height\":\"172px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/4 \"},{\"type\":\"image\",\"key\":\"UjJ2kOqM5qEaCKmB\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/389153.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"114px\",\"height\":\"174px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/4（S3点满）\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿减防\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"HFMT8z3rvdOYvhxr\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/190164.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"183px\",\"height\":\"238px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/4  \"},{\"type\":\"image\",\"key\":\"gziYiFGK2fgoEJYi\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/522329.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"183px\",\"height\":\"238px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/5 \"},{\"type\":\"image\",\"key\":\"MdmOe13n153SANwe\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/485796.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"157px\",\"height\":\"239px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" 2/3（S3点满）\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿增伤\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"HFMT8z3rvdOYvhxr\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/190164.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"163px\",\"height\":\"212px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"30%易伤，60%攻击力真伤 2/4 \"},{\"type\":\"image\",\"key\":\"fRDPOZivbfWA55PQ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_300/50364/253894/2025/8/18/226940.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"134px\",\"height\":\"214px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"30% 3/3  \"},{\"type\":\"image\",\"key\":\"FzEqMigDEcVnov8M\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/16/764776.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"140px\",\"height\":\"214px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"15% 3/4  \"},{\"type\":\"image\",\"key\":\"OWIj5wROZi95sSJs\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/656735.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"159px\",\"height\":\"207px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"25% 2/4 \"},{\"type\":\"image\",\"key\":\"NlaQUH88dD1FSLbh\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/16/238417.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"136px\",\"height\":\"207px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"一层debuff加6%，其他人技能只能叠一层\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿减攻\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"65KAuBxH2kyaOEle\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/930383.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"135px\",\"height\":\"206px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/3 \"},{\"type\":\"image\",\"key\":\"ihiH7k2C6PJHXIQ3\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/350740.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"154px\",\"height\":\"200px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/4 \"},{\"type\":\"image\",\"key\":\"PNLSghtxnzbzcp32\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/605158.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"158px\",\"height\":\"205px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/3 \"},{\"type\":\"image\",\"key\":\"gzGNHxQtx7kQz1oH\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/743967.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"159px\",\"height\":\"206px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/3\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿减伤 \"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"OWIj5wROZi95sSJs\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/656735.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"123px\",\"height\":\"160px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"40% 2/4 \"},{\"type\":\"image\",\"key\":\"MdmOe13n153SANwe\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/485796.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"106px\",\"height\":\"161px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"25% 2/3（S3点满）\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿加速\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\" \"},{\"type\":\"image\",\"key\":\"fRDPOZivbfWA55PQ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_300/50364/253894/2025/8/18/226940.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"134px\",\"height\":\"214px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/3  \"},{\"type\":\"image\",\"key\":\"bVxrkcS8j6bZR3vd\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/227368.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"164px\",\"height\":\"213px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"3/4 \"},{\"type\":\"image\",\"key\":\"z7RR1pCmMi1YA6m7\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/613799.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"163px\",\"height\":\"212px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/4\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿减速\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"7UpkECRHTwQTOThu\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/507947.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"142px\",\"height\":\"184px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/4  \"},{\"type\":\"image\",\"key\":\"53i6nyC4mWVD9xyn\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/922218.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"142px\",\"height\":\"184px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/3 \"},{\"type\":\"image\",\"key\":\"wnC2kalg4okBkxuf\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/555920.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"140px\",\"height\":\"182px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/5 \"},{\"type\":\"image\",\"key\":\"uAGjYKOGt0zzgGRN\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/256989.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"124px\",\"height\":\"189px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"一层debuff减3，其他人技能只能叠一层\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿拉条\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"glb4qDLJetZNxLWC\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/423087.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"174px\",\"height\":\"225px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" 每个人行动后增加队友5% \"},{\"type\":\"image\",\"key\":\"ve2DTt1rfdTAID32\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/836419.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"149px\",\"height\":\"227px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" 附加增益时，加4%\"},{\"type\":\"image\",\"key\":\"YCCNk5vXH8kLGAHg\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/614350.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"175px\",\"height\":\"227px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" 自己加20%，双生戏法队友加30%，最慢队友加20%\"},{\"type\":\"image\",\"key\":\"URK9Mw1TNm5UtXDa\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/121398.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"142px\",\"height\":\"216px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"敌方行动后，全体加8%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿推条\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"gGeL1XERFrtElEVf\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/173080.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"149px\",\"height\":\"226px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"敌方被附加减益时4% \"},{\"type\":\"image\",\"key\":\"DUmEJfkcjw5Yro3C\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/436680.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"152px\",\"height\":\"231px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"30% 1/3 \"},{\"type\":\"image\",\"key\":\"31Ge1JVKKFv9JJv0\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/634295.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"149px\",\"height\":\"227px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"30% S1 \"},{\"type\":\"image\",\"key\":\"4amGtREvu6ecHjcm\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/130993.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"155px\",\"height\":\"236px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"25% S1 \"},{\"type\":\"image\",\"key\":\"NqA7DHqcjnqnh5GS\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/923165.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"180px\",\"height\":\"234px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"60% 1/4 \"},{\"type\":\"image\",\"key\":\"wbYNnCaBKvcVyX36\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/829824.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"180px\",\"height\":\"234px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿免疫\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"  \"},{\"type\":\"image\",\"key\":\"Nx6se2EFIjIpAIxN\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/11419.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"145px\",\"height\":\"188px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/4  \"},{\"type\":\"image\",\"key\":\"d89VSE7iLrPaUhxu\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/149940.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"144px\",\"height\":\"187px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"1/5 \"},{\"type\":\"image\",\"key\":\"pqugAt1YCrVtz3Rb\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/740753.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"123px\",\"height\":\"187px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"1/4（S3点满）\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿净化\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\" \"},{\"type\":\"image\",\"key\":\"uXT6dWRHILuVn0t4\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/966004.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"131px\",\"height\":\"200px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2/4 \"},{\"type\":\"image\",\"key\":\"tjrM9tV8iqPJrSXH\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/507280.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"155px\",\"height\":\"201px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"1个减益最多单位 S1\"},{\"type\":\"image\",\"key\":\"BTZws5WWsYNtJO5u\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/685123.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"151px\",\"height\":\"196px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2个血量最低单位 每回合\"},{\"type\":\"image\",\"key\":\"szZYkwu2nLOg8J9t\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/927607.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"154px\",\"height\":\"200px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"2个血量最低单位 S1 \"},{\"type\":\"image\",\"key\":\"ubR6bYT9Cn7CLxKw\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/759172.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"151px\",\"height\":\"196px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"5人/每人3个减益/4回合（S1和S3点满）\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"控制\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"08hLx4NJGTFaqt78\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/169361.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"136px\",\"height\":\"207px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"S1 \"},{\"type\":\"image\",\"key\":\"MfvC8Ud1KIH7anl5\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/188867.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"157px\",\"height\":\"204px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"S1 \"},{\"type\":\"image\",\"key\":\"iYUJ9fqjJxiWLy9X\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/649380.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"148px\",\"height\":\"192px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"睡眠1/3  \"},{\"type\":\"image\",\"key\":\"Qymy4p8OxlTerxzi\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/758570.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"148px\",\"height\":\"192px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"眩晕 1/4 \"},{\"type\":\"image\",\"key\":\"x7aRqjihQ1CoK5Ly\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/962339.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"125px\",\"height\":\"190px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"眩晕1/5 \"},{\"type\":\"image\",\"key\":\"0Obfj1NFn9Noeg1p\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/620502.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"126px\",\"height\":\"191px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"石化1/4\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"BYIZvVQD49ehRdIA\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_215/h_83/50364/253894/2025/8/18/348897.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"215px\",\"height\":\"83px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"k24IpkdtqsNb0fH6\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_221/h_103/50364/253894/2025/8/18/929384.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"221px\",\"height\":\"103px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"gofFxvzs7HTsV8GO\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_129/h_67/50364/253894/2025/8/18/849754.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"129px\",\"height\":\"67px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"KL666CKXUNZs2nwz\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_216/h_110/50364/253894/2025/8/18/481333.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"206px\",\"height\":\"105px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"BOSS基本只吃嘲讽\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿驱散\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"4Ccmy6GX0doH1y5l\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/296607.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"165px\",\"height\":\"214px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"1/3 \"},{\"type\":\"image\",\"key\":\"eIP5J9yJiqhjETbO\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/662384.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"165px\",\"height\":\"214px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"1/4 \"},{\"type\":\"image\",\"key\":\"XAppTcR6Uk8s1Zvh\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/991183.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"163px\",\"height\":\"212px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"1/4 \"},{\"type\":\"image\",\"key\":\"8EAg0deFKASLZVD3\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/442518.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"139px\",\"height\":\"212px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"1/5 \"},{\"type\":\"image\",\"key\":\"jAp8B2KQlcCOazP2\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/887264.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"140px\",\"height\":\"213px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"1/3（S3点满）\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"﻿治疗、护盾\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"aMPTEsigXhTLAfOr\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/921032.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"121px\",\"height\":\"157px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"单体25%生命治疗 1/3，2个残血14%生命治疗 每回合\"},{\"type\":\"image\",\"key\":\"LgGZOAGf56QrlQcH\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/734007.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"106px\",\"height\":\"161px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"10%生命治疗 1/5，25%生命护盾 1/4（S3点满）\"},{\"type\":\"image\",\"key\":\"gI68Vsa12vKk1Ehv\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/669151.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"100px\",\"height\":\"130px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"24%生命治疗 1/5，10%生命治疗 1/3，2个残血15%生命治疗 S1(S1点满）\"},{\"type\":\"image\",\"key\":\"G67K3U1vem98KMGI\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/760442.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"81px\",\"height\":\"123px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"30%生命治疗 1/5，1个残血10%护盾 S1 \"},{\"type\":\"image\",\"key\":\"R09NeY7IRAlum9ta\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/48108.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"115px\",\"height\":\"149px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"12%生命护盾 锁血 1/5，15%生命治疗 无敌 1/3\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"﻿加攻、减防、增伤、减攻、加速、减速、免疫、﻿净化、控制、驱散、治疗或护盾，各有一个\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":\"custom-block-style__type-7\",\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"﻿前期智壳和矩阵\"}],\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"35级\"},{\"type\":\"image\",\"key\":\"Hr4hp6HNBL5SIz3C\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_325/h_438/50364/253894/2025/8/19/822366.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"208px\",\"height\":\"280px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"HP2m93KoIhmO4fhQ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_331/h_372/50364/253894/2025/8/19/46156.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"246px\",\"height\":\"277px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"40级\"},{\"type\":\"image\",\"key\":\"VvwCWkVMCe5hBqfR\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_319/h_395/50364/253894/2025/8/19/646875.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"212px\",\"height\":\"262px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"jrHQGijxcxhPhwss\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_322/h_370/50364/253894/2025/8/19/692562.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"228px\",\"height\":\"262px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"45级\"},{\"type\":\"image\",\"key\":\"sNBTaNt9NhVaTlNy\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_321/h_373/50364/253894/2025/8/19/735167.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"213px\",\"height\":\"248px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"50级\"},{\"type\":\"image\",\"key\":\"Lkox7IvEUG7Pf8Gv\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_316/h_438/50364/253894/2025/8/19/289778.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"216px\",\"height\":\"299px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"dzfpnINzVSd7mqHg\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_319/h_376/50364/253894/2025/8/19/87463.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"254px\",\"height\":\"299px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"MZKcwusuEaNkk29k\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_276/h_153/50364/253894/2025/8/19/499518.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"189px\",\"height\":\"105px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"fCi2CGYQzGZyrO6e\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_148/50364/253894/2025/8/19/752013.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"178px\",\"height\":\"105px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"mrUPr7uWAku2vyJ2\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_308/h_178/50364/253894/2025/8/19/8278.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"189px\",\"height\":\"109px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"shj2harmAzBRwIhp\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_159/h_155/50364/253894/2025/8/19/581248.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"111px\",\"height\":\"108px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"CsLbfqCeW6pHJ6L9\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_176/50364/253894/2025/8/19/12277.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"203px\",\"height\":\"119px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"Lw70nsUhQkdQUbz3\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_299/h_184/50364/253894/2025/8/19/147016.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"193px\",\"height\":\"119px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"﻿没有逆翎\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"因为速度相关的智壳只有胡狼卫士和万魔法典有迅光天击，能过炼狱智壳本后，千兆字节全部转为胡狼卫士或万魔法典，矩阵多带个迅光天击\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"前期只能凑20矩阵，需要 2个3矩阵源器+智壳3-3 或者 3个3矩阵源器+智壳2-3\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"加攻、增伤：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【芙蕾雅】111 12疾驰+6时光/8奋进 千兆字节\",\"bold\":true},{\"text\":\"  -> 12疾驰+8戍卫 胡狼卫士\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【缬草】115\",\"bold\":true},{\"text\":\" \"},{\"text\":\"12时光+8涌泉 / 12涌泉+8治愈  千兆字节 或者 12时光+8浴血 匠 \",\"bold\":true},{\"text\":\"-> 12时光+8浴血 万圣节\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"减防：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【黛纳】155  或者  \"},{\"text\":\"【克洛斯】111 \",\"bold\":true},{\"text\":\" \"},{\"text\":\"12疾驰+6时光/8奋进  千兆字节/匠 \",\"bold\":true},{\"text\":\"->\"},{\"bold\":true,\"text\":\" \"},{\"text\":\"12疾驰+6时光/8戍卫 胡狼卫士\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"减攻：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"【恶命】555 或者【蝰蛇】115->535 或者【酣梦一宵】115->415\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"加速：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"【梨梨】511 -> 551\",\"bold\":true},{\"text\":\" \"},{\"text\":\"12疾驰+8奋进 千兆字节 或者 12疾驰+8荆棘 匠 \",\"bold\":true},{\"text\":\"-> 12疾驰+8戍卫 胡狼卫士\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"减速：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"【戍守卡奇】111->113 \"},{\"text\":\"或者【蝰蛇】115->535\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"免疫：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【戍守卡奇】111->113 12疾驰+6时光/8奋进 千兆字节 \",\"bold\":true},{\"text\":\"-> 12疾驰+8戍卫 万魔法典\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"净化：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【善雅】115 或者 【绫罗】111->511 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"控制：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【酣梦一宵】睡眠 115 -> 415\",\"bold\":true},{\"text\":\" \"},{\"text\":\"12疾驰+6时光/8奋进  千兆字节 \",\"bold\":true},{\"text\":\"-> 12疾驰+8戍卫 万魔法典\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【恶命】嘲讽 555  12浴血+8荆棘 匠\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【奥波尔】眩晕111\",\"bold\":true},{\"text\":\" \"},{\"text\":\"12疾驰+6时光/8奋进  千兆字节 \",\"bold\":true},{\"text\":\"-> 12疾驰+8戍卫 万魔法典\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【卡奇】眩晕 415 12疾驰+6时光/8奋进  千兆字节 \",\"bold\":true},{\"text\":\"-> 12疾驰+8戍卫 万魔法典 （后期速刷要用）\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"驱散：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【蝰蛇】115->535 \",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"12疾驰+8荆棘 匠\",\"bold\":true}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"治疗或护盾：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"【绫罗】111->511 12疾驰+8治愈 超新星 \",\"bold\":true},{\"text\":\"-> 12疾驰+8治愈 最强音\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"【缬草】115\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"总结：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"1个 12疾驰+8荆棘 匠   1个 12疾驰+6时光/8奋进 匠（备用）\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"2个 12疾驰+6时光/8奋进 千兆字节\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"1个 12时光+8涌泉 / 12涌泉+8治愈  千兆字节\"}]},{\"type\":\"paragraph\",\"children\":[{\"bold\":true,\"text\":\"1个 12疾驰+8治愈 超新星\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"45级后：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"2个\",\"bold\":true},{\"text\":\" \"},{\"text\":\"12疾驰+8戍卫 胡狼卫士\",\"bold\":true}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"50级后：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"1个 12疾驰+8戍卫 万魔法典\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"﻿有逆翎\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"加攻、增伤：【芙蕾雅】111 【缬草】115\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"减防：【逆翎】115->515\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"减攻：【恶命】555 或者【酣梦一宵】115->415\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"加速：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【梨梨】511 -> 551\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"减速：【逆翎】115->515\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"免疫：【戍守卡奇】111->113\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"净化：【善雅】115 或者 【绫罗】111->511 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"控制：【酣梦一宵】睡眠 115 -> 415 【恶命】嘲讽 555 【奥波尔】眩晕111 【卡奇】眩晕 415\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"驱散：【逆翎】115->515\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"治疗或护盾：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【绫罗】111->511 【缬草】115\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"【逆翎】替代了【蝰蛇】和【克洛斯】\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/18/115653.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_197/h_300/50364/253894/2025/8/18/620502.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_231/h_300/50364/253894/2025/8/15/177387.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 253894,
+    "username": "蓝白社野怪",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/215/253894/2024/7/28/311743.jpg",
+    "description": "",
+    "follow_num": 75,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 50263,
+    "content_num": 35,
+    "read_num": 3769488,
+    "like_num": 3475
+  },
+  "update_user": {
+    "uid": 253894,
+    "username": "蓝白社野怪",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/215/253894/2024/7/28/311743.jpg",
+    "description": "",
+    "follow_num": 75,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 253894,
+      "username": "蓝白社野怪",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/215/253894/2024/7/28/311743.jpg",
+      "last_ip_area": "河南省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

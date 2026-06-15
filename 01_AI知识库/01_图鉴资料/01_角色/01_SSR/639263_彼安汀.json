@@ -1,0 +1,368 @@
+{
+  "id": 639263,
+  "kind": "character",
+  "name": "彼安汀",
+  "entryName": "彼安汀",
+  "rarity": "SSR",
+  "element": "理",
+  "faction": "伊瑟E.O.S.",
+  "title": "彼岸黄泉",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "A01-111501",
+  "chipStatus": "正常",
+  "assessment": "异格者彼安汀，身份编码A01-111501，Re-A芯片状态正常，未见异常波动。\nE.O.S.熔断警备署的副署长。\n外表高贵，举止优雅，与人相处时总是一副笑吟吟，云淡风轻的样子，颇具亲和力。\n工作时雷厉风行，行事滴水不漏，很注重自己的沟通方式，也很擅长倾听。处事冷静、遇事时总是胸有成竹的模样，仿佛一切都在她的计划之中。\n只要她愿意出手，就一定会得到「结果」。\n实际上是个杀伐果决且冷酷无情的狠角色，不会因个人情感而影响判断力，为达目的可以不择一切手段。\n与她相处时需要时刻保持警惕。",
+  "stats": {
+    "生命": "10854+5398",
+    "攻击": "1024+327",
+    "防御": "681+218",
+    "速度": "118+15",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%",
+    "效果抵抗": "0%+32%"
+  },
+  "skills": [
+    {
+      "skillId": "639263-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "绽花奏",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_92/h_88/50364/103682/2024/9/24/792395.png",
+      "description": "冷却时间：0\n对单体敌人造成240%伤害，并为行动进度最低的队友提升25%的行动进度。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：提升行动进度效果增加至15%\n等级4：\n潜能提升：速度值+5\n技能提升：自伤害系数增加至240%\n等级5：\n潜能提升：速度值+10\n技能提升：提升行动进度效果增加至25%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "639263-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "魂舞旋",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_87/50364/103682/2024/9/24/79111.png",
+      "description": "冷却时间：4\n使1名队友立即获得行动回合并减少2回合异格者技能冷却；可对已阵亡的队友目标使用，召唤其灵魂立即获得行动回合并减少1回合技能冷却，如果彼安汀自身拥有【黄泉之花】，则消耗1层【黄泉之花】{使其以50%的最大生命值复活，否则该队友灵魂将在行动后消失。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：提升4%生命值\n等级3\n潜能提升：防御力+70\n技能提升：对阵亡单位使用时，可减少其1回合技能冷却\n等级4：\n潜能提升：效果抵抗+8%\n技能提升：减少技能冷却回合数增加至2回合\n等级5：\n潜能提升：效果抵抗+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "639263-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "业黄泉",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_87/h_89/50364/103682/2024/9/24/727197.png",
+      "description": "冷却时间：4\n为全体队友附加2回合【攻击上升】和【暴击伤害上升】，并为自身附加2层【黄泉之花】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：【黄泉之花】恢复的生命值提升至40%\n等级3\n潜能提升：生命值+1000\n技能提升：【黄泉之花】层数增加至2层\n等级4：\n潜能提升：生命值+5%\n技能提升：【黄泉之花】提升的行动进度效果增加至35%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n拉条，增伤，复活\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 141|\n| 源器配置 | 右三主属性生命/防御加成 |\n└─────────┴────────────┘\n【对局表现】\n高额的暴击增伤在速刷副本中有着不错的表现，主应用在兵祸，多琪，奥洛拉这三个副本。",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12浴血+12疾驰"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "胡狼/千兆字节"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12浴血+12疾驰",
+        "推荐智壳": "胡狼/千兆字节"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/842288/2025/7/18/1356.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "治疗效果提升"
+      ],
+      "other": [
+        "施加的治疗效果+10%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害双向提升"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【洞察。】\n「你成功了，这超出了我的预料。」\n康坦士转过身，看着正坐在沙发上喝茶的少女。\n她一如既往地气定神闲，云淡风轻。\n「这离不开校长你的配合，仅凭我的能力，远远达不到这样的效果。」\n「计划的实施，也不会这么顺利。」\n「熔断警备署是个很好的舞台。」\n「不得不承认，在我所有的学生当中，你的确是独一无二的。」\n「我很高兴，能得到校长你如此高的赞誉。」\n「所以，你已经准备好了？」\n「你想怎么做？」\n「在人类自己的神话历史当中，从邪神洛基发起的诸神黄昏开始，再到诸神黄昏的结束，才正式宣告诸神时代的终结，人类时代的到来。」\n「时代的结束，需要交给这个时代的建立者亲自完成，而新规则的重建，需要在旧世界的尸骸里完成。」\n「否则，一切的改变将会毫无意义，陷入毫无意义的螺旋。」\n彼安汀站在了落地窗前，看向了远处。\n……\n「那……你的那位英雄呢？」\n……\n「他（她）……已经出现了。」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【凝望。】\n「这一局……····我认输了。」\n彼安汀微笑着看着眼前的人，然后云淡风轻地认了输。但眼前的人并不像是彼安汀一样云淡风轻，显然，这场对局，给了他极大的压力。\n而当彼安汀放下棋子投降认输的那一刻，他才从那股巨大的压力当中走出来，如释重负般地松了口气。\n「愿赌服输，你要的东西，我会给你准备好。」\n彼安汀笑着看着眼前的男人。\n「那我就等你的好消息了。」\n男人看了彼安汀一眼，然后一脸满足地起身。\n彼安汀始终保持着笑容，然后目送着他离开。\n「看起来事情很顺利。」\n莉拉姆坐在一边的沙发上啃着苹果，一边看着彼安汀。\n旁边的侍者为彼安汀送来了一杯红茶，然后又转身离开。\n「不过，我还是觉得很麻烦。」\n她站了起来，伸了个懒腰。\n「你是说这种方式吗？」\n「对啊，你只要让我去一趟，肯定就什么事就没有了。」\n「而且，你要什么，我都可以帮你带回来。」\n「暴力并不能解决一切，莉拉姆。」\n「你要记住这句话哦。」\n彼安汀并没有理会莉拉姆，而是自顾自地喝了一口红茶。\n「对棋手而言，真正的棋局从不在眼前的棋盘上，而是在棋盘之外。」\n「就算你把桌子掀翻了，把棋盘砸碎了，已经开始的棋局造就已经开始了，不会有任何影响。」\n彼安汀看着眼前的棋盘。\n「示弱，有时候是为了得到更多的东西。」\n她拿起自己的白色棋子，放在了黑色国王的一侧。\n——将军。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【审视。】\n「校长您对彼安汀，倒是格外地关注。」\n在十三区高校的校长办公室，伦芙纳一边呷着手中的红茶，一边调侃着眼前的康坦士。\n康坦士这才放下手中的报告。\n报告的标题很醒目，经过最高安全防务署署长伦芙纳的任命，彼安汀成为了熔断警备署的代署长。\n至于原因，是为了表彰彼安汀在西弗里七日暴，Dong，时的功绩，在关键时刻，彼安汀果断启动了灵魂杀手，结束了西弗里最后的暴乱。\n「因为我欠她一个人情，至今也还没有机会偿还。」\n「对我有过恩惠的人，我总是能很清楚地记得他们的名字。」\n康坦士并没有正面回应。\n「对我也一样吗？」\n伦芙纳笑着看着眼前的男人。\n「作为安全防务署的署长，这样得力的下属，你不喜欢吗？」\n「我喜欢有野心的人，她们总是很好驱使。」\n「不过……我更看好能把野心藏起来的人，她们能走得更远。」\n「也许你会看走眼。」\n康坦士看着眼前的伦芙纳，露出意味深长的笑容。\n「或许有一天，她会成为你的对手。」\n「那我就拭目以待了。」\n伦芙纳放下茶杯，与康坦士对视了一眼。\n而那双灰褐色的瞳孔里，流露出的不是蔑视，而是兴奋。",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1155/h_581/50364/103682/2024/9/24/622965.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1155/h_581/50364/103682/2024/9/24/622965.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_961/h_752/50364/103682/2024/9/24/516952.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_961/h_752/50364/103682/2024/9/24/516952.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1155/h_581/50364/103682/2024/9/24/622965.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1155/h_581/50364/103682/2024/9/24/622965.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_961/h_752/50364/103682/2024/9/24/516952.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_333/h_598/50364/103682/2024/9/24/99481.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1736/h_1736/215/103682/2025/10/20/668579.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_333/h_598/50364/103682/2024/9/24/99481.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/842288/2025/7/18/1356.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/483054.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/48572.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/496036.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/676731.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/85908.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/949938.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_87/h_89/50364/103682/2024/9/24/727197.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_87/50364/103682/2024/9/24/79111.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_92/h_88/50364/103682/2024/9/24/792395.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_961/h_752/50364/103682/2024/9/24/516952.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 639263,
+    "title": "彼安汀",
+    "url": "https://www.gamekee.com/yise/639263.html",
+    "updatedAt": "2025-08-18T08:49:36.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639263_彼安汀.md",
+      "metadata": "03_图鉴词条/639263_彼安汀.json",
+      "rawApi": "_raw_api/details/639263.json"
+    }
+  }
+}

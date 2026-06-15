@@ -1,0 +1,352 @@
+{
+  "id": 620284,
+  "kind": "character",
+  "name": "格雷",
+  "entryName": "格雷",
+  "rarity": "SR",
+  "element": "虚",
+  "faction": "协会",
+  "title": "震电之影",
+  "gender": "男",
+  "profession": "未公开",
+  "identityCode": "E09-051317",
+  "chipStatus": "正常",
+  "assessment": "异格者格雷，身份编码E09-051317，Re-A芯片状态正常，未见异常波动。\n晋经的佣兵，后来加入了协会。冷静、稳重、值得信赖格雷参与的每一次委托任务，都会被协会给予极高的评价，也正因此，他被认为是整个协会数一数二的异格者调查员。\n与过去相比，格雷身上发生了惊人的变化，现在的他无疑是可靠的同伴。",
+  "stats": {
+    "生命": "9378+3188",
+    "攻击": "1085+594",
+    "防御": "546+205",
+    "速度": "120+12",
+    "暴击率": "10%+20%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+12%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "620284-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "电掣 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/4580c473-4fb2-40bd-b880-23ab04161c4e.png",
+      "description": "冷却时间：0\n格雷向武器中注入雷电的力量，迅速突袭目标;对敌方单体造成250%伤害，暴击时增加自身25%行动进度。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至230%\n等级3\n潜能提升：攻击力+100\n技能提升：提升行动进度效果提升至15%\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至250%\n等级5：\n潜能提升：攻击力+10%\n技能提升：提升行动进度效果提升至25%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620284-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "鸣雷 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/7d455549-0e6b-456d-80a3-9878319a14f9.png",
+      "description": "冷却时间：3\n格雷为全体队友注入雷电的力量；为全体队友附加2回合【暴击率上升】，并立刻获得1个额外行动回合。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：攻击力+3%\n等级3\n潜能提升：防御力+70\n技能提升：攻击力+3%\n等级4：\n潜能提升：暴击率+4%\n技能提升：攻击力+3%\n等级5：\n潜能提升：暴击率+8%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620284-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "神速 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/fa27c6a5-102e-48ed-a138-d01d3370ec97.png",
+      "description": "冷却时间：3\n格雷向武器中灌注大量雷霆之力，具象成为一条缠绕自身的雷龙，朝全体目标使出猛烈的一击，对敌方全体造成220%伤害；暴击时额外造成160%伤害，并附加2回合【防御下降】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：额外追加的伤害系数增加至160%\n等级3\n潜能提升：生命值+1000\n技能提升：伤害系数增加至220%\n等级4：\n潜能提升：速度值+4\n技能提升：附防御下降概率增加至100%\n等级5：\n潜能提升：速度值+8\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "待补充...",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n输出，增益\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 155|\n| 源器配置 | 右三主属性暴击，爆伤，爆伤/攻击加成 |\n└─────────┴────────────┘\n【对局表现】\n前期开荒加暴击能弥补前期暴击不足的情况，独特的多动机制也能让智壳冷却更快转好，在多琪副本中作为副c也是不错的选择",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12洞悉穿刺+8狂怒+6极影强袭"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "伯爵"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12洞悉穿刺+8狂怒+6极影强袭",
+        "推荐智壳": "伯爵",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/929063.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【孤儿院的生活已是遥远的回忆。】\n「好了，各位，现在是午休时间。」\n作为孤儿院最年长的孩子，格雷很早就肩负起了为院长和老师们分忧解难的工作。\n「布玛，要好好把玩具收回箱子里。娜塔莉、劳恩，别再为了掉到地上的烤苹果吵架了，我这份你们拿去吃吧。还有你们几个，别难过，我知道你们很好的朋友前几天离开了孤儿院，但她只是被领养、去过更好的生活了。等以后有机会，你们可以一起去看她。」\n他像个小大人一样，熟练地安抚着每个孩子，引导他们前往吃午饭的小餐厅。\n格雷对这样的生活很满足，虽然自己因为资质平平、没有家庭愿意领养，但能像现在一样，在孤儿院平静地度过每一天，也算是不错的生活。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【孤单盒子的外面】\n孤儿院关闭的消息来得突兀。\n格雷和其他孩子什么准备都没做好，就被前来接收孤儿院房产的人赶了出去，他们在街头流浪了几天，直到最后失散，只剩格雷一人，无家可归。为了生存，他不得不寻找出路，而最终，他成为了一个靠接取各种委托赚取酬劳的雇佣兵。\n不久之后，他在被人们遗弃的报纸上看见新闻，这才得知，过去那些被「领养」的孩子，竟然大部分都是被带去莱伯茨生命充当了实验体。他震惊又愤怒，但很快，他意识到院长关闭孤儿院、遣散老师和孩子们，很可能也是为了保护他们不再受莱伯茨生命的威胁。\n与此同时，他的心底生出一种不安一一即使孤儿院已经解散，但莱伯茨生命的黑手仍旧会在暗中伸向那些流落的孩子们，伸向他曾经的家人们……\n那时候，格雷下定了决心，既然院长无法保护他们。那他就自己保护自己和那些失散的孩子们。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【世界是未知的盒子】\n格雷推开沉重的木门，走进只有一个酒保的、冷冷清清的酒吧里。他将一张委托单放在吧台上，推到酒保面前。\n「委托完成了。」\n「还挺快，不愧是你。只不过，没想到我这里最可靠的佣兵，竟然还是个小屁孩。等着吧，雇主确认了结果以后，钱会立刻打到你账上。」\n酒保正想收走委托单，但格雷却按住了那张纸。\n「我要你留意的孤儿，有什么消息了吗？」\n「哼·……没有，实话说能找到那几个就算不错了，剩下的人还有你那个院长，他们就像人间蒸发了一样。我劝你还是早点放弃，别浪费钱了，西弗里出过那么大的乱子，他们说不定被卷进去了，八成是没有活路的。」\n格雷松开手，让酒保抽走了委托单。\n「继续找，钱我不会少给你的。不管需要多少钱、多长时间，我都不会放弃寻找他们的下落。」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/193898.png",
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/c229cc94-ae12-45dd-9df0-576511fac41b.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/193898.png\n//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/c229cc94-ae12-45dd-9df0-576511fac41b.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/9030.png",
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/e21efd6a-96ab-4cc9-a549-54325d361643.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/9030.png\n//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/e21efd6a-96ab-4cc9-a549-54325d361643.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/c229cc94-ae12-45dd-9df0-576511fac41b.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/e21efd6a-96ab-4cc9-a549-54325d361643.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/87faa34f-9232-4fb1-90a0-6fcadbc9b5cb.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/4580c473-4fb2-40bd-b880-23ab04161c4e.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/7d455549-0e6b-456d-80a3-9878319a14f9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/fa27c6a5-102e-48ed-a138-d01d3370ec97.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/9030.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/193898.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/929063.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/611886.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/960068.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620284,
+    "title": "格雷",
+    "url": "https://www.gamekee.com/yise/620284.html",
+    "updatedAt": "2025-08-18T07:41:18.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620284_格雷.md",
+      "metadata": "03_图鉴词条/620284_格雷.json",
+      "rawApi": "_raw_api/details/620284.json"
+    }
+  }
+}

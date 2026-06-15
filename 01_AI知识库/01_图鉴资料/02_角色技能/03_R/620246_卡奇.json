@@ -1,0 +1,326 @@
+{
+  "id": 620246,
+  "kind": "character_skill_bundle",
+  "name": "卡奇",
+  "entryName": "卡奇",
+  "rarity": "R",
+  "element": "理",
+  "faction": "协会",
+  "title": "小熊座",
+  "gender": "男",
+  "profession": "未公开",
+  "identityCode": "E23-032605",
+  "chipStatus": "正常",
+  "assessment": "异格者卡奇，身份编码E23-032605，Re-A芯片状态稳定，未见异常波动。\n来自E-23的流浪传奇，天马行空的少年英雄，人称1小熊座」的超级英雄预备役头号种子。这位正义的朋友目前正被一个邪恶的「臭老头」通缉，为了躲避邪恶势力的追捕，被迫委身此处。（给你50点数，把我写得好一点，记得删掉括号里的内容。）\n卡奇从收养他的药剂师那里学到很多关于秘药的知识，经过一系列「天马行空」的发明创造，他的药剂在地下竞技场中经常卖到脱销。虽然还是个孩子，但卡奇在这方面的天赋，的确是毋庸置疑的。",
+  "stats": {
+    "生命": "8428+4357",
+    "攻击": "653+290",
+    "防御": "811+328",
+    "速度": "113+9",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+32%",
+    "效果抵抗": "0%+12%"
+  },
+  "skills": [
+    {
+      "skillId": "620246-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "正义光束 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/12b55427-1f6b-409c-9393-fd4b1f0ccdb9.png",
+      "description": "冷却时间：0\n卡奇用熊爪杖朝目标进行定向爆破；对敌人单体造成240%伤害，有30%概率击退30%行动进度。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：降低行动进度概率提升至30%\n等级4：\n潜能提升：速度值+3\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：速度值+6\n技能提升：降低行动进度效果提升至30%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620246-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "加把劲！ 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/e44e7463-3cf5-4ec1-b1d8-47aebd3de12d.png",
+      "description": "冷却时间：3\n卡奇使用能量补剂为目标队友注能；为目标队友提升100%行动进度，附加2回合【攻击上升】并减少1回合所有异格者技能冷却。",
+      "upgradeText": "等级2\n潜能提升：防御力+1巧/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：防御力+3%\n等级3\n潜能提升：防御力+7\n技能提升：防御力+3%\n等级4：\n潜能提升：效果命中8%\n技能提升：防御力+3%\n等级5：\n潜能提升：效果命中+12%\n技能提升：防御力+3%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620246-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "英雄冲击 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/a4e646b0-d288-48e9-837d-66c0d8446cf8.png",
+      "description": "冷却时间：\n卡奇解放隐藏的力量，砸下熊爪杖在敌方处引发大爆破；对敌方全体造成250%伤害，击退35%行动进度，并有50%概率附加1回合【眩晕】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+4叫/生命值+5%/生命值+500/生命值+5%\n技能提升：伤害系数增加至250%\n等级3\n潜能提升：生命值+1000\n技能提升：附加【眩晕】概率增加至35%\n等级4：\n潜能提升：生命值+5%\n技能提升：击退行动进度效果提升至35%\n等级5：\n潜能提升：生命值+10%\n技能提升：附加【眩晕】概率增加至50%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n控制，推条\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 555|\n| 源器配置 | 右三主属性3效果命中 |\n└─────────┴────────────┘\n【对局表现】\n大招50概率眩晕，效果命中提升可实现100%眩晕，2技能的再动机制让他在娜娜，莎朗，赫研，炼狱津前期开荒成为一张有效针对卡，并且r卡不吃很多资源推荐拉满。",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8奋进+6讯光天击"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万魔法典"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8奋进+6讯光天击",
+        "推荐智壳": "万魔法典",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/665317.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【英雄是不会被埋没的！】\n相比于艾尔特利斯常见的高楼大厦，卡奇和药剂师的住所显得十分简陋——间老式居民楼的地下室，偶尔还会因为年久失修的管道大发洪水。除了最基本的卧室家具和小部分活动空间外，略显拥挤的空间里塞满了各种药剂。在这间阴郁幽暗的炼金术士主题房间里，却郑重其事地摆着一本色彩鲜艳的动漫设定集。\n卡奇每天都会花将近半天的时间琢磨自己身为超级英雄的人物设定，并常在居民楼里进行角色扮演活动。周围的邻居不堪其扰，常常找到药剂师索要精神损失费。迫于生存压力，同时也不忍心浪费卡奇的制药天赋，药剂师绞尽脑汁，终于说服卡奇跟他一起为竞技场选手制作药剂。\n药剂师的努力卓有成效。卡奇为了让自己英雄名号传遍E-07，在药剂中夹带私货——必须完整念出药剂的名字才能使它发挥作用。一开始，身为地下竞技场选手的恶人们难以接受在生死决斗前念出「超级小熊的无敌棒棒正义灵药」这种羞耻台词，但药剂的出众效果让还是让他们纷纷放下身段。那段时间里，E-07的地下竞技场成为了伊瑟最大的中二病患者集中营。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【英雄不会忘记自己的梦想！】\n在令人羞耻的药剂名称和卓越出众的药效所带来的双重宣传之下，原本冷清的地下室开始变得门庭若市。不少异格者请求卡奇为他们特别配置强力药剂，以便在竞技场中获得更好名次。卡奇逐渐喜欢上了这种忙碌而充实的日子，将时间和精力全部投入在新药剂的研究当中，不出意外地，在异禀的天赋加持之下，天才药剂师卡奇的名字，在E-07人尽皆知。\n这天，卡奇难得给自己放了一天假。这种在阳光下优哉游哉的感觉，让他十分怀念。卡奇在一家书店门口停下了脚步，摆在橱窗里的是一本熟悉的动漫设定集，在那个略显炎热的下午，卡奇又一次想起了那段可以花费大半天时间琢磨超级英雄人物设定的日子。\n回到重新装修过的地下室，卡奇翻出那本之前时常放在案头的设定集。卡奇把书放在试剂台上，抖落的灰尘撒向已经满满当当排到几年之后的药剂订单，看着它们，卡奇开始重新思考起自己的人生意义。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【小熊座——变身！】\n在E-07最高的大厦楼顶，卡奇像自己想象中的英雄那样俯瞰这座城市，突然意识到，这个梦想正在离自己越来越远。\n经过三分钟的慎重考虑，卡奇决定离开这里，继续践行自己「超级英雄」的人设。在留下所有药剂的配方后，卡奇给药剂师写了一封告别信，大抵意思是某个小英雄要响应时代的召唤去拯救伊瑟了。\n经过一系列让卡奇抓耳挠腮的思考，超级英雄的第一个目标终于出现了：找到那本设定集的作者一一麦琪。准备就绪后，卡奇跳到桌子上，以自己设计的英雄专属登场姿势，喊出了那句日后因过于中二而被大家牢记的变身台词。\n「小熊座，变——身——」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/1255c887-05e4-428c-b0c6-c02c0fcb1cb1.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/1255c887-05e4-428c-b0c6-c02c0fcb1cb1.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/dbe87d61-015c-4ffa-ba97-001191f4fdde.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/dbe87d61-015c-4ffa-ba97-001191f4fdde.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/1255c887-05e4-428c-b0c6-c02c0fcb1cb1.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/1255c887-05e4-428c-b0c6-c02c0fcb1cb1.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/dbe87d61-015c-4ffa-ba97-001191f4fdde.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/57ee8f82-469d-47b8-a086-38cdc2062c36.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/dbe87d61-015c-4ffa-ba97-001191f4fdde.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/57ee8f82-469d-47b8-a086-38cdc2062c36.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/12b55427-1f6b-409c-9393-fd4b1f0ccdb9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/e44e7463-3cf5-4ec1-b1d8-47aebd3de12d.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/a4e646b0-d288-48e9-837d-66c0d8446cf8.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/665317.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_466/50364/664163/2024/11/25/315438.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/464826.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/447721.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/61816.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/775506.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/85545.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/944680.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620246,
+    "title": "卡奇",
+    "url": "https://www.gamekee.com/yise/620246.html",
+    "updatedAt": "2025-08-25T05:05:15.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620246_卡奇.md",
+      "metadata": "03_图鉴词条/620246_卡奇.json",
+      "rawApi": "_raw_api/details/620246.json"
+    }
+  }
+}

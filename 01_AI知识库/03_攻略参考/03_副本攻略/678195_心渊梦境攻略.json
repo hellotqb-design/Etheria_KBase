@@ -1,0 +1,43 @@
+{
+  "id": 678195,
+  "kind": "guide",
+  "title": "心渊梦境攻略",
+  "domainPath": [
+    "03_攻略参考",
+    "03_副本攻略"
+  ],
+  "classifyReason": "副本或PVE攻略参考",
+  "originalCategory": "05_副本玩法",
+  "text": "心渊梦境攻略",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1052/h_589/50364/267618/2025/8/26/667523.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/267618/2025/8/26/167948.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/8/26/332377.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/8/26/649237.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/8/27/649367.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/9/11/754213.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/267618/2025/9/14/667551.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/25/124790.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/25/429681.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/25/677996.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/25/677996.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/25/124790.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2160/h_3840/50364/267618/2025/8/25/429681.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/8/26/406233.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/8/26/569524.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 678195,
+    "title": "心渊梦境攻略",
+    "url": "https://www.gamekee.com/yise/678195.html",
+    "updatedAt": "2025-09-25T15:54:31.000Z",
+    "sourceFiles": {
+      "markdown": "05_副本玩法/678195_心渊梦境攻略.md",
+      "metadata": "05_副本玩法/678195_心渊梦境攻略.json",
+      "rawApi": "_raw_api/details/678195.json"
+    }
+  }
+}

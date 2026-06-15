@@ -1,0 +1,218 @@
+{
+  "id": 678554,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 157597,
+  "type": 2,
+  "title": "《伊瑟》荣获全球多地区AppStore上线推荐！",
+  "tag": "4",
+  "created_at": 1759133588,
+  "updated_at": 1759133588,
+  "updated_uid": 0,
+  "comment_at": 1759133588,
+  "last_at": 1759133588,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "《伊瑟》荣获苹果AppStore全球多地区上线推荐，感谢每一位超链者的支持，特此全服发放庆祝奖励【异格原型*10、伊瑟币*100000、训练数据*100000】！希望大家继续支持伊瑟，让我们一起创造下一个里程碑！",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_2197/50364/157597/2025/8/29/327704.png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 3304,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "四川省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 895119,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1759135774,
+  "server_id": 96,
+  "image_num": 1,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 678554,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"《伊瑟》荣获苹果App Store全球多地区上线推荐，感谢每一位超链者的支持，特此全服发放庆祝奖励【异格原型*10、伊瑟币*100000、训练数据*100000】！\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"希望大家继续支持伊瑟，让我们一起创造下一个里程碑！\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"fontSize\":\"16px\"},{\"type\":\"image\",\"key\":\"aDEKa8SoWHU9mKYD\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_2197/50364/157597/2025/8/29/327704.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"2197px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_2197/50364/157597/2025/8/29/327704.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 157597,
+    "username": "KEE五号姬",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "description": "kee站维护机器人五号机，联系方式：qq: 2837676065\n微信: wuhaoji3154 ，主要领域：男性向游戏，牌佬\n工作时间：周一至周五10:00-19:00\n捉住路过的人：你看到我的头了吗？",
+    "follow_num": 122,
+    "custom_tag": {
+      "tag_name": "自主维护姬器人",
+      "tag_color": "#B138CE"
+    },
+    "role_id": 2,
+    "is_super": true,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 10,
+    "content_at": 322514,
+    "content_num": 2333,
+    "read_num": 19170763,
+    "like_num": 11258
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 157597,
+      "username": "KEE五号姬",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+      "last_ip_area": "江苏省",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

@@ -1,0 +1,349 @@
+{
+  "id": 620240,
+  "kind": "character_skill_bundle",
+  "name": "千明",
+  "entryName": "千明",
+  "rarity": "SR",
+  "element": "理",
+  "faction": "十三区高校",
+  "title": "幻念成真",
+  "gender": "女",
+  "profession": "不明",
+  "identityCode": "E03-101554",
+  "chipStatus": "正常",
+  "assessment": "异格者千明，身份编码E03-101554，Re-A芯片状态正常，未见异常波动。\n千明是十三区高校的学生，美术社团的成员，擅长剪纸她剪出的纸人有着强大的力量，但她性格内向、胆怯，甚至稍显孤僻。\n根据千明本人所说，她能看到自己想象出来的东西，她将它们成为心里的「影子」。\n总的来说，千明是一个温柔又善良的异格者，她会用自己剪出的纸人保护每个她珍视的人。",
+  "stats": {
+    "生命": "11735+5184",
+    "攻击": "656+291",
+    "防御": "686+219",
+    "速度": "119+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%",
+    "效果抵抗": "0%+32%"
+  },
+  "skills": [
+    {
+      "skillId": "620240-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "飞燕 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/9ac3c99a-b310-4271-97dd-1da0acdab354.png",
+      "description": "冷却时间：0\n千明制作出纸人，飞向并攻击敌方；对敌方单体造成240%伤害，治疗两名生命百分比最低的队友，治疗量为目标生命上限的15%，并附加1层【纸人守护】，持续5回合。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：治疗效果增加至目标最大生命值的15%\n等级4：\n潜能提升：速度值+4\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：速度值+8\n技能提升：治疗队友数量增加为2名",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620240-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "纸御傀 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/81205738-1853-4bcc-8f69-d2d799477bb7.png",
+      "description": "冷却时间：3\n千明制作出纸人祝福队友；治疗单体队友，治疗量为目标生命上限的50%，并附加3层【纸人守护】，持续5回合。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：治疗效果增加至45%\n等级3\n潜能提升：防御力+70\n技能提升：【纸人守护】层数增加至3层\n等级4：\n潜能提升：效果抵抗+8%\n技能提升：治疗效果增加至50%\n等级5：\n潜能提升：效果抵抗+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620240-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "千纸颂歌 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/b3765d8d-4086-4126-ab40-7f73bdc82f74.png",
+      "description": "冷却时间：4\n千明裁剪出大量纸人治疗全体队友；治疗量为目标生命上限的30%，目标每损失2%生命额外提升1.2%的治疗效果，并附加3层【纸人守护】，持续5回合。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：治疗效果增加至目标最大生命值的27%\n等级3\n潜能提升：生命值+1000\n技能提升：额外提升的治疗效果增加至1.2%\n等级4：\n潜能提升：生命值+5%\n技能提升：治疗效果增加至目标最大生命值的30%\n等级5：\n潜能提升：生命值+10%\n技能提升：【纸人守护】层数增加至3层",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n治疗\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 515|\n| 源器配置 | 右三主属性3生命加成 |\n└─────────┴────────────┘\n【对局表现】\n拥有高额的治疗减伤效果，适用于奥洛拉副本，pvp中配合提亚马特等坦克角色也有不错的效果",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12浴血+8治愈+6进化荫庇"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "千兆字节"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12浴血+8治愈+6进化荫庇",
+        "推荐智壳": "千兆字节",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_259/50364/842288/2025/7/18/620427.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "受到治疗效果提升"
+      ],
+      "other": [
+        "受到的治疗效果+10%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【少女与怪胎】\n每个人都觉得，千明是个的「怪胎」。\n从记事起，千明总是能看到奇怪的「影子」，它们环绕在千明身边，时隐时现。千明以为，这是每个人都能看见的东西，但当她和她的养父母说起这件事时，他们却露出了惊讶的表情。\n最初，妈妈告诉千明，那些「影子」只是她的想象，是不存在的，而千明也听妈妈的话，努力不去想那些影子。但让她感到害怕的是，这么做似乎激怒了那些影子——它们开始大搞破坏，只为了能让千明注意到它们。\n这吓坏了千明的养父母，他们将千明带到医院检查，但医生也只当成是千明受到了想象的影响，最终导致原质能力失控。\n千明十分委屈，不管她如何解释，都没办法让人们相信，她真的能看到奇怪的「影子」，而到处搞破坏的也并不是她。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【谎言与恶意】\n千明没有朋友，从来没有。\n千明有着优秀的原质能力，因此以特招生的身份进入了十三区高校学习。她的养父母原本以为，进入学习后，千明能交到更多朋友、等到她的注意力一被分散，就不会再去想那些「影子」了。\n然而，事情却向着另一个方向发展了。当孩子们得知千明能看见「影子」时，纷纷觉得她是个奇怪的家伙，不愿意与她交朋友。有两个坏心眼的孩子，不仅故意疏远千明，甚至还带头欺负她，在学校里大肆传播，说千明是个谎话连篇的坏小孩。\n「为什么你们要这样对我……」\n千明感到很难过，她不明白自己究竟做错了什么，才会这样被人讨厌。\n「因为你就是个怪物！除了我们可怜你，没有其他人愿意和你玩！」\n眼泪涌出千明的眼眶，她将这一切归咎于「影子」，但她又不敢假装说谎，说自己看不到「影子」，因为她害怕一旦自己假装看不到它们，它们又会开始胡作非为。\n在这样日复一日的欺凌下，千明的内心也愈发封闭。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【真正的朋友】\n那一天，千明交到了第一个朋友。\n千明还记得那个下午，那两个一直欺负她的坏孩子把她堵在了回家的路上，叫嚣着要「教训说谎的坏小孩」。她害怕极了，抱紧自己的小猫玩偶，一步步向后退去。但还没走出多远，她的后辈就抵在了冰冷的墙壁上—一她已经无路可退了。\n那几个坏孩子离他越来越近，他们抢走了千明剪纸用的剪刀，夺走了千明最为珍视的小猫玩偶，他们不怀好意地笑着，声称要用剪刀把玩偶剪烂。而千明手足无措地看着，眼泪夺眶而出……\n「哦？你们这是在打架？那么多人打一个人，算什么本事？这样吧，也算我一个，二打二才公平！」\n一个背着巨大葫芦、穿着和千明相同校服的女孩挡在了千明和那两个坏孩子之间。还没等其他人反应过来，她就举起拳头，在那两个坏孩子的头顶一人敲了一记爆栗。那两个人平时欺负别人惯了，哪里见过这种架势，不仅没占到便宜，脑袋还被敲得嗡嗡响，很快就双双哭着鼻子跑开了。\n直到这时，千明才突然发现，原来那两个看起来咄咄逼人的坏孩子，其实一点都不强大。\n「喂，你没事吧？那两个家伙就是这样，你越是怕他们，他们就越嚣张。」\n见那两个坏孩子跑远，女孩捡起剪刀和玩偶，递还给千明。\n「谢谢你……」千明小声说道。\n「不用谢。我只是正好闲得发慌，想找点架打而已。对了，我叫阿凛。你要是担心再被欺负，可以来找我，我罩着你。」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/f00fe453-cd34-46c6-a900-857b36d7a107.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/f00fe453-cd34-46c6-a900-857b36d7a107.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/d1982679-ed0f-413c-b05a-47203420b057.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/d1982679-ed0f-413c-b05a-47203420b057.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/f00fe453-cd34-46c6-a900-857b36d7a107.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/f00fe453-cd34-46c6-a900-857b36d7a107.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/d1982679-ed0f-413c-b05a-47203420b057.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/d75c84d5-41fd-4b44-85a1-303a64ca2ae3.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/d1982679-ed0f-413c-b05a-47203420b057.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/d75c84d5-41fd-4b44-85a1-303a64ca2ae3.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/9ac3c99a-b310-4271-97dd-1da0acdab354.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/81205738-1853-4bcc-8f69-d2d799477bb7.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/b3765d8d-4086-4126-ab40-7f73bdc82f74.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_259/50364/842288/2025/7/18/620427.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/936057.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/332405.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620240,
+    "title": "千明",
+    "url": "https://www.gamekee.com/yise/620240.html",
+    "updatedAt": "2025-08-22T09:43:01.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620240_千明.md",
+      "metadata": "03_图鉴词条/620240_千明.json",
+      "rawApi": "_raw_api/details/620240.json"
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "id": 674742,
+  "game_id": 50364,
+  "entry_id": 193443,
+  "uid": 267618,
+  "type": 4,
+  "title": "凶影追缉 - 赫妍攻略",
+  "tag": "2",
+  "created_at": 1755667523,
+  "updated_at": 1755667588,
+  "updated_uid": 0,
+  "comment_at": 1755667523,
+  "last_at": 1755880852,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "本攻略写于2025年8月20日赫妍本，初期还是有一点点难度的，且因为命中问题，翻车也不少，话不多说看图吧~奉上通关视频（我的莉拉姆还没练好，没法发标准阵容，凑合看吧~）",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_3556/50364/267618/2025/7/20/846424.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_3556/50364/267618/2025/7/20/775542.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_3556/50364/267618/2025/7/20/303035.png",
+  "model_ids": "",
+  "like_count": 2,
+  "unlike_count": 0,
+  "view_count": 8152,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "韩国",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 631786,
+  "favorite_count": 1,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 2,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1755669000,
+  "server_id": 0,
+  "image_num": 3,
+  "video_list": "[{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/7/20/882911.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/7/20/247690.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0}]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 674742,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"right\",\"indent\":\"0px\",\"children\":[{\"text\":\"本攻略写于2025年8月20日\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"赫妍本，初期还是有一点点难度的，且因为命中问题，翻车也不少，话不多说看图吧~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"N6BId5HZ6UuuPX3X\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_3556/50364/267618/2025/7/20/846424.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2000px\",\"height\":\"3556px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"fBGY732KLJr81CAi\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_3556/50364/267618/2025/7/20/775542.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2000px\",\"height\":\"3556px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"4Gkkh5F4pz5PhXle\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_3556/50364/267618/2025/7/20/303035.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2000px\",\"height\":\"3556px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"奉上通关视频（我的莉拉姆还没练好，没法发标准阵容，凑合看吧~）\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/7/20/247690.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/7/20/882911.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_3556/50364/267618/2025/7/20/846424.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_3556/50364/267618/2025/7/20/775542.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_3556/50364/267618/2025/7/20/303035.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 267618,
+    "username": "权",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 2,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 21123758,
+    "content_num": 17,
+    "read_num": 119075,
+    "like_num": 39
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 267618,
+      "username": "权",
+      "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+      "last_ip_area": "韩国",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 4,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 674689,
+      "name": "尼可娜娜",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/753864.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675366,
+      "name": "阿帕忒",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/444686.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675370,
+      "name": "惠特尼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/590629.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675364,
+      "name": "暗渡者",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/494466.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675369,
+      "name": "菲彼安",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/676500.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675368,
+      "name": "库卢鲁",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/705755.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675303,
+      "name": "莎朗",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/543342.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675362,
+      "name": "亚克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/692180.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675313,
+      "name": "炼狱津",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/851564.jpg",
+      "jump_url": ""
+    }
+  ]
+}

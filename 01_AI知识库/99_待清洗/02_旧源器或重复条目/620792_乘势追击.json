@@ -1,0 +1,32 @@
+{
+  "id": 620792,
+  "kind": "cleanup_candidate",
+  "title": "乘势追击",
+  "domainPath": [
+    "99_待清洗",
+    "02_旧源器或重复条目"
+  ],
+  "classifyReason": "图鉴粗分类残留，未命中官方源器目录",
+  "originalCategory": "03_图鉴词条",
+  "text": "乘势追击\n\n基础信息 乘势追击 获取途径 乘势追击 6：暴击率+12%； 12：暴击率+12%；攻击时，目标每有一种减益或控制效果，伤害提升6%，最多提升30%",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_175/50364/43758/2024/3/24/744907.png"
+  ],
+  "source": {
+    "pageId": 620792,
+    "title": "乘势追击",
+    "url": "https://www.gamekee.com/yise/620792.html",
+    "updatedAt": "2024-04-24T06:20:45.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620792_乘势追击.md",
+      "metadata": "03_图鉴词条/620792_乘势追击.json",
+      "rawApi": "_raw_api/details/620792.json"
+    }
+  }
+}

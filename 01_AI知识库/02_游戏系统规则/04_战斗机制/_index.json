@@ -1,0 +1,38 @@
+[
+  {
+    "id": 677418,
+    "title": "【搬运】伤害计算公式",
+    "kind": "system_rule",
+    "markdown": "02_游戏系统规则/04_战斗机制/677418_【搬运】伤害计算公式.md",
+    "metadata": "02_游戏系统规则/04_战斗机制/677418_【搬运】伤害计算公式.json",
+    "sourceUrl": "https://www.gamekee.com/yise/677418.html",
+    "updatedAt": "2025-09-22T11:00:24.000Z"
+  },
+  {
+    "id": 678043,
+    "title": "技改",
+    "kind": "system_rule",
+    "markdown": "02_游戏系统规则/04_战斗机制/678043_技改.md",
+    "metadata": "02_游戏系统规则/04_战斗机制/678043_技改.json",
+    "sourceUrl": "https://www.gamekee.com/yise/678043.html",
+    "updatedAt": "2025-09-23T03:30:57.000Z"
+  },
+  {
+    "id": 675952,
+    "title": "自机角色全buff相关",
+    "kind": "system_rule",
+    "markdown": "02_游戏系统规则/04_战斗机制/675952_自机角色全buff相关.md",
+    "metadata": "02_游戏系统规则/04_战斗机制/675952_自机角色全buff相关.json",
+    "sourceUrl": "https://www.gamekee.com/yise/675952.html",
+    "updatedAt": "2025-09-02T03:11:14.000Z"
+  },
+  {
+    "id": 677225,
+    "title": "Buff图标",
+    "kind": "system_rule",
+    "markdown": "02_游戏系统规则/04_战斗机制/677225_Buff图标.md",
+    "metadata": "02_游戏系统规则/04_战斗机制/677225_Buff图标.json",
+    "sourceUrl": "https://www.gamekee.com/yise/677225.html",
+    "updatedAt": "2025-09-13T09:09:33.000Z"
+  }
+]

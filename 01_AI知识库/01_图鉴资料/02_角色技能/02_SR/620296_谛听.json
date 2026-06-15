@@ -1,0 +1,349 @@
+{
+  "id": 620296,
+  "kind": "character_skill_bundle",
+  "name": "谛听",
+  "entryName": "谛听",
+  "rarity": "SR",
+  "element": "破序",
+  "faction": "伊瑟E.O.S",
+  "title": "哨影猎手",
+  "gender": "男",
+  "profession": "未公开",
+  "identityCode": "E04-081177",
+  "chipStatus": "正常",
+  "assessment": "异格者谛听，身份编码E04-081177，Re-A芯片状态正常，平时的芯片数据波动，真是平稳到令人咋舌的程度。\n其名为「狩影者」。左小臂上有红色的图腾，似乎是经过特殊设计的文字。\n偶尔能看到他一个人靠着墙看着远方，眼神中满是追思这种状态下的他可比平时说话气人的他讨喜多了。\n不过对于他所说的任何事，个人持谨慎态度，因为你无从判断他说的到底是真还是假。",
+  "stats": {
+    "生命": "10111+3261",
+    "攻击": "1195+524",
+    "防御": "613+211",
+    "速度": "118+12",
+    "暴击率": "10%+8%",
+    "暴击伤害": "150%+32%",
+    "效果命中": "0%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "620296-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "速射 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/3307ddbb-e227-4c14-bba6-1ed90206013b.png",
+      "description": "冷却时间：0\n谛听举枪射击目标；对敌方单体造成260%伤害，有40%概率附加2回合【易伤】。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至240%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【易伤】概率增加至40%\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至260%\n等级5：\n潜能提升：攻击力+10%\n技能提升：【易伤】持续时间增加至2回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620296-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "独家标记 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/3b7046f0-11aa-478b-9d7f-098ff4b852d8.png",
+      "description": "冷却时间：0\n在回合开始时如未处于不可行动状态，谛听会标记血量百分比最低的敌方，使自身本回合内对其暴击率提升60%；谛听溢出的暴击率会以150%的比例转换为暴击伤害。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：暴击率提升效果增加至50%\n等级3\n潜能提升：防御力+70\n技能提升：暴击伤害的转化效果增加至120%\n等级4：\n潜能提升：暴击伤害+8%\n技能提升：暴击率提升效果增加至60%\n等级5：\n潜能提升：暴击伤害+12%\n技能提升：暴击伤害的转化效果增加至150%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620296-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "聚能狙击 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/10161c16-464a-444f-abf8-1071e427c27c.png",
+      "description": "冷却时间：3\n谛听瞄准狙击目标；对敌方单体造成450%伤害，攻击被标记的目标时使用【速射】额外进行1次攻击。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：追击概率增加至80%\n等级3\n潜能提升：生命值+1000\n技能提升：伤害系数增加至450%\n等级4：\n潜能提升：速度值+4\n技能提升：追击概率增加至100%\n等级5：\n潜能提升：速度值+8\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n输出\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 555|\n| 源器配置 | 右三主属性暴击，爆伤，爆伤/攻击加成 |\n└─────────┴────────────┘\n【对局表现】\n伊瑟中单体输出排名第一，无人能与之匹敌的存在。前期开荒好手，兵祸，奥洛拉，所有智壳本都可以用到。本身作为sr消耗的资源也不多，非常推荐拉满",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12洞悉穿刺+8狂怒+6爆裂利刃"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "白撩武者"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12洞悉穿刺+8狂怒+6爆裂利刃",
+        "推荐智壳": "白撩武者",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_277/50364/842288/2025/7/18/868302.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击伤害提升"
+      ],
+      "other": [
+        "暴击伤害+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【动摇】\n在与善雅相遇前，谛听以为这个世界本就是冷酷无情的。\n他早已习惯了给莱伯茨当看守的工作，终日看着实验员们进行种种无法被端上台面的研究，一批批实验体来了又走……他的内心也曾剧烈地动摇，他确信自己的为虎作怅的行径绝对应该被送进监狱，但莱伯茨生命给出的高薪和他身上背负的旧债让他无法拒绝，而他的良知也在着日复一日的工作中被磨去棱角、变得麻木。\n直到有一天，他被派去加纳利庄园，并被要求监视住在这里的人类富豪和那人收养的异格者养女。就算不明说，谛听也能猜到其中的隐情，那个人类收养异格者少女，绝对不是出于好心，而只是为了将她当成实验体使用。但他并不会说，那些家伙和他没有任何关系，他之所以在这里，只是为了完成监视任务，赚取属于他的那份钱罢了。\n最初，谛听以为这会像过往的任务一样平淡地结束，但意外还是出现了—一那个名叫善雅的异格者少女终日被关在庄园的高墙里，她的养父也会严厉地让她学习各种规矩和教养，她一个朋友都没有，想要倾诉的心里话只能对着天空飞过的小鸟表达，而最终，少女的目光落在了谛听身上。\n「请问，我可以和你说说话吗？啊··…就算不回答，只是听我说说也可以……」\n在少女单纯又恳切的目光中，谛听冰冷麻木的内心再次开始动摇。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【承诺】\n冲天的火光、熔断生物的嘶吼、分崩离析的空间……\n谛听将子弹射向最后一只袭来的熔断生物，随后撕下外套的一部分，随意给自己受伤的手臂包扎了一下，狼狈的跌坐在一堆不知生死的穿着莱伯茨服装的人中间。\n他不知道莱伯茨生命究竟对善雅做了什么，才会导致如此恐怖的源病毒爆发。附近的区域已经开始熔断，他必须找到善雅，带她离开这里。他曾经向她许诺，会带她去看看外面的世界·…只是，以现在的他，真的能做到吗？\n谛听疲惫的合上双眼，精神的困倦超过了身上的疼痛，远处又传来了熔断生物的咆哮，源源不断的敌人已经让他不堪应付。\n「看来……只能到这儿了啊……」\n伴随着谛听低落下去的话语，空中的雀儿发出一声高亢的鸣叫。\n「啾———」\n随着雀儿的飞行，谛听看到远处爆发出原质能量耀眼的光芒，以及——生的希望。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【守望】\n谛听已经忘记了这是自己监视这片数据空间的第几天。\n他还依稀记得，在熔断爆发的最后关头，是善雅的力量将他送离了这片区域。而当他想方设法、不惜离开莱伯茨生命加入E.O.S.，最终重回这里时，这里只剩下残垣断壁和一片寂静。没有风，没有生命，甚至连源病毒都失去了活性，这里的时间仿佛都静止了。\n他花了几个月的时间，才从这片破碎的数据空间中找到通向最深处的路，并在那里发现了善雅。善雅被一颗大树环绕着，陷入了漫长的沉睡，在她的周围是已经失去活性到、浓度极高的源病毒。在看到眼前这一切的时候，谛听才明白，善雅为了压制这里的源病毒，已经用尽了力量。而现在，一旦她醒过来，这片数据空间中的源病毒就会立刻失控，造成不可预计的灾难……\n「保持现状才是最好的办法。」\n谛听绝望地得出了这个结论，他也终于知道了自己能做的一切—一继续留在这里，监视着这里的一切，驱赶那些妄图打扰善雅沉睡的熔断生物或者不怀好意的家伙。他会一直在这里守候，直到转机和新的希望到来的那一天。",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/29c297c6-66a1-4872-b5aa-77911416616a.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/29c297c6-66a1-4872-b5aa-77911416616a.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/1631a894-b206-4f89-ae17-d29716623c51.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/1631a894-b206-4f89-ae17-d29716623c51.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/29c297c6-66a1-4872-b5aa-77911416616a.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/29c297c6-66a1-4872-b5aa-77911416616a.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/1631a894-b206-4f89-ae17-d29716623c51.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/f8d84d05-8981-416e-b271-cbf891ec5342.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/1631a894-b206-4f89-ae17-d29716623c51.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/f8d84d05-8981-416e-b271-cbf891ec5342.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/3307ddbb-e227-4c14-bba6-1ed90206013b.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/3b7046f0-11aa-478b-9d7f-098ff4b852d8.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/10161c16-464a-444f-abf8-1071e427c27c.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_277/50364/842288/2025/7/18/868302.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/522073.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/389425.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/960068.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620296,
+    "title": "谛听",
+    "url": "https://www.gamekee.com/yise/620296.html",
+    "updatedAt": "2025-08-18T07:41:56.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620296_谛听.md",
+      "metadata": "03_图鉴词条/620296_谛听.json",
+      "rawApi": "_raw_api/details/620296.json"
+    }
+  }
+}

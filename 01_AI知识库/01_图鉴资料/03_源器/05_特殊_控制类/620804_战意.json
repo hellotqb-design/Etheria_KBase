@@ -1,0 +1,39 @@
+{
+  "id": 620804,
+  "kind": "yuanqi",
+  "name": "战意",
+  "entryName": "战意",
+  "group": "特殊/控制类",
+  "effect": "4：攻击力+10%；\n8：攻击力+10%，异格者释放攻击类技能后,有20%的概率追击主目标",
+  "obtain": "熔断禁区-重构兵祸\n难度关卡：噩梦1~3，地狱1~4，炼狱",
+  "description": "未有异格者装备",
+  "attributes": {
+    "矩阵效果": "4：攻击力+10%；\n8：攻击力+10%，异格者释放攻击类技能后,有20%的概率追击主目标",
+    "获取途径": "熔断禁区-重构兵祸\n难度关卡：噩梦1~3，地狱1~4，炼狱"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50364/842288/2025/7/18/313231.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_175/50364/43758/2024/3/24/629498.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/384215.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/526894.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620804,
+    "title": "战意",
+    "url": "https://www.gamekee.com/yise/620804.html",
+    "updatedAt": "2025-05-12T13:56:29.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620804_战意.md",
+      "metadata": "03_图鉴词条/620804_战意.json",
+      "rawApi": "_raw_api/details/620804.json"
+    }
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "id": 701103,
+  "kind": "character_skill_bundle",
+  "name": "凛心黛纳",
+  "entryName": "凛心黛娜",
+  "rarity": "SR",
+  "element": "恒定",
+  "faction": "海德拉银行",
+  "title": "凛光剑心",
+  "gender": "女",
+  "profession": "经理人",
+  "identityCode": "/",
+  "chipStatus": "正常",
+  "assessment": "异格者凛心黛纳，Re-A芯片状态正常，未见异常波动。\n来自海德拉银行奥芙里斯分行，是奥芙里斯分行下属第七、第十四分行的执行经理人。\n黛纳认真，谨慎，极度负责，是事事都要做到完美的顶尖精英，但也非常害怕犯错，表面冷静，但内心会非常在意可能会有的隐藏失误。\n此前，赫尔基德给银行带来巨大了损失。为了挽回损失，以宁芙涅为首，奥芙里斯分行下属所有的经理人都承受了巨大的压力。\n黛纳则接下了这次事件最棘手的部分，她会暂时负责处理赫尔基德留下的第七分行相关的事务，在有经济署调查小组入驻调查的情况下，去协助处理第七分行内出现的坏账。\n短时间内，黛纳在配合经济署调查小组展开调查的同时也用自己高效、妥当的行事风格，获取了两家分行内部留守职员的信任。\n在此过程中，黛纳展现出极强的应对能力，拉上了几位值得信任的帮手，处理了第七分行的部分坏账。\n更重要的是，保全了第七分行和第十四分行最有价值的客户资产。",
+  "stats": {
+    "生命": "122010+5300",
+    "攻击": "704+295",
+    "防御": "678+218",
+    "速度": "123+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+32%",
+    "效果抵抗": "0+12%"
+  },
+  "skills": [
+    {
+      "skillId": "701103-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "噤默执行",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_91/50364/842288/2026/3/9/751295.png",
+      "description": "冷却时间：\n罪徒，当噤默其声。凛心黛纳对敌方单体造成240%伤害，40%概率附加1回合【沉默】，攻击后提升自身25%行动进度。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【沉默】概率增加至40%\n等级4：\n潜能提升：速度值+4\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：速度值+8\n技能提升：提升行动进度效果增加至25%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "701103-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "凛心之意",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_89/h_90/50364/842288/2026/3/9/162773.png",
+      "description": "冷却时间：3\n伤害，只会让我们更加坚定。凛心黛纳受到群体攻击后，有80%概率净化全体友方1个减益效果，并附加1层【剑魄】，自身处于不可行动状态时仍可触发。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：触发凛心之意概率增加至60%\n等级3\n潜能提升：防御力+70\n技能提升：触发凛心之意概率增加至70%\n等级4：\n潜能提升：效果命中+8%\n技能提升：触发凛心之意概率增加至80%\n等级5：\n潜能提升：效果命中+12%\n技能提升：自身处于不可行动状态时仍可触发该效果",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "701103-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "天光剑裁",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_89/50364/842288/2026/3/9/368275.png",
+      "description": "冷却时间：3\n我会用这把剑，结束你的一切。对敌方全体造成260%伤害，有100%概率驱散目标2个增益效果，并有65%概率附加1回合【沉默】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至260%\n等级3\n潜能提升：生命值+1000\n技能提升：附加【沉默】概率增加至65%\n等级4：\n潜能提升：生命值+5%\n技能提升：驱散增益效果概率增加至100%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "凛心黛纳是一名辅助型异格者，其专属效果可在受到伤害之际，为团队开辟出全新的战斗路径。",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "8戍卫+12浴血之躯+6灵子黑疫"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万圣节"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "8戍卫+12浴血之躯+6灵子黑疫",
+        "推荐智壳": "万圣节"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2026/3/9/606108.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2026/3/8/957527.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2026/3/8/957527.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/785909.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/785909.jpg"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/35243.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/35243.jpg?x-image-process=image/format",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/35243.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2026/3/8/957527.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2026/3/8/957527.jpg?x-image-process=image/format",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2026/3/8/957527.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2026/3/8/957527.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp,//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/785909.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/35243.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/641808.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/740087.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/778863.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/83273.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/845196.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2026/3/9/606108.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/785909.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/785909.jpg?x-image-process=image/format",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/785909.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2026/3/8/350894.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_89/50364/842288/2026/3/9/368275.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_91/50364/842288/2026/3/9/751295.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_89/h_90/50364/842288/2026/3/9/162773.png"
+  ],
+  "source": {
+    "pageId": 701103,
+    "title": "凛心黛纳",
+    "url": "https://www.gamekee.com/yise/701103.html",
+    "updatedAt": "2026-04-09T13:41:28.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/701103_凛心黛纳.md",
+      "metadata": "03_图鉴词条/701103_凛心黛纳.json",
+      "rawApi": "_raw_api/details/701103.json"
+    }
+  }
+}

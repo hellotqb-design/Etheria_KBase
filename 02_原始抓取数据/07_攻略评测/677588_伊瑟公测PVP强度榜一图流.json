@@ -1,0 +1,42 @@
+{
+  "id": 677588,
+  "url": "https://www.gamekee.com/yise/677588.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/677588",
+  "title": "伊瑟公测PVP强度榜一图流",
+  "category": "07_攻略评测",
+  "type": 4,
+  "tag": "2",
+  "entryId": 0,
+  "gameId": 50364,
+  "createdAt": "2025-09-18T09:08:51.000Z",
+  "updatedAt": "2025-09-23T11:04:51.000Z",
+  "commentCount": 0,
+  "likeCount": 0,
+  "favoriteCount": 0,
+  "viewCount": 1133,
+  "summary": "",
+  "textLength": 56,
+  "imageCount": 10,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/2/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_236/h_400/50364/535886/2025/8/18/456670.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_236/h_400/50364/535886/2025/8/18/456670.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_236/h_400/50364/535886/2025/8/18/833091.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/535886/2025/8/18/64041.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_236/h_400/50364/535886/2025/8/18/833091.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/535886/2025/8/18/64041.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList"
+  ],
+  "user": {
+    "uid": 535886,
+    "username": "无限",
+    "description": ""
+  },
+  "crawledAt": "2026-06-15T03:28:43.457Z"
+}

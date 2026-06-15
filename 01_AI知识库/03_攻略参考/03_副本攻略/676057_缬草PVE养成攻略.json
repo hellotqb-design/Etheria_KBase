@@ -1,0 +1,55 @@
+{
+  "id": 676057,
+  "kind": "guide",
+  "title": "缬草PVE养成攻略",
+  "domainPath": [
+    "03_攻略参考",
+    "03_副本攻略"
+  ],
+  "classifyReason": "副本或PVE攻略参考",
+  "originalCategory": "07_攻略评测",
+  "text": "缬草PVE养成攻略\n\n哈喽大家这里是lala，本期攻略将为大家全方面解析缬草的PVE养成一图流：一、角色概论缬草是目前SR异格者中最泛用的生存位，朦胧梦境超强的保人能力，附加增益效果，高贵的属性适配任何队伍与副本二、技能详情普攻—沉梦对敌方单体造成伤害，小概率附加一回合睡眠小技能—泡影使目标队友获得一回合无敌，为所有队友\n\n哈喽大家这里是lala，本期攻略将为大家全方面解析缬草的PVE养成\n\n一图流：\n\n一、角色概论\n\n缬草是目前SR异格者中最泛用的生存位，朦胧梦境超强的保人能力，附加增益效果，高贵的属性适配任何队伍与副本\n\n**二、技能详情**\n\n**普攻—沉梦**\n\n对敌方单体造成伤害，小概率附加一回合睡眠\n\n**小技能—泡影**\n\n使目标队友获得一回合无敌，为所有队友附加一回合持续恢复，目标生命值低于50%时延长一回合持续恢复的持续时间\n\n**终结技—深眠**\n\n终结技是缬草的关键技能，缬草平衡友方全体生命值百分比，为自身附加两回合朦胧梦境。朦胧梦境持续时间内，缬草无法行动，只会受到伤害，队友回合开始时为其附加缬草最大生命值护盾与一种未拥有的基础增益效果；任意友方阵亡时，结束朦胧梦境，并恢复其20%最大生命。该技能5级时拥有先机效果，能够直接获得一回合朦胧梦境，推荐优先加点\n\n**加点推荐：终结技5级，其他技能不推荐**\n\n**三、矩阵推荐**\n\n为了保证缬草终结技提供护盾的量以及缬草自身的生存能力，一号位可以携带涌泉来提高缬草的生命值；二号位可以选择的矩阵较多，治愈、时光驾驭、浴血之躯等等，总之哪一个对缬草都有提升，大家根据自身拥有的源器和智壳选择就好；三号位可以选择进化荫庇或灵子黑疫，一个增加治疗与抵抗，一个增加生命值，总之只要缬草在战斗中能够不死，怎样携带都行\n\n**毕业矩阵：涌泉、时光驾驭（不固定）、灵子黑疫（不固定）**\n\n**四、智壳推荐**\n\n一般的治疗智壳并不适配缬草，推荐大家携带千兆字节增加行动能力或携带匠增加生存能力，也可以携带万圣节或万魔法典刷新技能冷却；但匠与万圣节还有万魔法典的矩阵并不包含缬草最需要的涌泉，因此还是更推荐千兆字节；在生存压力巨大的副本再选择携带另外三个智壳\n\n**前期：不羁科学、星**\n\n**中期：钻石之心**\n\n**后期：千兆字节/万魔法典/匠/万圣节**\n\n**被动推荐：涌流、援护、协鸣**\n\n五、源器推荐\n\n缬草终结技五级时在开局就可以获得一回合朦胧梦境，因此并不刚需高速启动，主词条可以安心带上生命值百分比保证生存与提供的护盾量。缬草对于副词条没有过多要求，除攻击力词条外其他都是有效词条\n\n**主词条：生命加成*3**\n\n**副词条：任意**\n\n六、角色配队\n\n缬草的属性与先机效果使其完美适配所有副本，对于词条要求不算高，pve中练度差距不大的情况下几乎能保下所有队友",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1662/h_940/50364/842288/2025/10/17/607708.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1664/h_940/50364/842288/2025/10/17/109281.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/807765.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1084/50364/664163/2025/7/30/359430.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/26/153688.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/30/107101.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/8/3/444246.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/8/3/444246.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/3/681900.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/3/817331.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/3/168537.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/3/681900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3840/h_2160/50364/878729/2025/8/3/817331.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/7/27/230962.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/7/31/425722.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/410192.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/429039.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/28/759667.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/3/735401.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/8/62083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/459884.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/565969.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/321523.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/842596.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/658875.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/812041.png"
+  ],
+  "source": {
+    "pageId": 676057,
+    "title": "缬草PVE养成攻略",
+    "url": "https://www.gamekee.com/yise/676057.html",
+    "updatedAt": "2025-09-04T06:44:18.000Z",
+    "sourceFiles": {
+      "markdown": "07_攻略评测/676057_缬草PVE养成攻略.md",
+      "metadata": "07_攻略评测/676057_缬草PVE养成攻略.json",
+      "rawApi": "_raw_api/details/676057.json"
+    }
+  }
+}

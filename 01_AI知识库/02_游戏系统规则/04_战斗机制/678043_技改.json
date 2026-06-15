@@ -1,0 +1,49 @@
+{
+  "id": 678043,
+  "kind": "system_rule",
+  "title": "技改",
+  "domainPath": [
+    "02_游戏系统规则",
+    "04_战斗机制"
+  ],
+  "classifyReason": "高置信战斗机制或公式资料",
+  "originalCategory": "06_装备智壳",
+  "text": "技改\n\nPVP小加强，但还是怕驱散，被逆翎暴打中等加强，不怕被抵抗了，但还是感觉没用，伤害不足。本来就很强，还加强。中等加强吧，让自己更快释放S3和智壳，但感觉拖到那时候，已经不好打了。大加强。提升了伤害，能驱散2个了buff了。大加强，效果抵抗和减伤都很棒，但启动有点慢啊，进肉队感觉挡不住核爆。但肉队内战\n\nPVP\n\n小加强，但还是怕驱散，被逆翎暴打\n\n中等加强，不怕被抵抗了，但还是感觉没用，伤害不足。\n\n本来就很强，还加强。中等加强吧，让自己更快释放S3和智壳，但感觉拖到那时候，已经不好打了。\n\n大加强。 提升了伤害，能驱散2个了buff了。\n\n大加强，效果抵抗和减伤都很棒，但启动有点慢啊，进肉队感觉挡不住核爆。但肉队内战应该很强。\n\n超级加强，说不定能从不入流冲到T1。本来的缺点就是S3一段伤害容易被抵抗，现在多了一段，还新增抵抗下降，无敌了。\n\n小加强。加攻是用于核爆队的，但是没其他功能性，所以不强。现在加了净化，但感觉不如加控制或推拉条。\n\n小加强。加了伤害，但无法解决容易被净化的问题，伤害也不是特别高。\n\n中等加强，加了保护能力，能打肉队了。\n\n小加强，加了伤害，但还是不好操作，不如玩别的。\n\n小加强，提升了8%的输出，但还是无法解决连击不稳定并且伤害不高的问题。\n\n大削弱。大大减少了控制能力和推条。\n\n大加强，多净化一个减益，净化3个就是75%抵抗。\n\n中等加强，增伤更快。\n\n大加强，更稳定了。肉队可带\n\n中等削弱，带了万魔不能快速解决战斗，后面更难打了。\n\n肉队削弱。",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/215/253894/2024/7/28/311743.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_88/50364/253894/2025/8/23/426856.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_678/h_145/50364/253894/2025/8/23/949891.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_682/h_109/50364/253894/2025/8/23/257098.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_691/h_141/50364/253894/2025/8/23/864328.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_704/h_143/50364/253894/2025/8/23/238673.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_706/h_110/50364/253894/2025/8/23/647507.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_706/h_264/50364/253894/2025/8/23/956012.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_707/h_171/50364/253894/2025/8/23/86035.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_709/h_172/50364/253894/2025/8/23/455555.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_711/h_116/50364/253894/2025/8/23/832530.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_714/h_204/50364/253894/2025/8/23/3111.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_716/h_303/50364/253894/2025/8/23/735179.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_717/h_206/50364/253894/2025/8/23/983183.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_717/h_206/50364/253894/2025/8/23/983183.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_678/h_145/50364/253894/2025/8/23/949891.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_691/h_141/50364/253894/2025/8/23/864328.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_718/h_140/50364/253894/2025/8/23/152992.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_718/h_204/50364/253894/2025/8/23/739469.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_722/h_203/50364/253894/2025/8/23/74185.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_723/h_331/50364/253894/2025/8/23/66583.png"
+  ],
+  "source": {
+    "pageId": 678043,
+    "title": "技改",
+    "url": "https://www.gamekee.com/yise/678043.html",
+    "updatedAt": "2025-09-23T03:30:57.000Z",
+    "sourceFiles": {
+      "markdown": "06_装备智壳/678043_技改.md",
+      "metadata": "06_装备智壳/678043_技改.json",
+      "rawApi": "_raw_api/details/678043.json"
+    }
+  }
+}

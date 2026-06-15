@@ -1,0 +1,368 @@
+{
+  "id": 645088,
+  "kind": "character_skill_bundle",
+  "name": "赫妍",
+  "entryName": "赫妍",
+  "rarity": "SSR",
+  "element": "虚",
+  "faction": "R.C.S.",
+  "title": "隐猎",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "/",
+  "chipStatus": "故障",
+  "assessment": "异格者赫妍，Re-A芯片状态故障，无法检测到任何有用信息。\n与她的哥哥赫同一样，是R.C.S.的第六行刑官，赫同的命令是她行动的唯一依据。\n据可靠情报，赫妍曾将自己的原质大部分给予了赫同，从而失去了绝大部分自我的意识。\n极度缺乏必要的常识和社交能力，对伊瑟社会的一切一无所知，无法与之正常交流。\n无论是将其当做一个独立的个体，还只是看成一件趁手的兵器，都注定是一场巨大的悲剧。",
+  "stats": {
+    "生命": "9242+3174",
+    "攻击": "1133+508",
+    "防御": "685+219",
+    "速度": "120+15",
+    "暴击率": "10%+8%",
+    "暴击伤害": "150%+32%",
+    "效果命中": "0%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "645088-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "追袭",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_114/50364/664163/2025/0/8/728575.png",
+      "description": "冷却时间：0\n对敌方单体造成2段130%伤害，每次攻击有25%概率附加2回合【禁止治疗】。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至120%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【禁止治疗】概率增加至25%\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至130%\n等级5：\n潜能提升：攻击力+10%\n技能提升：【禁止治疗】持续时间增加至2回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "645088-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "幻灭",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_114/50364/664163/2025/0/8/555587.png",
+      "description": "冷却时间：4\n痛苦……是存在的感知;当赫妍即将阵亡时，为自身附加1回合【灵魂守护】并立即对攻击自身的目标使用【处刑时刻】，该效果具有4回合冷却。而当赫妍击败敌方目标后，将根据击败目标减少的生命复活已阵亡的友方单位，且使被击败的目标无法复活。每次完整触发被动效果后(释放完【处刑时刻】或复活队友后)，赫妍将为自身附加1层【瞥视】，最多叠加3层。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：【瞥视】提升攻击力效果增加至25%\n等级3\n潜能提升：防御力+70\n技能提升：【灵魂守护】效果触发后的技能冷却减少1回合\n等级4：\n潜能提升：暴击伤害+8%\n技能提升：【瞥视】提升攻击力效果增加至40%\n等级5：\n潜能提升：暴击伤害+12%\n技能提升：【灵魂守护】效果触发后的技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "645088-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "处刑时刻",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_114/50364/664163/2025/0/8/127867.png",
+      "description": "冷却时间：3\n这是命令，不容违抗，赫妍消耗自身50%当前生命，对敌方单体造成450%伤害，自身每损失10%最大生命，该次攻击造成的伤害提升10%。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至420%\n等级3\n潜能提升：生命值+1000\n技能提升：提升伤害效果增加至10%\n等级4：\n潜能提升：速度值+5\n技能提升：伤害系数增加至450%\n等级5：\n潜能提升：速度值+10\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简介",
+      "description": "【战术定位】\n输出\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 144|\n| 源器配置 | 右三主属性暴击，爆伤，爆伤/攻击加成 |\n└─────────┴────────────┘\n【对局表现】\n单体pve速刷兵祸有着不错的效果，pvp中作为反制高速输出队伍也有着很不错的对策效果",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12攻势+8收割+8爆裂利刃"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "伯爵"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12攻势+8收割+8爆裂利刃",
+        "推荐智壳": "伯爵"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/711196.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击伤害提升"
+      ],
+      "other": [
+        "暴击伤害+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害双向提升"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害结果降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【记忆是确认存在的证明。】\n这是我从手术中恢复的第三天。\n虽然先前一直处在昏迷的状态，但我知道哥哥一直守在旁边照顾我。\n我不太记得这场手术是做什么的了，但哥哥说没问题，那一定没问题。\n我在睡梦中好像听到了类似「原质给予」、「实验成功」这样的词语。\n虽然手术成功了，但我的手还是没什么力气，就写到这里吧。\n——以上内容节选自一本破旧的日记（发现地点：莱伯茨生命实验室旧址",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【直觉是身体本能的惯性。】\n这是我从手术中恢复的第三天。\n好奇怪，为什么上一页的日记我也要记录成第三天呢？\n可惜哥哥今天不在，不然就可以问问他了。\n今天我已经能够下床走路，并且恢复地很好。\n前来照顾我的实验员说我是R.C.S.的行刑官，以后要为他们工作。\n我不知道这是什么意思，但她说哥哥已经成为了行刑官，也要为他们工作。今天哥哥不在，因为他是去为他们工作了。\n既然哥哥喜欢这个叫工作的家伙，那我也要学会接受。\n——以上内容节选自一本破旧的日记（发现地点：莱伯茨生命实验室旧址）",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【哥哥……就是一切。】\n这是我从手术中恢复的第四天。\n哥哥今天带我去工作了，我切割了很多人。\n他们总是大喊大叫，不过切割了以后，就没有声音了。\n哥哥说行刑官就是要去处刑的意思，所以我的工作就是帮哥哥进行处刑。\n手术真的非常成功，我感到我变强了很多。不仅可以轻易切割别人，身体也变得相当敏捷。\n这很好，这样我就可以帮助哥哥做他想做的事情了。只要哥哥给我命令，我一定能够出色完成。\n——以上内容节选自一本崭新的日记（发现地点：废弃的数据暗轨附近）",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/8/294138.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/8/294138.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/664163/2025/0/8/530604.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/664163/2025/0/8/530604.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_114/50364/664163/2025/0/8/127867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_114/50364/664163/2025/0/8/555587.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_114/50364/664163/2025/0/8/728575.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/8/294138.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/8/294138.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/664163/2025/0/8/530604.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_215/h_306/50364/664163/2025/0/8/194612.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/15/221412.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/15/34211.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/15/526068.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/15/636921.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/15/962872.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_215/h_306/50364/664163/2025/0/8/194612.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/664163/2025/0/8/530604.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/711196.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/664163/2025/0/8/901055.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 645088,
+    "title": "赫妍",
+    "url": "https://www.gamekee.com/yise/645088.html",
+    "updatedAt": "2025-08-18T08:51:07.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/645088_赫妍.md",
+      "metadata": "03_图鉴词条/645088_赫妍.json",
+      "rawApi": "_raw_api/details/645088.json"
+    }
+  }
+}

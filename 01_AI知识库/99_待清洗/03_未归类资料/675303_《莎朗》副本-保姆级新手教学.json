@@ -1,0 +1,41 @@
+{
+  "id": 675303,
+  "kind": "cleanup_candidate",
+  "title": "《莎朗》副本-保姆级新手教学",
+  "domainPath": [
+    "99_待清洗",
+    "03_未归类资料"
+  ],
+  "classifyReason": "暂无足够规则判定到正式知识区",
+  "originalCategory": "04_新手开荒",
+  "text": "《莎朗》副本-保姆级新手教学",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_6.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/444686.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/494466.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/590629.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/676500.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/692180.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/705755.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/753864.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/799661.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/851564.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/video/50364/889180/2025/7/27/543076.png"
+  ],
+  "source": {
+    "pageId": 675303,
+    "title": "《莎朗》副本-保姆级新手教学",
+    "url": "https://www.gamekee.com/yise/675303.html",
+    "updatedAt": "2025-08-27T14:05:57.000Z",
+    "sourceFiles": {
+      "markdown": "04_新手开荒/675303_《莎朗》副本-保姆级新手教学.md",
+      "metadata": "04_新手开荒/675303_《莎朗》副本-保姆级新手教学.json",
+      "rawApi": "_raw_api/details/675303.json"
+    }
+  }
+}

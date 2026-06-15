@@ -1,0 +1,356 @@
+{
+  "id": 619780,
+  "kind": "character",
+  "name": "炼",
+  "entryName": "炼",
+  "rarity": "SSR",
+  "element": "理",
+  "faction": "协会",
+  "title": "浴火之凰",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "E05-042411",
+  "chipStatus": "正常",
+  "assessment": "该档案受到保护，仅供E.O.S.和超链者协会内部调阅，禁止外传。\n异格者炼，身份编码E05-042411，Re-A芯片状态正常，未见异常波动。\n她就是可靠的代名词，曾任熔断警备署特别行动四队的队长，拥有丰富的实战经验和敏锐的洞察力，成功处理过上千件棘手的委托，是协会近年来最为优秀的异格者之一。\n有她作为主心骨，就是一支队伍最好的保障。",
+  "stats": {
+    "生命": "9576+3208",
+    "攻击": "1248+537",
+    "防御": "607+211",
+    "速度": "116+15",
+    "暴击率": "10%+20%",
+    "暴击伤害": "150%+12%",
+    "效果命中": "0%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "619780-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "离火剑 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_80/h_70/50364/43758/2024/3/12/323506.png",
+      "description": "冷却时间：0\n炼释放火焰缠绕剑身使出连斩；对单体敌人造成3段90%伤害，并回复伤害量50%的生命。\n离九火：炼每拥有一种增益效果，所造成的伤害结果提升6%，最多叠加5层。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至80%\n等级3\n潜能提升：攻击力+100\n技能提升：回复百分比增加至50%\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至90%\n等级5：\n潜能提升：攻击力+10%\n技能提升：每拥有一种增益效果提升的伤害结果增加至6%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "等级2",
+            "等级3",
+            "等级4",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "619780-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "炽明羽 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_80/h_70/50364/43758/2024/3/12/308535.png",
+      "description": "冷却时间：3\n炼凝结出数只小型火凤射向目标；攻击随机单体敌人4次，每次造成160%伤害，炼每拥有一种增益效果都会额外射出一发火凤（最多三发），命中同一目标时伤害衰减20%，最多衰减3次。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至150%\n等级3\n潜能提升：防御力+70\n技能提升：发动的攻击次数增加至4次\n等级4：\n潜能提升：暴击率+4%\n技能提升：伤害系数增加至160%\n等级5：\n潜能提升：暴击率+8%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "等级2",
+            "等级3",
+            "等级4",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "619780-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "百相烬焚 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_80/h_70/50364/43758/2024/3/12/276317.png",
+      "description": "冷却时间：4\n炼解除剑匣限制，释放全部原质能量，召唤火凰；对全体敌人造成300%伤害，并有80%概率吸取目标30%行动进度。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至280%\n等级3\n潜能提升：生命值+1000\n技能提升：吸吸取行动进度概率增加至80%\n等级4：\n潜能提升：速度值+5%\n技能提升：伤害系数增加至300%\n等级5：\n潜能提升：速度值+10\n技能提升：听吸取行动进度效果增加至30%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "等级2",
+            "等级3",
+            "等级4",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n输出，偷条\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 112|\n| 源器配置 | 右三主属性暴击，爆伤，爆伤/攻击加成 |\n└─────────┴────────────┘\n【对局表现】\n前期萌新开荒必练角色，由于2技能会分散输出不稳定，中期做完任务可重置此角色。",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12洞悉穿刺+8狂怒+6爆裂利刃"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "白撩武者"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12洞悉穿刺+8狂怒+6爆裂利刃",
+        "推荐智壳": "白撩武者",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_277/50364/842288/2025/7/18/718274.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击伤害提升"
+      ],
+      "other": [
+        "暴击伤害+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【炽热】\n「你为什么会加入E.O.S.？」\n解决完又一次熔断险情，彼安汀忍不住对躺在病床上的炼问出了这个最关心的问题。\n「为了理想。」\n「就这么简单？真的值得吗·····」\n炼并没有立即回答，只是默默看起了事故调查报告。\n彼时的伊瑟开始频繁出现熔断现象，E.O.S.不得不吸纳更多的异格者来组建应急小队，专门负责突发的危险。这支临时队伍的称呼有很多——「救火队」、「敢死队」……甚至是「炮灰组」。\n这次任务的目标原本是一片繁华的商业区，却在源病毒的侵蚀下化为鬼域，感染者与熔断生物如同潮水般源源不绝。E.O.S.虽然配发了针对源病毒的「试剂」，但在那种情形下也只是杯水车薪。\n炼与彼安汀是小队中最后幸存的异格者，拼尽全力将一位超链者护送到了那个涌出源病毒的裂隙前，成功挽救了濒临破碎的熔断空间。\n队友的牺牲、惨重的伤亡，最终变成调查报告上冰冷的数字，和新闻中寥寥数语的报道。\n炼看到了报告的结尾，E.O.S.已经决定将临时组建的熔断警察队伍，统合成立一个正式的组织，并命名为「熔断警备署」。这个组织将破天荒地交由异格者来领导，专门处理由源病毒引发的各项灾害。\n「当然，一切都是有意义的。」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【燃尽】\n「还记得你为什么加入E.O.S.吗？」\n西弗里的临时基地中，彼安汀把玩着手中的控制器，忽然提起一个看似无关的问题。\n「把它放下。我早就说过，为了理想—一这和现在的话题有什么关系？」\n「既然你当初为了理想，甚至愿意付出自己的生命，那现在，想必更不会阻止这一点必要的牺牲。」\n「你口中必要的牺牲，很可能是成千上万无辜者的性命。」\n「只是执行安全防务署的命令而已。你也很清楚，如果你我不启动灵魂杀手，只会引起高层的关注，派遣其他人来镇，压。你那些无谓的仁慈，并不会拯救他们。」\n炼不得不承认彼安汀说的没错，无论是谁站在这个位置上，恐怕都会做出和她一样的选择。\n「我原本以为你是能与我共进退的伙伴，愿意和我一起想办法解决问题。看来是我错了。」\n「抱歉，我敬重你的理想，但我可没有你这么崇高的品格，这个坏人就让我来当好了。」\n在炼动手抢夺之前，彼安汀就抢先一步按下了控制器。\n灵魂杀手启动时无声无息，然而一切都已尘埃落定。\n遭到背叛的愤怒和挫败感霎时间涌上心头，炼下意识地握住剑柄，但最后的理智让她无法对彼安汀拔出武器。\n她们只是注定无法走上同一条道路。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【涅槃】\n「你怎么会想到离开E.0.S.？」\n很多人都这样问过炼，新认识的搭档格雷也有这样的好奇。\n「……一言难尽，非要说的话，就是因为理想吧。」\n这是一个颇为奇怪的答案，但格雷体贴地没有多问。\n在炼看来，E.O.S.就像是承载着伊瑟命运的万吨巨轮，无数人的决策、希望、私欲……明里暗里交织在一起，共同推动着这艘巨轮飞速前进着。\n谁也不知道它究竟会驶向何方，但炼能确定，那并不是她所期待的方向。更何况，单凭她的力量，绝对无法扭转E.O.S.的风向，因此她只能选择离开。\n从熔断警备署到安全防务署，再到退出E.O.S.加入协会，炼的日常其实并没有发生太大的变化，她依然奔波在熔断区之间，护送协会的超链者们去解决一个又一个源病毒的感染源。\n只不过这一次，不再有生硬的命令和冰冷的公文，她可以用自己认同的方式来解决难题，也不再需要做出违心的选择。\n在协会中，人类与异格者之间并没有分明的壁垒，大家完全依照喜好自由地组建团队，看似纪律松散，却又有着难言的默契，可以放心地交托后背。\n协会只是伊瑟微不足道的一角，却也是炼理想世界的缩影。",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/349800.png",
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1151/h_753/50364/43758/2024/3/12/983980.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/349800.png\n//cdnimg-v2.gamekee.com/wiki2.0/images/w_1151/h_753/50364/43758/2024/3/12/983980.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/547642.png",
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_778/h_1007/50364/43758/2024/3/12/953223.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/547642.png\n//cdnimg-v2.gamekee.com/wiki2.0/images/w_778/h_1007/50364/43758/2024/3/12/953223.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1151/h_753/50364/43758/2024/3/12/983980.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/547642.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/349800.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_232/h_393/50364/43758/2024/3/12/124178.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_277/50364/842288/2025/7/18/718274.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/483054.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/389425.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/960068.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_778/h_1007/50364/43758/2024/3/12/953223.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_80/h_70/50364/43758/2024/3/12/276317.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_80/h_70/50364/43758/2024/3/12/308535.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_80/h_70/50364/43758/2024/3/12/323506.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 619780,
+    "title": "炼",
+    "url": "https://www.gamekee.com/yise/619780.html",
+    "updatedAt": "2025-08-18T08:42:43.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/619780_炼.md",
+      "metadata": "03_图鉴词条/619780_炼.json",
+      "rawApi": "_raw_api/details/619780.json"
+    }
+  }
+}

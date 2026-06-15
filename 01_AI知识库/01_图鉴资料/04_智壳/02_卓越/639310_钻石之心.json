@@ -1,0 +1,111 @@
+{
+  "id": 639310,
+  "kind": "zhike",
+  "name": "钻石之心",
+  "entryName": "钻石之心",
+  "rarityGroup": "卓越",
+  "starRarity": "★★★★",
+  "role": "辅助型",
+  "description": "外观华丽、闪闪惹人爱的智壳，而它也会努力回应着这份感情，保护着爱它的人们。",
+  "stats": {
+    "生命": "3129",
+    "攻击": "180",
+    "防御": "257",
+    "速度": "30"
+  },
+  "skills": [
+    {
+      "skillId": "639310-skill-1",
+      "order": 1,
+      "section": "宠物技能",
+      "name": "钻石之心（已觉醒）",
+      "description": "冷却时间：4回合\n加防 护盾\n本体行动前，使其在2回合内防御提升550，再为本体异格者和当前血量百分比最低的队友异格者附加2回合相当于300%自身防御的【护盾】。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "金刚"
+      ],
+      "other": [
+        "金刚 4/8/12",
+        "防御力+10%/+25%/+45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾驰"
+      ],
+      "other": [
+        "疾驰 4/8/12",
+        "速度值+8%/+20%/+35%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "治愈"
+      ],
+      "other": [
+        "治愈 4/8",
+        "生命值+10%/+10%；治疗效果提升25%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "荆棘"
+      ],
+      "other": [
+        "荆棘 4/8",
+        "防御力+10%/10%；异格者受到攻击后，有25%的概率用普通攻击反击对方"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★★",
+    "定位": "辅助型",
+    "生命": "3129",
+    "攻击": "180",
+    "防御": "257",
+    "速度": "30"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/152994.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/586048.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/831973.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_333/h_380/50364/43758/2024/9/25/320867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_341/h_316/50364/43758/2024/9/25/584378.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_359/h_374/50364/43758/2024/3/24/493364.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_370/h_355/50364/43758/2024/9/25/423740.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_370/h_355/50364/43758/2024/9/25/423740.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/831973.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/295654.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_410/h_397/50364/43758/2024/3/24/691769.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_430/h_380/50364/43758/2024/9/25/746771.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_458/h_469/50364/43758/2024/3/24/238739.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/295654.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 639310,
+    "title": "钻石之心",
+    "url": "https://www.gamekee.com/yise/639310.html",
+    "updatedAt": "2025-08-17T07:31:35.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639310_钻石之心.md",
+      "metadata": "03_图鉴词条/639310_钻石之心.json",
+      "rawApi": "_raw_api/details/639310.json"
+    }
+  }
+}

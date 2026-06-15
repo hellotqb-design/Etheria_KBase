@@ -1,0 +1,176 @@
+{
+  "id": 639300,
+  "kind": "zhike",
+  "name": "金狮子",
+  "entryName": "金狮子",
+  "rarityGroup": "传说",
+  "starRarity": "★★★★",
+  "role": "攻击型",
+  "description": "「狮子搏兔，亦用全力」一一不论敌人是谁，它都会展现出最强大的战力，是非常可靠的伙伴。",
+  "stats": {
+    "生命": "2922",
+    "攻击": "584",
+    "防御": "183",
+    "速度": "40"
+  },
+  "skills": [
+    {
+      "skillId": "639300-skill-1",
+      "order": 1,
+      "section": "宠物技能",
+      "name": "金狮子（已觉醒）",
+      "description": "冷却时间：0回合\n增益\n本体异格者每使用2次1技能，则提升本体8%伤害结果和15%效果命中，最多叠加5层。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "攻势"
+      ],
+      "other": [
+        "攻势 4/8/12",
+        "攻击力+10%/+25%/+45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾驰"
+      ],
+      "other": [
+        "疾驰 4/8/12",
+        "速度值+8%/+20%/35%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "战意"
+      ],
+      "other": [
+        "战意 4/8",
+        "攻击力+10%/+10%；异格者释放攻击类技能后，有20%的概率追击主目标"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "荆棘"
+      ],
+      "other": [
+        "荆棘 4/8",
+        "防御力+10%/+10%；异格者受到攻击后，有25%的概率用普通攻击反击对方"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "洞悉穿刺"
+      ],
+      "other": [
+        "洞悉穿刺 6/12",
+        "暴击伤害+18%/+18%；\n回合内异格者造成的前三次伤害分别额外提升25%、15%和5%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "乘势追击"
+      ],
+      "other": [
+        "乘势追击 6/12",
+        "暴击率+12%/+12%；\n攻击时，目标每有一种减益或控制效果，伤害额外提升6%，最多提升36%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "暴烈利刃"
+      ],
+      "other": [
+        "暴烈利刃 6",
+        "暴击率+12%，暴击伤害+20%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾影强袭"
+      ],
+      "other": [
+        "疾影强袭 6",
+        "速度值+15%，攻击力+20%"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★★",
+    "定位": "攻击型",
+    "生命": "2922",
+    "攻击": "584",
+    "防御": "183",
+    "速度": "40"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/664163/2025/8/17/249969.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/115316.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/306212.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/824266.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/972828.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/129567.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/224057.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/24038.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/400835.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/444124.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/602257.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2782/h_2951/50364/842288/2026/1/11/708858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2784/h_3251/50364/842288/2026/1/11/832973.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2896/h_3297/50364/842288/2026/1/11/955923.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3103/h_3029/50364/842288/2026/1/11/936965.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_343/h_364/50364/43758/2024/9/25/982532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_362/h_342/50364/43758/2024/9/25/137967.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_362/h_342/50364/43758/2024/9/25/137967.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/175683.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/602257.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_418/h_386/50364/43758/2024/9/25/539847.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_441/h_380/50364/43758/2024/9/25/18867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/175683.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/4120.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/471858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/533928.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/877809.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/43758/2024/9/25/444616.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/304300.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/868491.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/517350.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/532694.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/730155.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/833837.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/978071.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 639300,
+    "title": "金狮子",
+    "url": "https://www.gamekee.com/yise/639300.html",
+    "updatedAt": "2025-08-17T07:28:33.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639300_金狮子.md",
+      "metadata": "03_图鉴词条/639300_金狮子.json",
+      "rawApi": "_raw_api/details/639300.json"
+    }
+  }
+}

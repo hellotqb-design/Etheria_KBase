@@ -1,0 +1,39 @@
+{
+  "id": 672660,
+  "url": "https://www.gamekee.com/yise/672660.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/672660",
+  "title": "三源器副本一图流便携攻略1.0",
+  "category": "06_装备智壳",
+  "type": 4,
+  "tag": "2",
+  "entryId": 0,
+  "gameId": 50364,
+  "createdAt": "2025-08-01T15:16:18.000Z",
+  "updatedAt": "2025-08-10T15:21:05.000Z",
+  "commentCount": 0,
+  "likeCount": 0,
+  "favoriteCount": 0,
+  "viewCount": 1844,
+  "summary": "这几天写各大装备本以及智壳本详细攻略，写的头昏脑胀我的习惯是做需求分析，根据目标本的关键机制，找出对应的对策英雄/智壳然后在汇总出一个通用的攻略然而伊瑟这个游戏，不亏是Jack周精心制作的“第三代魔灵Like游戏”我用表格拉出了三个装备本的需求之后，发现，这根本不是能用一队5个人作出通用攻略的换句话",
+  "textLength": 298,
+  "imageCount": 7,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1870/h_843/50364/100542/2025/7/10/586915.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg01.gamekee.com/M00/1A/95/ChpCl2EQqoiEFBbvAAAAAJyEU4Q738_100x100.png"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList"
+  ],
+  "user": {
+    "uid": 100542,
+    "username": "杨不悔",
+    "description": ""
+  },
+  "crawledAt": "2026-06-15T03:29:47.908Z"
+}

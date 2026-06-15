@@ -1,0 +1,257 @@
+{
+  "id": 668684,
+  "game_id": 50364,
+  "entry_id": 189896,
+  "uid": 267618,
+  "type": 4,
+  "title": "重构兵祸攻略",
+  "tag": "2",
+  "created_at": 1751432470,
+  "updated_at": 1751512956,
+  "updated_uid": 267618,
+  "comment_at": 1751432470,
+  "last_at": 1754938593,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "此攻略写于2025年7月2日前瞻：普通兵祸，遵循辅助增伤（莉莉、芙蕾雅、海因等）、破甲（克罗斯、戴娜等）、输出手(夜离、谛听、镰刀等)、奶妈（缬草、米亚千名奶等）的速度顺序，打不过就在低端本沉淀+强化装备理论上都是能过的，此篇攻略着重讲炼狱兵祸如何打。炼狱兵祸的难点，在于如何驱散主怪的免疫，并抗住主",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1938/h_1066/50364/267618/2025/6/2/24879.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/6/2/360690.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/6/2/793829.png",
+  "model_ids": "",
+  "like_count": 3,
+  "unlike_count": 0,
+  "view_count": 10483,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "韩国",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 3,
+  "video_list": "[{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/3/803311.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/3/784258.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/3/522986.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/3/37186.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0}]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 668684,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"此攻略写于2025年7月2日\",\"color\":\"rgb(56, 158, 13)\"}],\"textAlign\":\"right\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"前瞻：\",\"bold\":true,\"fontSize\":\"18px\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"普通兵祸，遵循 辅助增伤（莉莉、芙蕾雅、海因 等）、破甲（克罗斯、戴娜 等）、输出手(夜离、谛听、镰刀 等)、奶妈（缬草、米亚 千名奶 等）的速度顺序，打不过就在低端本沉淀+强化装备理论上都是能过的，此篇攻略着重讲炼狱兵祸如何打。\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"炼狱兵祸的难点，在于如何驱散主怪的免疫，并抗住主怪+右手的输出，击败主怪，现在炼狱兵祸削弱过的关系，除了毒队以外，直伤流也越来越多，甚至有开发出速刷流，按现在策划的思路，老副本只会削弱 不太可能增强，以后也只会削，或出更强的副本。\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"9UfCobqSsfrmAs3M\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1938/h_1066/50364/267618/2025/6/2/24879.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1938px\",\"height\":\"1066px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\",\"bold\":true,\"fontSize\":\"18px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"bold\":true,\"fontSize\":\"18px\",\"text\":\"第一种打法  毒队\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"炼狱兵祸的毒队，主要以  \"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620257.html\",\"children\":[{\"text\":\"暗善亚\"}]},{\"text\":\"、\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639260.html\",\"children\":[{\"text\":\"莉莉\"}]},{\"text\":\"为核心、辅以\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/639291.html\",\"children\":[{\"text\":\"缬草\"}]},{\"text\":\"、\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/620281.html\",\"children\":[{\"text\":\"方格斯\"}]},{\"text\":\"以及驱散角色（驱散有\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/660874.html\",\"children\":[{\"text\":\"米亚\"}]},{\"text\":\"、\"},{\"type\":\"link\",\"url\":\"https://www.gamekee.com/yise/645156.html\",\"children\":[{\"text\":\"维罗妮卡\"}]},{\"text\":\"、赫同等）这里最优推荐是米亚，个人体感驱散角色维罗妮卡比赫同舒服些，原因我会在下面讲。\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"阵容：\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"bold\":true,\"fontSize\":\"16px\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"zZ5brnTFwhZSaDxt\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/6/2/360690.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2532px\",\"height\":\"1170px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"驱散：\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"264速以上（可以跑过主怪），命中140%以上（带2个效命核心基本够用，抵抗就重来），越肉越好，扛不住智壳低练度可以带匠\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"米亚- 经指正米亚驱散要310速，能超过右手，否则有人被打会放加血而不是驱散是最稳的，米亚的buff减伤，加回血，还可以给队友减CD，可以提供最高的容错率\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"碎碎念：策划什么时候给我发个米亚？ 嗯？？\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"维罗妮卡- 大招可以偷免疫+给队友分buff和免死，在有115的缬草情况下，一速维罗妮卡可以给队友提供加攻、护盾、免疫、免死 是非常好用的，且不用特意调攻击力，避免莉莉不能把S2丢给主C，用其他驱散角色，因为缬草的关系，第一个会吃加攻，经常会导致莉莉S2加错人\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"赫同 - 没啥好说的，速度保持264以上 核心可以2命中 1暴击率 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"莉莉：\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"最理想情况是二速，但是如果你的莉莉拉了主C后 主C 不超车驱散角色的情况下，也可以做一速 速度越快越好 扛不住智壳低练度可以带匠\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"如果你没有莉莉，可以上暗锤等其他辅助，确保不掉人，慢慢毒死\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"tips：莉莉二技能默认拉攻击力最高的人，确保你的主C 是最高攻击力\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"暗善、方格式等毒角色：\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"命中140%以上 速度200左右 血量2W以上、防御1500以上，在这个条件上越强越好 扛不住智壳低练度可以带匠\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"高练度暗善可以带万魔，暗善自动ai是有2技能先放2技能，如果目标有毒则放3，所以叠毒还是有用的\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"缬草：\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"血3W以上越多越好，速度不限，但最好有个160左右 不然可能续不上无敌，导致死人灭团 扛不住智壳低练度可以带\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"tips：缬草S3满级，其他队友回合开始前会给一个护盾+基础buff，这里基础buff是按照 加攻、加防、暴击、速度的顺序给你加的。举例，没有加攻buff则给你加攻，有加功就给你加防这个顺序，因此你可能会遇到莉莉二技能不给暗雅的情况，可以适当调整驱散的装备，比如头部不强化，这样即时加功 攻击力也大概率不会超过暗善\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"以上面板均为自动面板，如手动可以适当降低\",\"bold\":true}]},{\"type\":\"paragraph\",\"textAlign\":\"center\",\"children\":[{\"bold\":true,\"text\":\"附上AUTO通关小视频\",\"color\":\"rgb(255, 0, 0)\",\"underline\":true}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/3/784258.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/3/803311.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"第二种打法  直伤流\",\"bold\":true,\"fontSize\":\"18px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"6月份，炼狱兵祸削弱了boss血量后，直伤流也越来越多了起来，基本是以地狱4的阵容为基础，增加了一个一速驱散角色\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"bold\":true,\"fontSize\":\"18px\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"阵容：\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"yxQ5DyxFMqiKja9s\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/6/2/793829.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2532px\",\"height\":\"1170px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"驱散：\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"264速以上（可以跑过主怪），命中140%以上（带2个效命核心基本够用，抵抗就重来），越肉越好，扛不住智壳低练度可以带匠\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"米亚- 经指正米亚驱散要310速，能超过右手，否则有人被打会放加血而不是驱散是最稳的，米亚的buff减伤，加回血，还可以给队友减CD，可以提供最高的容错率\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"碎碎念：策划什么时候给我发个米亚？ 嗯？？\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"维罗妮卡- 大招可以偷免疫+给队友分buff和免死，在有115的缬草情况下，一速维罗妮卡可以给队友提供加攻、护盾、免疫、免死 是非常好用的，且不用特意调攻击力，避免莉莉不能把S2丢给主C，用其他驱散角色，因为缬草的关系，第一个会吃加攻，经常会导致莉莉S2加错人\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"赫同 - 没啥好说的，速度保持264以上 核心可以2命中 1暴击率 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"破甲：\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"命中140%以上，建议最好作为2速，让主C的输出都吃到破甲、增伤、智壳带万魔相对其他的好些，因为左手会给boss驱散一个dbuff，万魔更好覆盖破甲\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"推荐克罗斯、戴娜\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"莉莉：\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"最理想情况是三速，但是如果你的莉莉拉了主C后 主C 不超车驱散角色和破甲角色的情况下也可以做一速，速度越快越好 扛不住智壳低练度可以带匠\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"如果没有莉莉 可以上2个C\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"tips：莉莉二技能默认拉攻击力最高的人，确保你的主C 是最高攻击力\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"主C：\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"攻击力3000以上，暴击率80%以上，爆伤350%以上，越高越好，套装推荐洞悉+狂怒这套比较通用，可以应付大部分场合，理论上乘胜吃满是比洞悉高的，但是条件比较苛刻\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"推荐夜离、谛听、镰刀、赫妍等 赫同打的太慢了不是很建议，如果只有赫同也可以玩4保1赫同 \"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"缬草：\",\"bold\":true,\"fontSize\":\"16px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"血3W以上越多越好，速度不限，但最好有个160左右 不然可能续不上无敌，导致死人灭团 扛不住智壳低练度可以带\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"tips：缬草S3满级，其他队友回合开始前会给一个护盾+基础buff，这里基础buff是按照 加攻、加防、暴击、速度的顺序给你加的。举例，没有加攻buff则给你加攻，有加功就给你加防这个顺序，因此你可能会遇到莉莉二技能不给暗雅的情况，可以适当调整驱散的装备，比如头部不强化，这样即时加功 攻击力也大概率不会超过暗善\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"12px\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"以上面板均为自动面板，如手动可以适当降低\",\"bold\":true}]},{\"type\":\"paragraph\",\"textAlign\":\"center\",\"children\":[{\"bold\":true,\"text\":\"附上AUTO通关小视频\",\"color\":\"rgb(255, 0, 0)\",\"underline\":true}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/3/37186.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/267618/2025/6/3/522986.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\",\"bold\":true,\"fontSize\":\"18px\"}],\"textAlign\":\"left\"},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"bold\":true,\"fontSize\":\"18px\",\"text\":\"第三种打法  直伤超进化=速刷流\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"bold\":true,\"fontSize\":\"18px\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"当你有多套输出装备且有角色的情况下 可以进行速刷，主要角色 海因、赫妍、谛听、戴娜 最后一个选增伤（彼安汀、芙蕾雅、克罗斯）或者再来个输出（夜离 镰刀）都可以\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"一速海因驱散、二速戴娜破甲增伤，然后赫妍反击+大招 其他主C 输出 一波带走\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"此时你已经是大佬了，面板请自定~~~~\"}]},{\"type\":\"paragraph\",\"textAlign\":\"left\",\"children\":[{\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1938/h_1066/50364/267618/2025/6/2/24879.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/6/2/360690.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2532/h_1170/50364/267618/2025/6/2/793829.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 267618,
+    "username": "权",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 2,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 21123758,
+    "content_num": 17,
+    "read_num": 119075,
+    "like_num": 39
+  },
+  "update_user": {
+    "uid": 267618,
+    "username": "权",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 267618,
+      "username": "权",
+      "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+      "last_ip_area": "韩国",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 675221,
+      "name": "重构兵祸全面解析",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/26/249073.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675321,
+      "name": "多琪全面解析",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/436122.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675314,
+      "name": "奥洛拉全面解析",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/476926.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 668697,
+      "name": "炼狱多琪攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1506/h_748/50364/267618/2025/6/2/418791.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 668705,
+      "name": "炼狱奥洛拉攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1504/h_752/50364/267618/2025/6/2/767481.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 672683,
+      "name": "智壳源器低配攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/154257/2025/7/2/112273.jpg",
+      "jump_url": ""
+    }
+  ]
+}

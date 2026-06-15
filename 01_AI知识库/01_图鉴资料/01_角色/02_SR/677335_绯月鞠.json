@@ -1,0 +1,316 @@
+{
+  "id": 677335,
+  "kind": "character",
+  "name": "绯月鞠",
+  "entryName": "绯月鞠",
+  "rarity": "SR",
+  "element": "破序",
+  "faction": "踯躅街",
+  "title": "赤月之蹴",
+  "gender": "女",
+  "profession": "绯月馆馆主",
+  "identityCode": "/",
+  "chipStatus": "正常",
+  "assessment": "异格者绯月鞠，Re-A芯片状态正常，未见异常波动。\nE-07地下游艺街区手鞠馆绯月馆的主人，贪玩好胜的游戏天才，街区里最出名的麻烦制造者，罗喉忠诚的下属。\n崇尚实力，讲究输赢，认为赢家通吃，相信弱肉强食。\n如果有求于她，就必须在她制定的游戏规则下胜过她，才能赢得她的尊重，换取她的帮助。然而一旦输给了她，往往会为此付出生命的代价。\n起初，她只是地下街区一无所有的流鬼，但凭借以命搏命的勇气，为自己赢得了一套机械义体，摆脱了孱弱的身体，获得了更强的力量。\n之后，依靠自己能力以及手鞠球的技艺在游艺街混出了一番名堂，此后更是摆下擂台，迎接所有人的挑战。\n通过摆擂的方式，她挣下了一大笔钱，并在游艺街里建了一座手鞠馆--绯月馆。\n虽然挑战者不计其数，但没有任何一个人能够正面赢下绯月鞠的魔球，直到罗喉的出现。\n一场未公开的赌约，就这样在二人之间展开。最终，绯月鞠愿赌服输，将自己的自由典押给了罗喉。\n尽管没人知道绯月鞠有过这场失败，但她依然信守自己的承诺，并暗下决心，一定会在未来胜过罗喉一次，赢回自己的自由。\n这家伙看上去很不好惹，实际上对承诺很看重，即使只是口头上答应的事情，也会竭尽全力设法做到。",
+  "stats": {
+    "生命": "12538+5384",
+    "攻击": "755+300",
+    "防御": "815+232",
+    "速度": "123+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+32%",
+    "效果抵抗": "12%"
+  },
+  "skills": [
+    {
+      "skillId": "677335-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "鞠返",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_80/50364/842288/2025/8/15/83625.jpeg",
+      "description": "冷却时间：\n别走神，吃我一球!绯月鞠对敌方单体造成2段120%伤害，最后一击有40%概率击退目标25%行动进度。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至110%\n等级3\n潜能提升：攻击力+100\n技能提升：击退行动进度概率增加至40%\n等级4：\n潜能提升：速度值+4\n技能提升：伤害系数增加至120%\n等级5：\n潜能提升：速度值+8\n技能提升：击退行动进度效果增加至25%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "677335-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "鞠彩",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_85/h_74/50364/842288/2025/8/15/480922.png",
+      "description": "冷却时间：3\n要玩，就玩得更刺激点!绯月鞠提供光环效果-【鞠彩】:全场单位攻击提升30%，且治疗效果额外下降30%，我方不可再被附加【攻击上升】",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：攻击上升效果增加至25%\n等级3\n潜能提升：防御力+70\n技能提升：额外降低治疗效果增加至25%\n等级4：\n潜能提升：效果命中+8%\n技能提升：攻击上升效果增加至30%\n等级5：\n潜能提升：效果命中+12%\n技能提升：额外降低治疗效果增加至30%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "677335-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "爆裂手鞠",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_95/h_76/50364/842288/2025/8/15/108782.jpeg",
+      "description": "冷却时间：4\n就让你见识见识，真正的手鞠球技巧!绯月鞠击出手鞠球，对敌方全体造成2段150%伤害，首次攻击有100%概率附加2回合【抵抗下降】，最后一击有60%概率附加1回合【石化】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至150%\n等级3\n潜能提升：生命值+1000\n技能提升：附加【石化】概率增加至60%\n等级4：\n潜能提升：生命值+5%\n技能提升：附加【抵抗下降】概率增加至100%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n控制，减益\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 555|\n| 源器配置 | 右三主属性3命中加成 |\n└─────────┴────────────┘\n【对局表现】\n偏pvp的角色，大招一段附加抵抗下降可以更高概率附加上第二段的石化效果，控制效果十分强力",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8奋进+8讯光天击"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万魔法典"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8奋进+8讯光天击",
+        "推荐智壳": "万魔法典"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/639936.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/8/15/620020.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/8/15/620020.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/910475.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/910475.jpg"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/8/15/620020.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/842288/2025/8/15/620020.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/910475.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/306060.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/641808.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/740087.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/778863.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/83273.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50364/842288/2025/7/18/845196.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/639936.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/306060.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/910475.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2025/8/15/567145.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_85/h_74/50364/842288/2025/8/15/480922.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_80/50364/842288/2025/8/15/83625.jpeg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_95/h_76/50364/842288/2025/8/15/108782.jpeg"
+  ],
+  "source": {
+    "pageId": 677335,
+    "title": "绯月鞠",
+    "url": "https://www.gamekee.com/yise/677335.html",
+    "updatedAt": "2025-09-15T04:43:55.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/677335_绯月鞠.md",
+      "metadata": "03_图鉴词条/677335_绯月鞠.json",
+      "rawApi": "_raw_api/details/677335.json"
+    }
+  }
+}

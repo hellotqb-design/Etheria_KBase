@@ -1,0 +1,335 @@
+{
+  "id": 675602,
+  "game_id": 50364,
+  "entry_id": 193652,
+  "uid": 640664,
+  "type": 4,
+  "title": "笼潮——贝兹比 全面测评&攻略",
+  "tag": "2",
+  "created_at": 1756452225,
+  "updated_at": 1756459057,
+  "updated_uid": 640664,
+  "comment_at": 1756452225,
+  "last_at": 1756452329,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "前言：一切理属性Boss都将被海浪吞噬！养成篇首先我们来简单介绍一下贝兹比的技能1技能普通攻击—激流对敌方造成220%的单体伤害，并且有40%的概率附加2回合禁止治疗，其中贝兹比的核心被动：浪涌，对方每拥有一个减益效果，对其增伤10%，如果是理属性，并且是技能主目标，增伤30%，假设对面都是理属性，",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_367/h_386/50364/2025/8/29/1d921daa-9dac-4896-a325-e88c65e1fcb2png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_369/h_292/50364/2025/8/29/a524ccbe-2af2-4e38-824d-45ba94785e3dpng,//cdnimg-v2.gamekee.com/wiki2.0/images/w_367/h_298/50364/2025/8/29/323fa3cc-d8ea-4787-9a89-466a0977caa6png",
+  "model_ids": "",
+  "like_count": 2,
+  "unlike_count": 0,
+  "view_count": 6109,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "四川省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 621726,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1756453423,
+  "server_id": 0,
+  "image_num": 12,
+  "video_list": "[{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/640664/2025/7/29/975638.jpg\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/715826.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_836/h_431/50364/640664/2025/7/29/469093.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/162419.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_836/h_431/50364/640664/2025/7/29/610823.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/540421.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_821/h_457/50364/640664/2025/7/29/649168.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/259221.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_821/h_457/50364/640664/2025/7/29/230321.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/486114.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_829/h_457/50364/640664/2025/7/29/94374.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/134971.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_829/h_457/50364/640664/2025/7/29/417813.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/433147.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_824/h_460/50364/640664/2025/7/29/404528.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/467071.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0},{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_824/h_460/50364/640664/2025/7/29/917343.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/602990.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0}]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 675602,
+  "content": "",
+  "content_json": "[{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"前言：一切理属性Boss都将被海浪吞噬！\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/715826.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/640664/2025/7/29/975638.jpg\",\"children\":[{\"text\":\"\"}],\"width\":\"auto\",\"height\":\"auto\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"养成篇\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"首先我们来简单介绍一下贝兹比的技能\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"1技能普通攻击—激流 \",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_367/h_386/50364/2025/8/29/1d921daa-9dac-4896-a325-e88c65e1fcb2png\",\"alt\":null,\"style\":{\"width\":\"367px\",\"height\":\"386px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n对敌方造成\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"220%\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"的单体伤害，并且有\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"40%的概率\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"附加2回合\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"禁止治疗\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"其中贝兹比的核心被动：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"浪涌\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，对方每拥有一个减益效果，对其\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"增伤10%，\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"如果是理属性，并且是技能主目标，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"增伤30%\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，假设对面都是理属性，那贝兹比将对\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"主目标造成180%额外增伤，其余目标造成60%额外增伤\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"。\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"推荐点满\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"2技能群体技能—破浪\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_369/h_292/50364/2025/8/29/a524ccbe-2af2-4e38-824d-45ba94785e3dpng\",\"alt\":null,\"style\":{\"width\":\"369px\",\"height\":\"292px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"贝兹比的群体输出技能，对敌方群体造成\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"330%的伤害\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，如果暴击，有100%概率延长所有Debuff一回合（控制除外）。\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"推荐点满\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"3技能大招—奋勇之潮\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_367/h_298/50364/2025/8/29/323fa3cc-d8ea-4787-9a89-466a0977caa6png\",\"alt\":null,\"style\":{\"width\":\"367px\",\"height\":\"298px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"对敌方全体造成\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"390%的伤害\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，并\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"100%附加2回合易伤\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，每对\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"1个单位造成伤害，就提升20%行动进度\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，如果对方5人，可直接提升至\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"100%行动条\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"推荐点满\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳方面\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"PVE只推荐伯爵\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_553/h_348/50364/2025/8/29/afba1b46-7918-47c7-b8a3-1035bccbcc03png\",\"alt\":null,\"style\":{\"width\":\"553px\",\"height\":\"348px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n首先伯爵效果是：本体行动前，使其\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"两回合内攻击提升1200点\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，而贝兹比是\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"群体单次伤害\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，完美契合伯爵的提高攻击力增伤效果，是\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"贝兹比专属智壳\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"。\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"如果实在没有伯爵也可以带\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"白撩武者\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，白獠武者更适合打\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"长线作战\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，其\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"被动叠加暴击伤害需要一定时间\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"。\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_554/h_339/50364/2025/8/29/b6209966-bca5-4673-a693-1ca337ac15f5png\",\"alt\":null,\"style\":{\"width\":\"554px\",\"height\":\"339px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳矩阵推荐：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_498/h_213/50364/2025/8/29/20701495-75ad-4f6d-9f98-ccd1ba46cbb1png\",\"alt\":null,\"style\":{\"width\":\"498px\",\"height\":\"213px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n                             \\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"这里\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"不推荐带攻势\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，因为贝兹比属于\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"倍率Debuff增伤角色\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，攻势所带来的45%攻击力提升对贝兹比\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"提升不大\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n而洞悉穿刺的25%增伤非常契合贝兹比的被动，在对方DeBuff不多的情况下是略优于乘势追击的，较为稳定。\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"乘势追击，在敌方身上有多个Debuff时，伤害可以达到最大化，是贝兹比理论上\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"最高伤害\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"的配置方法。\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"原质越高，越推荐带乘势追击\",\"color\":\"var(--gray-08)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n面板方面\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"参考面板：智壳为 \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"乘势追击+狂怒+暴烈利刃\",\"underline\":true},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_553/h_358/50364/2025/8/29/dbcbca32-44f2-4f72-bbf5-d930ebbdbc00png\",\"alt\":null,\"style\":{\"width\":\"553px\",\"height\":\"358px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"参考面板2：智壳为 \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"洞悉穿刺+狂怒+暴烈利刃\",\"underline\":true}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_553/h_363/50364/2025/8/29/d2977991-f3a7-4123-8187-8377d0b91afbpng\",\"alt\":null,\"style\":{\"width\":\"553px\",\"height\":\"363px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"原质方面\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"实际测试下来，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"0原质体验依旧不错\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"如果资源或经济比较宽裕的小伙伴，可以提升到\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"原质2或原质2以上\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，点出暴击伤害提升，这可以一定程度\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"提高贝兹比的伤害\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"！\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_553/h_384/50364/2025/8/29/d76eb14c-7d7b-49c4-8ae0-89b29a6e3011png\",\"alt\":null,\"style\":{\"width\":\"553px\",\"height\":\"384px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"header1\",\"children\":[{\"text\":\" \"},{\"text\":\"副本篇\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"前言：\"},{\"text\":\"所有副本均做了两种原质，即0原质与满原质的伤害比对\",\"color\":\"rgb(26, 28, 30)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\\n\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"兵祸本\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_472/h_214/50364/2025/8/29/9e0333d5-8314-4417-ac72-ba81baabf270png\",\"alt\":null,\"style\":{\"width\":\"472px\",\"height\":\"214px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"很遗憾，全体\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"虚属性克制\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"加上对\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"异属性的额外增伤\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，让贝兹比\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"无缘兵祸本\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"。\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"多琪本\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"虽然贝兹比的对非理属性增伤减少，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"但贝兹比恐怖的3+2配合梨梨可以轻松清场\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"。\\n\\n\"}]},{\"type\":\"header4\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"0原质：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/162419.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_836/h_431/50364/640664/2025/7/29/469093.png\",\"children\":[{\"text\":\"\"}],\"width\":\"auto\",\"height\":\"auto\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header4\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"满原质：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/540421.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_836/h_431/50364/640664/2025/7/29/610823.png\",\"children\":[{\"text\":\"\"}],\"width\":\"auto\",\"height\":\"auto\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"奥洛拉本\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"贝兹比真正的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"主战场\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，在\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"高DeBuff情况下\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，Boss的血量在贝兹比的\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"恐怖伤害\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"下根本坚持不了两个回合\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header4\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"0原质：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/259221.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_821/h_457/50364/640664/2025/7/29/649168.png\",\"children\":[{\"text\":\"\"}],\"width\":\"auto\",\"height\":\"auto\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"header4\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"满原质：\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/486114.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_821/h_457/50364/640664/2025/7/29/230321.png\",\"children\":[{\"text\":\"\"}],\"width\":\"auto\",\"height\":\"auto\"},{\"type\":\"header4\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳—尼可娜娜\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"尼可娜娜：我血条呢？\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"对比贝兹比的高伤害，尼可娜娜显得过于脆弱了。\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header4\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"0原质：\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/134971.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_829/h_457/50364/640664/2025/7/29/94374.png\",\"children\":[{\"text\":\"\"}],\"width\":\"auto\",\"height\":\"auto\"},{\"type\":\"header4\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"满原质：\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/433147.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_829/h_457/50364/640664/2025/7/29/417813.png\",\"children\":[{\"text\":\"\"}],\"width\":\"auto\",\"height\":\"auto\"},{\"type\":\"header4\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳—莎朗\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"虚属性依旧是贝兹比\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"过不去的门槛\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，并且\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"莎朗免疫所有减益效果\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，这可以说\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"非常克制贝兹比\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"这种DeBuff输出手，莎朗本中，没有贝兹比登场的机会。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_393/h_189/50364/2025/8/29/bc6a03cc-c86b-44eb-b0ee-8240c15a6030png\",\"alt\":null,\"style\":{\"width\":\"393px\",\"height\":\"189px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳—赫妍\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"虽然\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"没有理属性的额外增伤\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，贝兹比依旧可以凭借高伤害攻略赫妍副本\\n\\n\"}]},{\"type\":\"header4\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" 0原质：\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/467071.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_824/h_460/50364/640664/2025/7/29/404528.png\",\"children\":[{\"text\":\"\"}],\"width\":\"auto\",\"height\":\"auto\"},{\"type\":\"header4\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"满原质：\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/640664/2025/7/29/602990.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_824/h_460/50364/640664/2025/7/29/917343.png\",\"children\":[{\"text\":\"\"}],\"width\":\"auto\",\"height\":\"auto\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳—炼狱津\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"这个本作为游戏目前最难的PVE副本，\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"属性的更换\",\"color\":\"var(--gray-08)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"意味着我们\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"开局就有20%的翻车率\",\"color\":\"var(--gray-08)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"，贝兹比当炼狱津的主C，有点难为他了。\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"不推荐\",\"color\":\"var(--gray-08)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"。\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":\"NXhwZRdDVzxbu5D6\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_167/h_197/50364/640664/2025/7/29/843177.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"167px\",\"height\":\"197px\"},\"children\":[{\"text\":\"\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header1\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"header1\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"PVP篇\",\"color\":\"\",\"fontSize\":\"16pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"16pt\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"作为一个十分依赖DeBuff作为主要输出手段的群体虚属性C位，目前PVP环境下很难有贝兹比的出场机会，希望后续官方能推出更适合他的PVP队友！~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"header1\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"综合评价\",\"color\":\"\",\"fontSize\":\"16pt\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"所有理属性Boss的噩梦，奥洛拉第一输出手。即使不满原质依旧是强力的虚属性主C。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header1\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"抽取建议\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"对于\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"新手\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"而言，\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"贝兹比并不是最优先抽取的选择\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"。\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"虽然贝兹比相较于夏妲等角色，贝兹比出伤更快，但出伤条件较为苛刻（\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"PVE固定抵抗\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"），\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"推荐有一定练度的玩家抽取。\"},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"当然，如果官方能取消PVE的固定抵抗的话，贝兹比的PVE强度将再上一个台阶~\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"16pt\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"16pt\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"今天的攻略就到这里啦，我是鲸鱼喵，感谢你的观看~\",\"color\":\"\",\"fontSize\":\"16pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"bold\":false,\"bgColor\":\"\",\"fontSize\":\"20px\"},{\"text\":\"你的点赞和支持就是对我的最大鼓励~\",\"color\":\"rgb(26, 28, 30)\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\",\"fontSize\":\"20px\"},{\"text\":\"\\n\\n\\n\\n\\n\\n\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_367/h_386/50364/2025/8/29/1d921daa-9dac-4896-a325-e88c65e1fcb2png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_369/h_292/50364/2025/8/29/a524ccbe-2af2-4e38-824d-45ba94785e3dpng",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_367/h_298/50364/2025/8/29/323fa3cc-d8ea-4787-9a89-466a0977caa6png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 640664,
+    "username": "鲸鱼喵",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_212/215/640664/2025/7/23/393710.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 23158224,
+    "content_num": 4,
+    "read_num": 35854,
+    "like_num": 15
+  },
+  "update_user": {
+    "uid": 640664,
+    "username": "鲸鱼喵",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_212/215/640664/2025/7/23/393710.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 640664,
+      "username": "鲸鱼喵",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_212/215/640664/2025/7/23/393710.png",
+      "last_ip_area": "四川省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 685541,
+      "name": "蚀心暗狩·罗魍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/842596.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 685537,
+      "name": "恶灵摇滚·桑提克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/321523.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683085,
+      "name": "静默挽歌·奈薇忒 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1662/h_940/50364/842288/2025/10/17/607708.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683357,
+      "name": "明光猎手·光狩谛听 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1664/h_940/50364/842288/2025/10/17/109281.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 677619,
+      "name": "幽翎爵女·逆翎",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/28/759667.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675001,
+      "name": "永夜明火·夜离",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/807765.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678704,
+      "name": "巡洄漫音·水生绫",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/459884.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675637,
+      "name": "破却宣言·莉拉姆",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1084/50364/664163/2025/7/30/359430.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678705,
+      "name": "千面烬相·柯卡尔迪",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/565969.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675301,
+      "name": "忘忧梦火·芙蕾雅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/7/27/230962.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675952,
+      "name": "异格者BUFF介绍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/429039.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675604,
+      "name": "二重典贷·宁芙涅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/812041.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675284,
+      "name": "哨影猎手·谛听",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/26/153688.png",
+      "jump_url": ""
+    },
+    {
+      "id": 676057,
+      "name": "永恒沉眠·缬草",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/4/48051.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675689,
+      "name": "幻影骇客·克洛斯",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/30/107101.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675768,
+      "name": "爆裂甜心·莉露摩卡",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/7/31/425722.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675883,
+      "name": "末日铁花·荼蘼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/410192.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675994,
+      "name": "厄影修罗·罗喉",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/3/735401.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 676257,
+      "name": "幻琴之音·幻音千明",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/8/62083.jpg",
+      "jump_url": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 620834,
+  "kind": "yuanqi",
+  "name": "狂怒",
+  "entryName": "狂怒",
+  "group": "攻击类",
+  "effect": "4：攻击力+10%\n8：攻击力+10%;异格者暴击时，该段伤害结果额外提升12%",
+  "obtain": "熔断禁区-奥洛拉\n难度关卡：噩梦1~3，地狱 1~4，炼狱",
+  "description": "未有异格者装备",
+  "attributes": {
+    "矩阵效果": "4：攻击力+10%\n8：攻击力+10%;异格者暴击时，该段伤害结果额外提升12%",
+    "获取途径": "熔断禁区-奥洛拉\n难度关卡：噩梦1~3，地狱 1~4，炼狱"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_175/50364/43758/2024/3/24/187660.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/102034.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/342216.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/828695.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/854743.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/907885.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/936926.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620834,
+    "title": "狂怒",
+    "url": "https://www.gamekee.com/yise/620834.html",
+    "updatedAt": "2025-05-12T13:26:48.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620834_狂怒.md",
+      "metadata": "03_图鉴词条/620834_狂怒.json",
+      "rawApi": "_raw_api/details/620834.json"
+    }
+  }
+}

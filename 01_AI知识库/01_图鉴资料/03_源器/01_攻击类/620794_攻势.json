@@ -1,0 +1,42 @@
+{
+  "id": 620794,
+  "kind": "yuanqi",
+  "name": "攻势",
+  "entryName": "攻势",
+  "group": "攻击类",
+  "effect": "4：攻击力+10%\n8：攻击力+25%\n12：攻击力+45%",
+  "obtain": "熔断禁区-重构兵祸\n难度关卡：普通1~3，危机1~3，噩梦1~3，地狱1~4，炼狱",
+  "description": "未有异格者装备",
+  "attributes": {
+    "矩阵效果": "4：攻击力+10%\n8：攻击力+25%\n12：攻击力+45%",
+    "获取途径": "熔断禁区-重构兵祸\n难度关卡：普通1~3，危机1~3，噩梦1~3，地狱1~4，炼狱"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_175/50364/43758/2024/3/24/629498.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/102034.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/172603.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/232204.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/854743.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/907885.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/936926.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620794,
+    "title": "攻势",
+    "url": "https://www.gamekee.com/yise/620794.html",
+    "updatedAt": "2025-05-12T13:59:27.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620794_攻势.md",
+      "metadata": "03_图鉴词条/620794_攻势.json",
+      "rawApi": "_raw_api/details/620794.json"
+    }
+  }
+}

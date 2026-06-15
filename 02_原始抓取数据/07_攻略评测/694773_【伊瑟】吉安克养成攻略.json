@@ -1,0 +1,45 @@
+{
+  "id": 694773,
+  "url": "https://www.gamekee.com/yise/694773.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/694773",
+  "title": "【伊瑟】吉安克养成攻略",
+  "category": "07_攻略评测",
+  "type": 4,
+  "tag": "",
+  "entryId": 0,
+  "gameId": 50364,
+  "createdAt": "2026-02-26T08:06:12.000Z",
+  "updatedAt": "2026-02-26T11:19:36.000Z",
+  "commentCount": 0,
+  "likeCount": 2,
+  "favoriteCount": 0,
+  "viewCount": 1885,
+  "summary": "哈喽大家我是lala，今天我们一起来研究一下新角色吉安克~一图流：需要注意，一图流毕竟还是简图，有很多细节方面无法体现出来，还是推荐大家观看完文章~一、角色概论先说总结，吉安克是自爆卡车式的角色，终结技在对敌方造成大量生命百分比伤害的同时会扣除自己的生命，但普攻能够按照已损失生命值大量恢复生命~二、",
+  "textLength": 1067,
+  "imageCount": 12,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1448/h_2828/50364/878729/2026/1/26/579124.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2026/1/26/310731.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2026/1/26/488769.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2026/1/26/653486.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2026/1/26/551476.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2026/1/26/551476.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1448/h_2828/50364/878729/2026/1/26/579124.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2026/1/26/310731.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList",
+    "wikiIndex"
+  ],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "description": ""
+  },
+  "crawledAt": "2026-06-15T03:27:59.878Z"
+}

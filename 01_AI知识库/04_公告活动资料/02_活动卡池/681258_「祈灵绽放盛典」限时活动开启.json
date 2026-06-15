@@ -1,0 +1,32 @@
+{
+  "id": 681258,
+  "kind": "reference",
+  "title": "「祈灵绽放盛典」限时活动开启",
+  "domainPath": [
+    "04_公告活动资料",
+    "02_活动卡池"
+  ],
+  "classifyReason": "公告或活动资料",
+  "originalCategory": "02_活动卡池",
+  "text": "「祈灵绽放盛典」限时活动开启\n\n活动周期：10/304:00-11/133:59活动说明：1.活动期间累计签到7天，可获得【升格原型】、【极相原型】、【海德拉晶钻】等奖励2.活动期间完成巡灵之旅系列任务，获得【活动专属头像】、【头像框】与大量【巡灵积分】，可前往巡灵商店使用积分兑换主角服饰【南瓜绅士/南瓜淑女】、以及【留影·赤】、\n\n活动周期：10/30 4:00 - 11/13 3:59\n\n活动说明：\n\n1.活动期间累计签到7天，可获得【升格原型】、【极相原型】、【海德拉晶钻】等奖励\n\n2.活动期间完成巡灵之旅系列任务，获得【活动专属头像】、【头像框】与大量【巡灵积分】，可前往巡灵商店使用积分兑换主角服饰【南瓜绅士/南瓜淑女】、以及【留影·赤】、【完美晶格碎片】等各类养成材料奖励。",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/9/27/462053.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 681258,
+    "title": "「祈灵绽放盛典」限时活动开启",
+    "url": "https://www.gamekee.com/yise/681258.html",
+    "updatedAt": "2025-10-27T07:14:31.000Z",
+    "sourceFiles": {
+      "markdown": "02_活动卡池/681258_「祈灵绽放盛典」限时活动开启.md",
+      "metadata": "02_活动卡池/681258_「祈灵绽放盛典」限时活动开启.json",
+      "rawApi": "_raw_api/details/681258.json"
+    }
+  }
+}

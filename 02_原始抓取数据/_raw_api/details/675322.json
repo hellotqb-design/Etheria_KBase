@@ -1,0 +1,275 @@
+{
+  "id": 675322,
+  "game_id": 50364,
+  "entry_id": 193577,
+  "uid": 664163,
+  "type": 2,
+  "title": "「升格测试」预下载现已开启，下载即可在8月28日开玩！",
+  "tag": "2",
+  "created_at": 1756273995,
+  "updated_at": 1760152671,
+  "updated_uid": 664163,
+  "comment_at": 1756273995,
+  "last_at": 1760152671,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "亲爱的超链者，《伊瑟》预下载现已开启，请准备好流畅的网络环境，按照以下方式进行预下载：▶安卓用户：点击此处前往TapTap详情页，您可点击【下载】下载包体；▶iOS用户：点击此处前往TapTap详情页，您可点击【已上线，前往获取】跳转到AppStore进行下载；▶PC用户：点击下载TapTapPC版",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_608/50364/664163/2025/9/11/841419.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_169/h_213/50364/664163/2025/9/11/312683.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_574/h_358/50364/664163/2025/9/11/333230.png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 8091,
+  "is_top": 1,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "上海",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 5,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 675322,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":\"aIhBNVIidNBRm59y\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_608/50364/664163/2025/9/11/841419.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"608px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"亲爱的超链者，《伊瑟》预下载现已开启，请准备好流畅的网络环境，按照以下方式进行预下载：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶安卓用户：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://www.taptap.cn/app/236627\",\"children\":[{\"text\":\"点击此处前往TapTap详情页\",\"color\":\"rgb(0, 217, 197)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"text\":\"，您可点击【下载】下载包体；\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶iOS用户：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://www.taptap.cn/app/236627\",\"children\":[{\"text\":\"点击此处前往TapTap详情页\",\"color\":\"rgb(0, 217, 197)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"text\":\"，您可点击【已上线，前往获取】跳转到App Store进行下载；\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶PC用户：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://l.taptap.cn/0EDfx9lh\",\"children\":[{\"text\":\"点击下载TapTap PC版\",\"color\":\"rgb(0, 217, 197)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"text\":\"，将自动下载TapTapPC端启动器；\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"（若此前已经下载了TapTapPC端启动器，可以直接打开并搜索《伊瑟》进行下载游玩）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶登录说明：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"✳若您参与过升格测试，请先将升格测试的旧包体进行卸载，再重新下载。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"✳️若您在升格测试期间，参与了充值返利活动，请使用测试期间使用的TapTap账号登录游戏，公测后创建的首个角色方可获得返利。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"📶PC端用户下载方式\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶第一步：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://l.taptap.cn/0EDfx9lh\",\"children\":[{\"text\":\"点击下载TapTap PC版\",\"color\":\"rgb(0, 217, 197)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"text\":\"，将自动下载TapTapPC端启动器；\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"*若浏览器没有进行下载，请刷新页面后重新点击\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"qSdQ7GGwlxhYyx8T\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_169/h_213/50364/664163/2025/9/11/312683.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"169px\",\"height\":\"213px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶第二步：点击下载好的TapTapPC端启动器的安装文件，根据指引完成安装；\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"t3Rw9hrv9F9f9inq\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_574/h_358/50364/664163/2025/9/11/333230.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"574px\",\"height\":\"358px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶第三步：打开TapTapPC端启动器，登录TapTap账号，登录后会跳转到《伊瑟》详情界面；\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"SVbPycxdIorneaAt\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_560/50364/664163/2025/9/11/134340.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"900px\",\"height\":\"560px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶第四步：到达《伊瑟》详情页面后，点击【下载】按钮即可开始下载游戏。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"▶说明：若此前已经下载了TapTapPC启动器，可以前往TapTap详情页，在详情页底部点击【免费下载】，并且在浏览器弹出的对话框中点击【打开TapTap】，跳转到《伊瑟》详情页面进行下载。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"TvRRxveehzu0Cl5e\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_432/h_191/50364/664163/2025/9/11/659781.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"432px\",\"height\":\"191px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"📶反馈渠道\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"公测开启后，如有任何相关的意见与建议或遇到问题，可在发布帖文时选择“反馈”版块提交反馈。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如您遇到BUG请按下方格式提交反馈，便于我们尽快定位并解决问题。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"link\",\"url\":\"https://www.taptap.cn/group/333480/group-label/529672\",\"children\":[{\"text\":\">>点击前往伊瑟玩家反馈版块<<\",\"color\":\"rgb(0, 217, 197)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"伊瑟开发组会不断优化内容，持续提高游戏质量。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"📶BUG问题反馈格式\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"游戏账号ID：（如何找到自己的账号ID，见下图）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"机型/设备：（例：苹果13 pro / 华为p30）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"网络环境：（移动/电信/联通/WIFI）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"问题描述：（例：进入XX关卡时黑屏）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"问题截图/视频：（截图、视频等）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如何找到自己的账号id：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"在游戏内主界面点击【帐号】 - 复制TapTap帐号ID\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_608/50364/664163/2025/9/11/841419.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_169/h_213/50364/664163/2025/9/11/312683.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_574/h_358/50364/664163/2025/9/11/333230.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 664163,
+    "username": "代理人LS",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 2,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 19944812,
+    "content_num": 12,
+    "read_num": 80919,
+    "like_num": 3
+  },
+  "update_user": {
+    "uid": 664163,
+    "username": "代理人LS",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 664163,
+      "username": "代理人LS",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+      "last_ip_area": "上海",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 645547,
+      "name": "萌新必看",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/22/587172.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675573,
+      "name": "萌新开荒攻略PVE篇",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/29/381088.png",
+      "jump_url": ""
+    },
+    {
+      "id": 678427,
+      "name": "福利合集",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/11/21340.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 665794,
+      "name": "兑换码",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/5/10/719647.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 669045,
+      "name": "装备属性科普",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/6/4/55811.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 665358,
+      "name": "国际服安装教学",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1440/h_810/50364/157597/2025/5/9/43116.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "自建开荒入门攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/154257/2025/6/31/853921.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 672483,
+      "name": "白嫖/低氪开荒规划",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_500/50364/664163/2025/7/27/740775.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 619789,
+      "name": "攻略组招募",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/8/130379.jpg",
+      "jump_url": ""
+    }
+  ]
+}

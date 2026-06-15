@@ -1,0 +1,45 @@
+{
+  "id": 660967,
+  "kind": "cleanup_candidate",
+  "title": "临时",
+  "domainPath": [
+    "99_待清洗",
+    "99_临时测试页"
+  ],
+  "classifyReason": "标题显示为临时或测试页",
+  "originalCategory": "03_图鉴词条",
+  "text": "临时\n\n### 潜能\n\n-\n**基础属性提升**\n基础攻击力、防御力和生命值提升5%\n\n-\n**暴击伤害提升**\n暴击伤害+12%\n\n-\n**治疗效果提升**\n施加的治疗效果+10%\n\n-\n**效果命中提升**\n效果命中+12%\n\n-\n**暴击率提升**\n暴击率+8%\n\n-\n**受到治疗效果提升**\n受到的治疗效果+10%\n\n-\n**施加的护盾量提升**\n施加的护盾量+8%\n\n-\n**基础属性提升**\n基础攻击力、防御力和生命值提升5%\n\n-\n**效果抵抗提升**\n效果抵抗+12%\n\n-\n**伤害提升和伤害减免**\n造成伤害额外提升10%，受到伤害额外降低10%\n\n-\n**伤害双向提升**\n造成伤害结果提升10%，受到伤害结果降低10%",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/entry_icon/0f94bec9-f3ed-4777-a17e-0678ff0b2a43.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/entry_icon/3c39c21d-5dc7-4ece-9ad4-16ce330aba3b.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_232/h_393/50364/43758/2024/3/16/928928.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/147551.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/207704.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/332405.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/389425.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/60010.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/389425.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/60010.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/960068.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 660967,
+    "title": "临时",
+    "url": "https://www.gamekee.com/yise/660967.html",
+    "updatedAt": "2025-05-12T13:59:07.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/660967_临时.md",
+      "metadata": "03_图鉴词条/660967_临时.json",
+      "rawApi": "_raw_api/details/660967.json"
+    }
+  }
+}

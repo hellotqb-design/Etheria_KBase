@@ -1,0 +1,349 @@
+{
+  "id": 620251,
+  "kind": "character",
+  "name": "善雅",
+  "entryName": "善雅",
+  "rarity": "SR",
+  "element": "虚",
+  "faction": "协会",
+  "title": "净善之女",
+  "gender": "女",
+  "profession": "不明",
+  "identityCode": "E01-070242",
+  "chipStatus": "正常",
+  "assessment": "异格者善雅，身份编码E01-070242，Re-A芯片状态稳定，未见异常波动。\n善雅晋是一所孤院中的孤，后来与人类缔结了收养关系，成为了富豪家的养女。然而在过往的履历中，有许多家仆报告称看见她对着动物说话，认为她行为异常，不过，或许这是因为她的孤独导致的。\n善雅的能量波动稳定、温和并且循环不息，在战斗中表现为强大的治愈能力。这股力量正如她本人一样温柔、和煦，仿佛能够抚平一切伤痛。",
+  "stats": {
+    "生命": "13005+5501",
+    "攻击": "812+306",
+    "防御": "745+224",
+    "速度": "121+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%",
+    "效果抵抗": "0%+32%"
+  },
+  "skills": [
+    {
+      "skillId": "620251-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "蔓舞 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/d5f0e3db-869b-4671-853b-ea2f6a2d8cbf.png",
+      "description": "冷却时间：0\n善雅使用软藤抽打目标;对敌方单体造成240%伤害，增加自身30%行动进度。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至200%\n等级3\n潜能提升：攻击力+100\n技能提升：行动进度的提升量增加20%\n等级4：\n潜能提升：速度值+4\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：速度值+8\n技能提升：行动进度的提升量增加30%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620251-skill-2",
+      "order": 2,
+      "section": "被动",
+      "name": "凝露 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/1749ad88-0b83-4c7d-985a-8ff8ba6ff851.png",
+      "description": "冷却时间：0\n善雅会储备创生的力量，在回合结束时，治疗两名生命百分比最低的队友并净化1个减益效果，治疗量为自身生命上限的14%；同时善雅的生命每降低1%，提升自身0.6%的治疗效果。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：治疗效果增加至自身最大生命值的13%\n等级3\n潜能提升：防御力+70\n技能提升：额外提升的治疗效果增加至0.5%\n等级4：\n潜能提升：效果抵抗+8%\n技能提升：治疗效果增加至自身最大生命值的14%\n等级5：\n潜能提升：效果抵抗+12%\n技能提升：额外提升的治疗效果增加至0.6%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620251-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "森林之心 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/b6639ac6-f16f-4b16-8664-1730621ff1bd.png",
+      "description": "冷却时间：3\n善雅祝福队友单位，为一名队友附加1层【万灵的庇护】并治疗目标，治疗量为目标生命上限的20%；这个技能可以对已阵亡的目标使用，使其复活，触发复活效果时此技能额外增加2回合冷却。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：提升生命值上限和治疗效果增加至18%\n等级3\n潜能提升：生命值+1000\n技能提升：触发复活效果额外增加的技能冷却时间降低至2回合\n等级4：\n潜能提升：生命值+5%\n技能提升：提升生命值上限和治疗效果增加至20%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n治疗\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 555|\n| 源器配置 | 右三主属性3生命加成 |\n└─────────┴────────────┘\n【对局表现】\n拥有高额的治疗效果，1技能拉满后配合千兆字节能够达到多次行动的效果。大招还有复活加生命上限的效果，非常适合配合提亚马特",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12浴血+8治愈+8进化荫庇"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "千兆字节"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12浴血+8治愈+8进化荫庇",
+        "推荐智壳": "千兆字节",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_259/50364/842288/2025/7/18/835929.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "治疗效果提升"
+      ],
+      "other": [
+        "施加的治疗效果+10%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【那天，善雅被收养了。】\n尚且年幼的善雅跟着女管家的脚步，穿过加纳利庄园藤蔓造型的铁艺大门，走进庄园里。她好奇地看着庄园中的一切一一整齐排列的花圃、修剪精致的灌木、没有一片黄叶的树·……一切都与西弗里的孤儿院那么不同。\n善雅被女管家领到一个有些上了年纪的男人面前，她怯生生地抬起头，看着男人的样子。男人拄着手杖，满意地看着善雅，随后微笑着摸了摸善雅的头。\n「以后，我们就是家人了。」男人这样说。\n家人，这是善雅只在童话书上看见过的字眼，她对此好奇又期待。书上都说，家人会互相爱护，互相帮扶，是无论在怎样的困境中都能彼此依靠的存在。\n善雅点点头，抬头叫那个男人道：「父亲。」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【庄园或许很大，但对于森林来说，还是太小。】\n善雅听大人们说，自己患有一种很严重的病，为了治病，「父亲」要求她在家静养，并严格禁止她离开庄园，还派来一个叫谛听的跟班时刻盯着她。\n然而，就算留在庄园里，善雅也并不是随时都能做自己喜欢的事情，而是每天都要面对繁重的课业—一礼仪课、音乐课、文学课、艺术课……「父亲」要求她成为一个完美的富家千金，用「规矩」和「教养」束缚起善雅想要玩耍和接触世界的双手与内心。\n善雅并不理解「父亲」的用意，但她希望自己能作为「家人」回应「父亲」的期待，因此她一直努力地学习着。只是，在那些课程之间、短暂的休息时光里，她总是忍不住看向窗外，看向那一小片被窗框裁下的天空，以及偶尔飞过的小鸟。\n善雅想要看看外面世界的心思与日俱增，但她只能将这份苦闷偷偷向小花、小草、小树还有那个叫谛听的人倾诉，但她从未得到过回应。\n「父亲」留意到了善雅的目光，于是在善雅来到庄园整一年的「生日」时，送给了善雅一只白色的小鸟，作为她的玩伴。那只小鸟的脚上套着精致的脚环，脚环用金色的链子连接着站架。\n善雅微笑着从「父亲」手中接过小鸟，但她的内心却感到悲伤—一小鸟本应是属于天空的啊。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【小鸟飞走了，但她留下了。】\n那一天，善雅回到房间后，来到了小鸟的站架前。她将小鸟托在手里，解开了它的脚环，随后打开窗户。\n外面的风吹拂着小鸟的羽毛，它张开翅膀，振翅飞出了窗户，消失在蓝天里。\n「你不是很珍惜它吗，干嘛要放走它？」跟在善雅身后的谛听不解地问。\n善雅的目光凝视着天空，回答道：「父亲说，我不久后会接受一场重要的手术。虽然他没有明说，但我能从他的话语里感受到不安，所以·……我猜，那场手术会很危险。不管手术能否成功，我都没有办法离开这里。但至少，我希望那只小鸟能回到属于它的天空中去。」\n谛听沉默了很久，才接着说道：「你一直想去外面看看，对吧？」\n「嗯……」\n「如果你能撑过去，我就背着别人，偷偷带你去外面玩一次。」\n「真的？」善雅的眼睛亮了起来。\n「真的·……嗯，我向你保证。」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/1fd728ff-a43d-4262-92dd-2287fddc809a.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/1fd728ff-a43d-4262-92dd-2287fddc809a.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/8a7c5121-9011-4c29-bbbc-8be64b7a2538.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/8a7c5121-9011-4c29-bbbc-8be64b7a2538.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/1fd728ff-a43d-4262-92dd-2287fddc809a.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/1fd728ff-a43d-4262-92dd-2287fddc809a.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/8a7c5121-9011-4c29-bbbc-8be64b7a2538.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/c4e3506f-04de-4fa7-a453-94b9da0bca9c.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/8a7c5121-9011-4c29-bbbc-8be64b7a2538.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/c4e3506f-04de-4fa7-a453-94b9da0bca9c.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/d5f0e3db-869b-4671-853b-ea2f6a2d8cbf.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/1749ad88-0b83-4c7d-985a-8ff8ba6ff851.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/b6639ac6-f16f-4b16-8664-1730621ff1bd.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_259/50364/842288/2025/7/18/835929.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2025/7/16/922499.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/60010.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620251,
+    "title": "善雅",
+    "url": "https://www.gamekee.com/yise/620251.html",
+    "updatedAt": "2025-08-18T07:42:33.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620251_善雅.md",
+      "metadata": "03_图鉴词条/620251_善雅.json",
+      "rawApi": "_raw_api/details/620251.json"
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": 645481,
+  "kind": "zhike",
+  "name": "伯爵",
+  "entryName": "伯爵",
+  "rarityGroup": "传说",
+  "starRarity": "★★★★",
+  "role": "攻击型",
+  "stats": {
+    "生命": "2922",
+    "攻击": "607",
+    "防御": "176",
+    "速度": "40"
+  },
+  "skills": [
+    {
+      "skillId": "645481-skill-1",
+      "order": 1,
+      "section": "技能",
+      "name": "伯爵（已觉醒）",
+      "description": "冷却时间：4回合\n加攻 吸血\n本体行动前，使其在2回合内攻击提升1200，并额外附加2回合【生命汲取-智壳】。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "攻势"
+      ],
+      "other": [
+        "攻势 4/8/12",
+        "攻击力+10%/+25%/+45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "戍卫"
+      ],
+      "other": [
+        "戍卫 4/8",
+        "生命值+10%/+10%；每波战斗开始时，获得1回合免疫效果"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "狂怒"
+      ],
+      "other": [
+        "狂怒4/8",
+        "攻击力+10%/+10%；异格者暴击时，该段伤害结果额外提升12%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "战意"
+      ],
+      "other": [
+        "战意 4/8",
+        "攻击力+10%/+10%；异格者释放攻击类技能后，有20%的概率追击主目标"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "洞悉穿刺"
+      ],
+      "other": [
+        "洞悉穿刺 6/12",
+        "暴击伤害+18%/+18%；回合内异格者造成的前三次伤害分别额外提升25%，15%和5%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "乘势追击"
+      ],
+      "other": [
+        "乘势追击 6/12",
+        "暴击率+12%/+12%；攻击时，目标每有一种减益或控制效果，伤害额外提升6%，最多提升36%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "暴烈利刃"
+      ],
+      "other": [
+        "暴烈利刃 6",
+        "暴击率+12%，暴击伤害+20%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾影强袭"
+      ],
+      "other": [
+        "疾影强袭 6",
+        "速度值+15%，攻击力+20%"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★★",
+    "定位": "攻击型",
+    "生命": "2922",
+    "攻击": "607",
+    "防御": "176",
+    "速度": "40"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/664163/2025/8/17/249969.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/115316.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/306212.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/824266.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_186/50364/842288/2025/8/19/972828.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/282227.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2782/h_2951/50364/842288/2026/1/11/708858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2784/h_3251/50364/842288/2026/1/11/832973.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2896/h_3297/50364/842288/2026/1/11/955923.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3103/h_3029/50364/842288/2026/1/11/936965.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_343/h_364/50364/43758/2024/9/25/982532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_418/h_386/50364/43758/2024/9/25/539847.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_441/h_380/50364/43758/2024/9/25/18867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/16/119635.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/16/212413.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/16/3616.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/16/514694.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/16/594820.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/16/671519.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/16/769777.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/471858.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/533928.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/355468/2025/4/12/877809.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/43758/2024/9/25/444616.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/304300.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/13/868491.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/104910.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/104910.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/16/3616.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/664163/2025/0/16/212413.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/517350.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/532694.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/730155.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/788014.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_551/h_445/50364/664163/2025/0/15/978071.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 645481,
+    "title": "伯爵",
+    "url": "https://www.gamekee.com/yise/645481.html",
+    "updatedAt": "2025-05-12T12:22:35.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/645481_伯爵.md",
+      "metadata": "03_图鉴词条/645481_伯爵.json",
+      "rawApi": "_raw_api/details/645481.json"
+    }
+  }
+}

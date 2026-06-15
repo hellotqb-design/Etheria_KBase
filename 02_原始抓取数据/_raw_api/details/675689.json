@@ -1,0 +1,335 @@
+{
+  "id": 675689,
+  "game_id": 50364,
+  "entry_id": 193693,
+  "uid": 878729,
+  "type": 4,
+  "title": "克洛斯PVE养成攻略",
+  "tag": "",
+  "created_at": 1756537792,
+  "updated_at": 1756552729,
+  "updated_uid": 0,
+  "comment_at": 1756537792,
+  "last_at": 1756537792,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "我趣！这个白毛少女竟是伊瑟数一数二的黑客！哈喽大家我是lala，老角色养成攻略第三期新鲜出炉，今天我们的主角是13区高校大名鼎鼎的黑客——克洛斯！！点赞收藏插眼，我们直接发车！一、角色总结克洛斯是目前破防数值最高、适配副本最多的破防手，任何环境均可上场，本体即使完全体，极其推荐培养，也是定向召唤中最",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/7/30/30787.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2025/7/30/942317.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2025/7/30/771513.jpg",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 6858,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 621726,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1756541500,
+  "server_id": 0,
+  "image_num": 4,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 675689,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"我趣！这个白毛少女竟是伊瑟数一数二的黑客！\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"哈喽大家我是lala，老角色养成攻略第三期新鲜出炉，今天我们的主角是13区高校大名鼎鼎的黑客——克洛斯！！\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"点赞收藏插眼，我们直接发车！\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"CWZwrZMwin0VrG7c\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/7/30/30787.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"3000px\",\"height\":\"8482px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"一、角色总结\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯是目前破防数值最高、适配副本最多的破防手，任何环境均可上场，本体即使完全体，极其推荐培养，也是定向召唤中最推荐抽取的异格者\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"二、技能详情\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯的一切技能围绕着【骇入进度】与【骇入】展开，简单来讲就是【骇入进度】叠加到三层后将转化为【骇入】，大幅提升敌人受到的伤害并降低敌人打出的伤害，而骇入进度则是缩水版的骇入\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"普攻—信号接驳\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯的普攻会对单体目标造成伤害，并有概率为敌人附加骇入进度\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"6FIl2KrSrOtZenpE\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2025/7/30/942317.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"小技能—技术升级\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯对敌方全体造成伤害，概率为敌人附加骇入，并对敌方进行偷条平分给友方全体，目标身上的骇入进度与骇入越多，偷条越多\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"smk3nXSHxdR2AGYH\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2025/7/30/771513.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技—格式化\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技是克洛斯附加骇入进度的主要手段，对敌方全体造成伤害，必定附加防御下降和速度下降，并为主目标附加两层骇入进度，其余目标附加一层骇入进度\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"FAp6byOZ0om3SpOc\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2025/7/30/352811.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯本体的破防效果就极其强悍，不需要专门升级技能，资源溢出时可以将终结技升至5级，其余不推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"加点推荐：仅推荐终结技5级\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"三、矩阵推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"由于克洛斯需要频繁行动来为敌人附加【骇入进度】与【骇入】，推荐大家一号位携带疾驰并叠满12层；二号位暂无适配的源器，矮子里面拔高个也只能选出奋进和时光驾驭，但奋进会打乱排轴，时光驾驭点亮12层就要舍弃三号位，lala还是推荐大家点亮时光驾驭6即可，也可以按照个人box点亮；三号位携带迅光天击，增加速度的同时补足效果命中，如果没有合适的智壳或源器也可以选择疾影强袭，但效果肯定不如迅光天击\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"毕业矩阵：一号位：疾驰\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"二号位：时光驾驭6（无固定）\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"三号位：迅光天击＞疾影强袭\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"四、智壳推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯需要通过技能来快速叠加骇入进度，推荐携带万魔法典刷新技能冷却来快速启动；也可以携带墨月增加效果命中并延长负面效果持续时间；需要注意的是，墨月并没有疾影强袭矩阵，携带墨月时三号位只推荐迅光天击\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"前期\",\"bold\":true},{\"text\":\"：不羁科学/星\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"中期\",\"bold\":true},{\"text\":\"：暴雪/钻石之心\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"后期\",\"bold\":true},{\"text\":\"：万魔法典/墨月\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动：生存相关（源流/涌流/晶璧）、迅影、凝视\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"五、源器推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"为了保证稳定挂上负面效果，lala推荐大家右边三件全部携带效果命中主词条，最好让效果命中≥200%；副词条优先选择速度，保证出手频率\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"主词条：效果命中+3 生存压力大可携带生命*1\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"副词条：速度＞效果命中＞生命值百分比＞生命值\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"六、角色配队\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"克洛斯的破防虽然强悍但技能冷却较长，我们可以搭配梨梨/月夜见等角色减少技能冷却，也可以搭配控条角色做到多次行动来侧面加快技能冷却，但这些对于克洛斯来讲并非刚需，按照我们的box携带即可\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_8482/50364/878729/2025/7/30/30787.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2025/7/30/942317.jpg",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2025/7/30/771513.jpg"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 685541,
+      "name": "蚀心暗狩·罗魍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/842596.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 685537,
+      "name": "恶灵摇滚·桑提克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/842288/2025/11/31/321523.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683085,
+      "name": "静默挽歌·奈薇忒 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1662/h_940/50364/842288/2025/10/17/607708.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 683357,
+      "name": "明光猎手·光狩谛听 ",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1664/h_940/50364/842288/2025/10/17/109281.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 677619,
+      "name": "幽翎爵女·逆翎",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/28/759667.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675001,
+      "name": "永夜明火·夜离",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/807765.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678704,
+      "name": "巡洄漫音·水生绫",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/459884.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675637,
+      "name": "破却宣言·莉拉姆",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1084/50364/664163/2025/7/30/359430.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678705,
+      "name": "千面烬相·柯卡尔迪",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/9/2/565969.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675301,
+      "name": "忘忧梦火·芙蕾雅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/7/27/230962.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675952,
+      "name": "异格者BUFF介绍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/429039.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675604,
+      "name": "二重典贷·宁芙涅",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/812041.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675602,
+      "name": "笼潮·贝兹比",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_882/h_496/50364/664163/2025/7/29/658875.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675284,
+      "name": "哨影猎手·谛听",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/26/153688.png",
+      "jump_url": ""
+    },
+    {
+      "id": 676057,
+      "name": "永恒沉眠·缬草",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/4/48051.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675768,
+      "name": "爆裂甜心·莉露摩卡",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/7/31/425722.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675883,
+      "name": "末日铁花·荼蘼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/2/410192.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675994,
+      "name": "厄影修罗·罗喉",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/3/735401.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 676257,
+      "name": "幻琴之音·幻音千明",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/8/62083.jpg",
+      "jump_url": ""
+    }
+  ]
+}

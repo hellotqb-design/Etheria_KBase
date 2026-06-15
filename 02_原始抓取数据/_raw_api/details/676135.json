@@ -1,0 +1,249 @@
+{
+  "id": 676135,
+  "game_id": 50364,
+  "entry_id": 193987,
+  "uid": 878729,
+  "type": 4,
+  "title": "精简版——PVE节奏榜一图流",
+  "tag": "",
+  "created_at": 1756914957,
+  "updated_at": 1756967826,
+  "updated_uid": 0,
+  "comment_at": 1760089428,
+  "last_at": 1760089428,
+  "comment_count": 2,
+  "status": 1,
+  "summary": "⚠此榜单包含个人主观因素，小部分需要额外注意的角色会标注，本次榜单内容仅供参考，仅考虑强度不聊厨力，权做抛砖引玉，建议大家以自己的体验与想法为主※此次节奏榜将标出所有角色较适配的环境/副本※各T度说明：T0：有顶尖的强度，可以大力培养；T0.5：综合水平高，部分情况下接近T0；T1：在对应的领域可以",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_4500/h_5500/50364/878729/2025/8/3/436855.png",
+  "model_ids": "",
+  "like_count": 7,
+  "unlike_count": 0,
+  "view_count": 18816,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 621726,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1756915406,
+  "server_id": 0,
+  "image_num": 1,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 676135,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"⚠此榜单包含个人主观因素，小部分需要额外注意的角色会标注，本次榜单内容仅供参考，仅考虑强度不聊厨力，权做抛砖引玉，建议大家以自己的体验与想法为主 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"※此次节奏榜将标出所有角色较适配的环境/副本 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"※各T度说明：T0：有顶尖的强度，可以大力培养；T0.5：综合水平高，部分情况下接近T0；T1：在对应的领域可以出色的完成任务；T2：看情况补位，有一定的强度；T3：强度一般，仅供娱乐使用；T4：仅适合真爱党使用 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"C1wKQL48kOF3lChk\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_4500/h_5500/50364/878729/2025/8/3/436855.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"4500px\",\"height\":\"5500px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_4500/h_5500/50364/878729/2025/8/3/436855.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 6,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 6,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 675161,
+      "name": "全角色节奏榜",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/25/51494.png",
+      "jump_url": ""
+    },
+    {
+      "id": 675281,
+      "name": "PVE定位榜",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_500/50364/664163/2025/7/26/339253.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675272,
+      "name": "异格者推荐",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_960/h_540/50364/664163/2025/7/26/535320.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 678431,
+      "name": "PVP/RTA推荐搭配",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1267/h_713/50364/664163/2025/9/11/414748.jpeg",
+      "jump_url": ""
+    },
+    {
+      "id": 697075,
+      "name": "PVE自助组队指南",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/154257/2026/2/10/935696.jpg",
+      "jump_url": ""
+    }
+  ]
+}

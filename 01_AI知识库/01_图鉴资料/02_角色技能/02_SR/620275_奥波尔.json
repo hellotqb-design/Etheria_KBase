@@ -1,0 +1,349 @@
+{
+  "id": 620275,
+  "kind": "character_skill_bundle",
+  "name": "奥波尔",
+  "entryName": "奥波尔",
+  "rarity": "SR",
+  "element": "异",
+  "faction": "海德拉银行",
+  "title": "源轨信标",
+  "gender": "男",
+  "profession": "未公开",
+  "identityCode": "E01-071695",
+  "chipStatus": "正常",
+  "assessment": "异格者奥波尔，身份编码E01-071695，Re-A芯片状态稳定，未见异常波动。\n光谱号列车车长、E-01异格者权益保护协会会长、前海德拉银行轨道交通集团高级顾问……拥有这些身份的奥波尔绝对称得上E-01的名人。他毕生都致力于通过非暴 li 手段为异格者个争取基本权利，在异格者中拥有相当高的威望。\n他是一位成熟稳重的老先生，但在对待某些问题时，他又相当固执。想要说服他，总是得花很大力气。",
+  "stats": {
+    "生命": "10180+4795",
+    "攻击": "816+307",
+    "防御": "680+218",
+    "速度": "122+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+32%",
+    "效果抵抗": "0%+12%"
+  },
+  "skills": [
+    {
+      "skillId": "620275-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "水弹 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/8499167b-44b1-4e8a-8947-6407da3a370c.png",
+      "description": "冷却时间：0\n奥波尔挥动手杖射出水弹；对敌方单体造成240%伤害，有40%概率附加1层【持续伤害】，持续2回合。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【持续伤害】概率增加至40%\n等级4：\n潜能提升：速度值+4\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：速度值+8\n技能提升：【持续伤害】持续时间增加至2回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620275-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "水柱波 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/d3c80733-fb60-4b84-b762-6b5c5b627f81.png",
+      "description": "冷却时间：4\n奥波尔召唤水柱对敌方全体施加诅咒；对敌方全体造成240%伤害，有60%概率将目标身上随机2种增益效果转化为2层【持续伤害】，持续1回合。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：防御力+70\n技能提升：增益效果转变概率增加至60%\n等级4：\n潜能提升：效果命中+8%\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：效果命中+12%\n技能提升：增益效果转变数量上限增加为2种",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620275-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "暗浪 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/cca4a6ec-1fa2-46a4-827c-af04f953be39.png",
+      "description": "冷却时间：4\n奥波尔卷起汹涌的暗浪;对敌方全体造成3段80%伤害，每次有30%概率附加1层【持续伤害】，持续1回合，且有30%概率附加1回合【眩晕】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至75%\n等级3\n潜能提升：生命值+1000\n技能提升：附加【持续伤害】概率增加至30%\n等级4：\n潜能提升：生命值+5%\n技能提升：伤害系数增加至80%\n等级5：\n潜能提升：生命值+10%\n技能提升：附加【眩晕】概率增加至30%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n控制，驱散，持续伤害\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 515|\n| 源器配置 | 右三主属性3效果命中 |\n└─────────┴────────────┘\n【对局表现】\n毒队中的控制手，配合万魔打出2波控制，如果你有梨梨那么还能打出3连控制，在源网，爬塔，支线中作用巨大非常好用。pvp方面1速可驱散可控制，让对手无法动弹",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8戍卫+6讯光天击"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万魔法典"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8戍卫+6讯光天击",
+        "推荐智壳": "万魔法典",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/859870.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【理想主义的微光】\n「奥波尔先生，请问，能够当选E-01异格者权益保护协会会长，您有何感想？」\n「奥波尔先生，大家都想知道，过去您是自愿从海德拉银行离职的吗？」\n「奥波尔先生，能说说您就任以后第一件想做的事吗？」\n「奥波尔先生，对于那些认为异格者权益保护协会毫无意义的人，您有什么想对他们说的吗？」\n闪光灯不停闪烁着，在他的视野里留下一片片光斑，快门的响声混着记者们都发问，连成一片模糊的噪音。他被围在这光芒和噪音的正中间，举起双手向下压了压，待到噪音在他的示意下稍微降低了些时，才清了清嗓子，说道：\n「能加入能加入异格者权益保护协会，这是我毕生的荣幸。请各位相信，异格者权益保护协会绝不是什么徒有虚名的组织，而我也会竭尽所能，为每一位异格者争取权利，绝不退让。因为我们有着共同的目的—一为了更加美好的E-01。」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【新的清晨，新的开始】\n清晨的玖拾街转运中心，站台上只有寥寥数人，随着首班列车缓缓进站。然而，看着那辆进站的列车，站台上却响起阵阵低声的议论。\n「喂，这该不会是那辆光谱号吧？」\n「听说那辆列车不会对异格者进行检查，我才不要坐呢……」\n「就是就是，万一车上出现了感染者，那个叫奥波尔的列车长，付得起这个责任吗……」\n在议论声中，车门打开了，奥波尔从驾驶室里走出，站在站台上。他一言不发地看着那些乘客，就像其他普通的列车长那样，等待他们上车。\n几个异格者乘客走了进去，但人类乘客还停在站台上，神情复杂地看着奥波尔。\n他回以微笑，平静地说：「请各位放心，光谱号十分安全。我一直坚信，只要有更多机会，让人类和异格者之间互相了解，那份由未知中滋生而出的隔阂就能渐渐消弭。」\n站台上陷入寂静，只有时钟发出滴答声，指针缓缓走向发车的时刻。\n终于，人群里有个人再也沉不住气。\n「不管了·…我上班就要迟到了，万一迟到就会工作不保，那样还不如杀了我！」\n那个人咬紧牙关，头也不回地冲到车上。随着他的行动，\n又有零星的几个人类乘客，也跟着上了车。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【难渡己，难渡人】\n「奥波尔叔叔，我不想去学校……」\n风见一宵瘪着嘴，不情不愿地用脚尖在地上画着圆。\n奥波尔无奈地蹲下，摸了摸风见一宵的头顶。\n「别害怕，学校不是什么可怕的地方。在那里，你会认识更多和你年纪相近的朋友，也会学到更多有用的知识。要是有谁欺负你了，你就回来告诉叔叔，叔叔去帮你和他们讲道理。」\n「嗯……我知道了，那我……我试试看。」\n注视着风见一宵的背影走进教学楼，奥波尔总算长舒了一口气。\n「放心吧，我会让老师们照顾好她的，不会有问题。」\n一旁的康坦士校长拍了拍奥波尔的肩膀，又拍了拍自己的胸膛。\n奥波尔站起身，感激地向着康坦士点点头。\n「嗯，那孩子就拜托你了。唉，我这个当家长的，还真是失职……当初当选的时候，我以为自己能够做得更好，却没想到那些反对者竟然如此不择手段……结果到头来，我连一个孩子都保护不了。」\n「你也不容易，别给自己太大压力了。」\n「不过，她进了学校以后，我也就放心了。等到E-01变成人类与异格者和平共存之地的那一天，我再把作为一个家人欠那孩子的部分，一点点补上吧。」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/15f98a35-b16c-439c-9fe1-3df6ae5c23ef.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/15f98a35-b16c-439c-9fe1-3df6ae5c23ef.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/c0f6bcca-7005-46bb-8095-7a511b77d5d0.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/c0f6bcca-7005-46bb-8095-7a511b77d5d0.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/15f98a35-b16c-439c-9fe1-3df6ae5c23ef.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/15f98a35-b16c-439c-9fe1-3df6ae5c23ef.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/c0f6bcca-7005-46bb-8095-7a511b77d5d0.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/47680403-69e2-45fe-ad0c-18d4c9139e32.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/c0f6bcca-7005-46bb-8095-7a511b77d5d0.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/47680403-69e2-45fe-ad0c-18d4c9139e32.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/8499167b-44b1-4e8a-8947-6407da3a370c.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/d3c80733-fb60-4b84-b762-6b5c5b627f81.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/cca4a6ec-1fa2-46a4-827c-af04f953be39.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/859870.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/842288/2025/7/16/233425.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620275,
+    "title": "奥波尔",
+    "url": "https://www.gamekee.com/yise/620275.html",
+    "updatedAt": "2025-08-18T07:41:01.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620275_奥波尔.md",
+      "metadata": "03_图鉴词条/620275_奥波尔.json",
+      "rawApi": "_raw_api/details/620275.json"
+    }
+  }
+}

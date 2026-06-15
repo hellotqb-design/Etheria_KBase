@@ -1,0 +1,38 @@
+{
+  "id": 620805,
+  "kind": "yuanqi",
+  "name": "治愈",
+  "entryName": "治愈",
+  "group": "生命/治疗类",
+  "effect": "### 基础信息\n\n**\n治愈**\n\n**装备简介**\n\n未有异格者装备\n\n| 项目 | 内容 |\n| --- | --- |\n| **治愈** | 4：生命值+10%；\n\n8：生命值+10%；治疗效果提升25% |\n| 获取途径 | 熔断禁区-重构兵祸\n\n难度关卡：危机1~3，噩梦1~3，地狱1~4，炼狱 |",
+  "obtain": "熔断禁区-重构兵祸\n难度关卡：危机1~3，噩梦1~3，地狱1~4，炼狱",
+  "description": "未有异格者装备",
+  "attributes": {
+    "治愈": "4：生命值+10%；\n8：生命值+10%；治疗效果提升25%",
+    "获取途径": "熔断禁区-重构兵祸\n难度关卡：危机1~3，噩梦1~3，地狱1~4，炼狱"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_175/50364/43758/2024/3/24/773995.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/135864.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/521304.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/749479.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620805,
+    "title": "治愈",
+    "url": "https://www.gamekee.com/yise/620805.html",
+    "updatedAt": "2025-05-12T13:41:29.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620805_治愈.md",
+      "metadata": "03_图鉴词条/620805_治愈.json",
+      "rawApi": "_raw_api/details/620805.json"
+    }
+  }
+}

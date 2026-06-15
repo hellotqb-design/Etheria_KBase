@@ -1,0 +1,220 @@
+{
+  "id": 694773,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 878729,
+  "type": 4,
+  "title": "【伊瑟】吉安克养成攻略",
+  "tag": "",
+  "created_at": 1772093172,
+  "updated_at": 1772104776,
+  "updated_uid": 0,
+  "comment_at": 1772093172,
+  "last_at": 1772112243,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "哈喽大家我是lala，今天我们一起来研究一下新角色吉安克~一图流：需要注意，一图流毕竟还是简图，有很多细节方面无法体现出来，还是推荐大家观看完文章~一、角色概论先说总结，吉安克是自爆卡车式的角色，终结技在对敌方造成大量生命百分比伤害的同时会扣除自己的生命，但普攻能够按照已损失生命值大量恢复生命~二、",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2026/1/26/551476.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1448/h_2828/50364/878729/2026/1/26/579124.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2026/1/26/310731.jpg",
+  "model_ids": "",
+  "like_count": 2,
+  "unlike_count": 0,
+  "view_count": 1885,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 621726,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 50364,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1772095635,
+  "server_id": 0,
+  "image_num": 5,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 1772419077,
+  "version": "",
+  "content_id": 694773,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"Kne1v25JsTPTuq6K\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2026/1/26/551476.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"5000px\",\"height\":\"2822px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"哈喽大家我是lala，今天我们一起来研究一下新角色吉安克~ \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一图流： \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"XRU5LscdrnZ6mIo0\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1448/h_2828/50364/878729/2026/1/26/579124.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1448px\",\"height\":\"2828px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"需要注意，一图流毕竟还是简图，有很多细节方面无法体现出来，还是推荐大家观看完文章~ \"}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"一、角色概论 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"先说总结，吉安克是自爆卡车式的角色，终结技在对敌方造成大量生命百分比伤害的同时会扣除自己的生命，但普攻能够按照已损失生命值大量恢复生命~ \"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"二、技能详情 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"普攻—潮猎 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"XVzqWnefOAHDBJ11\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2026/1/26/310731.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"吉安克的普攻会对敌方单体造成自身生命上限的伤害，随后治疗自身已损生命 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动效果会在战斗开始时按照最大生命提升追击率，但自身无法暴击 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"小技能—海魂之咬 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"4jeVl2JVM8vrc0Qe\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2026/1/26/488769.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技会对敌方全体造成自身生命上限的伤害，并附加禁疗 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技—舰火裁决 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"7Ei9gy8BhOOE5n22\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2026/1/26/653486.jpg\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"2780px\",\"height\":\"1264px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技是吉安克主要输出的技能，使用后会移除主目标生命并扣除自身等量生命，对其余目标造成相当于自身生命上限的伤害，并附加两回合虚弱 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"经过测试发现，在面对当前生命65%高于吉安克最大生命的目标时，只会对目标造成等同于吉安克最大生命的伤害，此时吉安克会剩余一滴血 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"推荐加点：终结技5级→普攻5级→小技能5级 \",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"三、矩阵推荐 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"矩阵方面，由于吉安克会移除自身生命，因此12层位推荐浴血之躯，防止开出终结技后被集火秒掉，其次可以选择涌泉提升自身生命，在有25%免伤的情况下还是不太容易直接暴毙的；8层位推荐疾驰或奋进来提高自身行动频率；6层位推荐迅光天击与进化荫庇 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"毕业矩阵： \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一号位：疾驰/奋进 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"二号位：浴血之躯/涌泉 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"三号位：迅光天击/进化荫庇 \",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"四、智壳推荐 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"智壳方面，冠军巨鳄无论是恢复生命还是拉条都十分适配吉安克；其次可以选择胡狼卫士或千兆字节，提升行动频率 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"另外lala有一个偏娱乐的打法，携带目前生命加成最高的超新星，持续两回合的治疗量提升正好可以适配普攻的治疗，但缺点是行动频率上可能会有所欠缺 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"前期：不羁科学 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"中期：黑旗 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"后期：冠军巨鳄、胡狼卫士、千兆字节 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"娱乐打法：超新星 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动推荐：涌流、迅影、异之刃 \",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"五、源器推荐 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"源器方面，主词条推荐3生命值百分比，环境下控制较多时也可以选择携带一个效果抵抗。副词条优先速度，其次是生命值百分比，效果抵抗按需携带~ \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"主词条：生命值百分比*2+生命值百分比/效果抵抗 \",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"副词条：速度＞生命值百分比＞效果抵抗 \",\"bold\":true}]},{\"type\":\"divider\",\"value\":\"line-1\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"感谢大家看到最后，有问题可随时在评论区提出，lala看到后会第一时间回应，点赞收藏评论加速更新，祝大家单发抽出心仪异格者，我们下期攻略再见 \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"拜拜～ \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2026/1/26/551476.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1448/h_2828/50364/878729/2026/1/26/579124.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2780/h_1264/50364/878729/2026/1/26/310731.jpg"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 2,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

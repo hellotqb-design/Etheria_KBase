@@ -1,0 +1,363 @@
+{
+  "id": 660874,
+  "kind": "character_skill_bundle",
+  "name": "米娅",
+  "entryName": "米娅",
+  "rarity": "SSR",
+  "element": "理",
+  "faction": "协会",
+  "title": "水形之息",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "/",
+  "assessment": "异格者米娅，Re-A芯片状态正常，未见异常波动。\n开朗可爱，活泼单纯的乐天派少女，充满活力，精力旺盛，好像永远都不会感觉疲倦；\n非常喜欢交朋友，就算是拟态水灵，也会亲切地称呼它们为「水宝」，将它们看作自己的朋友；\n虽然内心惧怕孤独，但从不会在人前表露出来，非常珍视自己与他人之间的感情与联系；\n很重视承诺，尤其是对朋友的承诺，答应的事情一定会做到，所以有时候会显得很逞强。\n喜欢童话，并且发自内心地相信童话故事中发生的事情，但非常害怕鬼故事，也会自己想一些鬼故事，最后总会被自己吓到。\n但无论如何，相信开朗又活泼的米娅，总有一天会彻底战胜自己内心的恐惧。",
+  "stats": {
+    "生命": "14895+5974",
+    "攻击": "657+291",
+    "防御": "686+219",
+    "速度": "121+15",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+32%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "660874-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "流泓 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_75/h_61/50364/355468/2025/4/12/775694.png",
+      "description": "冷却时间：0\n米娅唤起水形；对敌方单体造成240%伤害，并为生命值最低的友方附加相当于自身10%最大生命值的【护盾】，持续2回合。\n彩佑：己方异格者每拥有1个增益效果，使自身获得5%减伤效果，最多可叠加8次。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：护盾量增加至最大生命值的10%\n等级4：\n潜能提升：速度值+5\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：速度值+10\n技能提升：【彩佑】的减伤效果增加至5%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "660874-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "水形佑 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_74/h_63/50364/355468/2025/4/12/648540.png",
+      "description": "冷却时间：4\n米娅操控拟态水；对敌方全体造成2段140%伤害，每段有50%概率驱散目标1个增益效果，并有75%概率击退目标15%行动进度。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至130%\n等级3\n潜能提升：防御力+70\n技能提升：驱散增益效果概率增加至50%\n等级4：\n潜能提升：效果命中+8%\n技能提升：伤害系数增加至140%\n等级5：\n潜能提升：效果命中+12%\n技能提升：击退行动进度概率增加至75%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "660874-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "晴雨虹 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_71/h_68/50364/355468/2025/4/12/264952.png",
+      "description": "冷却时间：4\n雨过天晴，晴空万里！好心情的米娅治疗全体友方，治疗量相当于自身30%最大生命值，减少全体队友1回合所有技能冷却，并延长所有增益效果1回合，缩短所有减益效果1回合（除控制效果）。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：治疗效果增加至自身最大生命值的的26%\n等级3\n潜能提升：生命值+1000\n技能提升：治疗效果增加至自身最大生命值的的28%\n等级4：\n潜能提升：生命值+5%\n技能提升：治疗效果增加至自身最大生命值的的30%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n驱散，治疗，减冷却，护盾\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 115|\n| 源器配置 | 右三主属性3生命加成 |\n└─────────┴────────────┘\n【对局表现】\n有着不错的驱散，减冷却效果，在重构兵祸和奥洛拉有一定的发挥",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8治愈+6进化荫庇"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万圣节"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8治愈+6进化荫庇",
+        "推荐智壳": "万圣节"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/553973.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "治疗效果提升"
+      ],
+      "other": [
+        "施加的治疗效果+10%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害双向提升"
+      ],
+      "other": [
+        "造成伤害结果提升10%，受到伤害结果降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【成为所有人的好朋友！】\n我还记得米娅被送到这里的那天：她捧着一簇比她脑袋还大的雏菊花束，给路过的每个人都塞了一束。\n或许是从小跟着身为博物学家的爷爷一起旅行的缘故，米娅独立生活的能力也高出其他孩子一截。\n并且在来的第一天，就和其他的孩子成为了好朋友。\n秉承公平公正公开的工作态度，我不应该根据个人感受而武断对协会中的孩子们做出任何带有对比性质的评价。\n但—一米娅实在是个特别棒的孩子。\n不是夸张，这是发自内心的评价。\n看着她和孩子们打成一片的样子，真是不由自主地感到放松。\n不知是错觉还是事实如此，米娅来了以后，卡奇和莉露摩卡的争执都少了许多。\n——麦琪的工作手记·米娅和她的朋友们",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【水宝，水宝，帮帮忙！】\n从米娅的能力可以看出，她被家人保护得很好。\n比起莉露摩卡，米娅毫无芥蒂地接纳了自己的能力——甚至还给那些奇形怪状（好吧，或许我并不应该这样形容）的拟态水取了个很有意思的名字，「水宝」。\n她的开朗与乐观很大程度上给予了莉露摩卡鼓励，那孩子刚来协会时总是小心翼翼，生怕无法控制自己的力量而弄坏东西，或是弄疼伙伴。\n随着时间流逝，这些孩子也慢慢到了该学会如何掌控能力的年纪。\n我和格雷曾有过思考：我们是否应当给予这些孩子用以磨练能力的战术训练？是否应当尽快告知他们外界的危险一一特别是熔断事故和熔断怪物?\n但后来我们觉得，这一切应该交给他们自已来选择。\n而在选择之前，我们应该教会他们如何看待这个总是充满了变化的世界。\n正如卡奇向往成为英雄，所以格雷会在空余时间教授他战斗技巧；莉露摩卡向往成为甜品家，所以大家总会热心地品尝她制作的糖果。\n那么米娅或许应该先和卡奇一样，有一个愿意为之而努力的梦想才对。\n即使这个梦想很小，也同样弥足珍贵。\n——麦琪的工作手记·米娅和她的水宝",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【是完美？还是……】\n刚和米娅熟悉起来的时候，我总有种她很不真实的感觉。\n这并不是我身为成年人傲慢的偏见，而是因为她的确在很多方面与众不同。\n她从未在大家的面前，表露出任何的「弱点」。\n米娅不会因为得不到心爱的糖果而争吵，不会因为思念家人而哭泣，更不会因为任何事和朋友产生争执，也从来不会表露出自己的委屈。\n她就像是天生为了黏合这些孩子而诞生的一般。\n这让我……很是意外。\n或许并不是每一个孩子都渴望着被宠爱，可米娅的表现，实在是太「完美」了一些。\n我曾开玩笑地和格雷提及，说米娅就像是一份为协会定制的「完美礼物」。\n当然，这个想法只是个玩笑，协会尊重每一位异格者的独立人格，无论年龄大小。\n不过，我还是在日常相处中发现了一些端倪，也终于发现了米娅内心深处的恐惧。\n当然我要事先声明，这个发现实在是无心之举，绝非出于某些恶趣味的爱好。\n协会的孩子们在卡奇的组织下成立了「少年异格者小队」，而他们偶尔会瞒着大人偷偷在夜里去探险。\n从他们对夜间探险的反应来看，米娅并不是一个能够成为「领队」的孩子。\n但上一次她在鬼屋里的表现却十分出人意料—一在连我也有些犯怵的黑暗之中，她鼓起勇气站在了所有人前面。\n在对孩子来说十分可怖的黑暗之中，米娅坚持到了最后，虽然离开时我发现她已经汗流满面。\n这样的品性，显然不是我先前臆断的「完美」那般粗浅。\n米娅是个非常坚强的孩子，她的坚韧与勇敢，是她最为宝贵的品德，也是她最为真实的一面。\n我相信米娅会在未来的探寻之路上，成长为一个真正优秀的异格者，也一定会找到她愿意为之追寻的梦想和道路。\n——麦琪的工作手记·米娅和她的勇气",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/355468/2025/4/13/699381.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/355468/2025/4/13/699381.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "",
+          "images": [],
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/355468/2025/4/13/699381.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/355468/2025/4/13/699381.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_400/h_400/50364/355468/2025/4/12/993213.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_34/h_34/50364/355468/2025/4/12/361652.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/553973.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_34/h_34/50364/355468/2025/4/12/361652.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_400/h_400/50364/355468/2025/4/12/993213.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/207704.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/60010.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_71/h_68/50364/355468/2025/4/12/264952.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_74/h_63/50364/355468/2025/4/12/648540.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_75/h_61/50364/355468/2025/4/12/775694.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 660874,
+    "title": "米娅",
+    "url": "https://www.gamekee.com/yise/660874.html",
+    "updatedAt": "2025-08-18T08:52:01.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/660874_米娅.md",
+      "metadata": "03_图鉴词条/660874_米娅.json",
+      "rawApi": "_raw_api/details/660874.json"
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "id": 669045,
+  "game_id": 50364,
+  "entry_id": 190100,
+  "uid": 267618,
+  "type": 4,
+  "title": "装备属性选择",
+  "tag": "2",
+  "created_at": 1751599794,
+  "updated_at": 1755053169,
+  "updated_uid": 267618,
+  "comment_at": 1751599794,
+  "last_at": 1756796461,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "此攻略写于2025年7月4日前瞻：今天跟群里大佬讨论了下，发现装备的副属性根据部位都是不同的，心血来潮写个科普吧~面甲副属性：面甲主属性为攻击力，不会出现的副属性有白字攻击、效果抵抗、生命加成、防御加成所以输出选择面具的最好属性为暴击率、暴击伤害、攻击加成、速度（大部分输出需要更快的出手，如果后续出",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_246/h_242/50364/267618/2025/6/4/92231.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_238/50364/267618/2025/6/4/911749.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_234/h_226/50364/267618/2025/6/4/454231.png",
+  "model_ids": "",
+  "like_count": 12,
+  "unlike_count": 0,
+  "view_count": 8830,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "韩国",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 4,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 669045,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"right\",\"indent\":\"\",\"children\":[{\"text\":\"此攻略写于2025年7月4日\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"right\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"bold\":true,\"bgColor\":\"\",\"text\":\"前瞻：\",\"fontSize\":\"18px\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"今天跟群里大佬讨论了下，发现装备的副属性根据部位都是不同的，心血来潮写个科普吧~﻿﻿\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"面甲副属性：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"xx9SiFmhkPbSikUP\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_246/h_242/50364/267618/2025/6/4/92231.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"101px\",\"height\":\"99px\"},\"children\":[{\"text\":\"\"}]},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\" 面甲主属性为\"},{\"text\":\"攻击力\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，不会出现的副属性有\"},{\"text\":\"白字攻击、效果抵抗、生命加成、防御加成\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"所以输出选择面具的最好属性为\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"暴击率、暴击伤害、攻击加成、速度\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"（大部分输出需要更快的出手，如果后续出现需要沉底的 可以带生命加成或防御加成提升坦度）\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"辅助则选择\",\"bgColor\":\"\",\"bold\":false,\"fontSize\":\"14px\",\"color\":\"rgb(0, 0, 0)\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"速度、生命\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"、\"},{\"text\":\"防御\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"最后一个属性需要命中就选\"},{\"text\":\"效果命中\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，不需要则根据角色技能需要选择\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"晶管副属性：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\" \"},{\"type\":\"image\",\"key\":\"V4n7f4UhbbLj7iSi\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_238/50364/267618/2025/6/4/911749.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"105px\",\"height\":\"100px\"},\"children\":[{\"text\":\"\"}]},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"晶管主属性为\"},{\"text\":\"生命力\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，不会出现的副属性有\"},{\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"攻击加成、防御加成、生命力、效果命中\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"所以输出选择面具的最好属性为\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"暴击率、暴击伤害、攻击力、速度\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"辅助则选择\",\"bgColor\":\"\",\"bold\":false,\"fontSize\":\"14px\",\"color\":\"rgb(0, 0, 0)\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"速度、生命加成这两个属性为主，\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"后两个可选\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"防御力和效果抵抗\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"腕轮副属性：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ED3Mymlv06JLrLQ9\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_234/h_226/50364/267618/2025/6/4/454231.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"112px\",\"height\":\"108px\"},\"children\":[{\"text\":\"\"}]},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"腕轮主属性为\"},{\"text\":\"防御力\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，不会出现的副属性有\"},{\"text\":\"生命加成、攻击加成、暴击伤害、防御力\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"所以输出选择面具的最好属性为\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"暴击率、攻击力、速度，\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"最后一个属性根据需要自定\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"辅助则选择\",\"bgColor\":\"\",\"bold\":false,\"fontSize\":\"14px\",\"color\":\"rgb(0, 0, 0)\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"速度\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"、\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"防御加成、生命力，\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"最后一条根据需要选择\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"效果命中或效果抵抗\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"核心副属性：\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"EyJSHDNYM4BzmdQF\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_242/h_230/50364/267618/2025/6/4/36050.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"105px\",\"height\":\"100px\"},\"children\":[{\"text\":\"\"}]},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"核心主属性\"},{\"text\":\"除了速度\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，都可能出现，副属性则可出现\"},{\"text\":\"所有属性\",\"color\":\"rgb(207, 19, 34)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，但不会出现跟主属性相同的副属性，比如主属性为暴击率时副属性不会出现暴击词条\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\",\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"所以输出选择面具的最好属性为\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"主属性 \",\"bgColor\":\"\",\"bold\":false,\"fontSize\":\"14px\",\"color\":\"rgb(0, 0, 0)\"},{\"bgColor\":\"\",\"text\":\"暴击率\",\"bold\":true,\"fontSize\":\"14px\",\"color\":\"rgb(56, 158, 13)\"},{\"bgColor\":\"\",\"text\":\"时，副属性选\",\"bold\":false,\"fontSize\":\"14px\",\"color\":\"rgb(0, 0, 0)\"},{\"text\":\"攻击加成、暴击伤害、速度、攻击力\",\"bgColor\":\"\",\"bold\":true,\"fontSize\":\"14px\",\"color\":\"rgb(56, 158, 13)\"},{\"bgColor\":\"\",\"bold\":false,\"fontSize\":\"14px\",\"color\":\"rgb(0, 0, 0)\",\"text\":\"，此选为输出最大化，如果需要肉度可以用生命加成、防御加成替换攻击力\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"主属性 \"},{\"text\":\"暴击伤害\",\"bgColor\":\"\",\"bold\":true,\"fontSize\":\"14px\",\"color\":\"rgb(56, 158, 13)\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"时，副属性选\"},{\"text\":\"攻击加成、暴击率、速度、攻击力\",\"bgColor\":\"\",\"bold\":true,\"fontSize\":\"14px\",\"color\":\"rgb(56, 158, 13)\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，此选为输出最大化，如果需要肉度可以用生命加成、防御加成替换攻击力\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"主属性 \"},{\"text\":\"攻击加成\",\"bgColor\":\"\",\"bold\":true,\"fontSize\":\"14px\",\"color\":\"rgb(56, 158, 13)\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"时，副属性选\"},{\"text\":\"暴击率、暴击伤害、速度、攻击力\",\"bgColor\":\"\",\"bold\":true,\"fontSize\":\"14px\",\"color\":\"rgb(56, 158, 13)\"},{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"，此选为输出最大化，如果需要肉度可以用生命加成、防御加成替换攻击力\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"辅助则选择\",\"bgColor\":\"\",\"bold\":false,\"fontSize\":\"14px\",\"color\":\"rgb(0, 0, 0)\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"主属性 \",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"生命加成\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"时，副属性选\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"速度\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"、\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"防御加成\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"后两条根据需要选择\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"效果命中、效果抵抗、生命力、防御等\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"主属性\",\"bgColor\":\"\",\"bold\":false,\"fontSize\":\"14px\",\"color\":\"rgb(0, 0, 0)\"},{\"text\":\" 防御加成\",\"bgColor\":\"\",\"bold\":true,\"fontSize\":\"14px\",\"color\":\"rgb(56, 158, 13)\"},{\"bgColor\":\"\",\"bold\":false,\"fontSize\":\"14px\",\"color\":\"rgb(0, 0, 0)\",\"text\":\"时，副属性选\"},{\"text\":\"速度\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"、\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"生命加成\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"后两条根据需要选择\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"效果命中、效果抵抗、生命力、防御等\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"},{\"type\":\"paragraph\",\"customClass\":null,\"children\":[{\"text\":\"主属性 \",\"bgColor\":\"\",\"bold\":false,\"fontSize\":\"14px\",\"color\":\"rgb(0, 0, 0)\"},{\"text\":\"效果命中\",\"bgColor\":\"\",\"bold\":true,\"fontSize\":\"14px\",\"color\":\"rgb(56, 158, 13)\"},{\"bgColor\":\"\",\"bold\":false,\"fontSize\":\"14px\",\"color\":\"rgb(0, 0, 0)\",\"text\":\"时，副属性选\"},{\"text\":\"速度\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"、\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"防御加成、生命加成，\",\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"最后一条根据需要选择\",\"color\":\"rgb(0, 0, 0)\",\"fontSize\":\"14px\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"rgb(56, 158, 13)\",\"fontSize\":\"14px\",\"bold\":true,\"bgColor\":\"\",\"text\":\"效果抵抗、生命力、防御等\"}],\"lineHeight\":\"\",\"textAlign\":\"left\",\"indent\":\"\"}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_246/h_242/50364/267618/2025/6/4/92231.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_238/50364/267618/2025/6/4/911749.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_234/h_226/50364/267618/2025/6/4/454231.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 267618,
+    "username": "权",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 2,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 21123758,
+    "content_num": 17,
+    "read_num": 119075,
+    "like_num": 39
+  },
+  "update_user": {
+    "uid": 267618,
+    "username": "权",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 267618,
+      "username": "权",
+      "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbas4S4X5W1yYE0pHaqvr1hLOF6sqWTujTOQic5dUgpau4txQOo0ibfekc6ZnTShq1on2PrWxacf1Q/132",
+      "last_ip_area": "韩国",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 13,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 675322,
+      "name": "国服安装教学",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/2/292985.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 645547,
+      "name": "萌新必看",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/22/587172.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675573,
+      "name": "萌新开荒攻略PVE篇",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/29/381088.png",
+      "jump_url": ""
+    },
+    {
+      "id": 678427,
+      "name": "福利合集",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/11/21340.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 665794,
+      "name": "兑换码",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/5/10/719647.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 665358,
+      "name": "国际服安装教学",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1440/h_810/50364/157597/2025/5/9/43116.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "自建开荒入门攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/154257/2025/6/31/853921.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 672483,
+      "name": "白嫖/低氪开荒规划",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_500/50364/664163/2025/7/27/740775.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 619789,
+      "name": "攻略组招募",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/8/130379.jpg",
+      "jump_url": ""
+    }
+  ]
+}

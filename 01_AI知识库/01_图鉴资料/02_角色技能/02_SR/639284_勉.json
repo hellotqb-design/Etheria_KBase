@@ -1,0 +1,343 @@
+{
+  "id": 639284,
+  "kind": "character_skill_bundle",
+  "name": "勉",
+  "entryName": "勉",
+  "rarity": "SR",
+  "element": "虚",
+  "faction": "美梦俱乐部",
+  "title": "无想之刃",
+  "gender": "男",
+  "profession": "未公开",
+  "identityCode": "S09-113008",
+  "chipStatus": "正常",
+  "assessment": "异格者勉，身份编码S09-113008，Re-A芯片状态正常，未见异常波动。\n蜃都地区问心武馆的当代馆主。\n为人严谨、沉稳，将家族传承视为一切。恪守传统与道义，行事一板一眼，有时甚至显得有些不近人情。\n姐姐问心去世后便肩负起了武馆的责任，面对蜃海地下帮派和「DOKI」娱乐操控的明争暗斗，其一直保护问心武馆远离旋涡中心，独善其身。\n非常重视自己作为剑士的荣誉，看不起那些使用阴谋诡计、暗箭伤人的宵小之辈。\n对唯一的妹妹胧十分宠爱，但从不表露出来。",
+  "stats": {
+    "生命": "8227+3073",
+    "攻击": "1080+495",
+    "防御": "482+198",
+    "速度": "121+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%+32%",
+    "效果命中": "0%+12%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "639284-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "流云",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_85/h_79/50364/103682/2024/9/25/341891.png",
+      "description": "冷却时间：0\n勉施展绝技，以难以预测的剑路攻击敌人；对敌人单体造成240%伤害。\n看破：攻击处于减益状态的目标时，必定造成暴击。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：攻击力+100\n技能提升：暴击概率增加至80%\n等级4：\n潜能提升：攻击力+5%\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：攻击力+10%\n技能提升：攻击处于减益状态的目标，必定造成暴击",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "639284-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "忘影",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_87/h_82/50364/103682/2024/9/25/449583.png",
+      "description": "冷却时间：3\n勉以肉眼难以捕捉的高速剑术攻击敌人；对敌人单体造成2段200%伤害，每次攻击有80%概率偷取目标随机1个增益效果。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至190%\n等级3\n潜能提升：防御力+70\n技能提升：偷取增益效果概率增加至80%\n等级4：\n潜能提升：暴击伤害+8%\n技能提升：伤害系数增加至200%\n等级5：\n潜能提升：暴击伤害+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "639284-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "月迅",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_87/h_88/50364/103682/2024/9/25/943602.png",
+      "description": "冷却时间：3\n勉施展剑术奥义，用无法防御的剑术斩向敌人；对敌人单体造成2段280%伤害，如果最后一击暴击，则有100%概率附加2回合【禁止治疗】和【闭锁】",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至260%\n等级3\n潜能提升：生命值+1000\n技能提升：附加【禁止治疗】和【闭锁】概率增加至80%\n等级4：\n潜能提升：速度值+4\n技能提升：伤害系数增加至280%\n等级5：\n潜能提升：速度值+8\n技能提升：附加【禁止治疗】和【闭锁】概率增加至100%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "名称",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n输出\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 555|\n| 源器配置 | 右三主属性3暴击伤害 |\n└─────────┴────────────┘\n【对局表现】\n独特的攻击减益状态必定暴击，源器全堆爆伤把伤害提升到极致，配合克罗斯附加减益后实现封锁和伤害的双重打击",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12洞悉穿刺+8狂怒+6极影强袭"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "伯爵"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12洞悉穿刺+8狂怒+6极影强袭",
+        "推荐智壳": "伯爵"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/132196.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击伤害提升"
+      ],
+      "other": [
+        "暴击伤害+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【磐叶新狩。】\n在蜃海的某个僻静的街区深处，有一座古旧的问心武馆。\n问心武馆的大门常年紧闭，鲜少看见有人出入，但若是站在高处眺望，倒是能瞥见武馆中的状况。\n武馆中的门徒们整日在偌大的演武场上修习武术，认真操练，其中有一位年轻的教官严肃地穿行于他们之间。\n据悉那位年轻的教官便是现今问心武馆的馆主，勉。他总是颇为严厉地指导着门徒们的一招一式，有时甚至到了不近人情的地步。\n——麦琪的蜃海街区调查手记·其十二",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【沉渊泓洄。】\n问心武馆已经有些年头没再招收新门徒了。\n但若是有人诚心上门，又运气颇好，或许能有一线希望得见馆主本人。\n勉家主会亲自赠予你一把称手的武器，并邀请你七日之后登门对决。\n请放心，这并非故意刁难，而是对习武之人的「历练」。\n只要你能接住勉家主一招而不倒下，那么就能成为问心武馆的一员。\n——麦琪的蜃海街区调查手记·其十五",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【雏隼，终会翱翔于旷野。】\n听说美梦俱乐部的大主管，胧，正是这位勉家主的妹妹。\n而武馆的前任馆主，问心，则是他们两人的姐姐。\n据说在问心意外离世后，勉与胧曾爆发过一次争吵，之后两人便分道扬镳，不复相见。\n我曾了解过，胧一直在暗中调查着什么，而那背后的线索，似乎正是指向当年的问心。\n而勉似乎也并不像传闻中那样与胧恩断义绝，反倒在通过某种方式悄悄支持着她。\n——麦琪的蜃海街区调查手记·其十九",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1138/h_579/50364/103682/2024/9/25/533545.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1138/h_579/50364/103682/2024/9/25/533545.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_784/h_859/50364/103682/2024/9/25/324507.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_784/h_859/50364/103682/2024/9/25/324507.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1138/h_579/50364/103682/2024/9/25/533545.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1138/h_579/50364/103682/2024/9/25/533545.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_784/h_859/50364/103682/2024/9/25/324507.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_309/h_571/50364/103682/2024/9/25/889433.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1736/h_1736/215/103682/2025/10/20/668579.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/132196.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/338567.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_309/h_571/50364/103682/2024/9/25/889433.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/436356.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/389425.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_784/h_859/50364/103682/2024/9/25/324507.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_85/h_79/50364/103682/2024/9/25/341891.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_87/h_82/50364/103682/2024/9/25/449583.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_87/h_88/50364/103682/2024/9/25/943602.png"
+  ],
+  "source": {
+    "pageId": 639284,
+    "title": "勉",
+    "url": "https://www.gamekee.com/yise/639284.html",
+    "updatedAt": "2025-08-18T08:39:05.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639284_勉.md",
+      "metadata": "03_图鉴词条/639284_勉.json",
+      "rawApi": "_raw_api/details/639284.json"
+    }
+  }
+}

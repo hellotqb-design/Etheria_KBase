@@ -1,0 +1,35 @@
+{
+  "id": 619856,
+  "kind": "yuanqi",
+  "name": "洞悉穿刺",
+  "entryName": "洞悉穿刺",
+  "group": "攻击类",
+  "effect": "### 套装\n\n**\n洞悉穿刺**\n\n**装备简介**\n\n未有异格者装备\n\n| 项目 | 内容 |\n| --- | --- |\n| **矩阵效果** | 6：暴击伤害+18%\n\n12：暴击伤害+18%；回合内异格者造成的前三次伤害分别额外提升25%、15%和5% |\n| 获取途径 | 熔断禁区-重构兵祸\n\n难度关卡：地狱1-4，炼狱 |",
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_114/50364/43758/2024/3/12/19649.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/102034.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/172603.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/214295.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/342216.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/854743.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/907885.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 619856,
+    "title": "洞悉穿刺",
+    "url": "https://www.gamekee.com/yise/619856.html",
+    "updatedAt": "2025-05-12T13:29:11.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/619856_洞悉穿刺.md",
+      "metadata": "03_图鉴词条/619856_洞悉穿刺.json",
+      "rawApi": "_raw_api/details/619856.json"
+    }
+  }
+}

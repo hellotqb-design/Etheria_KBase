@@ -1,0 +1,220 @@
+{
+  "id": 683418,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 789037,
+  "type": 4,
+  "title": "🌟智壳特研所🌟规则介绍&注意事项&定制智壳推荐建议^_^",
+  "tag": "2",
+  "created_at": 1763452214,
+  "updated_at": 1763452214,
+  "updated_uid": 0,
+  "comment_at": 1763452214,
+  "last_at": 1771570769,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "💗规则重点介绍1：🌟注意目前有且只能制作一个。。emmm其实制作2个也不错啊（除非这个活动可以一个月为周期开放一次）也不是不能接受2:三阶段任务可以同时进行，挺好。3：只要你拥有的传说智壳都可以制作智壳特研所规则💗完成任务领取特研晶体领取特研晶体选择矩阵类型继续点击所选矩阵，ok完成💗定制智",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_608/50364/789037/2025/10/18/903625.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_240/h_240/50364/2025/11/18/e486ba7b-d027-4b7e-9316-c8f8a8070dc8.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_240/h_240/50364/2025/11/18/e486ba7b-d027-4b7e-9316-c8f8a8070dc8.png",
+  "model_ids": "",
+  "like_count": 1,
+  "unlike_count": 0,
+  "view_count": 2261,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "山东省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 631786,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1763453289,
+  "server_id": 0,
+  "image_num": 12,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 1771570769,
+  "version": "",
+  "content_id": 683418,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":\"9Y6QNOpnv7rZXbOZ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_608/50364/789037/2025/10/18/903625.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"608px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"💗规则重点介绍\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"1：🌟注意目前有且只能制作\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"一个\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"。。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_240/h_240/50364/2025/11/18/e486ba7b-d027-4b7e-9316-c8f8a8070dc8.png\",\"alt\":\"[心动小镇_震惊]\",\"style\":{\"width\":\"22px\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_240/h_240/50364/2025/11/18/e486ba7b-d027-4b7e-9316-c8f8a8070dc8.png\",\"alt\":\"[心动小镇_震惊]\",\"style\":{\"width\":\"22px\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"emmm  其实制作2个也不错啊 （除非这个活动可以一个月为周期开放一次）也不是不能接受\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"2 : 三阶段任务可以同时进行，挺好。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"3：只要你\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"拥有的传说智壳\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"都可以制作\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"53nU3K9cnYf4o90w\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_971/h_420/50364/789037/2025/10/18/169499.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"971px\",\"height\":\"420px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"智壳特研所规则\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"💗完成任务领取特研晶体\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"4DIIyGiUdbGFt0Wf\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_582/50364/789037/2025/10/18/572853.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"582px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"领取特研晶体\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"rCJQb6446jy7CLoP\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_575/50364/789037/2025/10/18/294029.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"575px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"选择矩阵类型\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"继续点击所选矩阵，ok完成\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"💗定制智壳突然后悔了怎么办\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"不要慌，简单解决，无痛返回\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"只需这样⬇️\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"2KBCnw9GSei0Iasx\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_585/50364/789037/2025/10/18/694304.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"585px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"点击更换智壳\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"再这样⬇️\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"左侧重新选择要制作的智壳后，再点击重置特研就👌啦\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_240/h_240/50364/2025/11/18/9b2d36c0-7bc9-4392-b764-0886975c642b.gif\",\"alt\":\"[TapFamily_摸鱼]\",\"style\":{\"width\":\"58px\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"F3nLBiAF0bKjhhSt\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_599/50364/789037/2025/10/18/430264.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"599px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"重置特研\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"💗定制智壳推荐建议\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如果你侧重于\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"PVE玩法\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"单体天花板可以选择\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【寅虎】\",\"color\":\"rgb(89, 145, 255)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"==比如暴力莉拉姆最爱\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"收割➕洞悉穿刺➕暴烈利刃=究极毕业333\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"狂怒➕洞悉穿刺➕暴烈利刃=约等于收割\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"PVP莉拉姆侧重于生存（大多数都带的\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"缄默法则\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"）\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"HbDf1xqyBqeoOwEE\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1039/h_638/50364/789037/2025/10/18/598493.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1039px\",\"height\":\"638px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"【寅虎】\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"输出PVE➕PVP泛用性较高\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的选择\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"单体&群体都可以使用\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【伯爵】\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"狂怒➕洞悉穿刺➕暴烈利刃=泛用性较高\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"狂怒➕乘势追击➕暴烈利刃=优先用于最求PVE极限输出\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"al8MJFaId0buZxd1\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_621/50364/789037/2025/10/18/702098.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"621px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"【伯爵】\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如果你侧重于\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"PVP玩法\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"当然是跑条王\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【胡狼】\",\"color\":\"rgb(255, 184, 0)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"莫属\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"只推荐\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"疾驰➕浴血➕迅光天击 \",\"color\":\"rgb(89, 145, 255)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"好用，不解释，顶级智壳\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"吐槽：我刷了一个多月【赫妍大人了】，就是不出双速浴血的胡狼。。。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"系统：你是不是针对我，giao ！！！\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"zmtJj4Dv1Yq1qumP\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1065/h_639/50364/789037/2025/10/18/277183.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1065px\",\"height\":\"639px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"【胡狼】\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"💗结语\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如果上面推荐的你都有了的话\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"那就根据你所练的BOX和背包智壳情况\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"综合考虑一下自己没有的，适合自己的搭配的333智壳就好啦。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"比如：双速戍卫万魔/双速奋进万魔/双速奋进天角兽/双速浴血琥珀等等\",\"color\":\"rgb(89, 145, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"其实只要是双速➕浴血的智壳---都是好东西\",\"color\":\"rgb(89, 145, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"rgb(89, 145, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如果有写的不对的地方，欢迎大家指正哈！！！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如果大家有更好的提议，都可以评论区打出来哈！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"各位看官，如果看的好~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"可以\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"点个关注 \",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"不迷路哈~~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"韶华会经常分享各种攻略哈\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_608/50364/789037/2025/10/18/903625.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_240/h_240/50364/2025/11/18/e486ba7b-d027-4b7e-9316-c8f8a8070dc8.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_240/h_240/50364/2025/11/18/e486ba7b-d027-4b7e-9316-c8f8a8070dc8.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 789037,
+    "username": "韶华",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 16306098,
+    "content_num": 14,
+    "read_num": 52245,
+    "like_num": 18
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 789037,
+      "username": "韶华",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+      "last_ip_area": "山东省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": true,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

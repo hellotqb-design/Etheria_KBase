@@ -1,0 +1,41 @@
+{
+  "id": 675362,
+  "kind": "guide",
+  "title": "【伊瑟】凶影追缉-亚克-参考攻略",
+  "domainPath": [
+    "03_攻略参考",
+    "03_副本攻略"
+  ],
+  "classifyReason": "副本或PVE攻略参考",
+  "originalCategory": "07_攻略评测",
+  "text": "【伊瑟】凶影追缉-亚克-参考攻略\n\n作者-爱赖床的书生攻略对象：亚克-理（火系）攻略难度：普通危机前言：这是伊瑟最简单的智壳boss，不需要太高的练度，使用赠送的SSR“炼”和开局使用的SR和R卡即可很简单的通关，当然如果想要3星通关，需要大家有些练度，在这边说一下，SSR“炼”可以跟着养成活动-超链之证来针对性养成，这个角色，在刷群\n\n作者-爱赖床的书生\n\n攻略对象：亚克-理（火系）    攻略难度：普通  危机\n\n前言：\n\n这是伊瑟最简单的智壳boss，不需要太高的练度，使用赠送的SSR“炼”和开局使用的SR和R卡即可很简单的通关，当然如果想要3星通关，需要大家有些练度，在这边说一下，SSR“炼”可以跟着养成活动-超链之证来针对性养成，这个角色，在刷群体怪的副本中帮助会非常大，7天内还可以重置，所以不要担心养成浪费。\n\nBoss技能：\n\n技能一（流禽羽）：全体攻击，并100%概率附加2回合【防御下将】（防御下将60%）\n\n技能二（死亡之翼）：全体攻击，造成550%的伤害\n\n技能三（绯空主宰者）：被动，每次行动后，随机追击，敌方血量越低伤害越高，目标血量每下降2%伤害提升1%，并永久提升6%的速度\n\n一阶段：2个小怪+boss\n\n小怪1-异（水系）：有70%概率减防2回合\n\n小怪2-恒定（光系）：每次攻击40%的概率击退10%的行动进度\n\n二阶段：2个精英小怪+boss\n\n小怪1-破序（暗系）：有眩晕控制\n\n小怪2-理（火系）：吸血\n\n推荐阵容：炼（主要输出）+多乐丝+格雷+卡奇\n\n炼负责队伍主要输出，格雷负责给予对面减防和给队伍进行暴击增益，同时可以作为副C，进行补伤，卡奇负责拉条让炼进行多动，多乐丝负责队伍生存，在主C半血时记得使用单体或者大招进行群体回复。",
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_10.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/444686.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/494466.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/543342.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/590629.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/676500.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/705755.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/753864.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/799661.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/851564.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/644144.png"
+  ],
+  "source": {
+    "pageId": 675362,
+    "title": "【伊瑟】凶影追缉-亚克-参考攻略",
+    "url": "https://www.gamekee.com/yise/675362.html",
+    "updatedAt": "2025-08-27T14:11:00.000Z",
+    "sourceFiles": {
+      "markdown": "07_攻略评测/675362_【伊瑟】凶影追缉-亚克-参考攻略.md",
+      "metadata": "07_攻略评测/675362_【伊瑟】凶影追缉-亚克-参考攻略.json",
+      "rawApi": "_raw_api/details/675362.json"
+    }
+  }
+}

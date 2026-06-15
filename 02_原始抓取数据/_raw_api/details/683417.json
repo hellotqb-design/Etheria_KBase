@@ -1,0 +1,220 @@
+{
+  "id": 683417,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 789037,
+  "type": 4,
+  "title": "🌟源器重塑🌟【改异】&【调频】制作建议💗",
+  "tag": "2",
+  "created_at": 1763451931,
+  "updated_at": 1763451931,
+  "updated_uid": 0,
+  "comment_at": 1763451931,
+  "last_at": 1763451931,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "先上源器副属性词条干货面甲没有：防御加成百分比、生命加成百分比、效果抵抗、“小”攻击。晶管没有：攻击加成百分比、防御加成百分比、效果命中、“小”生命。腕轮没有：生命加成百分比、攻击加成百分比、暴击伤害、“小”防御。核心源器：所有副属性都有！！但是！！！（举例核心主属性为爆伤的话，那么副属性里面是没有",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/789037/2025/10/18/83284.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_561/50364/789037/2025/10/18/671856.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_816/h_284/50364/789037/2025/10/18/181634.png",
+  "model_ids": "",
+  "like_count": 1,
+  "unlike_count": 0,
+  "view_count": 2320,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "山东省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 631786,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1763453288,
+  "server_id": 0,
+  "image_num": 7,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 683417,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"mHJjHSAi2QEH22rj\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/789037/2025/10/18/83284.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1920px\",\"height\":\"1080px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header1\",\"children\":[{\"text\":\"先上源器副属性词条干货\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"面甲\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"没有\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"防御加成百分比、生命加成百分比、效果抵抗、“小”攻击。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"晶管\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"没有\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"攻击加成百分比、防御加成百分比、效果命中、“小”生命。\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"腕轮\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"没有\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"生命加成百分比、攻击加成百分比、暴击伤害、“小”防御。\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"核心源器：所有副属性都有！！但是！！！（\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"举例核心主属性为爆伤的话，那么副属性里面是没有爆伤这个属性的，其余主属性同理哈。\",\"color\":\"rgb(255, 184, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"）\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"韶华友情提醒：大家不要盲目使用这个功能\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如下图当你点完改异之后！\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"要么只能放弃或者只能覆写，切记！！！\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"GVAogYmI4ZGySIjR\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_561/50364/789037/2025/10/18/671856.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"561px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"谨慎点击\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟：大家要先仔细查看一下背包里面都有什么\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"比较完美属性\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的源器。\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"🌟：且只有\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"强化15级满级\",\"color\":\"rgb(255, 184, 0)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的才可以\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"💗源能改异\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"从该位置中重新随机\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"所有\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"副属性和随机强化升级结果\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【欧非有命！！富贵在天】\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"该功能最好用于\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"先天满词条（4词条副属性）\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，这样不会亏一次强化的效果！\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如下图所框选：\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"系统会提示初始副属性的数量：4或者3\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\" \",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【一定要选择数量：4的】\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"d2vxy70j2MGeHwTR\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_816/h_284/50364/789037/2025/10/18/181634.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"816px\",\"height\":\"284px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"源能改异功能\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"lLXvUDplgZzUjbJd\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_634/50364/789037/2025/10/18/927002.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"634px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"重新随机所有副属性和随机强化升级\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"💗源能调频\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"重新分配目前显示的副词条属性：比如下图，有可能会变成17%红色暴击伤害\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"【欧非有命！！富贵在天】\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"该功能同样最好用于\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"先天满词条（4词条副属性）\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，这样不会亏一次强化的效果！\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ZEGu9A6gja63SkhU\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_810/h_285/50364/789037/2025/10/18/265211.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"810px\",\"height\":\"285px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"center\",\"indent\":\"\",\"children\":[{\"text\":\"源能调频功能\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"💗制作建议\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"重点：只建议制作\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【特化核心】\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"或者你的完美属性的右三\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【核心】\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"对了不建议用这个系统刻意去追速度---除非你足够自信\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"优先考虑泛用性的话，PVP命中比较重要&PVE追求极限伤害\",\"color\":\"rgb(255, 184, 0)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"比如：主属性\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【效果命中】的迅光天击\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"           主属性\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【暴击伤害】的爆裂利刃\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"           主属性\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【暴击伤害】/【暴击率】的“狂怒”“洞悉穿刺”“乘胜追击”\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"这样的核心\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"核心思路就是那些难以获取的主属性和位置源器，其余位置就放在开双倍的时候多刷刷吧。因为越到后期，大家基本都是常驻源器副本了。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"下图举例：韶华不才，没有很完美的源器，都是3条腿的，大家凑活看~主要用于展示哈\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"aCn2Ex4SFEnCDHRs\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_432/50364/789037/2025/10/18/346656.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"1080px\",\"height\":\"432px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"🎲骰子获取\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"召唤商店积分\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"2000兑换\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"一个【调频骰子】\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"不建议兑换，但是【氪佬可以尽情兑换】\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"不如选择兑换性价比更高的\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【金色完美晶格】\",\"color\":\"rgb(255, 184, 0)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"toOxAy8AtGA8VZgl\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_720/h_348/50364/789037/2025/10/18/921463.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"720px\",\"height\":\"348px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"普通的\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"【改异骰子】\",\"color\":\"rgb(89, 145, 255)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"未来肯定会有更多的获取途径，这个倒是不用担心。\",\"color\":\"inherit\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"最后祝大家\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"欧气满满\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，都可以如愿ROOL骰出自己的完美源器。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如果有写的不对的地方，欢迎大家指正哈！！！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如果大家有更好的提议，都可以评论区打出来哈！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"韶华每一条评论都会认真看的哈~~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"大家评论区也可以晒出你的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“传家宝”\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"最好可以分我点欧气哈~~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"各位看官，如果看的好~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"可以\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"点个关注\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\" 不迷路哈~~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"韶华会经常分享各种攻略哈\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"For韶华\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/789037/2025/10/18/83284.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_561/50364/789037/2025/10/18/671856.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_816/h_284/50364/789037/2025/10/18/181634.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 789037,
+    "username": "韶华",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 16306098,
+    "content_num": 14,
+    "read_num": 52245,
+    "like_num": 18
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 789037,
+      "username": "韶华",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+      "last_ip_area": "山东省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": true,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

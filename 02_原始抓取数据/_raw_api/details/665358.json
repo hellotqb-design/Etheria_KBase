@@ -1,0 +1,275 @@
+{
+  "id": 665358,
+  "game_id": 50364,
+  "entry_id": 188956,
+  "uid": 236746,
+  "type": 4,
+  "title": "【伊瑟】国际服游戏安装教学",
+  "tag": "2",
+  "created_at": 1749180482,
+  "updated_at": 1749437895,
+  "updated_uid": 236746,
+  "comment_at": 1749639543,
+  "last_at": 1751811893,
+  "comment_count": 8,
+  "status": 1,
+  "summary": "伊瑟2025.6.5国际服公测，玩家群：1030593328账号登录方式有：苹果、谷歌、邮箱一、谷歌环境安装如果你是第一次玩外服游戏，安卓设备优先安装好谷歌环境：谷歌环境安装和谷歌账号相关如果你用的是模拟器，推荐用雷电模拟器最新版（mumu模拟器不支持），模拟器桌面自带谷歌环境安装器。二、游戏安装常",
+  "thumb": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_286/h_171/50181/236746/2025/4/21/329916.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1443/h_821/50364/236746/2025/5/6/789044.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_236/50364/236746/2025/5/6/393978.png",
+  "model_ids": "",
+  "like_count": 9,
+  "unlike_count": 0,
+  "view_count": 18393,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "四川省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 6,
+  "video_list": "[{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/236746/2025/5/6/381720.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/236746/2025/5/6/531422.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0}]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 665358,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"伊瑟2025.6.5国际服公测，玩家群：\"},{\"type\":\"link\",\"url\":\"http://gamekee.com/cgi-bin/qm/qr?_wv=1027&k=C40hhP0pPbFKSBZpIPEbTR_9Y2fqVrso&authKey=vmi%2F1rTG279UBwVutZL2IDZKZ2FnCdMUUuLwa59G6WF6Ia6d%2FN%2BSKimUCZmnM%2FG3&noverify=0&group_code=1030593328\",\"children\":[{\"text\":\"1030593328\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"账号登录方式有：苹果、谷歌、邮箱\"}]},{\"type\":\"tabs\",\"children\":[{\"type\":\"tab-item\",\"key\":\"xii7xHcaiSdVJ0ci\",\"title\":\"安卓/模拟器教学\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"一、谷歌环境安装\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿如果你是第一次玩外服游戏，安卓设备优先安装好谷歌环境：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"mention-doc\",\"key\":\"byPLra02XVmw2hwS\",\"url\":\"https://www.gamekee.com/u/38679.html\",\"content\":\"谷歌环境安装和谷歌账号相关\",\"icon\":\"\",\"children\":[{\"text\":\"谷歌环境安装和谷歌账号相关\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}],\"docId\":38679},{\"text\":\"﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿如果你用的是模拟器，推荐用雷电模拟器最新版（mumu模拟器不支持）﻿，模拟器桌面自带谷歌环境安装器。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"https://cdnimg-v2.gamekee.com/wiki2.0/images/w_286/h_171/50181/236746/2025/4/21/329916.png\",\"alt\":\"\",\"style\":{\"width\":\"286px\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"﻿﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":\"mUcUEoOuJn1ebLiW\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1443/h_821/50364/236746/2025/5/6/789044.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"762px\",\"height\":\"434px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"﻿﻿﻿\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"﻿\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"二、游戏安装\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"常用的安装方法有3个：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"1、加速器\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"\"},{\"type\":\"mention-doc\",\"key\":\"2JphI3mySJ7mhcUj\",\"url\":\"https://www.gamekee.com/u/665401.html\",\"content\":\"Kuyo加速器\",\"children\":[{\"text\":\"\"}],\"icon\":\"\",\"docId\":665401},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"﻿可以直接安装和加速伊瑟国际服，新账号注册免费送1天会员。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"HwsrpMvMdQEAsIbo\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_236/50364/236746/2025/5/6/393978.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"429px\",\"height\":\"236px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"2、也可以使用魔法，建议节点选美国地区，进入\"},{\"type\":\"link\",\"url\":\"https://www.google.com.hk/search?q=%E4%BC%8A%E7%91%9F&sca_esv=cc2ca69670373081&source=hp&ei=E_tBaIGGMPKuseMPvuzwgQw&oq=%E4%BC%8A%E7%91%9F&gs_lp=EhFtb2JpbGUtZ3dzLXdpei1ocCIG5LyK55GfMgsQABiABBixAxiDATIFEAAYgAQyBRAAGIAEMgUQABiABDIFEC4YgAQyBRAuGIAEMgUQABiABDIFEAAYgARI3xlQyRVYyRVwAHgAkAEAmAGaAaABmgGqAQMwLjG4AQPIAQD4AQGYAgKgAuQBqAIPwgICECnCAgoQKRiwAxjWBBhHwgIKECkYgAQYQxiKBZgDMpIHAzEuMaAHzweyBwMwLjG4B7IBwgcFMy0xLjHIByo&sclient=mobile-gws-wiz-hp\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"谷歌商店\"}]},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"安装游戏客户端。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"港、台、日、韩、越南没上线，可能搜不到游戏。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"3、也还可以在群文件下载taptap国际版APP再安装游戏\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"image\",\"key\":\"2EQJql0XmxTwjepm\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_741/h_233/50364/236746/2025/5/6/62268.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"741px\",\"height\":\"233px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"三、游戏加速\",\"color\":\"\",\"fontSize\":\"16px\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"},{\"type\":\"mention-doc\",\"key\":\"DryQdkC0d9s8CDO0\",\"url\":\"https://www.gamekee.com/u/36154.html\",\"content\":\"OurPlay加速器\",\"children\":[{\"text\":\"\"}],\"icon\":\"\",\"docId\":36154},{\"text\":\" 或\"},{\"type\":\"mention-doc\",\"key\":\"higMZ5vb31Jh9OZC\",\"url\":\"https://www.gamekee.com/u/665401.html\",\"content\":\"Kuyo加速器\",\"children\":[{\"text\":\"\"}],\"icon\":\"\",\"docId\":665401},{\"text\":\"可以加速伊瑟国际服。\"}]}]},{\"type\":\"tab-item\",\"key\":\"H4xYGJeb8ttk5UvP\",\"title\":\"IOS教学\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"准备一个美国地区的苹果ID，在苹果商店切换账号，即可搜索安装【伊瑟】。\",\"color\":\"rgb(64, 64, 64)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"港、台、日、韩、越南没上线，可能搜不到游戏。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"再用\",\"color\":\"rgb(64, 64, 64)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"mention-doc\",\"key\":\"KzGXQGfvHc42AIFj\",\"url\":\"https://www.gamekee.com/u/36154.html\",\"content\":\"OurPlay加速器\",\"icon\":\"\",\"children\":[{\"text\":\"ourplay加速器\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}],\"docId\":36154},{\"text\":\" 或 \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"mention-doc\",\"key\":\"GvXIXo1PJsTJUw61\",\"url\":\"https://www.gamekee.com/u/665401.html\",\"content\":\"Kuyo加速器\",\"children\":[{\"text\":\"\"}],\"icon\":\"\",\"docId\":665401},{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"开启游戏加速。\"}]},{\"type\":\"flod\",\"title\":\"如何切换苹果账号\",\"children\":[{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/236746/2025/5/6/531422.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/236746/2025/5/6/381720.png\",\"children\":[{\"text\":\"\"}]}]}]},{\"type\":\"tab-item\",\"key\":\"uEimpqhuVH6wzHTu\",\"title\":\"PC教学\",\"children\":[{\"type\":\"paragraph\",\"children\":[{\"text\":\"1、游戏安装\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"（1）玩家群群文件安装PC客户端\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"DtkCSVrvciZ55D4R\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_747/h_194/50364/236746/2025/5/6/991073.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"747px\",\"height\":\"194px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"（2）也可以自己用魔法进入伊瑟国际服官网安装PC客户端：\"},{\"type\":\"link\",\"url\":\"https://etheria.xd.com/\",\"children\":[{\"text\":\"https://etheria.xd.com/\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"XvnNHBPr58jPtoPr\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_874/h_418/50364/236746/2025/5/6/760807.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"874px\",\"height\":\"418px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"2、最后魔法开全局模式进入游戏\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_286/h_171/50181/236746/2025/4/21/329916.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1443/h_821/50364/236746/2025/5/6/789044.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_236/50364/236746/2025/5/6/393978.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 236746,
+    "username": "兔兔酱",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_512/h_512/215/236746/2022/9/20/890498.png",
+    "description": "创建wiki请联系QQ：2017946590，微信：tutujiangLO，备注来意",
+    "follow_num": 735,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": true,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 2,
+    "content_at": 1375,
+    "content_num": 1804,
+    "read_num": 25374051,
+    "like_num": 10658
+  },
+  "update_user": {
+    "uid": 236746,
+    "username": "兔兔酱",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_512/h_512/215/236746/2022/9/20/890498.png",
+    "description": "创建wiki请联系QQ：2017946590，微信：tutujiangLO，备注来意",
+    "follow_num": 735,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": true,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 2,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 236746,
+      "username": "兔兔酱",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_512/h_512/215/236746/2022/9/20/890498.png",
+      "last_ip_area": "四川省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 6,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 675322,
+      "name": "国服安装教学",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/2/292985.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 645547,
+      "name": "萌新必看",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/22/587172.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675573,
+      "name": "萌新开荒攻略PVE篇",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/29/381088.png",
+      "jump_url": ""
+    },
+    {
+      "id": 678427,
+      "name": "福利合集",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/11/21340.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 665794,
+      "name": "兑换码",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/5/10/719647.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 669045,
+      "name": "装备属性科普",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/6/4/55811.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "自建开荒入门攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/154257/2025/6/31/853921.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 672483,
+      "name": "白嫖/低氪开荒规划",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_500/50364/664163/2025/7/27/740775.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 619789,
+      "name": "攻略组招募",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/8/130379.jpg",
+      "jump_url": ""
+    }
+  ]
+}

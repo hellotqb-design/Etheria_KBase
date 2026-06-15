@@ -1,0 +1,275 @@
+{
+  "id": 678427,
+  "game_id": 50364,
+  "entry_id": 195862,
+  "uid": 789037,
+  "type": 4,
+  "title": "滴滴滴~一份萌新入坑伊瑟之【福利合集指南】",
+  "tag": "2",
+  "created_at": 1758961282,
+  "updated_at": 1763451535,
+  "updated_uid": 789037,
+  "comment_at": 1758961282,
+  "last_at": 1763454448,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "全测老登奉上一份萌新超链者的入坑指南，为各位玩家做下指引和推荐~~1：铛铛铛铛兑换码来啦ETHERIA0925（十连）新增兑换码：（以后国服有最新的兑换码，我会及时过来更新哈）ETHERIA666：异格原型*3，伊瑟币*60000WELCOME2YISE：异格原型*5YS666：海德拉晶钻*50，伊",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1000/h_563/50364/789037/2025/8/27/344304.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_936/h_294/50364/789037/2025/8/27/603685.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_1269/h_666/50364/2025/9/27/be9bed3f-ce7c-4be4-bc53-4915d44302b5jpeg",
+  "model_ids": "",
+  "like_count": 1,
+  "unlike_count": 0,
+  "view_count": 7762,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "山东省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 26,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 678427,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"jsDGp1crRbJub5yW\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1000/h_563/50364/789037/2025/8/27/344304.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"全测老登奉上一份萌新超链者的入坑指南，为各位玩家做下指引和推荐~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"1：铛铛铛铛 兑换码来啦\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"ETHERIA0925 （十连）\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"新增兑换码：（以后国服有最新的兑换码，我会及时过来更新哈）\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"ETHERIA666  \",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：异格原型*3，伊瑟币*60000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"WELCOME2YISE   ：\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"异格原型*5\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"YS666   \",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：海德拉晶钻*50，伊瑟币*20000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"YS888 \",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"  ：海德拉晶钻*50，伊瑟币*20000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"YS999   \",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：海德拉晶钻*50，伊瑟币*20000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"XD1M666  \",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：海德拉晶钻*50，伊瑟币*20000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"yisexiaohai \",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"  ：\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"异格原型*5\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"yiseuzi \",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"   ：\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"异格原型*5\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"yisekejie\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"   ：\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"异格原型*5\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"TAPTAPFLASH1\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"  \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"：海德拉晶钻*50，伊瑟币*20000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"LIVEGIFT888  \",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：海德拉晶钻*100，伊瑟币*50000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"TAPTAPFLASH2 \",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：海德拉晶钻*50，伊瑟币*20000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"OFFICIALLIVE\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\": 海德拉晶钻*100，伊瑟币*50000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"GFT2025\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：异格原型*3，伊瑟币*60000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"YISERUIMALI \",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：海德拉晶钻*100，伊瑟币*50000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"TAPTAPFLASH3\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"  ：海德拉晶钻*50，伊瑟币*20000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"SUPPORTPLAN\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"  :海德拉晶钻*100，伊瑟币*50000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"98WX6BH9LQ\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\" ：海德拉晶钻*200，伊瑟币*100000\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"YISENAIWEITE\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\" ：海德拉晶钻*100，伊瑟币*50000     \",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"（2025/12/05 00:00截止）\",\"color\":\"var(--editor-gray-06)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"4TBCBQ422W\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\" ： 海德拉晶钻*200，伊瑟币*100000   \",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"（2025/11/24 00:00截止）\",\"color\":\"var(--editor-gray-06)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"\\n\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ceNIQwiOztAfBl08\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_936/h_294/50364/789037/2025/8/27/603685.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"如下图兑换路径：\"},{\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"游戏内右上角-设置-其他-兑换码\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"q9j3GaQRx02ax7An\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1269/h_666/50364/2025/9/27/be9bed3f-ce7c-4be4-bc53-4915d44302b5jpeg\",\"alt\":\"兑换码\",\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"children\":[{\"text\":\"2：超链启鸣盛典活动（全球同享）\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"盛典之邀7天签到，上线登录即得。\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"依次为：200海德拉晶钻，极相（光暗）自选协议，进化晶格（SR技能等级材料），光暗抽，5升6星红色材料，升格原型（必定召唤SR或SSR异格者），完美晶格（稀有SSR技能等级材料）\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"seLW94P2h1lTPh3g\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_922/h_322/50364/789037/2025/8/27/464179.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"重点：\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"第二天的极相（光暗）自选协议\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"可在破序和恒定角色\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"（梨梨、莉拉姆、孽生之棘·善雅、海因里希、多琪、渺渺、弥瑟亚）\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"中任选其一直接获得！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"需注意不包含当期UP夜离和后续光暗角色哈。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"建议选取\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"梨梨or莉拉姆！\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"可以先不着急选，先抽普池试试手气。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"前期的副本难度，使用“炼”这张萌新之友就足够应对了，再加上一辅助一治疗剩下一个位置看自己选择啦。\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"rQMNZzHynm4mUSgG\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_452/h_399/50364/789037/2025/8/27/932085.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"GuunjyMKdwN0AWOz\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_452/h_325/50364/789037/2025/8/27/427699.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"还有就是签到7天获得的\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"“完美晶格”\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"的也需要谨慎使用！！\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"异格重构（重置）\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如图\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"黄字\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"所示，材料都会返还。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"注意：从建号开始就会进行\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"7天倒计时\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，大家一定要注意\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"橙色文字的倒计时。\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"但是只有\"},{\"text\":\"“五次”\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"机会，第一次\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"免费\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，后续会是\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"200-400-600-800\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"海德拉晶钻消耗递增！且用且珍惜！！\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":\"ibzTmmCHCRkp7YnD\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1013/h_711/50364/789037/2025/8/27/262066.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"异格盛装礼活动\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"包含六位异格者多彩皮肤分别是：\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"克罗斯，彼岸汀，缇亚马特，赫同，拿鹤，拂秋。\",\"color\":\"rgb(255, 184, 0)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"提一嘴：个人比较喜欢赫同的皮肤哈。\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"恰克皮肤就根据个人喜好随心选择就好啦。\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"OhcG804oVZn5DkXq\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_946/h_350/50364/789037/2025/8/27/76272.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"CCKk13LwcZfAJuHf\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_946/h_353/50364/789037/2025/8/27/287134.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"3：关于游戏内资源和抽数，魔灵like类游戏都是需要肝度的\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"咱们话不多说，先来一波游戏内外看得见的福利~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"预约奖励：\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"晶钻800，异格原型10，伊瑟币80000，预约纪念头像框+预约纪念主角皮肤\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"。\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"eQ2bGvXN0zKGArcT\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1268/h_758/50364/789037/2025/8/27/186221.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"七日签到：共计40异格原型\",\"color\":\"rgb(26, 28, 30)\",\"fontSize\":\"18px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"kJ4ANOao63N9mQc3\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1066/h_714/50364/789037/2025/8/27/809289.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"等级成长助力奖励\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"10级等级\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"SR三选一箱子\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"也可以等\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"后面\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"再开，当你未抽出酣梦时\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"酣梦优先级第一\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，次之选\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"未收录\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"图鉴，补命座也是建议选\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"酣梦\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"30级\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"5000原质晶点\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"（注意噢-在原质商店里面兑换的是\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"命座\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"哈！）\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"hy08qy7c125fqnhy\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1268/h_714/50364/789037/2025/8/27/131595.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"完成7日目标：阶段一完成可获得&完美晶格。\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"阶段二完成可获得跃格原型-\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"随机SSR\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"一个（包含\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"当期UP在内\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的随机哦）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"祝你好运！！！\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"YIEoIMrcLoTDY6xH\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1269/h_611/50364/789037/2025/8/27/568223.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"活动：禁区通缉-完成对应挑战的奖励\",\"color\":\"rgb(26, 28, 30)\",\"fontSize\":\"18px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"1tlbo3czBowJEv2O\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1046/h_558/50364/789037/2025/8/27/960862.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"Ia1L7cbPegkuteZg\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1039/h_545/50364/789037/2025/8/27/636611.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"bac8WUfoZWnMC5AO\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1034/h_594/50364/789037/2025/8/27/617254.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"日常挑战里面的“凶影追缉”“熔断禁区”“秘闻调查”“源点前哨”\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"首通都是有奖励的\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"这里重点说一下 \",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“熔断禁区”\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的首通奖励\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“源器精粹”\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"前期获得的这个材料一定要留着！一定要留着！一定要留着！等到\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"50级开源器臻选商店\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"再使用。\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"2n5SLxBcjIfpiR9P\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1269/h_587/50364/789037/2025/8/27/740756.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"活动：巅峰竞技场（RTA）奖励\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"内含\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"缬草\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"和\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"格雷\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的皮肤\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"dUHz8L8CVN7YdIKJ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1086/h_579/50364/789037/2025/8/27/524391.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"成就奖励：完成各种成就的奖励和每个成就分类里面成就等级也有对应奖励。\",\"color\":\"rgb(26, 28, 30)\",\"fontSize\":\"18px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"gB0owecslEYYt0p1\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1269/h_680/50364/789037/2025/8/27/281244.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"主线奖励：完成对应章节的奖励以及章节内有\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"（宝箱可以点开地图查看，也可以点击下图右下方的按钮-\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"PC端按R键\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，可以更快的发现隐蔽的宝箱位置（金色宝箱奖励最高）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"SznaF8OKNd9xO53P\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1269/h_639/50364/789037/2025/8/27/525133.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"7r7qUxwfkqEse7eX\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1253/h_683/50364/2025/9/27/f06f4a39-6a0c-4a89-8f8e-9b4b9b6700b7jpeg\",\"alt\":\"QQ20250918-181434\",\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"YKshm0yG9iAk7CKZ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1268/h_742/50364/789037/2025/8/27/255943.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"edeMhn4qYvCssTLm\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1267/h_713/50364/2025/9/27/e2923872-1a23-4cb2-b2c7-2456352b27ecjpeg\",\"alt\":\"QQ20250917-161648\",\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"异格回响\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"这里重点说下，每个关卡的普通难度都会奖励普通一抽，这个是可以\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"积累到10连抽\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的！！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"大家喜欢单抽出奇迹的就单抽，喜欢10连抽的就10连。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"例如一些SSR异格者关卡3-6-9这样的以此类推这样，完成噩梦难度，不仅有\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"头像\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"和稀有资源的奖励可以拿，还有3个\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"剧情\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"可以看哈。\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"7SJDt0Qi3yzt9FxU\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1122/h_522/50364/789037/2025/8/27/772676.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"重点来了：大头奖励都在\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"},{\"color\":\"rgb(255, 0, 0)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\",\"text\":\"超链之证\"},{\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\",\"text\":\"里面，按照任务指引完成任务可以获得不菲的奖励\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"总计五大分类奖励，每个分类里面有多阶段+多进度的奖励，颇为丰富。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如下图，可以直接点击\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“前往“按钮\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"直达需要完成任务的地方，贴心的设计。\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"nK9k4oD9mfMCmdMz\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1266/h_571/50364/789037/2025/8/27/906938.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":\"2seUr50XZYY6SRXH\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1265/h_637/50364/2025/9/27/0b31c553-a191-4045-990b-79086c144a74jpeg\",\"alt\":\"QQ20250919-105732\",\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"综上所述所有奖励拿完大约\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"400+抽\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，还是要提一嘴噢，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"自选光暗箱子先别急着开\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，先看看自己抽普池都出了那些卡，然后可以参考一下\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"万魔法典攻略组\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"持续更新的“全角色节奏榜分析”\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"附传送门：\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"link\",\"url\":\"https://www.taptap.cn/moment/709067279190462383\",\"children\":[{\"text\":\"https://www.taptap.cn/moment/709067279190462383\",\"color\":\"var(--primary-tap-blue)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"来确定自己的阵容如何养成和规划哈，或者\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"加入官群\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，里面有大佬=老登可以给你解疑答惑。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"如有考虑不全的地方，大家评论区尽管补充哈~~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"最后祝各位欧皇一发入魂，不对！！！\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"十连三金不是梦！！！\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"For韶华\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1000/h_563/50364/789037/2025/8/27/344304.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_936/h_294/50364/789037/2025/8/27/603685.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1269/h_666/50364/2025/9/27/be9bed3f-ce7c-4be4-bc53-4915d44302b5jpeg"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 789037,
+    "username": "韶华",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 16306098,
+    "content_num": 14,
+    "read_num": 52245,
+    "like_num": 18
+  },
+  "update_user": {
+    "uid": 789037,
+    "username": "韶华",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 789037,
+      "username": "韶华",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+      "last_ip_area": "山东省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 675322,
+      "name": "国服安装教学",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_280/50364/664163/2025/9/2/292985.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 645547,
+      "name": "萌新必看",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/22/587172.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675573,
+      "name": "萌新开荒攻略PVE篇",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2500/h_1411/50364/664163/2025/7/29/381088.png",
+      "jump_url": ""
+    },
+    {
+      "id": 665794,
+      "name": "兑换码",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/5/10/719647.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 669045,
+      "name": "装备属性科普",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2025/6/4/55811.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 665358,
+      "name": "国际服安装教学",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1440/h_810/50364/157597/2025/5/9/43116.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "自建开荒入门攻略",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/154257/2025/6/31/853921.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 672483,
+      "name": "白嫖/低氪开荒规划",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_500/50364/664163/2025/7/27/740775.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 619789,
+      "name": "攻略组招募",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/8/130379.jpg",
+      "jump_url": ""
+    }
+  ]
+}

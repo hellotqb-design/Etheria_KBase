@@ -1,0 +1,343 @@
+{
+  "id": 645557,
+  "kind": "character",
+  "name": "酣梦一宵",
+  "entryName": "酣梦一宵",
+  "rarity": "SR",
+  "element": "虚",
+  "faction": "十三区高校",
+  "title": "安眠之刻",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "/",
+  "chipStatus": "故障",
+  "assessment": "异格者酣梦一宵，Re-A芯片状态故障，无法检测到核心有用信息。\n于梦境中诞生的「风见一宵」，本质上是风见一宵在一次「梦境实验」中呈现的样子。\n比现实中的风见一宵的性格更为活泼，也更加自信，既是校园中的「瞩目之星」，也是月夜见小姐最好的朋友。\n不知道过去一板一眼的风见一宵，在梦醒之后是否还会不自觉对他人如此严苛呢？",
+  "stats": {
+    "生命": "10518+3302",
+    "攻击": "702+295",
+    "防御": "808+352",
+    "速度": "124+12",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+32%",
+    "效果抵抗": "0%+12%"
+  },
+  "skills": [
+    {
+      "skillId": "645557-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "入梦 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_114/50364/664163/2025/0/15/657246.png",
+      "description": "冷却时间：0\n酣梦一宵对敌方单体造成2段120%伤害，每次有30%概率附加2回合【睡眠】。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至110%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【睡眠】概率增加至30%\n等级4：\n潜能提升：速度值+4\n技能提升：伤害系数增加至120%\n等级5：\n潜能提升：速度值+8\n技能提升：【睡眠】持续时间增加至2回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "645557-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "安眠 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_114/50364/664163/2025/0/15/767529.png",
+      "description": "冷却时间：0\n酣梦一宵攻击处于【睡眠】状态的敌人时，每次有100%概率击退15%行动进度，且不会解除【睡眠】状态。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：击退行动进度效果增加至12%\n等级3\n潜能提升：防御力+70\n技能提升：击退行动进度概率增加至80%\n等级4：\n潜能提升：防御力+5%\n技能提升：击退行动进度效果增加至15%\n等级5：\n潜能提升：防御力+10%\n技能提升：击退行动进度概率增加至100%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "645557-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "梦幻泡影 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_114/50364/664163/2025/0/15/895041.png",
+      "description": "冷却时间：3\n酣梦一宵对敌方全体造成3段85%伤害，每次有65%概率附加2回合【攻击下降】，目标已被附加【攻击下降】时改为有45%概率附加1回合【睡眠】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至85%\n等级3\n潜能提升：生命值+1000\n技能提升：附加【攻击下降】概率增加至65%\n等级4：\n潜能提升：效果命中+8%\n技能提升：附加【睡眠】概率增加至45%\n等级5：\n潜能提升：效果命中+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n控制\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 555|\n| 源器配置 | 右三主属性3命中效果 |\n└─────────┴────────────┘\n【对局表现】\n大招cd非常快，多琪本中实现多轮控制非常好用，同时睡眠的增伤也能让通关多琪本速度加快。pvp中1技能2回合睡眠，配合梨梨，让对面一直睡觉，非常推荐拉满",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+奋进+6讯光天击"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万魔法典"
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+奋进+6讯光天击",
+        "推荐智壳": "万魔法典"
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/269067.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害双向提升"
+      ],
+      "other": [
+        "造成伤害结果提升10%，受到伤害结果降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【一场有关梦境的实验。】\n十三区高校的风纪委员风见一宵，自愿接受梦境实验项目。\n确保在对自身不构成任何伤害的前提下配合实验的所有流程，并允许实验人员记录过程中的数据。\n在本次实验开始前，风见一宵已经在仪器的帮助下进入了稳定的睡眠状态，各项身体指标正常，未见异常提醒。\n为了避免造成实验者的意识混乱，梦境中的风见一宵被标记为「酣梦一宵」，除此之外，她的样貌也产生了一些变化。\n作为此次梦境实验的观察员，即将开启接下来的记录……\n——缬草的梦境实验笔记·节选",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【瞩目之星，竟然是她？】\n据心理测评结果显示，风见一宵的心理状态整体趋向健康，但依然存在着属于她这个年龄的困扰。\n比如轻度的自卑，轻度的焦虑……这些情况均来源于她自极度严苛、一丝不苟的「好学生」性格。\n风见一宵的梦境同她本人一样古板，哪怕是在梦里，她也依旧要担任风纪委员。\n但略有不同的是，她不再是人群中被孤立的那个少女，而是校园中璀璨耀眼的「瞩目之星」。\n她变得活泼、自信、讨人喜欢，那个活在他人仰慕中的月夜见和她成为了朋友。\n根据实验前的相关信息评估，这是她一直梦想着的理想状态。\n不知道我是否受到了梦境的影响，截止记录到现在为止，我认为她的确应该成为现在的样子。\n——缬草的梦境实验笔记·节选",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【长梦总会醒。】\n在进入梦境之前，我们曾约定用一样物品作为终止实验的信号，在进行了一番讨论后，我拿到了一张被判零分的考卷。\n出于对被实验者的尊重，该考卷不会作为公开的资料用以查阅。\n在我打算终止实验，脱离梦境时，风见一宵却消失了。\n我花费了一点精力才找到她——她独自一人站在十三区高校的露台上，悲伤地看向远处。\n她看到我后，问我这一切是不是只是一场梦。\n我说是的，但这并非只是梦，而是一次出于她个人意愿的，针对自我性格的引导实验。\n我很少同被实验者有心灵上的共情，我承认那一刻我的确被她的悲伤所感染，但还是坚定拿出了那张考卷作为约定终止的信号。\n无论如何，我要对这场实验负责，而不是将其视为一个单纯的研究工具。\n况且，从结果来看，这次实验完成地十分圆满：风见一宵正在向着她理想的自己前行，或许很快就能真正成为她所渴盼的样子。\n我由衷期待着那一天的到来。\n——缬草的梦境实验笔记·节选",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/15/358946.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/15/358946.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/664163/2025/0/15/257911.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/664163/2025/0/15/257911.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_114/50364/664163/2025/0/15/657246.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_114/50364/664163/2025/0/15/767529.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_114/50364/664163/2025/0/15/895041.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2025/7/17/344366.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/3/8/716078.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/15/358946.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/0/15/358946.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/664163/2025/0/15/257911.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_215/h_306/50364/664163/2025/0/15/683781.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_215/h_306/50364/664163/2025/0/15/683781.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1440/50364/664163/2025/0/15/257911.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/269067.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/123332.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/125903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/211677.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/270479.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/326252.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/346939.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/376218.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/554323.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/556952.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/580670.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/641341.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/67922.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/723263.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/737569.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/80132.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/845286.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/853777.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/868108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/86856.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/931468.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/945792.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/989673.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/763352.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/373535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/634325.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/346333.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/770328.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/664163/2025/0/8/901055.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/207704.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 645557,
+    "title": "酣梦一宵",
+    "url": "https://www.gamekee.com/yise/645557.html",
+    "updatedAt": "2025-08-18T08:40:13.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/645557_酣梦一宵.md",
+      "metadata": "03_图鉴词条/645557_酣梦一宵.json",
+      "rawApi": "_raw_api/details/645557.json"
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "id": 685809,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 878729,
+  "type": 4,
+  "title": "【伊瑟】杜兰铎·觉醒养成攻略",
+  "tag": "",
+  "created_at": 1765796908,
+  "updated_at": 1765796908,
+  "updated_uid": 0,
+  "comment_at": 1765796908,
+  "last_at": 1765796908,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "封面：哈喽大家我是lala，今天我们一起来看看觉醒后的杜兰铎~一图流：一、角色概论先说总结，觉醒后的杜兰铎就是增益的膨胀神券，能够按比例提升友方受到的增益效果数值，还能够全体拉条、单体驱散及推条二、技能提升普攻—刃切▶杜兰铎的普攻新增被动——升华，能够使友方受到的所有基础增益效果提升30%计算公式为",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/11/15/908000.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/11/15/524424.png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 1634,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 2,
+  "last_ip_area": "天津",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 968898,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 50364,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1765797000,
+  "server_id": 0,
+  "image_num": 2,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 685809,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"封面：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"OHi1wk7540VwWONO\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/11/15/908000.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"5000px\",\"height\":\"2822px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"哈喽大家我是lala，今天我们一起来看看觉醒后的杜兰铎~\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一图流：\"},{\"type\":\"image\",\"key\":\"t8c36qbJvXK2W3S8\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/11/15/524424.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"5000px\",\"height\":\"2822px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"一、角色概论\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"先说总结，觉醒后的杜兰铎就是增益的膨胀神券，能够按比例提升友方受到的增益效果数值，还能够全体拉条、单体驱散及推条\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"二、技能提升\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"普攻—刃切\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"▶杜兰铎的普攻新增被动——升华，能够使友方受到的所有基础增益效果提升30%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"计算公式为：基础数值+基础数值*1.3\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"— —\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"那么也就是说在己方有杜兰铎时，基础增益效果的数值堪比一件右侧源器，还是十分强力的\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"小技能—刃舞\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"▶觉醒后小技能数值变动：\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"每次攻击有40%→60%概率驱散目标一个增益效果\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"有30%→40%概率击退目标25%→30%行动进度\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"— —\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"驱散和击退的概率提升，推条的数值也微微提升了一点，结合4段的次数来看总的提升还是比较大的，能够有效针对敌方的核心单位了~\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"终结技—飞天轮舞\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"▶终结技在觉醒后新增全体拉条30%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"— —\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"觉醒后完美解决了杜兰铎终结技给完buff后还没行动就被驱散的问题，全体拉条30%也是十分强力的\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"三、矩阵推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"矩阵方面，8层位可以选择疾驰防止沉淀，也可以选择奋进提升行动频率，或者低速时选择戍卫防止被控；12层位可以选择疾驰抢一速，开场终结技把队友拉上来，也可以选择浴血之躯防止被秒，PVE长线也可以选择时光驾驭刷新技能冷却；6层位首选迅光天击，其次可以选择疾影强袭\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"毕业矩阵：\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"一号位：疾驰/奋进/戍卫\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"二号位：疾驰/浴血之躯\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"三号位：迅光天击/疾影强袭\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"四、智壳推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"智壳方面，可以选择万魔法典双终结技拉条补足增益，也可以选择胡狼卫士提升行动频率\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"可用智壳：万魔法典/胡狼卫士\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"被动推荐：涌流、迅影、无畏\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"五、源器推荐\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"源器词条方面，主词条可以选择双效果命中提升小技能触发概率，剩下一个位置选择生命值%或效果抵抗；副词条速度＞效果命中＞效果抵抗＞生命值%\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"主词条：效果命中*2+生命值%/效果抵抗\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"副词条：速度＞效果命中＞效果抵抗＞生命值%\",\"bold\":true}]},{\"type\":\"header3\",\"children\":[{\"text\":\"六、角色就业\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"觉醒后的杜兰铎完美解决了终结技效果过于单一的问题，攻击力上升和防御上升的buff能够有效提升攻击端，可以在速攻核爆队就业，也可以作为罗魍的辅助使用\"}]},{\"type\":\"divider\",\"value\":\"line-3\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"感谢大家看到最后，有问题可随时在评论区提出，lala看到后会第一时间回应，点赞收藏评论加速更新，祝大家单发抽出心仪异格者，我们下期攻略再见\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"拜拜～\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/11/15/908000.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/878729/2025/11/15/524424.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 878729,
+    "username": "就叫lala",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 1,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 9400287,
+    "content_num": 34,
+    "read_num": 210052,
+    "like_num": 58
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 878729,
+      "username": "就叫lala",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "天津",
+      "last_login_device_num": 2
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

@@ -1,0 +1,100 @@
+{
+  "id": 639316,
+  "kind": "zhike",
+  "name": "白疾风",
+  "entryName": "白疾风",
+  "rarityGroup": "特异",
+  "starRarity": "★★★",
+  "role": "辅助型",
+  "description": "以行动迅捷著称的智壳，喜欢从阴影中发动突袭，令敌人防不胜防。",
+  "stats": {
+    "生命": "1965",
+    "攻击": "136",
+    "防御": "163",
+    "速度": "20"
+  },
+  "skills": [
+    {
+      "skillId": "639316-skill-1",
+      "order": 1,
+      "section": "宠物技能",
+      "name": "白疾风（已觉醒）",
+      "description": "冷却时间：4回合\n减益 单伤\n本体行动前，对攻击最高的目标造成2段25%+900伤害，并使其在本回合内由本体附加的非控制减益效果持续时间延长1回合（除去【持续伤害】），且在2回合内提升本体异格者15%效果命中。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "涌泉"
+      ],
+      "other": [
+        "涌泉 4/8/12",
+        "生命值+10%/+25%/+45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾驰"
+      ],
+      "other": [
+        "疾驰 4/8/12",
+        "速度值+8%/+20%/+35%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "金刚"
+      ],
+      "other": [
+        "金刚 4/8/12",
+        "防御力+10%/+25%/+45%"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★",
+    "定位": "辅助型",
+    "生命": "1965",
+    "攻击": "136",
+    "防御": "163",
+    "速度": "20"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/753274.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_293/h_316/50364/43758/2024/3/24/812671.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_317/h_306/50364/43758/2024/3/24/299532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_356/50364/43758/2024/3/24/975499.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_334/h_329/50364/43758/2024/3/24/822532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_355/h_350/50364/43758/2024/9/25/123742.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_355/h_350/50364/43758/2024/9/25/123742.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/835331.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/295654.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_384/h_432/50364/43758/2024/3/24/394522.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_403/h_371/50364/43758/2024/3/24/460555.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_441/h_396/50364/43758/2024/9/25/586598.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_452/h_377/50364/43758/2024/3/24/398277.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/295654.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/835331.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 639316,
+    "title": "白疾风",
+    "url": "https://www.gamekee.com/yise/639316.html",
+    "updatedAt": "2025-05-12T13:22:57.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639316_白疾风.md",
+      "metadata": "03_图鉴词条/639316_白疾风.json",
+      "rawApi": "_raw_api/details/639316.json"
+    }
+  }
+}

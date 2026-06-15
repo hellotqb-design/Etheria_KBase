@@ -1,0 +1,374 @@
+{
+  "id": 620257,
+  "kind": "character_skill_bundle",
+  "name": "善雅_SSR",
+  "entryName": "孽女善雅",
+  "rarity": "SSR",
+  "element": "破序",
+  "faction": "莱伯茨生命",
+  "title": "孽生之棘",
+  "gender": "女",
+  "profession": "不明",
+  "identityCode": "E01-070242",
+  "chipStatus": "故障",
+  "assessment": "异格者善雅，身份编码E01-070242，Re-A芯片发生故障，无法监测具体状况。\n善雅曾经历过痛苦的改造实验，精神状态产生巨变，悲观、阴郁、对一切都提不起兴趣。\n被强行融合了未知来源的特殊原质后，她的原质能力完全逆转，表现为加速枯萎和衰败。\n这股力量不仅能毁火敌人，甚至能够毁火自己，与她接触时必须非常谨慎。",
+  "stats": {
+    "生命": "14761+3726",
+    "攻击": "916+317",
+    "防御": "745+336",
+    "速度": "115+15",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%+32%",
+    "效果抵抗": "0%+12%"
+  },
+  "skills": [
+    {
+      "skillId": "620257-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "蔓生 等级 5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/5997f99c-5904-43ef-81ed-a76df193a9d5.png",
+      "description": "冷却时间：0\n善雅使用荆棘藤蔓攻击目标；对敌方单体造成230%伤害，有50%概率附加1层【持续伤害】，持续2回合。\n凋零：善雅自身造成伤害时附加1层【持续伤害】，持续2回合。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+4口/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至210%\n等级3\n潜能提升：攻击力+100\n技能提升：被动附加的【持续伤害】概率增加至100%\n等级4：\n潜能提升：速度值+10\n技能提升：伤害系数增加至230%\n等级5：\n潜能提升：速度值+10\n技能提升：被动附加的【持续伤害】持续时间增加至2回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620257-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "妄念棘海 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/4867bb15-af30-4bd9-8e3b-f6c0a0c517d9.png",
+      "description": "冷却时间：3\n善雅向全体目标降临下孽生之种，并使其爆发；对敌方全体造成240%伤害，延长目标所有的【持续伤害】1回合持续时间。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数增加至200%\n等级3\n潜能提升：防御力+70\n技能提升：伤害系数增加至220%\n等级4：\n潜能提升：防御力+10%\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：防御力+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620257-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "荆棘送葬 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/b97d3c53-5cfa-423a-876e-81ce47aff746.png",
+      "description": "冷却时间：3\n善雅召唤恶念原质聚集体，激活目标身上全部的黑暗诅咒；对敌方全体造成240%伤害，并立刻结算目标所有的【持续伤害】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+60/生命值+5%\n技能提升：伤害系数增加至220%\n等级3\n潜能提升：生命值+1000\n技能提升：技能冷却减少1回合\n等级4：\n潜能提升：效果命中+8%\n技能提升：伤害系数增加至240%\n等级5：\n潜能提升：效果命中+8%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\ndot毒队核心，逃课高难副本\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 511即可成型（省资源）|\n| 源器配置 | 右三主属性堆效果命中 |\n└─────────┴────────────┘\n【对局表现】\n逃课重构兵祸，妮可娜娜，炼狱赫研，源网，支线有着十分强力的表现，助你低练度快速通关pve",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8战意+6讯光天击"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万魔法典"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8战意+6讯光天击",
+        "推荐智壳": "万魔法典",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/187252.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【那个纯洁的灵魂离开了】\n纯真、善良、对一切都怀有美好希望的善雅，或许在四年前的那个晚上就已经离开了这个世界。\n只剩下一个扭曲的暗影，代替她的存在。\n在养父语焉不详地遮掩手术目的和风险时，她还能安慰自己，那只是为了避免自己害怕而没有告知全部的真相。\n在实验员拿出涌动着不祥气息的试剂时，她也并没有怀疑，或许那就是最新的治疗手段也说不定。\n在疼痛侵袭身体，意识模糊不清的时候，她心中所想的还是，决不能让牵挂自己的人看见此刻狼狈的模样而为自己担心。\n直到深夜时分，一个神秘的声音从脑海中响起。\n「你难道不想看看真相到底是什么吗？」\n一片混沌之中，善雅甚至无法分辨究竟是自己出现了幻觉，还是她内心深处其实一直都有这个想法。\n透过门缝，她看见了一个全然陌生的父亲，他与实验员争辩的内容如同一把尖刀，刺破了善雅心底最后一点幻想。\n原来幸福的家庭从头到尾都是一个谎言，自己从来都不是被期待的那个「女儿」。\n也许从一开始就不怀抱希望，才是最好的选择。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【她亲手为自己关上大门】\n那场手术终究还是失败了，伴随着源病毒的爆发，无数荆棘与藤蔓从善雅身边涌出，冲破屋顶、击碎院墙，蔓延到整个庄园。\n心中不断有一个充满诱惑力的声音在回荡：「不如毁灭这一切吧！你不是早就厌恶了这个笼子？现在你拥有了打碎它的力量，所有阻碍都不存在了！」\n善雅沉默不语，伴随着这道声音，一簇阴影从她身下悄然显现，不断滋生膨胀，看起来几乎要将她完全吞没。\n就在此时，远处传来谛听的呼喊：「善雅，你在哪儿！快跟我离开这里！」\n善雅的眼中闪过一道微小的光芒，她看着被熔断生物包围的谛听，想起不久前他许下的承诺。\n「离开」本该是个令人心动的词汇，但她此刻已经不敢再抱有任何奢望。\n她用藤蔓将谛听送出庄园，又把那些肮脏的阴影都束缚在自己身边，随着大门被藤蔓彻底封闭，她亲手塑造了属于自己的牢笼。\n她宁愿将阴影中的自己永远锁起来，也不愿意伤害他人。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【只不过是从一个囚笼到另一个囚笼】\n陷入数据空间的破碎庄园内没有任何生命存在，孤寂的时间显得格外漫长。善雅也不知道究竟过去了多久，就连心中喋喋不休的声音也偃旗息鼓，不再试图说服她挣扎。\n她在梦中能够回归自然的怀抱，还能在有限的天空下享受片刻自由。\n她已不再为过去而感到悲哀，自然也不会有多余的愤慨；她不信任所有人，那也就不会遭到欺骗和背叛。只要把所有情绪都沉入深潭，就不会再受伤。\n然而这份平静终究被闯入庄园的外人所打破，这些人带着各种冰冷危险的实验装置，搅动起整个空间内的源病毒，令她的梦境动荡不安起来。\n在源病毒的侵蚀下，善雅的力量反而日渐增长。\n她知道自己终将醒来，这片数据空间根本无法束缚她，但她心中已经失去了当初的憧憬和渴望。\n因为那不过是从一个囚笼进入另一个囚笼罢了。",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/c87f41f1-e38e-4e14-a57c-6fd17021fc95.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/c87f41f1-e38e-4e14-a57c-6fd17021fc95.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/e8840798-32f6-49d1-bc1b-14a7ac7a79dd.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/e8840798-32f6-49d1-bc1b-14a7ac7a79dd.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/c87f41f1-e38e-4e14-a57c-6fd17021fc95.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/c87f41f1-e38e-4e14-a57c-6fd17021fc95.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/e8840798-32f6-49d1-bc1b-14a7ac7a79dd.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/673da22b-5e14-4264-ac1e-4bbeab306fcf.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/e8840798-32f6-49d1-bc1b-14a7ac7a79dd.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/673da22b-5e14-4264-ac1e-4bbeab306fcf.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/5997f99c-5904-43ef-81ed-a76df193a9d5.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/4867bb15-af30-4bd9-8e3b-f6c0a0c517d9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/b97d3c53-5cfa-423a-876e-81ce47aff746.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/187252.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/522073.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 620257,
+    "title": "善雅_SSR",
+    "url": "https://www.gamekee.com/yise/620257.html",
+    "updatedAt": "2025-08-22T08:05:45.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620257_善雅_SSR.md",
+      "metadata": "03_图鉴词条/620257_善雅_SSR.json",
+      "rawApi": "_raw_api/details/620257.json"
+    }
+  }
+}

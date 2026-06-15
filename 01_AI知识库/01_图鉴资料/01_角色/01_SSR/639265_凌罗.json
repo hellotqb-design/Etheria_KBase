@@ -1,0 +1,343 @@
+{
+  "id": 639265,
+  "kind": "character",
+  "name": "凌罗",
+  "entryName": "凌罗",
+  "rarity": "SSR",
+  "element": "异",
+  "faction": "Doki娱乐",
+  "title": "漩海弥音",
+  "gender": "女",
+  "profession": "未公开",
+  "identityCode": "S06-020619",
+  "chipStatus": "正常",
+  "assessment": "异格者凌罗，身份编码S06-020619，Re-A芯片状态正常，未见异常波动。\nDOKI娱乐的当红歌星，以曼妙空灵的嗓音与超凡出尘的气质吸引|了一大批忠实的粉丝。\n日常总是习惯孤身一人，不擅长也不喜欢参与社交事宜。\n与人相处时寡言少语，从而很容易被不熟悉的人们曲解其性格十分高傲与冷漠，加之其鲜少为自己辩解，故误会往往会愈演愈甚。\n实际上是个内心柔软，心性善良的人，若是有人给予她一分好意，她往往会以十二分的行动去报答。\n据悉其唯一信任的人是蜃海会馆的前任会长娜菲忒，在她失踪后，其便开始频繁以采风之名独自旅行。\n显而易见，这场旅行另有目的，可迄今为止尚未有人挖掘出她内心深藏的秘密。",
+  "stats": {
+    "生命": "15164+3766",
+    "攻击": "711+296",
+    "防御": "619+305",
+    "速度": "123+15",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%",
+    "效果抵抗": "0%+32%"
+  },
+  "skills": [
+    {
+      "skillId": "639265-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "漩涌",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_94/h_85/50364/103682/2024/9/24/552173.png",
+      "description": "冷却时间：0\n对单体敌人造成240%伤害，治疗2名生命百分比最低的队友，治疗量为目标生命上限的15%。\n摇滚巨星：每次治疗前有65%概率为目标净化1个减益效果，目标无减益效果时有65%概率为其附加2回合【鲸祈】。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至240%\n等级3\n潜能提升：攻击力+100\n技能提升：治疗效果增加至目标最大生命值的15%\n等级4：\n潜能提升：速度值+5\n技能提升：净化和附加【鲸祈】概率增加至65%\n等级5：\n潜能提升：速度值+10\n技能提升：【鲸祈】持续时间增加至2回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "639265-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "千音奏",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_89/50364/103682/2024/9/24/598859.png",
+      "description": "冷却时间：3\n先治疗全体队友，治疗量为目标生命上限的16%，并延长全体队友所有增益效果1回合，目标队友额外被治疗一次，治疗量为其生命上限的20%。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：单体友方的治疗效果增加至16%\n等级3\n潜能提升：防御力+70\n技能提升：全体友方的治疗效果增加至12%\n等级4：\n潜能提升：防御力+5%\n技能提升：单体友方的治疗效果增加至20%\n等级5：\n潜能提升：防御力+10%\n技能提升：全体友方的治疗效果增加至16%",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "639265-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "完美音浪",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_93/h_85/50364/103682/2024/9/24/462285.png",
+      "description": "冷却时间：4\n为全体队友附加2回合【免疫】，再治疗全体队友2次，每次的治疗量为目标生命上限的14%，目标每拥有一种增益效果，治疗效果额外提升20%，最多提升60%。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：治疗效果增加至目标最大生命值的13%\n等级3\n潜能提升：生命值+1000\n技能提升：每种增益效果提升的治疗效果增加至20%\n等级4：\n潜能提升：效果抵抗+8%\n技能提升：治疗效果增加至目标最大生命值的14%\n等级5：\n潜能提升：效果抵抗+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "治疗效果提升"
+      ],
+      "other": [
+        "施加的治疗效果+10%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害双向提升"
+      ],
+      "other": [
+        "造成伤害结果提升10%，受到伤害结果降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【我希望她能因我的歌声而感到幸福。】\n以下内容取材自一段偶像大赛的影像回放：\n画面中的少女不过十一二岁出头，她身着白色长裙，伫立于舞台中放声歌唱。\n曼妙的嗓音如同天籁，打动了所有在场的听众。评审团无一例外，全员为她亮出满分。\n「凌罗小姐，今夜是您出道首秀，请问您有什么想对镜头前的粉丝说吗？」\n年幼的凌罗尚未习惯闪光灯的簇拥，她只是地对着镜头微笑，而后小声说道一一\n「我希望我的母亲娜菲忒女士能够喜欢这场演出······还有，我祝愿她生日快乐。」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【我……只是想要踏上旅途。】\n以下内容节选自「DOKI娱乐月刊」里的一段动态专访：\n「凌罗小姐，据可靠消息，不久前结束了您本年度的最后一场巡演，而在此之后，您要暂别台前，转至幕后了吗？」\n「是的。」\n「可以透露一下具体的原因吗？要知道，一位当红歌星在鼎盛时期突然宣告无限期息影……于情于理都是一大憾事。」\n「对不起——我……我只是打算去旅行。」\n「很有趣的理由，凌罗小姐，对不起，请原谅一个媒体人的好奇心，『旅行』是个引人遐思的词汇……您打算跟什么重要的人一起吗？」\n「没有………我一个人……」\n「那么，凌罗小姐，请问您……」\n「对不起，我无法回答这个问题。」",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【我们都是困顿于过去的影子。】\n以下内容来自匿名娱乐记者的影像记录：\n画面背景是一片空寂的海面，一位少女正站在海岸边眺望远方，那正是许久不曾出现在公众视野的凌罗。\n在她身后还站着一位身姿曼妙的年轻女性，有把握认为那就是DOKI娱乐的另一位当红巨星夏妲本人。\n「没想到能在这里相遇。」\n「我每隔几周都会来这儿住上一段时间。其实你也时不时就会回来看看，对吗？」\n「是啊。毕竟这是她以前常常带我们来玩的度假别墅嘛，梨梨那孩子第一次来的时候还被这里的环境吓得直哭。」\n「原来已经过去了那么久……」\n「过去了那么久，我们却仍然对她的下落一无所知……真是可悲。」\n「别这样自责，娜菲忒女士一定在某个地方等着我们。或许，或许只要等我完整唱出那首约定之歌，就能……」\n只见夏妲警惕地朝镜头方向看了一眼，凌罗的话语随之被打断，画面开始剧烈晃动，一切都终止了。",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1142/h_576/50364/103682/2024/9/24/118020.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1142/h_576/50364/103682/2024/9/24/118020.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_975/h_759/50364/103682/2024/9/24/552855.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_975/h_759/50364/103682/2024/9/24/552855.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1142/h_576/50364/103682/2024/9/24/118020.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1142/h_576/50364/103682/2024/9/24/118020.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_975/h_759/50364/103682/2024/9/24/552855.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_325/h_607/50364/103682/2024/9/24/208160.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1736/h_1736/215/103682/2025/10/20/668579.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_242/50364/842288/2025/7/18/807558.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/635459.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_325/h_607/50364/103682/2024/9/24/208160.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/439359.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/207704.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/60010.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_88/h_89/50364/103682/2024/9/24/598859.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_93/h_85/50364/103682/2024/9/24/462285.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_94/h_85/50364/103682/2024/9/24/552173.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_975/h_759/50364/103682/2024/9/24/552855.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 639265,
+    "title": "凌罗",
+    "url": "https://www.gamekee.com/yise/639265.html",
+    "updatedAt": "2025-08-18T08:44:47.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639265_凌罗.md",
+      "metadata": "03_图鉴词条/639265_凌罗.json",
+      "rawApi": "_raw_api/details/639265.json"
+    }
+  }
+}

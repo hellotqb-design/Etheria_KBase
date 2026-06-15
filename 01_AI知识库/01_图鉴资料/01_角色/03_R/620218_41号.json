@@ -1,0 +1,326 @@
+{
+  "id": 620218,
+  "kind": "character",
+  "name": "41号",
+  "entryName": "41号",
+  "rarity": "R",
+  "element": "恒定",
+  "faction": "莱伯茨生命",
+  "title": "实验员",
+  "gender": "女",
+  "profession": "不明",
+  "identityCode": "T23-103118",
+  "chipStatus": "故障",
+  "assessment": "异格者41号，身份编码T23-103118，Re-A芯片故障。\n她是神秘组织一一莱伯茨生命中无数实验员中的一个，41号应该是她的工作编码，身份资料已被全网清除，香不到任何有效信息，只能从接触和观测感受上来分析了。\n这是一个冷静而危险的家伙，比起其他陷入疯狂的实验员来说更具有理智，能够做出决断发布命令。41号对于莱伯茨所宣扬的进化理论深信不疑，真心拥护每一个决策，对待同类表现出了异乎寻常的残忍，当他们对组织无用或是需要清理门户的时候，41号会毫不留情地将其处理掉。",
+  "stats": {
+    "生命": "13208+5552",
+    "攻击": "764+301",
+    "防御": "550+205",
+    "速度": "115+9",
+    "暴击率": "10%",
+    "暴击伤害": "150%",
+    "效果命中": "0%",
+    "效果抵抗": "0%+32%"
+  },
+  "skills": [
+    {
+      "skillId": "620218-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "抑制药剂 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/7ec91cd8-3cd7-4331-9671-c3986ae82b2a.png",
+      "description": "冷却时间：0\n41号朝敌方投掷生化药剂；对敌方单体造成230%伤害，有35%概率附加2回合【禁止治疗】。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至210%\n等级3\n潜能提升：攻击力+100\n技能提升：附加【禁止治疗】概率增加至35%\n等级4：\n潜能提升：速度值+3\n技能提升：伤害系数增加至230%\n等级5：\n潜能提升：速度值+6\n技能提升：【禁止治疗】持续时间增加至2回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620218-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "愈合药剂 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/ba332371-5c94-45d2-8302-e815c4169488.png",
+      "description": "冷却时间：3\n41号朝单体队友注入生化药剂治疗目标;治疗量为目标生命上限的35%，附加1层3回合【持续恢复】",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：治疗量增加至30%最大生命值\n等级3\n潜能提升：防御力+70\n技能提升：【持续恢复】持续时间增加至3回合\n等级4：\n潜能提升：效果抵抗+8%\n技能提升：治疗量增加至35%最大生命值\n等级5：\n潜能提升：效果抵抗+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620218-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "兴奋药剂 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/0f64748a-cb43-49c4-8c25-d86832be505c.png",
+      "description": "冷却时间：3\n41号释放大量兴奋药剂；增加全体队友25%行动进度，并附加2回合【攻击上升】。",
+      "upgradeText": "等级2\n潜能提升：生命值+250/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：提升行动进度效果增加至20%\n等级3\n潜能提升：生命值+1000\n技能提升：技能冷却减少1回合\n等级4：\n潜能提升：生命值+5%\n技能提升：提升行动进度效果增加至25%\n等级5：\n潜能提升：生命值+10%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n拉条，治疗\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 415|\n| 源器配置 | 右三主属性生命/防御加成 |\n└─────────┴────────────┘\n【对局表现】\n大招全体拉条效果不错，多琪本中可以发挥",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8奋进+6极影强袭"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "万魔法典"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8奋进+6极影强袭",
+        "推荐智壳": "万魔法典",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/693620.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "治疗效果提升"
+      ],
+      "other": [
+        "施加的治疗效果+10%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果抵抗提升"
+      ],
+      "other": [
+        "效果抵抗+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【改变与新生】\n41号从液态培养皿中猛地昂起头颅，咳出不少积液，她大口呼吸，配比成分精准的空气涌入肺腑，在拟真数据完备的脏器中流转一圈，终于解掉了窒息的痛苦感。\n「我成功了！」她体会着脱离水域的新奇感受，兴奋不已。掌中手指根根分明，薄膜消退的无影无踪，一点也看不出曾经的蹼类结构，她着急地跨出水面，奔到镜子前，不停地旋转、观测身体的各个角度。\n光滑细腻甚至隐隐有着热气的皮肤，正如她幻想中的那般富有弹性，尖长的耳朵破坏了一点完整度，但没关系。\n她轻轻抚摸着脖颈，那上面曾覆有青蓝色的斑驳鳞片，记忆中的触感变得微渺，甚至不太能回想得起来，奇异的快乐与满足从她心底生出，她，做到了。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【冷酷的怪物】\n可怕的女人，这是大多数莱伯茨生命的普通研究员对41号的评价。\n曾经与她共事的莱伯茨生命成员表示，和41号待在一起时，会感觉自己落入沼泽时还被一只冷血猎手给盯上了一样。\n「你得小心操作每个步骤，要精准要熟练，不然就会被记入那家伙的观测名单。我非常好奇她以什么标准来考量我们的操作行为，又是用什么记分制度来决定谁要遭受惩罚的·……」那个研究员回忆着，声音颤抖，「大家都很害怕，但没人敢讨论，那究竟是怎样的惩罚……」\n41号的「手段」十分残忍，但却没有人知道具体的情形——因为没有人能在经历过她的折磨后，活着回来。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【独角戏主角】\n「41号很完美。」\n「她证明了我们的探索方向是正确的！」\n「我们会在进化之路上走得更远！」\n41号坐在会议桌前勾了勾手指，那个穿着白大褂的「高级研究员」就以一个诡异的姿势坐下来。紧接着，会议桌两侧坐着的「研究员」们纷纷抬起手，缓慢又整齐划一地鼓起掌来……\n41号看向会议桌两侧坐着的「同事」们，那一双双眼睛里是无尽的深黑，早已失去了光彩。她发出一声嗤笑，\n就算是「人类」，在莱伯茨生命里，这些底层研究员也不过是她的实验对象与解闷的玩物。\n她的手微微用力一挥，「同事」们纷纷像断了线的木偶，脸朝下地倒在了桌子上，发出几声闷响。\n「接下来，该研究点什么才好呢？」\n41号这么想着，心情愉快地走出了会议室。",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/355468/2025/4/13/683160.jpg"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/355468/2025/4/13/683160.jpg"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/72bd4058-34cc-44c3-9c38-a9c02cf5e3a9.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/72bd4058-34cc-44c3-9c38-a9c02cf5e3a9.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/72bd4058-34cc-44c3-9c38-a9c02cf5e3a9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/1e408ad6-0666-4b8e-acf9-7ca5b4df7d98.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/7ec91cd8-3cd7-4331-9671-c3986ae82b2a.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/ba332371-5c94-45d2-8302-e815c4169488.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/0f64748a-cb43-49c4-8c25-d86832be505c.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/355468/2025/4/13/683160.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/355468/2025/4/13/683160.jpg,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/72bd4058-34cc-44c3-9c38-a9c02cf5e3a9.png,//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/1e408ad6-0666-4b8e-acf9-7ca5b4df7d98.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/693620.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_466/50364/664163/2024/11/25/315438.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/336266.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/447721.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/61816.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/775506.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/664163/2024/11/25/85545.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/520497.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/364402.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/60010.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620218,
+    "title": "41号",
+    "url": "https://www.gamekee.com/yise/620218.html",
+    "updatedAt": "2025-08-18T07:38:55.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620218_41号.md",
+      "metadata": "03_图鉴词条/620218_41号.json",
+      "rawApi": "_raw_api/details/620218.json"
+    }
+  }
+}

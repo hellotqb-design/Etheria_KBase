@@ -1,0 +1,251 @@
+{
+  "id": 678431,
+  "game_id": 50364,
+  "entry_id": 195863,
+  "uid": 789037,
+  "type": 4,
+  "title": "伊瑟PVP之RTA阵容推荐和搭配",
+  "tag": "2",
+  "created_at": 1758961961,
+  "updated_at": 1763454031,
+  "updated_uid": 789037,
+  "comment_at": 1758961961,
+  "last_at": 1763454031,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "嗨喽，各位超链者，韶华结合自己的理解给大家伙浅聊一下。随着开服至今新卡的不断推出让各种流派和阵容逐渐完善，现在已经不是S0赛季以速度为主要最求的策略了。更多看重的是你对于自己账号发展的规划和养成方向，以及RTA比赛目前最为重要的BAN/PICK环节（以下简称“BP”），很多时候大家比拼的是对于自己养",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1267/h_713/50364/2025/9/27/043b87d7-5e97-4a30-871c-c055c3590284jpeg,//cdnimg-v2.gamekee.com/wiki2.0/images/w_888/h_207/50364/789037/2025/8/27/298274.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_703/h_219/50364/2025/9/27/93ce1dbd-5dde-4705-94ed-d299fd094aebjpeg",
+  "model_ids": "",
+  "like_count": 8,
+  "unlike_count": 0,
+  "view_count": 8646,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "山东省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 7,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 1781248874,
+  "version": "",
+  "content_id": 678431,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"co99dsh4fkGAyFpy\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_1267/h_713/50364/2025/9/27/043b87d7-5e97-4a30-871c-c055c3590284jpeg\",\"alt\":\"5E7F8696E384F93151750285340D1BBA\",\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"嗨喽，各位超链者，韶华结合自己的理解给大家伙浅聊一下。\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"随着开服至今新卡的不断推出让\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"各种流派和阵容逐渐完善\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，现在已经不是S0赛季以速度为主要最求的策略了。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"更多看重的是你对于自己\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"账号发展的规划和养成方向\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，以及RTA比赛目前最为重要的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"BAN/PICK环节（以下简称“BP”）\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，很多时候大家比拼的是对于自己养成阵容\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"上阵的搭配思路和对对方阵容的拆解\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，目的就是\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"瓦解\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"对面的阵容，进行针对和属性克制，将己方优势最大化，还有对局内\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"局势的快速分析\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，见招拆招来赢得比赛。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"不仅要靠练度，还要靠思路。\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"T3ISzsRP6lJqyXMW\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_888/h_207/50364/789037/2025/8/27/298274.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"S1赛季我总计打了\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"57\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"局（含赛季初定级赛失误3局），\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"80%+\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的胜率，顺利拿到低保。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"不然的话胜率还可以再高一点。\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"wt74fk5aVx9xPfUb\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_703/h_219/50364/2025/9/27/93ce1dbd-5dde-4705-94ed-d299fd094aebjpeg\",\"alt\":\"rta胜率\",\"style\":{\"width\":\"\",\"height\":\"\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"由于存在相性的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"互相克制\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的机制存在，那么当对方的关键位置（举例：对面拿出来异属性龙妈，那么我们可以拿出虚属性罗睺打一手克制。光暗同理）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"这样可以在阵容上阵搭配的同时起到\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"克制对面\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"的作用。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"当然，这也不是绝对的。当你的阵容搭建，功能互补等机制利用效率很高的话，也不是不能\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"逆属性\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"取胜。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"正常情况下先手速攻核爆被肉队克制，肉队被中高速速度控制队克制，反过来速控队被速攻核爆克制。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"反之受不同玩家账号练度情况不同，配速不同，源器+智壳搭配效果的不同，临场BP&对战打法等的种种不同因素的影响下。上面的说法也不绝对，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"没有绝对的稳赢的阵容队伍存在\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"。\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"iNIQpojVZmRtqTme\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_524/h_313/50364/789037/2025/8/27/896527.png\",\"alt\":\"\",\"style\":{},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"来吧 ！ 展示 ！！\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header3\",\"children\":[{\"text\":\"（因玩家不同的思路&想法&打法等不同，不会过多推荐源器和智壳的搭配哈）\",\"color\":\"var(--gray-08)\",\"fontSize\":\"inherit\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"以下为先手速攻核爆&中高速控制（纯控制/+输出）阵容推荐\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"type\":\"image\",\"key\":\"OxIC8QqCYAtDIv7o\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_788/h_1056/50364/789037/2025/10/18/139407.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"788px\",\"height\":\"1056px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"玩先手速攻核爆阵容，你要对自己的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"速度\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"装备和智壳重构\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"自信\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"才行，讲究的就是\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"力大飞砖\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的效果，即快速高效的完成一场对局。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"该类阵容推荐\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"3号保护位选择主C\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，也可以选择双C（更为暴力）。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"推拉条的位置，纯核爆建议选择\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"双\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"推拉条\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，因为会被大概率ban掉一个。（比如芙蕾雅的被动“梦引”的推拉条，抢速一把手。）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"功能辅助位的存在是为了己方的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"输出最大化\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，比如逆翎的驱散&破防&虚弱&降速和专属buff“逆羽”可以最大化输出的同时，提高己方的生存。）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"也可以在速攻核爆的阵容内，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"上阵控制类角色\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"（控制对面多个回合，极大的提高我方的容错）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"也可以纯控制，我的回合~我的回合~~还是我的回合~~~，尽情的燃烧脑细胞，享受\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"精准计算\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的感觉。\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"以下为后手沉底肉队&中高速肉队&肉控阵容推荐\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"EOHhQjuFBk4yyC24\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_786/h_864/50364/789037/2025/10/18/413094.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"786px\",\"height\":\"864px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"肉队的核心源器就是\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“浴血”\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，他才是肉队的灵魂和完全体。智壳的要求也是\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"优先选择带有浴血\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"（某些特定搭配的卡，需要硬凑12浴血除外。）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"沉底肉队讲究的就是肉度和血量，在浴血的加持下，讲究的就是抗打，对面核不掉我，那么就开始我的表演了。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"中高速肉队，就是沉底肉队的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"进阶版\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"了，需要更高的整体练度了，再碰到同样是肉队的\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"内战中\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"往往\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"占据速度优势\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，意味着更多的出手机会和更快的技能CD轮转。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"同样的，在中高速肉队的前提下，加入上图核爆阵容推荐里面的“控制”功能的卡（同样带的也是“浴血”的源器和智壳）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"提高容错\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"。\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"header2\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"以下为反制快攻核爆&速控对策卡推荐\",\"color\":\"\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"TrZmyRG4y5m9wZ0P\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_789/h_870/50364/789037/2025/10/18/801153.png\",\"alt\":\"\",\"isAdaptive\":true,\"style\":{\"width\":\"789px\",\"height\":\"870px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"赫妍\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"推荐带有\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“戍卫”的“伯爵”\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"智壳，有效防控的同时\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"+1200攻击力\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"可以更好的保证击杀复活队友和吸血续航。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"维罗妮卡\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"：推荐带有\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“戍卫”的“双速”\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"智壳，一技能被动点到\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"等级4\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"的前提下，受到攻击可以提升行动条\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"35%\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，来释放大招（最重要的是释放群体\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“灵魂守护”\",\"color\":\"var(--gray-08)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"，和偷取对面关键增益效果\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"扩散\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"至全体成员。）\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"彼岸汀：\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"推荐带\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“琥珀”\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"智壳，最重要的二技能优先点至\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"等级4\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\" ，可以更好的拉起己方C位和减技能冷却CD来释放反击一击。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"莉拉姆：\",\"color\":\"rgb(204, 102, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"目前唯一被动\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“一闪”\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"（免疫所有控制效果--一技能点满将额外免疫击退行动条的效果）控制队的克星。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"凌罗：\",\"color\":\"rgb(89, 145, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"推荐带\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"“死神脚步”\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"智壳，选择\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"疾驰+奋进+迅光\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"智壳，右三都带\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"效果抵抗\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，副属性优先选择速度和效果抵抗。但凡抵抗一次，就可以实现完美超车，释放大招，全体队友覆盖免疫效果。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"宁芙涅：\",\"color\":\"rgb(89, 145, 255)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"阵容搭配同凌罗。（现阶段优选肯定是“死神脚步”这个智壳，因为主属性效果抵抗高速的源器不是那么容易做出来的。随着练度的不断提升，做出来\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"高速抵抗\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"\",\"bold\":true,\"bgColor\":\"\"},{\"text\":\"的话，也可以选择别的智壳优化阵容搭配了。）\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"水生绫：\",\"color\":\"rgb(61, 204, 73)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"阵容搭配同凌罗。（大招拥有\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"全体40%行动进度拉条\",\"color\":\"rgb(246, 76, 76)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"，更重要的是\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"减少\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"所有异格者和智壳\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"冷却1回合\",\"color\":\"rgb(255, 121, 77)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"。。。全队技能轮转快的飞起）被动技能还可以净化全体一个减益效果，\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"属于锦上添花\",\"color\":\"var(--gray-08)\",\"fontSize\":\"15px\",\"bold\":true,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"divider\",\"value\":\"line-4\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\\n\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"先写这些，后续会继续更新补充和完善。\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"祝大家都可以在新赛季取得好成绩！尽情利用脑细胞，享受RTA酣战的感觉~~~\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"start\",\"indent\":\"0px\",\"children\":[{\"text\":\"大佬们有更多的想法和思路的话 ，评论区欢迎大家讨论和指正哈 ^_^\\n\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"For韶华\",\"color\":\"rgb(82, 86, 90)\",\"fontSize\":\"15px\",\"bold\":false,\"bgColor\":\"rgb(255, 255, 255)\"},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1267/h_713/50364/2025/9/27/043b87d7-5e97-4a30-871c-c055c3590284jpeg",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_888/h_207/50364/789037/2025/8/27/298274.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_703/h_219/50364/2025/9/27/93ce1dbd-5dde-4705-94ed-d299fd094aebjpeg"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 789037,
+    "username": "韶华",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 16306098,
+    "content_num": 14,
+    "read_num": 52245,
+    "like_num": 18
+  },
+  "update_user": {
+    "uid": 789037,
+    "username": "韶华",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 789037,
+      "username": "韶华",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/21.png",
+      "last_ip_area": "山东省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 8,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 675161,
+      "name": "全角色节奏榜",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/25/51494.png",
+      "jump_url": ""
+    },
+    {
+      "id": 676135,
+      "name": "节奏榜一图流",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_5000/h_2822/50364/664163/2025/8/4/657450.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675281,
+      "name": "PVE定位榜",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_500/50364/664163/2025/7/26/339253.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675272,
+      "name": "异格者推荐",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_960/h_540/50364/664163/2025/7/26/535320.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 697075,
+      "name": "PVE自助组队指南",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/50364/154257/2026/2/10/935696.jpg",
+      "jump_url": ""
+    }
+  ]
+}

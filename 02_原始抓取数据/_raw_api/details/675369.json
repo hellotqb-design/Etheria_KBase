@@ -1,0 +1,275 @@
+{
+  "id": 675369,
+  "game_id": 50364,
+  "entry_id": 193583,
+  "uid": 842268,
+  "type": 4,
+  "title": "【伊瑟】凶影追缉-菲彼安-参考攻略",
+  "tag": "2",
+  "created_at": 1756292184,
+  "updated_at": 1756303581,
+  "updated_uid": 0,
+  "comment_at": 1756292184,
+  "last_at": 1756292184,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "作者-爱赖床的书生攻略对象：菲彼安-破序/恒定（暗/光系）攻略难度：危机噩梦前言：菲彼安是一个双形态boss，分别为恒定-光系的菲比和破序-暗系的菲彼安是智壳的第五个boss，从这里开始，普通难度就正式取消，直接从危机难度开始，所以很多通关了库卢鲁危机的玩家是不能立刻通关危机菲彼安的，数值暂时不能跟",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_822/h_383/50364/2025/8/27/e38ff3c3-7fed-4366-b04c-52e42fc5234bpng,//cdnimg-v2.gamekee.com/wiki2.0/images/w_855/h_407/50364/2025/8/27/14236915-bb24-4a6a-b921-a888295f6a65png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_853/h_409/50364/2025/8/27/0aaf202e-9691-456b-9812-1fa911ef895cpng",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 4973,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "江苏省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 448923,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 2,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 1756302624,
+  "server_id": 0,
+  "image_num": 11,
+  "video_list": "[{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/248756.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/463200.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0}]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 675369,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"作者-爱赖床的书生\"}]},{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/463200.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/842268/2025/7/27/248756.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\\n\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"攻略对象：菲彼安-破序/恒定（暗/光系）   \\n攻略难度：危机 噩梦\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"前言：菲彼安是一个双形态boss，分别为恒定-光系的菲比和破序-暗系的菲彼安是智壳的第五个boss，从这里开始，\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"普通难度就正式取消\",\"color\":\"rgb(0, 176, 240)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，直接从危机难度开始，所以很多通关了库卢鲁危机的玩家是不能立刻通关危机菲彼安的，数值暂时不能跟上。因此需要玩家对之前的队伍进行练度提升，主要从配队，等级，源器，智壳，潜能（技能）。\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"首先是\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"对谛听的技能的养成，需要尽快养成到555，至少也要335\",\"color\":\"rgb(238, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，这样才能在打噩梦菲彼安中有强度，其次在重置炼之后，我们需要养第二个光暗主C，比如\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"夜离、莉拉姆或者弥瑟亚\",\"color\":\"rgb(238, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，书生这边是\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"夜离和莉拉姆\",\"color\":\"rgb(238, 0, 0)\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"},{\"text\":\"，因为国服这时候可能还没有夜离，如果有的话，换成夜离也是非常好的，这三个光暗主C 都能用很久，泛用性很广。配队上，书生用的 夜离-谛听-克洛斯-梨梨\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"配队完成后，我们需要对智壳，源器，技能等级进行升级，智壳全队最好30级满级，使用推荐的就好，词条能用就行，源器需要全队金色以上，技能主要是两位主C的技能要高一些，谛听优先，因为不需要消耗“金色技能点”。\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"最后了解boss情况，boss随着回合行动次数的变多而变强，光系boss增益越多伤害越高，每回合都会加8%的攻击力，暗系boss和光系相反，我们这边减益越多，她越强。就是因为这个，我们必须尽快解决战斗，这次直接加大练度all in boss即可。\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_822/h_383/50364/2025/8/27/e38ff3c3-7fed-4366-b04c-52e42fc5234bpng\",\"alt\":null,\"style\":{\"width\":\"548px\",\"height\":\"255px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"Boss机制：\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"光系boss\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能一（入界）：单体，偷取增益，增伤，自身每拥有一个增益伤害结果提升5%\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能二（将军）：群体，40%概率偷取15%行动，自身每拥有一个增益伤害结果提升5%\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能三（升变）：回合结束时，附加一层升变（每层提升8%攻击，不可驱散）\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_855/h_407/50364/2025/8/27/14236915-bb24-4a6a-b921-a888295f6a65png\",\"alt\":null,\"style\":{\"width\":\"570px\",\"height\":\"271px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"暗系boss\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能一（争先）：单体，减益，附加-将军（降低10%治疗效果和5%速度），敌方每拥有一个减益益伤害结果提升8%\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能二（将军）：群体，20%概率冰冻，敌方每拥有一个减益益伤害结果提升8%\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"技能三（升变）：回合结束时，为敌方全体附加-将军（降低10%治疗效果和5%速度）\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_853/h_409/50364/2025/8/27/0aaf202e-9691-456b-9812-1fa911ef895cpng\",\"alt\":null,\"style\":{\"width\":\"569px\",\"height\":\"273px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"一阶段：2个光系棋子+光系boss\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"棋子1-恒定（光系）：单体，并为全队进化一个减益同时附加攻击、速度、防御上升中随机一项\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"棋子2-恒定（光系）：单体，并为全队进化一个减益同时附加攻击、速度、防御上升中随机一项\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_402/h_213/50364/2025/8/27/5c1cb261-8313-49b5-aba6-d20f910034efpng\",\"alt\":null,\"style\":{\"width\":\"268px\",\"height\":\"142px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_389/h_212/50364/2025/8/27/f69eb8de-f4d9-4532-bfec-2e9de60a9368png\",\"alt\":null,\"style\":{\"width\":\"259px\",\"height\":\"141px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"二阶段：2个暗系棋子+暗系boss\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"棋子1-破序（暗系）：单体，驱散敌方所有增益，并有70%概率附加3回合的攻击、速度、防御下降随机一项\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"棋子2-破序（暗系）：单体，驱散敌方所有增益，并有70%概率附加3回合的攻击、速度、防御下降随机一项\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"推荐阵容：谛听（主要输出）+莉拉姆/夜离+蟒蛇+梨梨\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_425/h_111/50364/2025/8/27/bbb2e3e4-0eb2-4146-84b7-91dd7262f08cpng\",\"alt\":null,\"style\":{\"width\":\"425px\",\"height\":\"111px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_389/h_218/50364/2025/8/27/acc390fc-a2e3-4758-b222-6271342c718epng\",\"alt\":null,\"style\":{\"width\":\"259px\",\"height\":\"145px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_395/h_222/50364/2025/8/27/50e40733-844b-453c-b9bd-513ad3f4ea4epng\",\"alt\":null,\"style\":{\"width\":\"263px\",\"height\":\"148px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_396/h_221/50364/2025/8/27/7bd7dbfe-708b-47d6-bfb6-7c69d998ef98png\",\"alt\":null,\"style\":{\"width\":\"264px\",\"height\":\"147px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_394/h_221/50364/2025/8/27/f0e5ffd7-c103-46a7-bb8f-ec639dec28dfpng\",\"alt\":null,\"style\":{\"width\":\"263px\",\"height\":\"147px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_395/h_218/50364/2025/8/27/d5b13857-4fde-4a0a-bc2f-c1d8d15ba07fpng\",\"alt\":null,\"style\":{\"width\":\"263px\",\"height\":\"145px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"22pt\",\"children\":[{\"text\":\"这次通关和其他都不一样，不需要刻意去清除小怪，这个需要我们抓紧机会输出的机会，all in BOSS。\\n\\n\\n\\n\\n\\n\",\"color\":\"\",\"fontSize\":\"\",\"bold\":false,\"bgColor\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_822/h_383/50364/2025/8/27/e38ff3c3-7fed-4366-b04c-52e42fc5234bpng",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_855/h_407/50364/2025/8/27/14236915-bb24-4a6a-b921-a888295f6a65png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_853/h_409/50364/2025/8/27/0aaf202e-9691-456b-9812-1fa911ef895cpng"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 842268,
+    "username": "爱赖床的书生",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_10.png",
+    "description": "抖音同名，B站三幻书生\n三幻1粉丝群1031632283\n三幻2粉丝群1035518368\n伊瑟-752522357\n其他游戏粉丝群暂无，有需要后面会开哦",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 22732054,
+    "content_num": 8,
+    "read_num": 30594,
+    "like_num": 10
+  },
+  "update_user": {
+    "uid": 0,
+    "username": "",
+    "avatar": "",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 0,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 842268,
+      "username": "爱赖床的书生",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_10.png",
+      "last_ip_area": "江苏省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 674689,
+      "name": "尼可娜娜",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/753864.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675366,
+      "name": "阿帕忒",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/444686.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 674742,
+      "name": "猎焰者赫妍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/799661.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675370,
+      "name": "惠特尼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/590629.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675364,
+      "name": "暗渡者",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/494466.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675368,
+      "name": "库卢鲁",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/705755.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675303,
+      "name": "莎朗",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/543342.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675362,
+      "name": "亚克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/692180.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675313,
+      "name": "炼狱津",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/851564.jpg",
+      "jump_url": ""
+    }
+  ]
+}

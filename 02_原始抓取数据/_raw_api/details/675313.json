@@ -1,0 +1,275 @@
+{
+  "id": 675313,
+  "game_id": 50364,
+  "entry_id": 193587,
+  "uid": 889292,
+  "type": 4,
+  "title": "炼狱津-噩梦、地狱、炼狱攻略",
+  "tag": "2",
+  "created_at": 1756269063,
+  "updated_at": 1756282624,
+  "updated_uid": 889292,
+  "comment_at": 1756269063,
+  "last_at": 1756646401,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "重点：别上同属性的角色。Boss伤害很高。要么磨，要么速通。噩梦：对于噩梦难度来说，没有难度，不需要考虑机制，用常见的破甲或者辅助+主C+梨梨+随便一个奶妈就能过。或者说有点难度的队伍都可以无视机制过关。切记主C在梨梨或者别的辅助后面出手，破甲手在主C出手前破甲就行了。地狱：从地狱开始就需要考虑副本",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_437/h_114/50364/2025/8/27/efc8ac51-cff9-481f-83fd-85e10d677ae6png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_580/h_264/50364/2025/8/27/9328609c-9054-4bcc-acdb-79f0dd8ac9f3png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_310/h_334/50364/2025/8/27/0dc9b290-6c89-4c93-9ca4-9b3529d6863apng",
+  "model_ids": "",
+  "like_count": 2,
+  "unlike_count": 0,
+  "view_count": 7035,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "澳大利亚",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 0,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 1,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 15,
+  "video_list": "[{\"cover\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/889292/2025/7/27/762269.png\",\"video\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/889292/2025/7/27/189670.mp4\",\"width\":\"\",\"height\":\"\",\"duration\":0}]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 675313,
+  "content": "",
+  "content_json": "[{\"type\":\"video\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/889292/2025/7/27/189670.mp4\",\"poster\":\"//cdnimg-v2.gamekee.com/wiki2.0/video/50364/889292/2025/7/27/762269.png\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\",\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\",\"text\":\"重点：别上同属性的角色。Boss伤害很高。要么磨，要么速通。\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"噩梦：\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"对于噩梦难度来说，没有难度，不需要考虑机制，用常见的破甲或者辅助+主C+梨梨+随便一个奶妈就能过。或者说有点难度的队伍都可以无视机制过关。切记主C在梨梨或者别的辅助后面出手，破甲手在主C出手前破甲就行了。\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_437/h_114/50364/2025/8/27/efc8ac51-cff9-481f-83fd-85e10d677ae6png\",\"alt\":null,\"style\":{\"width\":\"437px\",\"height\":\"114px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"地狱：\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"从地狱开始就需要考虑副本的机制了。\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"BOSS的核心技能：\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_580/h_264/50364/2025/8/27/9328609c-9054-4bcc-acdb-79f0dd8ac9f3png\",\"alt\":null,\"style\":{\"width\":\"399px\",\"height\":\"182px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"同属性的我方角色累计行动就会被点名，造成伤害并且附上不可驱散的debuff。\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_310/h_334/50364/2025/8/27/0dc9b290-6c89-4c93-9ca4-9b3529d6863apng\",\"alt\":null,\"style\":{\"width\":\"269px\",\"height\":\"290px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"假如在有debuff的情况下被“欲火烈旋”击中，而且自身刚好是被克制的相性，则有很大概率暴毙。\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"所以我们需要了解各种目前能使用的角色：\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"table\",\"key\":\"kaz1aR9kYlkl0KCI\",\"width\":\"568px\",\"children\":[{\"type\":\"table-row\",\"children\":[{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"C\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"奶\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"辅助\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]}]},{\"type\":\"table-row\",\"children\":[{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"恒定\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"夜离\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"恶命\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]}]},{\"type\":\"table-row\",\"children\":[{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"破序\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"莉拉姆、谛听\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"梨梨\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]}]},{\"type\":\"table-row\",\"children\":[{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"理\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]}]},{\"type\":\"table-row\",\"children\":[{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"虚\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"善雅\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"克洛斯\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]}]},{\"type\":\"table-row\",\"children\":[{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"异\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"凌罗\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"142px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"蝰蛇\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]}]}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"因为正常不能属性相同，所以可以选择的角色配队其实很少。速刷队因为是可以秒boss所以是论外，最后单独讨论。\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"正常配队即为：\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"A队：夜离、梨梨、善雅、蝰蛇\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"B队：夜离、梨梨、克洛斯、凌罗\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"C队：莉拉姆（谛听）、恶命、善雅、蝰蛇\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"D队：莉拉姆（谛听）、恶命、克洛斯、凌罗\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"到这一步只要配队逻辑正常，一般就能挂机过了。\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"炼狱：\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"到了炼狱，你需要注意这一步主要考验的是我方角色的整体练度。需要三条智壳的就去刷能刷的三条智壳。\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"智壳选择：\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"table\",\"key\":\"8S6XjU9rPH891f4Z\",\"width\":\"567px\",\"children\":[{\"type\":\"table-row\",\"children\":[{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"121px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"主C\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"446px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"启示录（多次伤害主C首选：夜离）、白獠武者（单体单发：谛听、莉拉姆）、伯爵（提升攻击+吸血）\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]}]},{\"type\":\"table-row\",\"children\":[{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"121px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"辅助\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"446px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"琥珀（免死一次）、墨月（延长DEBUFF）、万圣节（刷新技能）。天角兽（驱散沉默）、灯塔（受击治疗拉条）、胡狼卫士（拉条+速度BUFF）、匠（防御力转化为巨额护盾）\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]}]},{\"type\":\"table-row\",\"children\":[{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"121px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"奶妈\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]},{\"type\":\"table-cell\",\"bgColor\":\"\",\"width\":\"446px\",\"children\":[{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"超新星（爆发治疗）、最强音（治疗储存）\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]}]}]}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"套装12件套+8件套+6件套，所有角色能穿就尽量穿最好的，智壳的被动效果也要尽量洗到最好。炼狱炼狱津是对整体PVE的最终考试，马虎不得。\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"这里提下速刷队：\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_424/h_603/50364/2025/8/27/e9e8e5e2-c72f-48aa-b606-db03146b8e92png\",\"alt\":null,\"style\":{\"width\":\"276px\",\"height\":\"392px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_413/h_607/50364/2025/8/27/a39a6f33-e5ea-4a9e-a24c-6a548c2f9559png\",\"alt\":null,\"style\":{\"width\":\"267px\",\"height\":\"393px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_418/h_609/50364/2025/8/27/044ced70-a000-4941-b95d-7cc4ddaf2fcbpng\",\"alt\":null,\"style\":{\"width\":\"275px\",\"height\":\"401px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_417/h_606/50364/2025/8/27/670e25be-c7ae-4e73-8eb7-58432038f5fapng\",\"alt\":null,\"style\":{\"width\":\"274px\",\"height\":\"399px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"最后附上实例：\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"A队：夜离、梨梨、善雅、蝰蛇\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_422/h_606/50364/2025/8/27/56e8ebb7-fe9c-4dac-bcb5-3f411820c75cpng\",\"alt\":null,\"style\":{\"width\":\"272px\",\"height\":\"390px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_421/h_596/50364/2025/8/27/1e8edfa4-0122-405e-8922-c22f4cb3a57bpng\",\"alt\":null,\"style\":{\"width\":\"274px\",\"height\":\"388px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_418/h_605/50364/2025/8/27/6acda9dc-4dfc-4869-b6c9-b8ecc0d39b04png\",\"alt\":null,\"style\":{\"width\":\"266px\",\"height\":\"385px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_423/h_605/50364/2025/8/27/14fe83b2-6d7e-4c8d-8330-63553d810773png\",\"alt\":null,\"style\":{\"width\":\"271px\",\"height\":\"387px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"D队：莉拉姆（谛听）、恶命、克洛斯、凌罗\",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_421/h_606/50364/2025/8/27/718b76aa-6df0-49e2-8456-5bf4546a8096png\",\"alt\":null,\"style\":{\"width\":\"271px\",\"height\":\"390px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_408/h_595/50364/2025/8/27/0672a789-ef2a-4df7-a7a8-e78c0d7f8866png\",\"alt\":null,\"style\":{\"width\":\"258px\",\"height\":\"376px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_413/h_600/50364/2025/8/27/b9fb3952-6732-4cfc-8285-bea21cf9b769png\",\"alt\":null,\"style\":{\"width\":\"271px\",\"height\":\"393px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"image\",\"key\":null,\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_419/h_595/50364/2025/8/27/5a2b245b-3a0c-4d54-bedb-08890886b071png\",\"alt\":null,\"style\":{\"width\":\"280px\",\"height\":\"397px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"color\":\"\",\"fontSize\":\"10.5pt\",\"bold\":false,\"bgColor\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"customClass\":null,\"lineHeight\":\"\",\"textAlign\":\"\",\"indent\":\"\",\"children\":[{\"text\":\"#伊瑟 #伊瑟攻略#伊瑟公测定档0925\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_437/h_114/50364/2025/8/27/efc8ac51-cff9-481f-83fd-85e10d677ae6png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_580/h_264/50364/2025/8/27/9328609c-9054-4bcc-acdb-79f0dd8ac9f3png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_310/h_334/50364/2025/8/27/0dc9b290-6c89-4c93-9ca4-9b3529d6863apng"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 889292,
+    "username": "快男徽章",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 25211057,
+    "content_num": 3,
+    "read_num": 13918,
+    "like_num": 6
+  },
+  "update_user": {
+    "uid": 889292,
+    "username": "快男徽章",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+    "description": "",
+    "follow_num": 0,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 889292,
+      "username": "快男徽章",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_15.png",
+      "last_ip_area": "澳大利亚",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 1,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": [
+    {
+      "id": 674689,
+      "name": "尼可娜娜",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/753864.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675366,
+      "name": "阿帕忒",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/444686.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 674742,
+      "name": "猎焰者赫妍",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/799661.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675370,
+      "name": "惠特尼",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/590629.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675364,
+      "name": "暗渡者",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/494466.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675369,
+      "name": "菲彼安",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/676500.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675368,
+      "name": "库卢鲁",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/705755.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675303,
+      "name": "莎朗",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/543342.jpg",
+      "jump_url": ""
+    },
+    {
+      "id": 675362,
+      "name": "亚克",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/664163/2025/7/27/692180.jpg",
+      "jump_url": ""
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": 620761,
+  "kind": "zhike",
+  "name": "枭老师",
+  "entryName": "枭老师",
+  "rarityGroup": "特异",
+  "starRarity": "★★★",
+  "role": "治疗型",
+  "description": "十三区高校的资深助教，无论学生们闹出什么乱子，它都能迅速收拾现场，十分可靠。",
+  "stats": {
+    "生命": "3037",
+    "攻击": "174",
+    "防御": "71",
+    "速度": "20"
+  },
+  "skills": [
+    {
+      "skillId": "620761-skill-1",
+      "order": 1,
+      "section": "宠物技能",
+      "name": "枭老师（已觉醒）",
+      "description": "冷却时间：4回合\n加疗效\n本体行动前，使其本回合的治疗结果提升2000。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "攻势"
+      ],
+      "other": [
+        "攻势 4/8/12",
+        "攻击力+10%/+25%/+45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "涌泉"
+      ],
+      "other": [
+        "涌泉 4/8/12",
+        "生命值+10%/+25%/+45%"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★",
+    "定位": "治疗型",
+    "生命": "3037",
+    "攻击": "174",
+    "防御": "71",
+    "速度": "20"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_293/h_316/50364/43758/2024/3/24/812671.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_317/h_306/50364/43758/2024/3/24/299532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_356/50364/43758/2024/3/24/975499.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_334/h_329/50364/43758/2024/3/24/822532.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_355/h_350/50364/43758/2024/9/25/280346.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_384/h_432/50364/43758/2024/3/24/394522.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_403/h_371/50364/43758/2024/3/24/435294.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_403/h_371/50364/43758/2024/3/24/435294.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/175683.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/113240.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_441/h_396/50364/43758/2024/9/25/586598.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_452/h_377/50364/43758/2024/3/24/398277.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/113240.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/86082/2024/3/24/175683.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/50388/86082/2025/11/4/721683.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 620761,
+    "title": "枭老师",
+    "url": "https://www.gamekee.com/yise/620761.html",
+    "updatedAt": "2025-05-11T05:22:47.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620761_枭老师.md",
+      "metadata": "03_图鉴词条/620761_枭老师.json",
+      "rawApi": "_raw_api/details/620761.json"
+    }
+  }
+}

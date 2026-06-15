@@ -1,0 +1,220 @@
+{
+  "id": 677230,
+  "game_id": 50364,
+  "entry_id": 0,
+  "uid": 253894,
+  "type": 4,
+  "title": "PVE智壳",
+  "tag": "2",
+  "created_at": 1757757017,
+  "updated_at": 1757986240,
+  "updated_uid": 253894,
+  "comment_at": 1757757017,
+  "last_at": 1757986240,
+  "comment_count": 0,
+  "status": 1,
+  "summary": "角色定位分为：单段C、多段C、奶、拉推条、增益辅助、减益辅助单段C多段C奶拉推条队友不附加速度上升时带增益辅助减益辅助特殊万金油角色技能吃攻击力挨打的肉配合控制辅助PVP",
+  "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_784/h_307/50364/253894/2025/8/13/695884.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_835/h_299/50364/253894/2025/8/13/218483.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_848/h_283/50364/253894/2025/8/13/771091.png",
+  "model_ids": "",
+  "like_count": 0,
+  "unlike_count": 0,
+  "view_count": 909,
+  "is_top": 0,
+  "content_type": 0,
+  "is_del": 0,
+  "del_at": 0,
+  "del_uid": 0,
+  "is_release": 0,
+  "source": 1,
+  "last_ip_area": "河南省",
+  "is_prohibit_reply": 0,
+  "is_only": 0,
+  "state": 1,
+  "audit_uid": 0,
+  "favorite_count": 0,
+  "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+  "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+  "vote_ids": "",
+  "is_elite": 0,
+  "is_admin": 0,
+  "audit_state": 0,
+  "chat_game_id": 0,
+  "is_image_text": 1,
+  "from_chat": false,
+  "chat_top": 0,
+  "entry_auto": 0,
+  "audit_at": 0,
+  "server_id": 0,
+  "image_num": 30,
+  "video_list": "[]",
+  "is_emulator": 0,
+  "editor_type": 1,
+  "ignore_hot": false,
+  "mj_quote_num": 0,
+  "mj_task_id": 0,
+  "limit_age": 0,
+  "important_at": 0,
+  "is_expired": 0,
+  "last_like_at": 0,
+  "version": "",
+  "content_id": 677230,
+  "content": "",
+  "content_json": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"角色定位分为：单段C、多段C、奶、拉推条、增益辅助、减益辅助\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"﻿单段C\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"2TLh0JmtsT4mCkb2\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_784/h_307/50364/253894/2025/8/13/695884.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"570px\",\"height\":\"223px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ApJPY8AV1ia5COjW\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_835/h_299/50364/253894/2025/8/13/218483.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"571px\",\"height\":\"204px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"H4FBDmQdKh72DxIA\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_848/h_283/50364/253894/2025/8/13/771091.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"572px\",\"height\":\"191px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"TQGME2tnQdkCZlMS\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_844/h_306/50364/253894/2025/8/13/171.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"574px\",\"height\":\"208px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"﻿多段C\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"8Xswpmh5bZbJAKYb\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_783/h_246/50364/253894/2025/8/13/967459.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"573px\",\"height\":\"180px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"Y97NBtEF92oI0ue8\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_835/h_299/50364/253894/2025/8/13/945347.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"575px\",\"height\":\"206px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"tCEEjoIwTCfCE1l1\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_848/h_283/50364/253894/2025/8/13/426263.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"576px\",\"height\":\"192px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"jR0qd6hfjWmuAHHt\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_824/h_264/50364/253894/2025/8/13/579676.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"578px\",\"height\":\"185px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"﻿奶\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"uDHG52UqhvgsNeHt\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_809/h_287/50364/253894/2025/8/13/162246.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"555px\",\"height\":\"197px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"wUYNFfHCj8QFIMju\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_840/h_226/50364/253894/2025/8/13/521088.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"554px\",\"height\":\"149px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"0JyVtBbi6lJsE4Kk\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_914/h_270/50364/253894/2025/8/13/938352.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"617px\",\"height\":\"183px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"8FV5U30tLaYb9L8i\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_808/h_295/50364/253894/2025/8/13/213564.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"622px\",\"height\":\"227px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"﻿拉推条\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"wCDP9vpRv8gN0Hij\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_837/h_250/50364/253894/2025/8/13/433265.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"548px\",\"height\":\"164px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"8dS4nGpLIbIiByqI\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_817/h_270/50364/253894/2025/8/13/389296.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"551px\",\"height\":\"182px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"4lNzsj1NuVkq3mg0\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_845/h_269/50364/253894/2025/8/13/80568.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"555px\",\"height\":\"177px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"wXNbZlJSUOTGq5sp\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_827/h_343/50364/253894/2025/8/13/122906.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"558px\",\"height\":\"232px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"队友不附加速度上升时带\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"﻿增益辅助\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"SE9z4aKt7W4xk3KQ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_622/h_243/50364/253894/2025/8/13/70010.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"555px\",\"height\":\"217px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"FPwlcfFudtXaL720\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_849/h_243/50364/253894/2025/8/13/620249.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"555px\",\"height\":\"159px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"Kvw46VMtYoQirP5a\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_879/h_299/50364/253894/2025/8/13/788725.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"561px\",\"height\":\"191px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"U6VQ9ml3jTTBQT0A\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_811/h_255/50364/253894/2025/8/13/11101.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"559px\",\"height\":\"176px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"﻿减益辅助\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"ZuR4lEmAVvt24V0H\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_795/h_250/50364/253894/2025/8/13/458317.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"560px\",\"height\":\"177px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"tI9t7mUj3ygdCTyy\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_876/h_261/50364/253894/2025/8/13/97453.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"564px\",\"height\":\"168px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"﻿特殊\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"eTeOzkqm8gdCy0Fg\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_841/h_256/50364/253894/2025/8/13/466401.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"558px\",\"height\":\"170px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\" 万金油\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"pucr6t0iyuOzqZNf\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_841/h_307/50364/253894/2025/8/13/593657.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"558px\",\"height\":\"204px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"  角色技能吃攻击力\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"AkW3748JE8vPlHIZ\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_843/h_284/50364/253894/2025/8/13/712662.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"559px\",\"height\":\"188px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"挨打的肉\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"oD6YwFkryJbXUiOS\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_808/h_285/50364/253894/2025/8/13/26895.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"563px\",\"height\":\"199px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"配合控制辅助\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"﻿PVP\"}],\"customClass\":\"custom-block-style__type-7\",\"customStyle\":{\"--custom-block-style-color\":\"#00B64F\"}},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"IFUo8dFe3OSlodox\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_842/h_269/50364/253894/2025/8/13/23612.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"608px\",\"height\":\"194px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"xT0QjNeML7l7BE1O\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_885/h_329/50364/253894/2025/8/13/569819.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"609px\",\"height\":\"226px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"kt1sN6p45K9i4cMv\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_816/h_265/50364/253894/2025/8/13/725594.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"610px\",\"height\":\"198px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"image\",\"key\":\"DUdyEsJ7LbDOcxF6\",\"src\":\"//cdnimg-v2.gamekee.com/wiki2.0/images/w_820/h_324/50364/253894/2025/8/13/501239.png\",\"alt\":\"\",\"isAdaptive\":false,\"style\":{\"width\":\"609px\",\"height\":\"241px\"},\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]}]",
+  "content_cdn": "",
+  "is_favorite": 0,
+  "is_like": 0,
+  "is_unlike": 0,
+  "thumb_list": [
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_784/h_307/50364/253894/2025/8/13/695884.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_835/h_299/50364/253894/2025/8/13/218483.png",
+    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_848/h_283/50364/253894/2025/8/13/771091.png"
+  ],
+  "model_list": [],
+  "user": {
+    "uid": 253894,
+    "username": "蓝白社野怪",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/215/253894/2024/7/28/311743.jpg",
+    "description": "",
+    "follow_num": 75,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 50263,
+    "content_num": 35,
+    "read_num": 3769488,
+    "like_num": 3475
+  },
+  "update_user": {
+    "uid": 253894,
+    "username": "蓝白社野怪",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/215/253894/2024/7/28/311743.jpg",
+    "description": "",
+    "follow_num": 75,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": false,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 0,
+    "content_num": 0,
+    "read_num": 0,
+    "like_num": 0
+  },
+  "game": {
+    "id": 50364,
+    "name": "伊瑟",
+    "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "alias": "yise",
+    "content_count": 318,
+    "follow_count": 108
+  },
+  "themes": null,
+  "seo_format": {
+    "title": "",
+    "desc": "",
+    "key": ""
+  },
+  "video_format": {
+    "cover": "",
+    "video": "",
+    "width": "",
+    "height": "",
+    "duration": 0,
+    "video_compressed": ""
+  },
+  "contributor": [
+    {
+      "uid": 253894,
+      "username": "蓝白社野怪",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_640/h_640/215/253894/2024/7/28/311743.jpg",
+      "last_ip_area": "河南省",
+      "last_login_device_num": 1
+    }
+  ],
+  "vote_list": null,
+  "ban_image_list": null,
+  "is_strategy": false,
+  "is_strategy_v1": false,
+  "entry_data_bind": null,
+  "entry_data_bind_cdn": "",
+  "emoji": [
+    {
+      "id": 6,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 4,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 3,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+      "count": 0,
+      "is_like": false
+    },
+    {
+      "id": 12,
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+      "count": 0,
+      "is_like": false
+    }
+  ],
+  "reward": {
+    "user_count": 0,
+    "last_user_list": null
+  },
+  "content_tj_eq": {
+    "content_id": 0,
+    "content": "",
+    "version": ""
+  },
+  "content_tj_lineup": {
+    "content_id": 0,
+    "content": "",
+    "content_1": "",
+    "version": ""
+  },
+  "content_tj_eq_cdn": "",
+  "content_tj_lineup_cdn": "",
+  "hot_content_strategies": [
+    {
+      "id": 675161,
+      "name": "伊瑟！全角色！节奏榜！持续更新！",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 671001,
+      "name": "Re:从零开始的异格者生活（自建开荒入门攻略）",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708683,
+      "name": "纳伽兰",
+      "icon": "",
+      "jump_url": ""
+    },
+    {
+      "id": 708677,
+      "name": "西尔维娅",
+      "icon": "",
+      "jump_url": ""
+    }
+  ],
+  "related_strategies": null
+}

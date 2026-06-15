@@ -1,0 +1,110 @@
+{
+  "id": 639313,
+  "kind": "zhike",
+  "name": "电音鱿鱿",
+  "entryName": "电音鱿鱿",
+  "rarityGroup": "卓越",
+  "starRarity": "★★★★",
+  "role": "治疗型",
+  "description": "夜场中风靡万千的顶级DJ，就没有它炒不热的气氛，音乐已经响起，狂欢正式开始！",
+  "stats": {
+    "生命": "4684",
+    "攻击": "276",
+    "防御": "96",
+    "速度": "30"
+  },
+  "skills": [
+    {
+      "skillId": "639313-skill-1",
+      "order": 1,
+      "section": "宠物技能",
+      "name": "电音鱿鱿（已觉醒）",
+      "description": "冷却时间：4回合\n加疗效 持续恢复\n本体行动前，强化本体，使本体异格者在2回合内的治疗量提升25%，并为当前生命百分比低于50%的治疗目标额外附加1回合【持续恢复】。"
+    }
+  ],
+  "possibleMatrices": [
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "涌泉"
+      ],
+      "other": [
+        "涌泉 4/8/12",
+        "生命值+10%/+25%/+45%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "疾驰"
+      ],
+      "other": [
+        "疾驰 4/8/12",
+        "速度值+8%/+20%/+35%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "治愈"
+      ],
+      "other": [
+        "治愈 4/8",
+        "生命值+10%+10%；治疗效果提升25%"
+      ]
+    },
+    {
+      "section": "可出现矩阵",
+      "title": "",
+      "content": [
+        "戍卫"
+      ],
+      "other": [
+        "戍卫 4/8",
+        "生命值+10%/+10%；每波战斗开始时，获得1回合免疫效果"
+      ]
+    }
+  ],
+  "attributes": {
+    "稀有度": "★★★★",
+    "定位": "治疗型",
+    "生命": "4684",
+    "攻击": "276",
+    "防御": "96",
+    "速度": "30"
+  },
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_250/h_250/50364/355468/2025/4/12/283493.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_333/h_380/50364/43758/2024/9/25/320867.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_341/h_316/50364/43758/2024/9/25/5682.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_341/h_316/50364/43758/2024/9/25/5682.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/835331.png,//cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/295654.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_359/h_374/50364/43758/2024/3/24/493364.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_370/h_355/50364/43758/2024/9/25/624355.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_410/h_397/50364/43758/2024/3/24/691769.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_430/h_380/50364/43758/2024/9/25/746771.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_458/h_469/50364/43758/2024/3/24/238739.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/295654.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/835331.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_46/h_46/50364/43758/2024/3/24/988191.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "source": {
+    "pageId": 639313,
+    "title": "电音鱿鱿",
+    "url": "https://www.gamekee.com/yise/639313.html",
+    "updatedAt": "2025-05-12T13:20:55.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/639313_电音鱿鱿.md",
+      "metadata": "03_图鉴词条/639313_电音鱿鱿.json",
+      "rawApi": "_raw_api/details/639313.json"
+    }
+  }
+}

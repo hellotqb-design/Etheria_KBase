@@ -1,0 +1,39 @@
+{
+  "id": 678048,
+  "url": "https://www.gamekee.com/yise/678048.html",
+  "apiUrl": "https://www.gamekee.com/v1/content/detail/678048",
+  "title": "【伊瑟】新手RTA入门指南",
+  "category": "04_新手开荒",
+  "type": 4,
+  "tag": "2",
+  "entryId": 0,
+  "gameId": 50364,
+  "createdAt": "2025-09-23T04:16:36.000Z",
+  "updatedAt": "2025-09-23T04:16:36.000Z",
+  "commentCount": 0,
+  "likeCount": 0,
+  "favoriteCount": 0,
+  "viewCount": 1556,
+  "summary": "",
+  "textLength": 0,
+  "imageCount": 7,
+  "assets": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_15002/50364/9000/2025/8/23/369459.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png"
+  ],
+  "assetDownloads": [],
+  "sources": [
+    "content-pageList"
+  ],
+  "user": {
+    "uid": 9000,
+    "username": "茉晴Mako",
+    "description": "潘尼单推人"
+  },
+  "crawledAt": "2026-06-15T03:28:44.462Z"
+}

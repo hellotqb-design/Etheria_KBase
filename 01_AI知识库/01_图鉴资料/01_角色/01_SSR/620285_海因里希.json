@@ -1,0 +1,377 @@
+{
+  "id": 620285,
+  "kind": "character",
+  "name": "海因里希",
+  "entryName": "海因里希",
+  "rarity": "SSR",
+  "element": "破序",
+  "faction": "DOKI娱乐",
+  "title": "弑神之枪",
+  "gender": "男",
+  "profession": "未公开",
+  "identityCode": "S09-042191",
+  "chipStatus": "故障",
+  "assessment": "异格者海因里希，身份编码S09-042191，ReA芯片状态故障，履历最后的更新日期停留在屋都大停机事件之前。\n与晋经的新闻报道的图像数据进行仔细对比后，终于得出来确定的结论一一面前这个表情阴冷、死气沉沉且黑眼卷深重的男青年，确实是曾经屋海集团掌门人菲尔特的养子无误。由于与过去图像的差异过大，为了进行准确对比E.O.S.甚全动用了最先进的人脸识别程序。\n没人能想象，曾经那个非尔特家的温利和贵公子，究竟是遭遇了怎样的磨难，才沦落为如今的模样，而海因里希本人也鲜少提及这段过往。\n而现在，海因里希是E-07无人不知的死神，他的枪口，会对准每个美梦俱乐部的故人。",
+  "stats": {
+    "生命": "11057+3356",
+    "攻击": "1135+509",
+    "防御": "810+231",
+    "速度": "122+15",
+    "暴击率": "10%+8%",
+    "暴击伤害": "150%+20%",
+    "效果命中": "0%+12%",
+    "效果抵抗": "0%"
+  },
+  "skills": [
+    {
+      "skillId": "620285-skill-1",
+      "order": 1,
+      "section": "普攻",
+      "name": "临别一枪 等级 5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/ff2bcdd1-ab53-493a-ace4-a46f8049d570.png",
+      "description": "冷却时间：0\n海因里希用手枪中的最后一发子弹命中目标；对敌方单体造成240%伤害，有45%概率附加1回合【闭锁】。\n死神之眼：海因里希每次攻击时有50%概率驱散目标1个增益效果，目标无可驱散的增益效果时则有80%概率附加1层【遗言】，持续3回合。",
+      "upgradeText": "等级2\n潜能提升：攻击力+25/攻击力+40/攻击力+5%/攻击力+60/攻击力+5%\n技能提升：伤害系数增加至240%\n等级3\n潜能提升：攻击力+100\n技能提升：驱散增益效果概率增加至50%\n等级4：\n潜能提升：攻击力+5%\n技能提升：附加【闭锁】概率增加至45%\n等级5：\n潜能提升：攻击力+10%\n技能提升：【遗言】持续时间增加至3回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620285-skill-2",
+      "order": 2,
+      "section": "技能",
+      "name": "致命裂弹 等级5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/3c397cde-f412-43e7-a902-9f6a970fef86.png",
+      "description": "冷却时间：3\n海因里希拔出双枪，进行连续的乱射；对敌方单体造成180%伤害，再对随机敌方单体造成180%伤害，最后再对敌方全体造成180%伤害，目标无可驱散的增益效果时有65%概率附加2回合【禁止治疗】。",
+      "upgradeText": "等级2\n潜能提升：防御力+15/防御力+25/防御力+5%/防御力+40/防御力+5%\n技能提升：伤害系数均增加至170%\n等级3\n潜能提升：防御力+70\n技能提升：附加【禁止治疗】概率增加至65%\n等级4：\n潜能提升：暴击伤害+8%\n技能提升：伤害系数均增加至180%\n等级5：\n潜能提升：暴击伤害+12%\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "skillId": "620285-skill-3",
+      "order": 3,
+      "section": "必杀/终结技",
+      "name": "终成定局 等级 5",
+      "icon": "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/7081a608-201b-45dc-9eae-e4ad2d0f3984.png",
+      "description": "冷却时间：4\n海因里希释放枪棺内蓄积的能量，向所有目标倾泻致命的火力；对敌方全体造成3段100%伤害，最后一击有65%概率附加2回合【闭锁】，目标每有1层【遗言】，本次技能对其造成的暴击伤害提升30%。",
+      "upgradeText": "等级2\n潜能提升：生命值+25/生命值+400/生命值+5%/生命值+600/生命值+5%\n技能提升：伤害系数增加至100%\n等级3\n潜能提升：生命值+1000\n技能提升：每层【遗言】提升的暴击伤害增加至30%\n等级4：\n潜能提升：速度值+5\n技能提升：【闭锁】持续时间增加至2回合\n等级5：\n潜能提升：速度值+10\n技能提升：技能冷却减少1回合",
+      "tables": [
+        {
+          "title": "技能升级所需材料",
+          "headers": [
+            "潜能1",
+            "潜能2",
+            "潜能3",
+            "潜能4",
+            "等级2",
+            "潜能5",
+            "等级3",
+            "潜能6",
+            "等级4",
+            "潜能7",
+            "等级5"
+          ],
+          "rows": [
+            [
+              "(15)",
+              "(15)",
+              "(20)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(20)",
+              "(15)",
+              "(15)",
+              "(15)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "推荐搭配",
+      "name": "推荐",
+      "descTitle": "角色简评",
+      "description": "【战术定位】\n驱散，禁疗，减益，增伤\n【养成建议】\n┌─────────┬────────────┐\n| 技能优先级 | 114|\n| 源器配置 | 右三主属性暴击，效果命中，效果命中 |\n└─────────┴────────────┘\n【对局表现】\n驱散，禁疗工具人，pve重构兵祸，奥洛拉驱散增伤有不错的表现，pvp中对肉队的禁疗也有不错的效果",
+      "attributes": [
+        {
+          "key": "推荐源器",
+          "value": "12疾驰+8时光+6讯光天击"
+        },
+        {
+          "key": "推荐智壳",
+          "value": "胡狼/万魔法典"
+        },
+        {
+          "key": "推荐攻略",
+          "value": "待补充..."
+        }
+      ],
+      "attributesObject": {
+        "推荐源器": "12疾驰+8时光+6讯光天击",
+        "推荐智壳": "胡狼/万魔法典",
+        "推荐攻略": "待补充..."
+      },
+      "images": [
+        "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/993845.png"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "暴击率提升"
+      ],
+      "other": [
+        "暴击率+8%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "基础属性提升"
+      ],
+      "other": [
+        "基础攻击力、防御力和生命值提升5%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "效果命中提升"
+      ],
+      "other": [
+        "效果命中+12%"
+      ]
+    },
+    {
+      "section": "潜能",
+      "title": "",
+      "content": [
+        "伤害提升和伤害减免"
+      ],
+      "other": [
+        "造成伤害额外提升10%，受到伤害额外降低10%"
+      ]
+    }
+  ],
+  "archiveStories": [
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅰ",
+      "name": "记忆片段|",
+      "icon": "",
+      "description": "【往事如梦】\n蜃海集团的生活已经在记忆里显得有些模糊，但那段日子还是会时常出现在海因里希的梦里。\n他梦见温和的父亲，菲尔特。上了年纪的男人对他和莉莉丝伸出手，对他们说，以后他会成为他们的家人。\n他梦见以蜃海集团的名义举办的晚宴，香槟杯碰撞的清脆响声不绝于耳，在父亲的带领下，他穿过人群，周围那些富商名流看向他时，目光或是尊敬、或是讨好。\n他梦见自己跑到父亲面前，天真地说想要学习战斗的方法，这样才能在危险的源病毒爆发中保护每个家人。父亲听后微微一笑，转而说要让管家给他找最好的老师一很快，他就看见了那个忠心耿耿的菲尔特家总管，鲁伯特。\n每当想起那张脸的时候，海因里希就会从梦中惊醒，看见低矮灰暗的天花板，听见隔壁美梦俱乐部舞池里的喧嚣，感受到被汗水浸湿、紧贴着后背的冰冷衣衫。\n海因里希捏紧了拳头，但很快又松开。\n拿起放在床头的双枪，他翻身下床，「美梦俱乐部敌人名单」上，还有还几个名字没被红线划去。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅱ",
+      "name": "",
+      "icon": "",
+      "description": "【复仇做火，恨为柴薪】\n有一段记忆，是海因里希永远也不会忘记的。\n蜃都爆发了源病毒危机，整片区域都被熔断，熔断生物肆意横行。在混乱中，外出办公的菲尔特被熔断生物杀害，而留守在宅邸的海因里希和莉莉斯被成群的熔断生物追逐。他们筋疲力尽地躲进一间房间，反锁上门，祈祷着不要被熔断生物发现。\n不知过了多久，他听见了一阵脚步声，声音杂乱，但速度不疾不徐。那些脚步声逐渐走进，最终在隔壁那个与他们一墙之隔的房间前站定，紧接着是一声巨响，像是办公室沉重的大门被蛮力撞开。随后，他听见人在说话的声音。\n「哼，这老东西，死了也要给人添麻烦，把这破宅子建得那么复杂。」\n鲁伯特，这是鲁伯特的声音，他和莉莉斯太熟悉那个人了，绝不会听错。\n「也不知道那两个小鬼头躲哪去了，不能让他们活着离开这里。」\n他的呼吸几乎停滞，鲁伯特说的「那两个小鬼头」，就是他和莉莉斯。\n「那你可要加油啊，追杀他们，可不在我的工作范畴里。」\n另外一个声音响起，是个陌生的女人，海因里希并辨认不出那是谁，应该是鲁伯特找的帮手，但已经不重要了。\n那一刻，怒火充满了他的胸腔—一鲁伯特，这个人背叛了菲尔特，背叛了他和莉莉斯，背叛了整个蜃海集团。",
+      "more": ""
+    },
+    {
+      "section": "异格档案",
+      "tab": "记忆片段Ⅲ",
+      "name": "",
+      "icon": "",
+      "description": "【绝路无归期】\n「痛吗？」\n冰冷的镊子夹着沾满药物的棉球，不怀好意地狠狠捅在伤口上。海因里希本想不动声色地忍耐过去，但疼痛终究让他的眉毛拧成一团。\n「呵，痛就对了。这世界上，也就只剩下你这种被冲昏了头脑的人，不掂量掂量自己的实力，就想对那种大人物发起复仇。」\n白发的女实验员将染红的棉球丢弃，随后又丢给海因里希一卷绷带，示意他自己给自己缠上。\n「记住这份疼痛，这份恨意，以及这份屈辱吧。等你获得了强大的力量，就可以把这一切，加倍奉还，不仅是那个践踏你们尊严的家伙，还有那些附庸在他身边的、背叛了你们的人。」\n她的话像毒蛇，缠绕在海因里希耳边，吐出鲜红的信子，引诱他走向危险的深渊。他当然清楚莱伯茨生命的家伙不可能是什么好人，但他已经没有了别的选择——他迫切地需要力量。\n「少废话。东西带来了吗？」\n「当然了。这件事，我可不会忘记。」\n实验员打开冷藏箱，取出一支没有粘贴任何标签的药剂，抽进注射器里。\n「转化药剂已经准备好了，我想，你应该清楚它的效果吧？它会给你获得更强力量的资质，当然，也伴随着一点小小的风险。这一针下去，可就没有回头路了。」\n「无所谓，反正命运从来没给过我任何退路。」",
+      "more": ""
+    }
+  ],
+  "galleries": [
+    {
+      "title": "",
+      "tabs": [
+        {
+          "title": "立绘-1",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/280646.png",
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/6cea72bc-4bad-4dfc-ab52-c42b7360ec96.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/280646.png\n//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/6cea72bc-4bad-4dfc-ab52-c42b7360ec96.png"
+        },
+        {
+          "title": "立绘-2",
+          "type": "image",
+          "images": [
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/76978.png",
+            "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/7d80c213-41ef-4f69-8bd3-fe828c4ac995.png"
+          ],
+          "text": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/76978.png\n//cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/7d80c213-41ef-4f69-8bd3-fe828c4ac995.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/1/17.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_9.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture1/6cea72bc-4bad-4dfc-ab52-c42b7360ec96.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture2/7d80c213-41ef-4f69-8bd3-fe828c4ac995.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture3/43b1191d-5bd4-48af-8362-9be746f0cf77.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture4/ff2bcdd1-ab53-493a-ace4-a46f8049d570.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture5/3c397cde-f412-43e7-a902-9f6a970fef86.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/orc/role_picture6/7081a608-201b-45dc-9eae-e4ad2d0f3984.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_105/h_102/50364/157597/2024/3/16/666032.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/157597/2024/3/25/76978.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1200/h_1920/50364/842288/2026/1/25/328526.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50364/157597/2024/3/25/280646.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2000/h_2000/50364/664163/2025/2/31/787007.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_283/h_300/50364/842288/2025/7/18/993845.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/136942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/213874.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/309973.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/394229.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/399510.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/4699.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/574031.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/646793.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/825688.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857021.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/857967.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/883546.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/893961.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/92017.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/94450.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_390/50364/664163/2025/2/12/996345.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/157597/2025/5/12/928881.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/56998.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/267618/2025/6/2/928166.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/159384.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/423288.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/46191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/533650.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/611879.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/355468/2025/4/13/74159.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/410535.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/10/12/885083.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/532903.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/24/657589.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/661232.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/11/3/775411.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/17/209282.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/126639.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/18/379637.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/132554.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/7/26/664101.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/8/15/789600.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/380803.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/1/837996.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2025/9/22/336942.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/0/14/827191.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/64762.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/11/807674.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/1/25/967914.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/782641.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/2/18/856383.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/740108.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/29/928202.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_307/h_467/50364/842288/2026/3/8/126929.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_332/h_467/50364/664163/2025/10/7/916977.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_429/h_423/829/157597/2023/7/22/45380.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_56/h_56/50364/157597/2024/3/26/522073.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/357114.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/382722.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/530081.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/758801.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_65/h_65/50364/355468/2025/4/12/960068.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/4/21/1779364080492_1779363714345_nf835dwq8r_kh5sexfedu.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249180929_1781248722773_5ebdurtwn8_egsl9q1aut.jpg",
+    "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50364/images/w_307/h_467/50364/842288/2026/5/12/1781249188965_1781248724894_yaicfqcy5q_sunggb9q8b.jpg"
+  ],
+  "source": {
+    "pageId": 620285,
+    "title": "海因里希",
+    "url": "https://www.gamekee.com/yise/620285.html",
+    "updatedAt": "2025-08-21T09:55:12.000Z",
+    "sourceFiles": {
+      "markdown": "03_图鉴词条/620285_海因里希.md",
+      "metadata": "03_图鉴词条/620285_海因里希.json",
+      "rawApi": "_raw_api/details/620285.json"
+    }
+  }
+}
