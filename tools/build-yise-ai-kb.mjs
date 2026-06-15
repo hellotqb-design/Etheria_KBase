@@ -339,6 +339,7 @@ function yuanqiMarkdown(entity) {
     .map((item) => `| ${item.points} | ${item.description.replace(/\n/g, "<br>")} |`)
     .join("\n");
   const pointTable = pointRows ? ["| 所需点数 | 套装效果 |", "| --- | --- |", pointRows].join("\n") : "";
+  const effectSection = pointTable ? "" : section("套装效果", entity.effect);
   return [
     `# ${entity.name}`,
     "",
@@ -349,10 +350,9 @@ function yuanqiMarkdown(entity) {
     ].join("\n")),
     section("套装点数规则", entity.setPointRule),
     section("套装点数效果", pointTable),
-    section("效果", entity.effect),
+    effectSection,
     section("获取途径", entity.obtain),
     section("说明", entity.description),
-    section("原始属性", mdTable(entity.attributes || {})),
   ].filter(Boolean).join("\n\n").trim() + "\n";
 }
 
@@ -525,7 +525,12 @@ async function resetOutput(archiveDir, outputDir) {
   if (!resolvedOutput.startsWith(resolvedWorkspace + path.sep) || !allowedNames.has(path.basename(resolvedOutput))) {
     throw new Error(`Refusing to clear unexpected AI KB directory: ${resolvedOutput}`);
   }
-  await rm(resolvedOutput, { recursive: true, force: true });
+  try {
+    await rm(resolvedOutput, { recursive: true, force: true });
+  } catch (error) {
+    if (!["EBUSY", "EPERM"].includes(error.code)) throw error;
+    console.warn(`Warning: ${resolvedOutput} is busy; rebuilding files in place.`);
+  }
   await mkdir(resolvedOutput, { recursive: true });
 }
 
