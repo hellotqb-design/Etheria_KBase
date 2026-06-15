@@ -33,16 +33,18 @@
     "备注",
     "视频 / 链接",
     "推荐 / 面板",
-    "各主播/选手 / PVP推荐配置 / 外部外链",
-    "各主播/选手 / PVP推荐配置 / 外部外链",
-    "各主播/选手 / PVP推荐配置 / 外部外链",
-    "各主播/选手 / PVP推荐配置 / 外部外链",
-    "各主播/选手 / PVP推荐配置 / 外部外链"
+    "各主播/选手 / PVP推荐配置 / 外部外链（AC列）",
+    "各主播/选手 / PVP推荐配置 / 外部外链（AD列）",
+    "各主播/选手 / PVP推荐配置 / 外部外链（AE列）",
+    "各主播/选手 / PVP推荐配置 / 外部外链（AF列）",
+    "各主播/选手 / PVP推荐配置 / 外部外链（AG列）"
   ],
   "characterCount": 98,
   "characters": [
     {
       "rowIndex": 9,
+      "attribute": "",
+      "avatarText": "",
       "character": "多琪",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -71,6 +73,8 @@
     },
     {
       "rowIndex": 10,
+      "attribute": "",
+      "avatarText": "",
       "character": "渺渺",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -93,6 +97,8 @@
     },
     {
       "rowIndex": 11,
+      "attribute": "",
+      "avatarText": "",
       "character": "弥瑟亚",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -122,6 +128,8 @@
     },
     {
       "rowIndex": 12,
+      "attribute": "",
+      "avatarText": "",
       "character": "夜离",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -153,6 +161,8 @@
     },
     {
       "rowIndex": 13,
+      "attribute": "",
+      "avatarText": "",
       "character": "瑞玛丽",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -183,6 +193,8 @@
     },
     {
       "rowIndex": 14,
+      "attribute": "",
+      "avatarText": "",
       "character": "斐莫莉安",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -212,6 +224,8 @@
     },
     {
       "rowIndex": 15,
+      "attribute": "",
+      "avatarText": "",
       "character": "玄骐",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -244,6 +258,8 @@
     },
     {
       "rowIndex": 16,
+      "attribute": "",
+      "avatarText": "",
       "character": "孽女善雅",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -269,6 +285,8 @@
     },
     {
       "rowIndex": 17,
+      "attribute": "",
+      "avatarText": "",
       "character": "梨梨",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -301,6 +319,8 @@
     },
     {
       "rowIndex": 18,
+      "attribute": "",
+      "avatarText": "",
       "character": "莉拉姆",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -332,6 +352,8 @@
     },
     {
       "rowIndex": 19,
+      "attribute": "",
+      "avatarText": "",
       "character": "海因里希",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -362,6 +384,8 @@
     },
     {
       "rowIndex": 20,
+      "attribute": "",
+      "avatarText": "",
       "character": "逆翎",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -393,6 +417,8 @@
     },
     {
       "rowIndex": 21,
+      "attribute": "",
+      "avatarText": "",
       "character": "罗魍",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -422,6 +448,8 @@
     },
     {
       "rowIndex": 22,
+      "attribute": "",
+      "avatarText": "",
       "character": "玄骊",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -454,6 +482,8 @@
     },
     {
       "rowIndex": 23,
+      "attribute": "",
+      "avatarText": "",
       "character": "莎朗",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -477,6 +507,8 @@
     },
     {
       "rowIndex": 24,
+      "attribute": "",
+      "avatarText": "",
       "character": "克洛斯",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -505,6 +537,8 @@
     },
     {
       "rowIndex": 25,
+      "attribute": "",
+      "avatarText": "",
       "character": "拂秋",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -535,6 +569,8 @@
     },
     {
       "rowIndex": 26,
+      "attribute": "",
+      "avatarText": "",
       "character": "席琳丝",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -558,6 +594,8 @@
     },
     {
       "rowIndex": 27,
+      "attribute": "",
+      "avatarText": "",
       "character": "莉露摩卡",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -580,6 +618,8 @@
     },
     {
       "rowIndex": 28,
+      "attribute": "",
+      "avatarText": "",
       "character": "芙蕾雅",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -608,6 +648,8 @@
     },
     {
       "rowIndex": 29,
+      "attribute": "",
+      "avatarText": "",
       "character": "赫妍",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -632,6 +674,8 @@
     },
     {
       "rowIndex": 30,
+      "attribute": "",
+      "avatarText": "",
       "character": "莉莉斯",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -654,6 +698,8 @@
     },
     {
       "rowIndex": 31,
+      "attribute": "",
+      "avatarText": "",
       "character": "罗喉",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -678,6 +724,8 @@
     },
     {
       "rowIndex": 32,
+      "attribute": "",
+      "avatarText": "",
       "character": "水生绫",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -704,6 +752,8 @@
     },
     {
       "rowIndex": 33,
+      "attribute": "",
+      "avatarText": "",
       "character": "奈薇忒",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -729,6 +779,8 @@
     },
     {
       "rowIndex": 34,
+      "attribute": "",
+      "avatarText": "",
       "character": "伯诺瓦",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -754,6 +806,8 @@
     },
     {
       "rowIndex": 35,
+      "attribute": "",
+      "avatarText": "",
       "character": "奥萨尔",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -778,6 +832,8 @@
     },
     {
       "rowIndex": 36,
+      "attribute": "",
+      "avatarText": "",
       "character": "纳伽兰",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -801,6 +857,8 @@
     },
     {
       "rowIndex": 37,
+      "attribute": "",
+      "avatarText": "",
       "character": "拿鹤",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -827,6 +885,8 @@
     },
     {
       "rowIndex": 38,
+      "attribute": "",
+      "avatarText": "",
       "character": "荼蘼",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -852,6 +912,8 @@
     },
     {
       "rowIndex": 39,
+      "attribute": "",
+      "avatarText": "",
       "character": "博尔涅",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -870,6 +932,8 @@
     },
     {
       "rowIndex": 40,
+      "attribute": "",
+      "avatarText": "",
       "character": "月夜见",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -894,6 +958,8 @@
     },
     {
       "rowIndex": 41,
+      "attribute": "",
+      "avatarText": "",
       "character": "夏妲",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -919,6 +985,8 @@
     },
     {
       "rowIndex": 42,
+      "attribute": "",
+      "avatarText": "",
       "character": "缇亚马特",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -942,6 +1010,8 @@
     },
     {
       "rowIndex": 43,
+      "attribute": "",
+      "avatarText": "",
       "character": "凌罗",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -969,6 +1039,8 @@
     },
     {
       "rowIndex": 44,
+      "attribute": "",
+      "avatarText": "",
       "character": "宁芙涅",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -997,6 +1069,8 @@
     },
     {
       "rowIndex": 45,
+      "attribute": "",
+      "avatarText": "",
       "character": "贝兹比",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1021,6 +1095,8 @@
     },
     {
       "rowIndex": 46,
+      "attribute": "",
+      "avatarText": "",
       "character": "佩希思",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1042,6 +1118,8 @@
     },
     {
       "rowIndex": 47,
+      "attribute": "",
+      "avatarText": "",
       "character": "吉安克",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1063,6 +1141,8 @@
     },
     {
       "rowIndex": 48,
+      "attribute": "",
+      "avatarText": "",
       "character": "络薇",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1084,6 +1164,8 @@
     },
     {
       "rowIndex": 49,
+      "attribute": "",
+      "avatarText": "",
       "character": "魁洛",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1111,6 +1193,8 @@
     },
     {
       "rowIndex": 50,
+      "attribute": "",
+      "avatarText": "",
       "character": "赫尔基德",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1131,6 +1215,8 @@
     },
     {
       "rowIndex": 51,
+      "attribute": "",
+      "avatarText": "",
       "character": "维罗妮卡",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1152,6 +1238,8 @@
     },
     {
       "rowIndex": 52,
+      "attribute": "",
+      "avatarText": "",
       "character": "赫同",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1174,6 +1262,8 @@
     },
     {
       "rowIndex": 53,
+      "attribute": "",
+      "avatarText": "",
       "character": "彼安汀",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1203,6 +1293,8 @@
     },
     {
       "rowIndex": 54,
+      "attribute": "",
+      "avatarText": "",
       "character": "炼",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1226,6 +1318,8 @@
     },
     {
       "rowIndex": 55,
+      "attribute": "",
+      "avatarText": "",
       "character": "米娅",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1252,6 +1346,8 @@
     },
     {
       "rowIndex": 56,
+      "attribute": "",
+      "avatarText": "",
       "character": "柯洛罗",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1277,6 +1373,8 @@
     },
     {
       "rowIndex": 57,
+      "attribute": "",
+      "avatarText": "",
       "character": "柯卡尔迪",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1302,6 +1400,8 @@
     },
     {
       "rowIndex": 58,
+      "attribute": "",
+      "avatarText": "",
       "character": "光狩谛听",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1328,6 +1428,8 @@
     },
     {
       "rowIndex": 59,
+      "attribute": "",
+      "avatarText": "",
       "character": "桑提克",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1353,6 +1455,8 @@
     },
     {
       "rowIndex": 60,
+      "attribute": "",
+      "avatarText": "",
       "character": "千羽",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1379,6 +1483,8 @@
     },
     {
       "rowIndex": 61,
+      "attribute": "",
+      "avatarText": "",
       "character": "克索司",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1402,6 +1508,8 @@
     },
     {
       "rowIndex": 62,
+      "attribute": "",
+      "avatarText": "",
       "character": "西尔维娅",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1423,6 +1531,8 @@
     },
     {
       "rowIndex": 63,
+      "attribute": "",
+      "avatarText": "",
       "character": "艾罗安",
       "rarity": "⭐\n⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -1450,6 +1560,8 @@
     },
     {
       "rowIndex": 66,
+      "attribute": "",
+      "avatarText": "",
       "character": "多乐丝",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1467,6 +1579,8 @@
     },
     {
       "rowIndex": 67,
+      "attribute": "",
+      "avatarText": "",
       "character": "马维尔",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1488,6 +1602,8 @@
     },
     {
       "rowIndex": 68,
+      "attribute": "",
+      "avatarText": "",
       "character": "缬草",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1514,6 +1630,8 @@
     },
     {
       "rowIndex": 69,
+      "attribute": "",
+      "avatarText": "",
       "character": "缬草 / 源质觉醒",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1540,6 +1658,8 @@
     },
     {
       "rowIndex": 70,
+      "attribute": "",
+      "avatarText": "",
       "character": "凛心戴娜",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1561,6 +1681,8 @@
     },
     {
       "rowIndex": 71,
+      "attribute": "",
+      "avatarText": "",
       "character": "谛听",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1589,6 +1711,8 @@
     },
     {
       "rowIndex": 72,
+      "attribute": "",
+      "avatarText": "",
       "character": "戍守卡奇",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1612,6 +1736,8 @@
     },
     {
       "rowIndex": 73,
+      "attribute": "",
+      "avatarText": "",
       "character": "戍守卡奇 / 源质觉醒",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1635,6 +1761,8 @@
     },
     {
       "rowIndex": 74,
+      "attribute": "",
+      "avatarText": "",
       "character": "维克托",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1652,6 +1780,8 @@
     },
     {
       "rowIndex": 75,
+      "attribute": "",
+      "avatarText": "",
       "character": "妮璐",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1677,6 +1807,8 @@
     },
     {
       "rowIndex": 76,
+      "attribute": "",
+      "avatarText": "",
       "character": "绯月鞠",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1700,6 +1832,8 @@
     },
     {
       "rowIndex": 77,
+      "attribute": "",
+      "avatarText": "",
       "character": "水月真",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1719,6 +1853,8 @@
     },
     {
       "rowIndex": 78,
+      "attribute": "",
+      "avatarText": "",
       "character": "善雅",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1739,6 +1875,8 @@
     },
     {
       "rowIndex": 79,
+      "attribute": "",
+      "avatarText": "",
       "character": "善雅 / 源质觉醒",
       "rarity": "⭐\n⭐⭐\n⭐",
       "rarityStars": 4,
@@ -1761,6 +1899,8 @@
     },
     {
       "rowIndex": 80,
+      "attribute": "",
+      "avatarText": "",
       "character": "格雷",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1782,6 +1922,8 @@
     },
     {
       "rowIndex": 81,
+      "attribute": "",
+      "avatarText": "",
       "character": "幻音千明",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1805,6 +1947,8 @@
     },
     {
       "rowIndex": 82,
+      "attribute": "",
+      "avatarText": "",
       "character": "勉",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1822,6 +1966,8 @@
     },
     {
       "rowIndex": 83,
+      "attribute": "",
+      "avatarText": "",
       "character": "酣梦一宵",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1842,6 +1988,8 @@
     },
     {
       "rowIndex": 84,
+      "attribute": "",
+      "avatarText": "",
       "character": "奥波尔",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1865,6 +2013,8 @@
     },
     {
       "rowIndex": 85,
+      "attribute": "",
+      "avatarText": "",
       "character": "炀",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1885,6 +2035,8 @@
     },
     {
       "rowIndex": 86,
+      "attribute": "",
+      "avatarText": "",
       "character": "砺行阿凛",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1902,6 +2054,8 @@
     },
     {
       "rowIndex": 87,
+      "attribute": "",
+      "avatarText": "",
       "character": "RC-77",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1923,6 +2077,8 @@
     },
     {
       "rowIndex": 88,
+      "attribute": "",
+      "avatarText": "",
       "character": "RC-77 / 源质觉醒",
       "rarity": "⭐\n⭐\n⭐⭐",
       "rarityStars": 4,
@@ -1946,6 +2102,8 @@
     },
     {
       "rowIndex": 89,
+      "attribute": "",
+      "avatarText": "",
       "character": "胧",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1963,6 +2121,8 @@
     },
     {
       "rowIndex": 90,
+      "attribute": "",
+      "avatarText": "",
       "character": "克拉肯",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -1986,6 +2146,8 @@
     },
     {
       "rowIndex": 91,
+      "attribute": "",
+      "avatarText": "",
       "character": "蝰蛇",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -2011,6 +2173,8 @@
     },
     {
       "rowIndex": 92,
+      "attribute": "",
+      "avatarText": "",
       "character": "希尔芙",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -2033,6 +2197,8 @@
     },
     {
       "rowIndex": 93,
+      "attribute": "",
+      "avatarText": "",
       "character": "寻愿 / 多乐丝",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -2056,6 +2222,8 @@
     },
     {
       "rowIndex": 94,
+      "attribute": "",
+      "avatarText": "",
       "character": "千明",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -2079,6 +2247,8 @@
     },
     {
       "rowIndex": 95,
+      "attribute": "",
+      "avatarText": "",
       "character": "阿凛",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -2100,6 +2270,8 @@
     },
     {
       "rowIndex": 96,
+      "attribute": "",
+      "avatarText": "",
       "character": "杜兰铎",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -2121,6 +2293,8 @@
     },
     {
       "rowIndex": 97,
+      "attribute": "",
+      "avatarText": "",
       "character": "杜兰铎 / 源质觉醒",
       "rarity": "⭐⭐\n⭐\n⭐",
       "rarityStars": 4,
@@ -2146,6 +2320,8 @@
     },
     {
       "rowIndex": 98,
+      "attribute": "",
+      "avatarText": "",
       "character": "方格斯",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -2168,6 +2344,8 @@
     },
     {
       "rowIndex": 99,
+      "attribute": "",
+      "avatarText": "",
       "character": "黛纳",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -2191,6 +2369,8 @@
     },
     {
       "rowIndex": 100,
+      "attribute": "",
+      "avatarText": "",
       "character": "风见一宵",
       "rarity": "⭐\n⭐\n⭐",
       "rarityStars": 3,
@@ -2214,6 +2394,8 @@
     },
     {
       "rowIndex": 102,
+      "attribute": "",
+      "avatarText": "",
       "character": "恶命",
       "rarity": "⭐\n⭐",
       "rarityStars": 2,
@@ -2236,6 +2418,8 @@
     },
     {
       "rowIndex": 103,
+      "attribute": "",
+      "avatarText": "",
       "character": "41号",
       "rarity": "⭐\n⭐",
       "rarityStars": 2,
@@ -2244,6 +2428,8 @@
     },
     {
       "rowIndex": 104,
+      "attribute": "",
+      "avatarText": "",
       "character": "阿灰",
       "rarity": "⭐\n⭐",
       "rarityStars": 2,
@@ -2263,6 +2449,8 @@
     },
     {
       "rowIndex": 105,
+      "attribute": "",
+      "avatarText": "",
       "character": "安德鲁 / （坚盾）",
       "rarity": "⭐\n⭐",
       "rarityStars": 2,
@@ -2271,6 +2459,8 @@
     },
     {
       "rowIndex": 106,
+      "attribute": "",
+      "avatarText": "",
       "character": "西比尔",
       "rarity": "⭐\n⭐",
       "rarityStars": 2,
@@ -2279,6 +2469,8 @@
     },
     {
       "rowIndex": 107,
+      "attribute": "",
+      "avatarText": "",
       "character": "卡奇",
       "rarity": "⭐\n⭐",
       "rarityStars": 2,
@@ -2300,6 +2492,8 @@
     },
     {
       "rowIndex": 108,
+      "attribute": "",
+      "avatarText": "",
       "character": "安德鲁 / （突击）",
       "rarity": "⭐\n⭐",
       "rarityStars": 2,
@@ -2308,6 +2502,8 @@
     },
     {
       "rowIndex": 109,
+      "attribute": "",
+      "avatarText": "",
       "character": "万魔法典 / 攻略组",
       "rarity": "⭐\n⭐⭐⭐⭐⭐",
       "rarityStars": 6,

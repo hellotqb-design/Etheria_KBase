@@ -1,10 +1,11 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 const SOURCE_URL = "https://docs.qq.com/sheet/DSGxZd05GYmNXa0pN?tab=7ptfa0";
 const BASE_URL = "https://docs.qq.com/sheet/DSGxZd05GYmNXa0pN";
 const DEBUG_URL = process.env.CHROME_DEBUG_URL || "http://127.0.0.1:9222";
 const OUTPUT_DIR = path.resolve("02_原始抓取数据", "手工补充资料");
+const DEFAULT_RAW_FILE = path.join(OUTPUT_DIR, "tencent-yise-tier-list.raw.json");
 
 const TABS = [
   { id: "7ptfa0", name: "节奏榜" },
@@ -218,6 +219,26 @@ function countStars(value) {
   return stars || null;
 }
 
+function columnName(index) {
+  let value = index + 1;
+  let name = "";
+  while (value > 0) {
+    value -= 1;
+    name = String.fromCharCode(65 + (value % 26)) + name;
+    value = Math.floor(value / 26);
+  }
+  return name;
+}
+
+function makeUniqueHeaders(headers) {
+  const totals = new Map();
+  for (const header of headers) totals.set(header, (totals.get(header) ?? 0) + 1);
+  return headers.map((header, index) => {
+    if ((totals.get(header) ?? 0) <= 1) return header;
+    return `${header}（${columnName(index)}列）`;
+  });
+}
+
 function buildCharacterPayload(allTabExtracts, extractedAt) {
   const tierSheetEntry = allTabExtracts.find((entry) => entry.active?.name === "节奏榜") ?? allTabExtracts[0];
   const tierRows = tierSheetEntry.active.rows ?? [];
@@ -233,6 +254,7 @@ function buildCharacterPayload(allTabExtracts, extractedAt) {
     else if (currentGroup && sub && currentGroup !== sub) headers[col] = `${currentGroup} - ${sub}`;
     else headers[col] = currentGroup || sub || `列${col + 1}`;
   }
+  const uniqueHeaders = makeUniqueHeaders(headers);
 
   const characters = tierRows.map((row, rowIndex) => {
     const name = oneLine(row[2]);
@@ -246,12 +268,14 @@ function buildCharacterPayload(allTabExtracts, extractedAt) {
     for (let col = 4; col < Math.max(row.length, headers.length); col += 1) {
       const value = cleanCell(row[col]);
       if (!value) continue;
-      const key = headers[col] || `列${col + 1}`;
+      const key = uniqueHeaders[col] || `列${col + 1}`;
       if (/^T\d/i.test(oneLine(value))) scores[key] = value;
       else details[key] = value;
     }
     return {
       rowIndex: rowIndex + 1,
+      attribute: oneLine(row[0]),
+      avatarText: oneLine(row[1]),
       character: name,
       rarity: rarityText,
       rarityStars: countStars(rarityText),
@@ -266,7 +290,7 @@ function buildCharacterPayload(allTabExtracts, extractedAt) {
     sourceUrl: SOURCE_URL,
     extractedAt,
     sheet: "节奏榜",
-    columns: headers,
+    columns: uniqueHeaders,
     characterCount: characters.length,
     characters,
   };
@@ -307,6 +331,106 @@ function characterSummaryLine(item) {
   return `| ${item.character} | ${item.rarityStars ?? ""} | ${scoreText || "无明确 T 评分"}${detailText} |`;
 }
 
+function stripPrefix(key, prefix) {
+  return key.startsWith(prefix) ? key.slice(prefix.length) : key;
+}
+
+function findEntry(object, key) {
+  return Object.entries(object).find(([entryKey]) => entryKey === key)?.[1] ?? "";
+}
+
+function entriesWithPrefix(object, prefix) {
+  return Object.entries(object)
+    .filter(([key]) => key.startsWith(prefix))
+    .map(([key, value]) => [stripPrefix(key, prefix), value]);
+}
+
+function pushField(lines, label, value) {
+  const text = cleanCell(value);
+  if (!text) return;
+  if (text.includes("\n")) {
+    lines.push(`- ${label}：`);
+    lines.push("");
+    lines.push("```text");
+    lines.push(text);
+    lines.push("```");
+  } else {
+    lines.push(`- ${label}：${text}`);
+  }
+}
+
+function characterDetailBlock(item) {
+  const lines = [];
+  lines.push(`### ${item.character}`);
+  lines.push("");
+  lines.push(`- 原表行号：${item.rowIndex}`);
+  if (item.attribute) lines.push(`- 属性：${item.attribute}`);
+  if (item.rarityStars) lines.push(`- 稀有度：${item.rarityStars} 星`);
+  else if (oneLine(item.rarity)) lines.push(`- 稀有度：${oneLine(item.rarity)}`);
+  lines.push("");
+
+  const pveScores = entriesWithPrefix(item.scores, "PVE强度评分 - ");
+  if (pveScores.length) {
+    lines.push("#### PVE 强度评分");
+    lines.push("");
+    for (const [scene, value] of pveScores) lines.push(`- ${scene}：${oneLine(value)}`);
+    lines.push("");
+  }
+
+  const pvpScore = findEntry(item.scores, "PVP综合分析 - PVP / 强度");
+  const pvpDetails = entriesWithPrefix(item.details, "PVP综合分析 - ");
+  if (pvpScore || pvpDetails.length) {
+    lines.push("#### PVP 综合分析");
+    lines.push("");
+    if (pvpScore) lines.push(`- PVP 强度：${oneLine(pvpScore)}`);
+    for (const [field, value] of pvpDetails) pushField(lines, field, value);
+    lines.push("");
+  }
+
+  const knownDetailFields = [
+    "推荐矩阵",
+    "右三 / 主词条",
+    "智壳推荐",
+    "智壳词条",
+    "战术刻影",
+    "刻影元件 / （施工中）",
+    "技能加点",
+    "备注",
+    "视频 / 链接",
+    "推荐 / 面板",
+  ];
+  const hasKnownDetails = knownDetailFields.some((field) => cleanCell(item.details[field]));
+  if (hasKnownDetails) {
+    lines.push("#### 配装与养成字段");
+    lines.push("");
+    for (const field of knownDetailFields) pushField(lines, field, item.details[field]);
+    lines.push("");
+  }
+
+  const externalLinks = Object.entries(item.details).filter(([key]) => key.startsWith("各主播/选手"));
+  if (externalLinks.length) {
+    lines.push("#### 外部配置链接");
+    lines.push("");
+    for (const [field, value] of externalLinks) pushField(lines, field, value);
+    lines.push("");
+  }
+
+  const emitted = new Set([
+    ...pvpDetails.map(([field]) => `PVP综合分析 - ${field}`),
+    ...knownDetailFields,
+    ...externalLinks.map(([field]) => field),
+  ]);
+  const otherDetails = Object.entries(item.details).filter(([key]) => !emitted.has(key));
+  if (otherDetails.length) {
+    lines.push("#### 其他字段");
+    lines.push("");
+    for (const [field, value] of otherDetails) pushField(lines, field, value);
+    lines.push("");
+  }
+
+  return lines.join("\n");
+}
+
 function buildMarkdown(allTabExtracts, charactersPayload, extractedAt) {
   const lines = [];
   lines.push("# 伊瑟 国服角色节奏榜");
@@ -318,6 +442,14 @@ function buildMarkdown(allTabExtracts, charactersPayload, extractedAt) {
   lines.push(`- 抓取时间：${extractedAt}`);
   lines.push("- 归档说明：本文件用于补充角色强度、PVE/PVP 场景评分、推荐矩阵、智壳、右三主词条、刻影元件、技能加点和备注等知识库信息。");
   lines.push("- 注意：节奏榜是社区制作资料，会随版本变化；使用时应结合更新时间和后续更新日志判断有效性。");
+  lines.push("");
+  lines.push("## 字段说明");
+  lines.push("");
+  lines.push("- 角色字段来自“节奏榜”子表的两行表头合并结果。");
+  lines.push("- PVE 强度评分按副本/场景拆分，包括重构兵祸、多琪、奥洛拉、妮可娜娜、莎朗、猎焰赫妍、炼狱津、柯洛罗、刺血大公、维斯佩拉、高难。");
+  lines.push("- PVP 综合分析拆成 PVP 强度、专项能力、克制关系。");
+  lines.push("- 配装与养成字段包括推荐矩阵、右三主词条、智壳推荐、智壳词条、战术刻影、刻影元件、技能加点、备注、视频链接、推荐面板和外部配置链接。");
+  lines.push("- 空字段不会在逐角色档案中展开；需要核对原始排版时再看“工作表原文”。");
   lines.push("");
   lines.push("## 子表索引");
   lines.push("");
@@ -337,6 +469,14 @@ function buildMarkdown(allTabExtracts, charactersPayload, extractedAt) {
   lines.push("| --- | ---: | --- |");
   for (const item of charactersPayload.characters) lines.push(characterSummaryLine(item));
   lines.push("");
+  lines.push("## 逐角色字段化档案");
+  lines.push("");
+  lines.push("以下内容是给 AI/agent 优先读取的版本：每个值都带字段名，不依赖 TSV 列位置推断。");
+  lines.push("");
+  for (const item of charactersPayload.characters) {
+    lines.push(characterDetailBlock(item));
+    lines.push("");
+  }
   lines.push("## 工作表原文");
   lines.push("");
   for (const entry of allTabExtracts) {
@@ -347,18 +487,36 @@ function buildMarkdown(allTabExtracts, charactersPayload, extractedAt) {
 }
 
 async function main() {
-  const target = await findOrCreateTarget();
-  const client = await connect(target);
+  const fromRawIndex = process.argv.indexOf("--from-raw");
+  const rawFile = fromRawIndex >= 0 ? path.resolve(process.argv[fromRawIndex + 1] || DEFAULT_RAW_FILE) : "";
+  const target = rawFile ? null : await findOrCreateTarget();
+  const client = target ? await connect(target) : null;
   try {
-    await client.send("Runtime.enable");
-    await client.send("Page.enable");
     const extractedAt = new Date().toISOString();
-    const allTabExtracts = await extractTabs(client);
+    let allTabExtracts;
+    let previousRawPayload = null;
+    if (rawFile) {
+      previousRawPayload = JSON.parse(await readFile(rawFile, "utf8"));
+      allTabExtracts = previousRawPayload.tabs.map((entry) => ({
+        tab: entry.tab,
+        active: entry.sheet,
+        title: entry.title,
+        updatedAt: entry.updatedAt,
+        sourceUrl: entry.sourceUrl,
+        shortLink: entry.shortLink,
+        watermark: entry.watermark,
+        globalPadId: entry.globalPadId,
+      }));
+    } else {
+      await client.send("Runtime.enable");
+      await client.send("Page.enable");
+      allTabExtracts = await extractTabs(client);
+    }
     const rawPayload = {
       title: "伊瑟 国服节奏榜",
       source: "腾讯文档",
       sourceUrl: SOURCE_URL,
-      extractedAt,
+      extractedAt: previousRawPayload?.extractedAt || extractedAt,
       note: "由公开可读的腾讯文档工作表抓取并归档；保留每个子表的文本单元格内容，图片型页面只记录可读文本。",
       tabs: allTabExtracts.map((entry) => ({
         tab: entry.tab,
@@ -371,8 +529,8 @@ async function main() {
         sheet: entry.active,
       })),
     };
-    const charactersPayload = buildCharacterPayload(allTabExtracts, extractedAt);
-    const markdown = buildMarkdown(allTabExtracts, charactersPayload, extractedAt);
+    const charactersPayload = buildCharacterPayload(allTabExtracts, rawPayload.extractedAt);
+    const markdown = buildMarkdown(allTabExtracts, charactersPayload, rawPayload.extractedAt);
 
     await mkdir(OUTPUT_DIR, { recursive: true });
     await writeFile(path.join(OUTPUT_DIR, "tencent-yise-tier-list.raw.json"), JSON.stringify(rawPayload, null, 2), "utf8");
@@ -383,6 +541,7 @@ async function main() {
       outputDir: OUTPUT_DIR,
       tabs: allTabExtracts.length,
       characters: charactersPayload.characterCount,
+      source: rawFile ? rawFile : DEBUG_URL,
       files: [
         "tencent-yise-tier-list.raw.json",
         "tencent-yise-tier-list.characters.json",
@@ -390,7 +549,7 @@ async function main() {
       ],
     }, null, 2));
   } finally {
-    client.close();
+    client?.close();
   }
 }
 
