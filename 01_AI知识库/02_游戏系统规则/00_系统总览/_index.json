@@ -1,0 +1,11 @@
+[
+  {
+    "id": "local-game-systems",
+    "title": "游戏系统",
+    "kind": "system_rule",
+    "markdown": "02_游戏系统规则/00_系统总览/local-game-systems_游戏系统.md",
+    "metadata": "02_游戏系统规则/00_系统总览/local-game-systems_游戏系统.json",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-15T05:57:27.604Z"
+  }
+]

@@ -7,12 +7,14 @@
     "zhike": "官方智壳图鉴实体，包含属性、技能、可出现矩阵。",
     "system_rule": "游戏系统规则、机制说明，优先承载养成、PVP、副本、战斗机制。",
     "guide": "攻略和经验内容，可作为规则之外的参考。",
+    "terminology": "标准术语、英文对照、玩家黑话与社区简称，适合术语解释和口语理解。",
     "cleanup_candidate": "疑似旧条目、重复页、测试页或暂未可靠归类的资料。"
   },
   "recommendedRetrievalOrder": [
     "回答角色/技能问题时优先查 character 与 character_skill。",
     "回答源器/矩阵问题时优先查 yuanqi。",
     "回答智壳问题时优先查 zhike。",
+    "回答术语、英文名、玩家黑话或简称时优先查 terminology。",
     "回答玩法规则时优先查 system_rule，再查 guide。",
     "cleanup_candidate 只在正式知识区没有答案时作为低置信参考。"
   ]

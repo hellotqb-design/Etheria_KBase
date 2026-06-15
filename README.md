@@ -5,7 +5,7 @@
 ## 目录结构
 
 - `01_AI知识库/`: 最终给 AI 使用的清洗版知识库。
-- `02_原始抓取数据/`: 从 GameKee 抓取下来的原始页面、索引和 API 响应。
+- `02_原始抓取数据/`: 从 GameKee 抓取下来的原始页面、索引和 API 响应，也包含 `手工补充资料/`。
 - `tools/`: 爬取、结构化、清洗脚本。
 
 ## 推荐入口
@@ -19,6 +19,7 @@
 - `01_AI知识库/entities.zhike.jsonl`: 智壳实体。
 - `01_AI知识库/rules.system.jsonl`: 游戏系统规则。
 - `01_AI知识库/guides.reference.jsonl`: 攻略参考。
+- `01_AI知识库/terminology.reference.jsonl`: 标准术语、英文对照和玩家黑话。
 
 ## 重新构建
 
@@ -37,6 +38,6 @@ node .\tools\build-yise-kb.mjs
 node .\tools\build-yise-ai-kb.mjs
 ```
 
-`01_AI知识库` 会被构建脚本重建；手动补充的规则建议先放在单独文件里，再纳入脚本流程。
+`01_AI知识库` 会被构建脚本重建；手动补充的文档放在 `02_原始抓取数据/手工补充资料/` 后，会由 `build-yise-ai-kb.mjs` 纳入正式分类。
 
 运行 `build-yise-kb.mjs` 时会临时生成 `03_构建缓存/`，它只是中间产物；确认 `01_AI知识库/` 已重建后可以删除。

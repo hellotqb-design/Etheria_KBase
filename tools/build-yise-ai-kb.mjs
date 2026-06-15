@@ -1,4 +1,4 @@
-import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
+import { mkdir, readFile, readdir, rm, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 const DEFAULT_CONFIG = {
@@ -7,6 +7,43 @@ const DEFAULT_CONFIG = {
   outputDir: "01_AI知识库",
   outputSubdir: "",
 };
+
+const MANUAL_SUPPLEMENTS = [
+  {
+    file: "game-systems.md",
+    id: "local-game-systems",
+    title: "游戏系统",
+    kind: "system_rule",
+    parts: ["02_游戏系统规则", "00_系统总览"],
+    reason: "手工补充的游戏系统规则、养成结构和玩法框架",
+  },
+  {
+    file: "dungeon-guides.md",
+    id: "local-dungeon-guides",
+    title: "副本攻略",
+    kind: "guide",
+    parts: ["03_攻略参考", "03_副本攻略"],
+    reason: "手工补充的 PvE 副本机制、配队思路和开荒建议",
+  },
+  {
+    file: "terminology.md",
+    id: "local-terminology",
+    title: "术语表",
+    kind: "terminology",
+    subtype: "standard_terminology",
+    parts: ["05_术语与社区语言", "01_标准术语"],
+    reason: "手工补充的官方/标准术语对照资料",
+  },
+  {
+    file: "community-slang.md",
+    id: "local-community-slang",
+    title: "玩家黑话与简称",
+    kind: "terminology",
+    subtype: "community_slang",
+    parts: ["05_术语与社区语言", "02_玩家黑话"],
+    reason: "手工补充的玩家社区黑话、简称和口语化说法",
+  },
+];
 
 function parseArgs(argv) {
   const config = { ...DEFAULT_CONFIG };
@@ -518,6 +555,90 @@ function supportUnit(page, classification) {
   });
 }
 
+function normalizeManualMarkdown(text) {
+  return String(text ?? "")
+    .replace(/\r/g, "")
+    .replace(/\uFEFF/g, "")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n## 查询脚本[\s\S]*?(?=\n## |$)/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim()
+    .replace(/\]\([^)]*\/etheria\/([^)]*)\)/g, "]($1)")
+    .replace(/\]\([^)]*\/(community-slang\.md|dungeon-guides\.md|game-systems\.md|terminology\.md|activity-guides\.md|translation-index\.json)\)/g, "]($1)");
+}
+
+async function loadManualSupplements(archiveDir) {
+  const manualDir = path.join(archiveDir, "手工补充资料");
+  try {
+    await readdir(manualDir);
+  } catch (error) {
+    if (error.code === "ENOENT") return [];
+    throw error;
+  }
+
+  const supplements = [];
+  for (const config of MANUAL_SUPPLEMENTS) {
+    const file = path.join(manualDir, config.file);
+    try {
+      const [text, fileStat] = await Promise.all([
+        readFile(file, "utf8"),
+        stat(file),
+      ]);
+      supplements.push({
+        ...config,
+        fullText: normalizeManualMarkdown(text),
+        updatedAt: fileStat.mtime.toISOString(),
+        sourceFile: rel(archiveDir, file),
+      });
+    } catch (error) {
+      if (error.code === "ENOENT") continue;
+      throw error;
+    }
+  }
+  return supplements;
+}
+
+function manualMarkdown(entity) {
+  return [
+    `# ${entity.title}`,
+    "",
+    "## AI整理信息",
+    "",
+    `- 知识类型：${entity.kind}`,
+    entity.subtype ? `- 资料子类：${entity.subtype}` : "",
+    `- 整理目录：${entity.parts.join(" / ")}`,
+    `- 归类原因：${entity.reason}`,
+    `- 原始来源：${entity.sourceFile}`,
+    `- 更新时间：${entity.updatedAt}`,
+    "",
+    "## 正文",
+    "",
+    entity.fullText,
+  ].filter(Boolean).join("\n").trim() + "\n";
+}
+
+function manualUnit(entity) {
+  return compactObject({
+    id: entity.id,
+    kind: entity.kind,
+    subtype: entity.subtype,
+    title: entity.title,
+    domainPath: entity.parts,
+    classifyReason: entity.reason,
+    originalCategory: "手工补充资料",
+    text: [entity.title, entity.fullText].filter(Boolean).join("\n\n"),
+    source: {
+      type: "local_manual",
+      title: entity.title,
+      url: "",
+      updatedAt: entity.updatedAt,
+      sourceFiles: {
+        markdown: entity.sourceFile,
+      },
+    },
+  });
+}
+
 async function resetOutput(archiveDir, outputDir) {
   const resolvedWorkspace = path.resolve(process.cwd());
   const resolvedOutput = path.resolve(outputDir);
@@ -624,12 +745,14 @@ function ontology() {
       zhike: "官方智壳图鉴实体，包含属性、技能、可出现矩阵。",
       system_rule: "游戏系统规则、机制说明，优先承载养成、PVP、副本、战斗机制。",
       guide: "攻略和经验内容，可作为规则之外的参考。",
+      terminology: "标准术语、英文对照、玩家黑话与社区简称，适合术语解释和口语理解。",
       cleanup_candidate: "疑似旧条目、重复页、测试页或暂未可靠归类的资料。",
     },
     recommendedRetrievalOrder: [
       "回答角色/技能问题时优先查 character 与 character_skill。",
       "回答源器/矩阵问题时优先查 yuanqi。",
       "回答智壳问题时优先查 zhike。",
+      "回答术语、英文名、玩家黑话或简称时优先查 terminology。",
       "回答玩法规则时优先查 system_rule，再查 guide。",
       "cleanup_candidate 只在正式知识区没有答案时作为低置信参考。",
     ],
@@ -643,11 +766,12 @@ async function main() {
   const outputDir = path.resolve(config.outputSubdir ? path.join(archiveDir, config.outputSubdir) : config.outputDir);
   await resetOutput(archiveDir, outputDir);
 
-  const [pages, rolesRaw, yuanqiRaw, zhikeRaw] = await Promise.all([
+  const [pages, rolesRaw, yuanqiRaw, zhikeRaw, manualSupplements] = await Promise.all([
     readJson(path.join(kbDir, "pages.json")),
     readJson(path.join(kbDir, "roles.json")),
     readJson(path.join(kbDir, "yuanqi.json")),
     readJson(path.join(kbDir, "zhike.json")),
+    loadManualSupplements(archiveDir),
   ]);
 
   const officialEntityIds = new Set([
@@ -660,6 +784,7 @@ async function main() {
   const skillUnits = [];
   const ruleUnits = [];
   const guideUnits = [];
+  const terminologyUnits = [];
   const cleanupUnits = [];
 
   const roles = rolesRaw.map(normalizeRole);
@@ -743,6 +868,16 @@ async function main() {
     else if (unit.kind === "cleanup_candidate") cleanupUnits.push(unit);
   }
 
+  for (const manual of manualSupplements) {
+    const unit = manualUnit(manual);
+    const stem = `${manual.id}_${safePathName(manual.title)}`;
+    await writeUnitFiles(outputDir, indexes, manual.parts, stem, manualMarkdown(manual), unit);
+    allUnits.push(unit);
+    if (unit.kind === "system_rule") ruleUnits.push(unit);
+    else if (unit.kind === "guide") guideUnits.push(unit);
+    else if (unit.kind === "terminology") terminologyUnits.push(unit);
+  }
+
   await writeDirectoryIndexes(outputDir, indexes);
   await writeRuleTemplates(outputDir);
 
@@ -757,6 +892,7 @@ async function main() {
       zhike: zhike.length,
       systemRules: ruleUnits.length,
       guides: guideUnits.length,
+      terminology: terminologyUnits.length,
       cleanupCandidates: cleanupUnits.length,
       totalUnits: allUnits.length,
     },
@@ -765,6 +901,7 @@ async function main() {
       游戏系统规则: "02_游戏系统规则",
       攻略参考: "03_攻略参考",
       公告活动资料: "04_公告活动资料",
+      术语与社区语言: "05_术语与社区语言",
       待清洗: "99_待清洗",
     },
   };
@@ -778,6 +915,7 @@ async function main() {
   await writeJsonl(path.join(outputDir, "entities.zhike.jsonl"), zhike);
   await writeJsonl(path.join(outputDir, "rules.system.jsonl"), ruleUnits);
   await writeJsonl(path.join(outputDir, "guides.reference.jsonl"), guideUnits);
+  await writeJsonl(path.join(outputDir, "terminology.reference.jsonl"), terminologyUnits);
   await writeJsonl(path.join(outputDir, "cleanup_candidates.jsonl"), cleanupUnits);
 
   await writeFile(
@@ -796,6 +934,7 @@ async function main() {
       "- `01_图鉴资料/04_智壳`: 官方智壳图鉴，按稀有度分组。",
       "- `02_游戏系统规则`: 养成、PVP、副本、战斗机制等规则知识。当前从已有页面抽取，后续可按模板补充游戏内规则。",
       "- `03_攻略参考`: 攻略、推荐、评测等经验内容。",
+      "- `05_术语与社区语言`: 标准术语、英文对照、玩家黑话、社区简称。",
       "- `99_待清洗`: 旧图鉴、重复页、测试页、低置信归类内容。",
       "",
       "## 机器读取文件",
@@ -807,6 +946,7 @@ async function main() {
       "- `entities.zhike.jsonl`: 智壳实体。",
       "- `rules.system.jsonl`: 系统规则与机制。",
       "- `guides.reference.jsonl`: 攻略参考。",
+      "- `terminology.reference.jsonl`: 术语、英文对照与社区黑话。",
       "- `cleanup_candidates.jsonl`: 待人工确认资料。",
       "",
       "## 统计",
@@ -817,6 +957,7 @@ async function main() {
       `- 智壳：${zhike.length}`,
       `- 系统规则/机制页：${ruleUnits.length}`,
       `- 攻略参考页：${guideUnits.length}`,
+      `- 术语与社区语言：${terminologyUnits.length}`,
       `- 待清洗页：${cleanupUnits.length}`,
       "",
     ].join("\n"),
@@ -834,12 +975,13 @@ async function main() {
       "- 角色技能已从角色实体中拆成独立检索单元。",
       "- 非官方图鉴残留、测试页、旧条目进入 `99_待清洗`，避免污染正式实体知识。",
       "- 系统规则目录已建立，并提供养成、PVP、副本、战斗机制的补充模板。",
+      "- `手工补充资料` 会进入正式知识区：系统总览、副本攻略、标准术语、玩家黑话均保留原文与元数据。",
       "",
       "## 后续建议",
       "",
       "- 从游戏内或权威资料补充 `02_游戏系统规则`，尤其是养成消耗、PVP赛制、副本重置/掉落/难度规则。",
       "- 对 `99_待清洗` 逐条确认：旧角色是否废弃、重复源器是否合并、攻略是否转入参考区。",
-      "- 构建 RAG 时建议给 `character`、`character_skill`、`yuanqi`、`zhike`、`system_rule` 设置高权重，`guide` 中权重，`cleanup_candidate` 低权重。",
+      "- 构建 RAG 时建议给 `character`、`character_skill`、`yuanqi`、`zhike`、`system_rule`、`terminology` 设置高权重，`guide` 中权重，`cleanup_candidate` 低权重。",
       "",
     ].join("\n"),
     "utf8"

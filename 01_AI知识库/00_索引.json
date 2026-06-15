@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T06:12:25.583Z",
+  "generatedAt": "2026-06-15T06:21:16.873Z",
   "archiveDir": "C:\\Users\\XD\\Documents\\Gamekee\\02_原始抓取数据",
   "outputDir": "C:\\Users\\XD\\Documents\\Gamekee\\01_AI知识库",
   "counts": {
@@ -7,16 +7,18 @@
     "characterSkills": 286,
     "yuanqi": 21,
     "zhike": 43,
-    "systemRules": 11,
-    "guides": 94,
+    "systemRules": 12,
+    "guides": 95,
+    "terminology": 2,
     "cleanupCandidates": 18,
-    "totalUnits": 587
+    "totalUnits": 591
   },
   "directories": {
     "图鉴资料": "01_图鉴资料",
     "游戏系统规则": "02_游戏系统规则",
     "攻略参考": "03_攻略参考",
     "公告活动资料": "04_公告活动资料",
+    "术语与社区语言": "05_术语与社区语言",
     "待清洗": "99_待清洗"
   }
 }
