@@ -10,6 +10,15 @@ const DEFAULT_CONFIG = {
 
 const MANUAL_SUPPLEMENTS = [
   {
+    file: "etheria-worldview.md",
+    id: "local-etheria-worldview",
+    title: "伊瑟世界观",
+    kind: "lore",
+    subtype: "worldview",
+    parts: ["06_世界观设定", "00_世界观总览"],
+    reason: "手工补充的伊瑟世界观、年表、阵营势力和核心设定资料",
+  },
+  {
     file: "game-systems.md",
     id: "local-game-systems",
     title: "游戏系统",
@@ -573,7 +582,7 @@ function normalizeManualMarkdown(text) {
     .replace(/\n{3,}/g, "\n\n")
     .trim()
     .replace(/\]\([^)]*\/etheria\/([^)]*)\)/g, "]($1)")
-    .replace(/\]\([^)]*\/(community-slang\.md|dungeon-guides\.md|game-systems\.md|terminology\.md|activity-guides\.md|translation-index\.json)\)/g, "]($1)");
+    .replace(/\]\([^)]*\/(community-slang\.md|dungeon-guides\.md|etheria-worldview\.md|game-systems\.md|terminology\.md|activity-guides\.md|translation-index\.json)\)/g, "]($1)");
 }
 
 async function loadManualSupplements(archiveDir) {
@@ -746,7 +755,7 @@ async function writeRuleTemplates(outputDir) {
 
 function ontology() {
   return {
-    purpose: "让 AI 理解《伊瑟》的角色、技能、源器、智壳，以及养成、PVP、副本、战斗等系统规则。",
+    purpose: "让 AI 理解《伊瑟》的角色、技能、源器、智壳、世界观设定，以及养成、PVP、副本、战斗等系统规则。",
     entityTypes: {
       character: "官方角色图鉴实体，包含基础档案、属性、技能、推荐、档案关系。",
       character_skill: "角色技能知识单元，挂靠角色，适合单独检索技能效果。",
@@ -755,12 +764,14 @@ function ontology() {
       system_rule: "游戏系统规则、机制说明，优先承载养成、PVP、副本、战斗机制。",
       guide: "攻略和经验内容，可作为规则之外的参考。",
       terminology: "标准术语、英文对照、玩家黑话与社区简称，适合术语解释和口语理解。",
+      lore: "世界观、年表、阵营势力、关键人物和叙事设定，适合回答剧情背景与设定关系。",
       cleanup_candidate: "疑似旧条目、重复页、测试页或暂未可靠归类的资料。",
     },
     recommendedRetrievalOrder: [
       "回答角色/技能问题时优先查 character 与 character_skill。",
       "回答源器/矩阵问题时优先查 yuanqi。",
       "回答智壳问题时优先查 zhike。",
+      "回答世界观、剧情背景、阵营势力、关键人物关系时优先查 lore。",
       "回答术语、英文名、玩家黑话或简称时优先查 terminology。",
       "回答玩法规则时优先查 system_rule，再查 guide。",
       "cleanup_candidate 只在正式知识区没有答案时作为低置信参考。",
@@ -794,6 +805,7 @@ async function main() {
   const ruleUnits = [];
   const guideUnits = [];
   const terminologyUnits = [];
+  const loreUnits = [];
   const cleanupUnits = [];
 
   const roles = rolesRaw.map(normalizeRole);
@@ -885,6 +897,7 @@ async function main() {
     if (unit.kind === "system_rule") ruleUnits.push(unit);
     else if (unit.kind === "guide") guideUnits.push(unit);
     else if (unit.kind === "terminology") terminologyUnits.push(unit);
+    else if (unit.kind === "lore") loreUnits.push(unit);
   }
 
   await writeDirectoryIndexes(outputDir, indexes);
@@ -902,6 +915,7 @@ async function main() {
       systemRules: ruleUnits.length,
       guides: guideUnits.length,
       terminology: terminologyUnits.length,
+      lore: loreUnits.length,
       cleanupCandidates: cleanupUnits.length,
       totalUnits: allUnits.length,
     },
@@ -911,6 +925,7 @@ async function main() {
       攻略参考: "03_攻略参考",
       公告活动资料: "04_公告活动资料",
       术语与社区语言: "05_术语与社区语言",
+      世界观设定: "06_世界观设定",
       待清洗: "99_待清洗",
     },
   };
@@ -925,6 +940,7 @@ async function main() {
   await writeJsonl(path.join(outputDir, "rules.system.jsonl"), ruleUnits);
   await writeJsonl(path.join(outputDir, "guides.reference.jsonl"), guideUnits);
   await writeJsonl(path.join(outputDir, "terminology.reference.jsonl"), terminologyUnits);
+  await writeJsonl(path.join(outputDir, "lore.reference.jsonl"), loreUnits);
   await writeJsonl(path.join(outputDir, "cleanup_candidates.jsonl"), cleanupUnits);
 
   await writeFile(
@@ -944,6 +960,7 @@ async function main() {
       "- `02_游戏系统规则`: 养成、PVP、副本、战斗机制等规则知识。当前从已有页面抽取，后续可按模板补充游戏内规则。",
       "- `03_攻略参考`: 攻略、推荐、评测等经验内容。",
       "- `05_术语与社区语言`: 标准术语、英文对照、玩家黑话、社区简称。",
+      "- `06_世界观设定`: 世界观、年表、阵营势力、关键概念等叙事设定资料。",
       "- `99_待清洗`: 旧图鉴、重复页、测试页、低置信归类内容。",
       "",
       "## 机器读取文件",
@@ -956,6 +973,7 @@ async function main() {
       "- `rules.system.jsonl`: 系统规则与机制。",
       "- `guides.reference.jsonl`: 攻略参考。",
       "- `terminology.reference.jsonl`: 术语、英文对照与社区黑话。",
+      "- `lore.reference.jsonl`: 世界观、年表、阵营势力与叙事设定。",
       "- `cleanup_candidates.jsonl`: 待人工确认资料。",
       "",
       "## 统计",
@@ -967,6 +985,7 @@ async function main() {
       `- 系统规则/机制页：${ruleUnits.length}`,
       `- 攻略参考页：${guideUnits.length}`,
       `- 术语与社区语言：${terminologyUnits.length}`,
+      `- 世界观设定：${loreUnits.length}`,
       `- 待清洗页：${cleanupUnits.length}`,
       "",
     ].join("\n"),
@@ -984,13 +1003,13 @@ async function main() {
       "- 角色技能已从角色实体中拆成独立检索单元。",
       "- 非官方图鉴残留、测试页、旧条目进入 `99_待清洗`，避免污染正式实体知识。",
       "- 系统规则目录已建立，并提供养成、PVP、副本、战斗机制的补充模板。",
-      "- `手工补充资料` 会进入正式知识区：系统总览、副本攻略、标准术语、玩家黑话均保留原文与元数据。",
+      "- `手工补充资料` 会进入正式知识区：世界观设定、系统总览、副本攻略、标准术语、玩家黑话均保留原文与元数据。",
       "",
       "## 后续建议",
       "",
       "- 从游戏内或权威资料补充 `02_游戏系统规则`，尤其是养成消耗、PVP赛制、副本重置/掉落/难度规则。",
       "- 对 `99_待清洗` 逐条确认：旧角色是否废弃、重复源器是否合并、攻略是否转入参考区。",
-      "- 构建 RAG 时建议给 `character`、`character_skill`、`yuanqi`、`zhike`、`system_rule`、`terminology` 设置高权重，`guide` 中权重，`cleanup_candidate` 低权重。",
+      "- 构建 RAG 时建议给 `character`、`character_skill`、`yuanqi`、`zhike`、`system_rule`、`terminology`、`lore` 设置高权重，`guide` 中权重，`cleanup_candidate` 低权重。",
       "",
     ].join("\n"),
     "utf8"

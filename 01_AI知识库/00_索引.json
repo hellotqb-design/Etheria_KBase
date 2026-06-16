@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T11:16:47.220Z",
+  "generatedAt": "2026-06-16T03:25:23.425Z",
   "archiveDir": "C:\\Users\\XD\\Documents\\Gamekee\\02_原始抓取数据",
   "outputDir": "C:\\Users\\XD\\Documents\\Gamekee\\01_AI知识库",
   "counts": {
@@ -10,8 +10,9 @@
     "systemRules": 12,
     "guides": 96,
     "terminology": 2,
+    "lore": 1,
     "cleanupCandidates": 18,
-    "totalUnits": 592
+    "totalUnits": 593
   },
   "directories": {
     "图鉴资料": "01_图鉴资料",
@@ -19,6 +20,7 @@
     "攻略参考": "03_攻略参考",
     "公告活动资料": "04_公告活动资料",
     "术语与社区语言": "05_术语与社区语言",
+    "世界观设定": "06_世界观设定",
     "待清洗": "99_待清洗"
   }
 }
