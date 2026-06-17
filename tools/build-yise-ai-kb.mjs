@@ -27,6 +27,33 @@ const MANUAL_SUPPLEMENTS = [
     reason: "手工补充的游戏系统规则、养成结构和玩法框架",
   },
   {
+    file: "boss-zhike-赫尔基德-地狱.md",
+    id: "local-boss-zhike-heerjide-diyu",
+    title: "刺血大公·赫尔基德（地狱）",
+    kind: "system_rule",
+    subtype: "zhike_boss_mechanics",
+    parts: ["02_游戏系统规则", "03_副本规则", "01_智壳副本"],
+    reason: "手工补充的凶影追缉智壳副本赫尔基德地狱难度 Boss 机制、技能与配装建议",
+  },
+  {
+    file: "boss-zhike-赫尔基德-炼狱.md",
+    id: "local-boss-zhike-heerjide-lianyu",
+    title: "刺血大公·赫尔基德（炼狱）",
+    kind: "system_rule",
+    subtype: "zhike_boss_mechanics",
+    parts: ["02_游戏系统规则", "03_副本规则", "01_智壳副本"],
+    reason: "手工补充的凶影追缉智壳副本赫尔基德炼狱难度 Boss 机制、技能与配装建议",
+  },
+  {
+    file: "boss-zhike-赫尔基德-修罗.md",
+    id: "local-boss-zhike-heerjide-shura",
+    title: "刺血大公·赫尔基德（修罗）",
+    kind: "system_rule",
+    subtype: "zhike_boss_mechanics",
+    parts: ["02_游戏系统规则", "03_副本规则", "01_智壳副本"],
+    reason: "手工补充的凶影追缉智壳副本赫尔基德修罗难度 Boss 机制、技能与配装建议",
+  },
+  {
     file: "dungeon-guides.md",
     id: "local-dungeon-guides",
     title: "副本攻略",
@@ -582,7 +609,7 @@ function normalizeManualMarkdown(text) {
     .replace(/\n{3,}/g, "\n\n")
     .trim()
     .replace(/\]\([^)]*\/etheria\/([^)]*)\)/g, "]($1)")
-    .replace(/\]\([^)]*\/(community-slang\.md|dungeon-guides\.md|etheria-worldview\.md|game-systems\.md|terminology\.md|activity-guides\.md|translation-index\.json)\)/g, "]($1)");
+    .replace(/\]\([^)]*\/(boss-zhike-[^)]+\.md|community-slang\.md|dungeon-guides\.md|etheria-worldview\.md|game-systems\.md|terminology\.md|activity-guides\.md|translation-index\.json)\)/g, "]($1)");
 }
 
 async function loadManualSupplements(archiveDir) {
@@ -958,6 +985,7 @@ async function main() {
       "  - 源器实体里的 `setPoints` 是套装生效点数，`setPointEffects` 是每个点数档位对应的矩阵效果。",
       "- `01_图鉴资料/04_智壳`: 官方智壳图鉴，按稀有度分组。",
       "- `02_游戏系统规则`: 养成、PVP、副本、战斗机制等规则知识。当前从已有页面抽取，后续可按模板补充游戏内规则。",
+      "  - `03_副本规则/01_智壳副本`: 智壳副本 Boss 机制、难度规则、技能与配装建议。",
       "- `03_攻略参考`: 攻略、推荐、评测等经验内容。",
       "- `05_术语与社区语言`: 标准术语、英文对照、玩家黑话、社区简称。",
       "- `06_世界观设定`: 世界观、年表、阵营势力、关键概念等叙事设定资料。",
@@ -1003,7 +1031,7 @@ async function main() {
       "- 角色技能已从角色实体中拆成独立检索单元。",
       "- 非官方图鉴残留、测试页、旧条目进入 `99_待清洗`，避免污染正式实体知识。",
       "- 系统规则目录已建立，并提供养成、PVP、副本、战斗机制的补充模板。",
-      "- `手工补充资料` 会进入正式知识区：世界观设定、系统总览、副本攻略、标准术语、玩家黑话均保留原文与元数据。",
+      "- `手工补充资料` 会进入正式知识区：世界观设定、系统总览、副本规则、Boss机制、副本攻略、标准术语、玩家黑话均保留原文与元数据。",
       "",
       "## 后续建议",
       "",
