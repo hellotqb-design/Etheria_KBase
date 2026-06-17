@@ -25,5 +25,32 @@
     "metadata": "02_游戏系统规则/03_副本规则/01_智壳副本/local-boss-zhike-heerjide-shura_刺血大公·赫尔基德（修罗）.json",
     "sourceUrl": "",
     "updatedAt": "2026-06-17T08:14:47.082Z"
+  },
+  {
+    "id": "local-boss-zhike-keluoluo-diyu",
+    "title": "诡饲鸦主·柯洛罗（地狱）",
+    "kind": "system_rule",
+    "markdown": "02_游戏系统规则/03_副本规则/01_智壳副本/local-boss-zhike-keluoluo-diyu_诡饲鸦主·柯洛罗（地狱）.md",
+    "metadata": "02_游戏系统规则/03_副本规则/01_智壳副本/local-boss-zhike-keluoluo-diyu_诡饲鸦主·柯洛罗（地狱）.json",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-17T08:37:19.525Z"
+  },
+  {
+    "id": "local-boss-zhike-keluoluo-lianyu",
+    "title": "诡饲鸦主·柯洛罗（炼狱）",
+    "kind": "system_rule",
+    "markdown": "02_游戏系统规则/03_副本规则/01_智壳副本/local-boss-zhike-keluoluo-lianyu_诡饲鸦主·柯洛罗（炼狱）.md",
+    "metadata": "02_游戏系统规则/03_副本规则/01_智壳副本/local-boss-zhike-keluoluo-lianyu_诡饲鸦主·柯洛罗（炼狱）.json",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-17T08:37:23.206Z"
+  },
+  {
+    "id": "local-boss-zhike-keluoluo-shura",
+    "title": "诡饲鸦主·柯洛罗（修罗）",
+    "kind": "system_rule",
+    "markdown": "02_游戏系统规则/03_副本规则/01_智壳副本/local-boss-zhike-keluoluo-shura_诡饲鸦主·柯洛罗（修罗）.md",
+    "metadata": "02_游戏系统规则/03_副本规则/01_智壳副本/local-boss-zhike-keluoluo-shura_诡饲鸦主·柯洛罗（修罗）.json",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-17T08:37:27.605Z"
   }
 ]
